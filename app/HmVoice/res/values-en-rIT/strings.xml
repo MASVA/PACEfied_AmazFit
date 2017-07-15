@@ -34,8 +34,29 @@
     <string name="button_end">Fine</string>
     <string name="none" />
     <string name="today">Oggi</string>
+    <string name="weather_multipe_index">Previsioni meteo per %1$s i prossimi %2$s giorni.</string>
+    <string name="weather_multipe_outofindex">Supporto solo per %1$s previsioni dei prossimi 4 giorni.</string>
+    <string name="weather_quality">Qualità dell\'aria</string>
+    <string name="error_disconnect">Scollegato</string>
+    <string name="error_disconnect_content">Controlla la connessione bluetooth e di rete del telefono.</string>
+    <string name="error_weather_outofbound">Previsioni solo per i prossimi 4 giorni.</string>
+    <string name="alarm_timer_outofbound">Non posso impostare il timer oltre le 24 ore</string>
+    <string name="alarm_timer_alreadyhas">Timer in corso, terminalo rpima di impostarne un altro</string>
+    <string name="alarm_timer_alreadydelete">Ok tempo trascorso</string>
+    <string name="alarm_timer_error">Problema al server. Riprova.</string>
+    <string name="alarm_alarm_outofbound">Impossibile impostare il limite oltre l\'allarme di domani.</string>
+    <string name="alarm_timer_watchtimer_guide">Avvia l\'app Timer dell\'orologio per operare.</string>
+    <string name="miot_guide_success_completed">Ok, completato</string>
+    <string name="miot_guide_fail_completed">Ok, conferma che vuoi impostare i primi dispositivi.</string>
+    <string name="miot_guide_success">Il seguente dispositivo è stato aperto per te...</string>
+    <string name="miot_guide_fail">Vuoi aprire il seguente dispositivo.</string>
+    <string name="miot_guide_success_completed_todo">Cosa vuoi fare.</string>
+    <string name="miot_button_dot">%1$s.</string>
+    <string name="miot_action_guide">Puoi scegliere di aprire, chiudere, impostare la modalità ed altro.</string>
+    <string name="miot_open">Regolato su</string>
+    <string name="miot_mode">Modalità</string>
+    <string name="miot_sorry">E' supportato solo il controllo dell\'air purifier.</string>
     <string name="weather_index">Tempo per %1$s futuro %2$s</string>
-    <string name="weather_quality">Qualità aria</string>
     <string name="weather_sunny">Soleggiato</string>
     <string name="weather_cloudy">Nuvoloso</string>
     <string name="weather_overcast">Coperto</string>
@@ -55,7 +76,7 @@
     <string name="weather_snow_heavy">Forte nevicata</string>
     <string name="weather_snow_blizzard">Bufera di neve</string>
     <string name="weather_fog">Nebbia</string>
-    <string name="weather_rain_freezing">Frozen rain</string>
+    <string name="weather_rain_freezing">Pioggia ghiacciata rain</string>
     <string name="weather_sand_sandstorm">Tempesta di sabbia</string>
     <string name="weather_rain_light_to_moderate">Pioggia leggera e moderata</string>
     <string name="weather_rain_moderate_to_heavy">Pioggia moderata e forte</string>
@@ -65,7 +86,7 @@
     <string name="weather_snow_light_to_moderate">Neve da leggera a moderata</string>
     <string name="weather_snow_moderate_to_heavy">Neve da moderata a pesante</string>
     <string name="weather_snow_heavy_to_extraordinary">Neve da forte a estrema</string>
-    <string name="weather_sand_dust_raise">Sabbbia</string>
+    <string name="weather_sand_dust_raise">Sabbia</string>
     <string name="weather_sand_dust">Sabbia</string>
     <string name="weather_sand_sandstorm_strong">Forte tempesta di sabbia</string>
     <string name="weather_fog_morerate">Nebbia moderata</string>
@@ -80,6 +101,16 @@
     <string name="weather_unknown">no</string>
     <string name="weather_rain">Pioggia</string>
     <string name="weather_none">Sconosciuto</string>
+    <string name="weather_wind_unit">Livello</string>
+    <string name="weather_wind_strengh">Vento</string>
+    <string name="weather_wind_direction_northeast">Vento NE</string>
+    <string name="weather_wind_direction_east">Vento E</string>
+    <string name="weather_wind_direction_sourtheast">Vento SE</string>
+    <string name="weather_wind_direction_sourth">Vento S</string>
+    <string name="weather_wind_direction_sourthwest">Vento SO</string>
+    <string name="weather_wind_direction_west">Vento O</string>
+    <string name="weather_wind_direction_northwest">Vento NO</string>
+    <string name="weather_wind_direction_north">Vento N</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
@@ -89,4 +120,13 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports music</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centro dati</string>
+    <string name="widget_currentstep_activities">Passi odierni</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sonno notte passata</string>
+    <string name="widget_currentstep_sleep_no">Dati sonno ND</string>
+    <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
+<!--END of missed texts by Huami-->
 </resources>
