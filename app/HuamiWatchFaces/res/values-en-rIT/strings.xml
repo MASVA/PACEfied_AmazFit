@@ -11,7 +11,7 @@
     <string name="custom_selected_confirm">Conferma</string>
     <string name="custom_exit_delete">Esci e annulla</string>
     <string name="custom_none_custom_background_title">Nessuna immagine</string>
-    <string name="custom_none_custom_background_content">Aggiungi uno sfondo dall\’app Amazfit</string>
+    <string name="custom_none_custom_background_content">Aggiungi uno sfondo dall\'app Amazfit</string>
     <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string>
     <string name="custom_title_bg">Sfondo</string>
     <string name="custom_title_graduation">Gradiente</string>
@@ -41,7 +41,7 @@
     <string name="digital_sport_twelve_week_path">guard/huanyingMC/it/week_%d.png</string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Marathon life</string>
-    <string name="watch_label_sport_two">I\’m Runner</string>
+    <string name="watch_label_sport_two">I\'m Runner</string>
     <string name="watch_label_cube">Digital Cube</string>
     <string name="watch_label_sport_three">Speed Zone</string>
     <string name="watch_sport_four">Jogging track</string>
@@ -80,5 +80,10 @@
     <string name="widget_currentstep_sleep_title">Sonno scorsa notte</string>
     <string name="widget_currentstep_sleep_no">Nessun dato sonno</string>
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
+    <string name="quick_settings_date_format">31/1/1900</string>
+    <string name="quick_settings_date_yeareve">Capodanno</string>
+    <string name="quick_settings_status_month">-</string>
+    <string name="quick_settings_status_leaf">Leap</string>
 <!--END of missed texts by Huami-->
 </resources>
