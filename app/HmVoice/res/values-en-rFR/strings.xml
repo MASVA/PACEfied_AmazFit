@@ -55,7 +55,7 @@
     <string name="miot_action_guide">Vous pouvez choisir d\'ouvrir, de fermer, de définir le mode ainsi que d\'autres choses.</string>
     <string name="miot_open">Ajusté à</string>
     <string name="miot_mode">Mode</string>
-    <string name="miot_sorry">Désolé, seul le contrôle du purificateur d'air est pris en charge.</string>
+    <string name="miot_sorry">Désolé, seul le contrôle du purificateur d\'air est pris en charge.</string>
     <string name="weather_index">Météo de %1$s futurs %2$s</string>
     <string name="weather_sunny">Ensoleillé</string>
     <string name="weather_cloudy">Nuageux</string>
