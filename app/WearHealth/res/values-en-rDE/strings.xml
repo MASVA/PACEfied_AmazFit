@@ -25,8 +25,6 @@
     <string name="weeklysports_outdoorriding_max">Outdoor bike max speed</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
-    <string name="weeklysports_classify_frequency" />
-    <string name="weeklysports_day" />
     <string name="weeklysports_activity">Bewegung</string>
     <string name="weeklysports_running">Laufen</string>
     <string name="weeklysports_walking">Gehen</string>

@@ -25,7 +25,6 @@
     <string name="weeklysports_outdoorriding_max">Velocità max bicicletta</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
-    <string name="weeklysports_classify_frequency" />
     <string name="weeklysports_day">giorno</string>
     <string name="weeklysports_activity">Attivo</string>
     <string name="weeklysports_running">Corsa</string>

@@ -24,8 +24,6 @@
     <string name="weeklysports_outdoorriding_max">"Velocidad máxima en Bicicleta al Aire libre"</string>
     <string name="weeklysports_outdoorriding_unit_zh">"km/h"</string>
     <string name="weeklysports_outdoorriding_unit_en">"mi/h"</string>
-    <string name="weeklysports_classify_frequency">""</string>
-    <string name="weeklysports_day">""</string>
     <string name="weeklysports_activity">"Activo"</string>
     <string name="weeklysports_running">"Correr"</string>
     <string name="weeklysports_walking">"Caminar"</string>
