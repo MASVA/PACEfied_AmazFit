@@ -113,6 +113,8 @@
     <string name="route_scale_narrow">Réduire</string>
     <string name="route_cur_altitude_value">%1dm</string>
     <string name="route_climb_up_value">%1dm</string>
+    <string name="route_cur_altitude_imperial_value">%1dft</string>
+    <string name="route_climb_up_imperial_value">%1dft</string>
     <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Course</string>
     <string name="sport_widget_title_walk">Marche</string>
@@ -204,6 +206,8 @@
     <string name="settings_item_title_cal_burn_heartrate_remind">Alerte RC Aérobique</string>
     <string name="settings_item_title_safe_heartrate_remind">Alerte RC</string>
     <string name="settings_item_title_auto_pause">Pause auto</string>
+    <string name="settings_item_title_running_auto_pause">Course en pause auto</string>
+    <string name="settings_item_title_riding_auto_pause">Vélo en pause auto</string>
     <string name="settings_item_title_target_use_time_remind">Temps Cible</string>
     <string name="settings_item_title_target_distance_remind">Distance Cible</string>
     <string name="settings_item_title_pace_remind">Alerte Rythme</string>

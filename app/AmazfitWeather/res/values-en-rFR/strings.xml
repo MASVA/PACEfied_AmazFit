@@ -6,7 +6,8 @@
     <string name="fahrenheit">℉</string>
     <string name="forecast_today">Aujourd\'hui</string>
     <string name="forecast_tomorrow">Demain</string>
-    <string name="temp_unit_centigrade">℃</string>
+    <string name="widget_title">Météo</string>
+    <string name="temp_unit_centigrade">°C</string>
     <string name="temp_unit_fahrenheit">°F</string>
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
@@ -30,7 +31,7 @@
     <string name="weather_warning_cold">Froid</string>
     <string name="weather_warning_gale">Vent</string>
     <string name="weather_warning_sandstorm">Tempête de sable</string>
-    <string name="weather_warning_temperature">Température haute</string>
+    <string name="weather_warning_temperature">Haute température</string>
     <string name="weather_warning_drought">Sécheresse</string>
     <string name="weather_warning_thunder">Tonnerre</string>
     <string name="weather_warning_hail">Grêle</string>
