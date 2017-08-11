@@ -31,6 +31,8 @@
     <dimen name="running_control_button_diameter">60.0dip</dimen>
     <dimen name="sport_history_detail_trail_width">80.0dip</dimen>
     <dimen name="sport_history_detail_trail_height">80.0dip</dimen>
+    <dimen name="sport_history_detail_trail_width1">140.0dip</dimen>
+    <dimen name="sport_history_detail_trail_height1">140.0dip</dimen>
     <dimen name="sport_trail_width">140.0dip</dimen>
     <dimen name="sport_trail_height">144.0dip</dimen>
     <dimen name="sport_start_sport_item_title">16.0sp</dimen>

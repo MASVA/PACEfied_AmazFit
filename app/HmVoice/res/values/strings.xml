@@ -38,7 +38,7 @@
     <string name="weather_multipe_outofindex">对不起，只支持为您显示%1$s未来4天的天气预报。</string>
     <string name="weather_quality">空气质量</string>
     <string name="error_disconnect">连接中断</string>
-    <string name="error_disconnect_content">请检查手机蓝牙连接和手机的网络连接是否正常。</string>
+    <string name="error_disconnect_content">请确保手机手表的蓝牙连接、手机的联网状态正常及手助App已开启。</string>
     <string name="error_weather_outofbound">对不起，只能查询未来4天内的天气。</string>
     <string name="alarm_timer_outofbound">我无法设置超过24小时的计时器。</string>
     <string name="alarm_timer_alreadyhas">你已有一个正在进行的计时，请先结束当前的计时吧。</string>
@@ -63,7 +63,7 @@
     <string name="mijia_operation_fail">操作失败，请稍候重新试。</string>
     <string name="mijia_disconnect">连接已断开，请稍后重试。</string>
     <string name="mijia_device_not_found">未找到此设备。</string>
-    <string name="mijia_operation_unsupported">赞不支持此操作。</string>
+    <string name="mijia_operation_unsupported">暂不支持此操作。</string>
     <string name="mijia_device_operation_unsupported">暂不支持此设备的操作。</string>
     <string name="weather_sunny">晴</string>
     <string name="weather_cloudy">多云</string>

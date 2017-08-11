@@ -14,7 +14,7 @@
     <string name="mihome_widget_info_unbind">此手表绑定米家App后可控制其他米家设备, 绑定时请不要离开此页面</string>
     <string name="mihome_widget_info_no_devices">在米家App里添加想要此手表控制的米家设备</string>
     <string name="mihome_activity_title_disconnected">未连接</string>
-    <string name="mihome_activity_info_disconnected">请先连接手机米家App或蓝牙网关</string>
-    <string name="mihome_activity_btn_disconnected">请先连接手机米家App或蓝牙网关</string>
+    <string name="mihome_activity_info_disconnected">请先连接手机米家App</string>
+    <string name="mihome_activity_btn_disconnected">请先连接手机米家App</string>
     <string name="mihome_device_card_2_offline">[离线]</string>
 </resources>

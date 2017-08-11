@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-223">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-239">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -102,10 +102,10 @@
         </receiver>
         <receiver android:enabled="true" android:exported="true" android:name="com.huami.watch.transport.WifiUploadAlarmBroadCastReceiver">
             <intent-filter>
-                <action android:name="android.intent.action.timezone_changed"/>
-                <action android:name="android.intent.action.date_changed"/>
-                <action android:name="android.intent.action.time_set"/>
-                <action android:name="com.huami.watch.wifiupload.automatic_upload"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+                <action android:name="android.intent.action.DATE_CHANGED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="com.huami.watch.wifiupload.AUTOMATIC_UPLOAD"/>
             </intent-filter>
         </receiver>
         <service android:enabled="true" android:exported="true" android:name="com.huami.watch.location.LocationService"/>
