@@ -20,6 +20,9 @@
     <string name="checking_rom">正在检查新版本</string>
     <string name="checking_rom_failed">网络连接超时,请重试</string>
     <string name="current_is_new">已是最新版本</string>
+    <string name="has_new_rom_all">"发现新版本 
+由于你的版本较旧,升级
+时间可能较长,请耐心等待?"</string>
     <string name="has_new_rom">"发现新版本,是否
 升级到%1$s版本?"</string>
     <string name="processbar_downloading_rom">下载中</string>

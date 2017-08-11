@@ -401,6 +401,7 @@
     <item type="id" name="watchface_content">false</item>
     <item type="id" name="gallery">false</item>
     <item type="id" name="watchface_title">false</item>
+    <item type="id" name="init_loading">false</item>
     <item type="id" name="view_pager">false</item>
     <item type="id" name="weather_dialog_confirm">false</item>
     <item type="id" name="forecast_container">false</item>
