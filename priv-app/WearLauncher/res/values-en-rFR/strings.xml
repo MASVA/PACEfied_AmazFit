@@ -50,10 +50,14 @@ Les nouvelles notifications ne s\'afficheront pas."</string>
     <string name="quick_settings_battery_charging_full">Chargé</string>
     <string name="quick_settings_battery_is_charging">En charge...</string>
     <string name="quick_settings_battery_hasnot_charged">Pas chargé</string>
-    <string name="quick_settings_battery_charging_intervalDay">%1$d j %2$d h (dernière charge)</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d j (dernière charge)</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">%d j (dernière charge)</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"1 h (dernière charge)"</string>
+    <string name="quick_settings_battery_charging_intervalDay">%1$d j %2$d h 
+(dernière charge)</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d j 
+(dernière charge)</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">%d h 
+(dernière charge)</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Moins de 1 h 
+(dernière charge)"</string>
     <string name="quick_settings_battery_sportString">Autonomie en mode Sport</string>
     <string name="quick_settings_battery_sporttime_hour_unit">heure</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
@@ -601,8 +605,8 @@ Activé"</string>
     <string name="moisture">Humidité</string>
     <string name="no_aqi">Impossible d\'obtenir la qualité de l\'air</string>
     <string name="no_outdoor_info">Pas de données</string>
-    <string name="outdoor_info_notsuit">Inapproprié pour le sport</string>
-    <string name="outdoor_info_suit">Convient pour le sport</string>
+    <string name="outdoor_info_notsuit">Non pour le sport</string>
+    <string name="outdoor_info_suit">Bien pour le sport</string>
     <string name="uv">Rayons UV</string>
     <string name="weather">Météo</string>
     <string name="weather_warning">Préalarme</string>
