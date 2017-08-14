@@ -6,6 +6,7 @@
     <string name="fahrenheit">℉</string>
     <string name="forecast_today">Oggi</string>
     <string name="forecast_tomorrow">Domani</string>
+    <string name="widget_title">Meteo</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
     <string name="temp_unit_degree">°</string>
