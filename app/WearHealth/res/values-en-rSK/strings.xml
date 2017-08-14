@@ -64,11 +64,11 @@
     <string name="label_when_quiet">Odpočinok</string>
     <string name="label_when_active">Počas/po aktivite</string>
     <string name="notif_detail_view">Detaily</string>
-    <string name="notif_long_sit_desc">"Sedíte už príliš dlho. Skúste sa na chvíľu poprechádzať a vykonajte krátku aktivitu."</string>
+    <string name="notif_long_sit_desc">Sedíte už príliš dlho. Skúste sa na chvíľu poprechádzať a vykonajte krátku aktivitu.</string>
     <string name="notif_long_sit_title">Je čas sa postaviť</string>
     <string name="notif_target_half_reach_desc">Ste v polovici vášho dnešného plánu počtu krokov!</string>
     <string name="notif_target_half_reach_title">Len tak ďalej</string>
-    <string name="notif_target_reach_desc">"Dosiahli ste váš denný cieľ počtu krokov!"</string>
+    <string name="notif_target_reach_desc">Dosiahli ste váš denný cieľ počtu krokov!</string>
     <string name="notif_target_reach_title">Denný cieľ dosiahnutý</string>
     <string name="notif_target_set">Upraviť cieľ</string>
     <string name="settings_long_sit_reminder">Upozornenie na pohyb</string>
@@ -123,6 +123,15 @@
     <string name="high_strength_heart_rate">Anaeróbna</string>
     <string name="non_movement_heart_rate">Bez aktivity</string>
     <string name="sleep_heart_rate">Spánok</string>
+    <string name="stretch_dialog_title">Strečing</string>
+    <string name="stretch_dialog_subtitle">It is too long for a long time today</string>
+    <string name="stretch_dialog_content">Rozumné aktivity môžu pomôcť na stuhnutý chrbát, urobte niekoľko sérií strečingových cvikov!</string>
+    <string name="stretch_dialog_cancel">Zrušiť</string>
+    <string name="stretch_dialog_start">Spustiť video</string>
+    <string name="stretch_connection_failed_title">Nedá sa spojiť s telefónom</string>
+    <string name="stretch_connection_failed_content">Uistite sa, že je aktívne spojenie Bluetooth, nechajte spustenú aplikáciu Amazfit a skúste znovu.</string>
+    <string name="open_xiaomi_app_failed_title">Open millet movement failed</string>
+    <string name="open_xiaom_app_failed_content">Nainštalujte si millet sports aplikáciu.</string>
     <string name="widget_label_step">Dnes</string>
     <string name="widget_heart_analysis">Analyzovať</string>
     <string name="widget_step_target_txt">Cieľ:  <liff>%d</liff></string>
@@ -151,13 +160,4 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavenia</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="stretch_dialog_title">Strečing</string>
-    <string name="stretch_dialog_subtitle">It is too long for a long time today</string>
-    <string name="stretch_dialog_content">Rozumné aktivity môžu pomôcť na stuhnutý chrbát, urobte niekoľko sérií strečingových cvikov!</string>
-    <string name="stretch_dialog_cancel">Zrušiť</string>
-    <string name="stretch_dialog_start">Spustiť video</string>
-    <string name="stretch_connection_failed_title">Nedá sa spojiť s telefónom</string>
-    <string name="stretch_connection_failed_content">Uistite sa, že je aktívne spojenie Bluetooth, nechajte spustenú aplikáciu Amazfit a skúste znovu.</string>
-    <string name="open_xiaomi_app_failed_title">Open millet movement failed</string>
-    <string name="open_xiaom_app_failed_content">Nainštalujte si millet sports aplikáciu.</string>
 </resources>
