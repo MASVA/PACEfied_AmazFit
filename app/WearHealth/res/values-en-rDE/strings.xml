@@ -59,7 +59,6 @@
     <string name="currentstep_detail_heart_rate_max_text">Max.</string>
     <string name="currentstep_detail_heart_rate_min_text">Min.</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Ruhend</string>
-    <string name="currentstep_detail_step_unit">Schritt</string>
     <string name="currentstep_detail_calories_unit">kCal</string>
     <string name="currentstep_detail_sleep_hour">h</string>
     <string name="currentstep_detail_sleep_min">min</string>

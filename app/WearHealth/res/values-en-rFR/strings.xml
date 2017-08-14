@@ -25,7 +25,6 @@
     <string name="weeklysports_outdoorriding_max">Vitesse moy vélo int</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
-    <string name="weeklysports_classify_frequency" />
     <string name="weeklysports_day" />
     <string name="weeklysports_activity">Actif</string>
     <string name="weeklysports_running">Course</string>
@@ -61,7 +60,6 @@
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Au repos</string>
-    <string name="currentstep_detail_step_unit">pas</string>
     <string name="currentstep_detail_calories_unit">kCal</string>
     <string name="currentstep_detail_sleep_hour">h</string>
     <string name="currentstep_detail_sleep_min">min</string>
