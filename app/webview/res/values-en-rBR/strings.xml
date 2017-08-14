@@ -8,7 +8,7 @@
     <string name="media_player_error_text_invalid_progressive_playback">Desculpe, este vídeo não é válido para transmitir para este dispositivo.</string>
     <string name="media_player_error_text_unknown">Desculpe, este vídeo não pode ser tocado.</string>
     <string name="media_player_error_button">OK</string>
-    <string name="media_player_loading_video">Carregando vídeo</string> ****ESTOU AQUI
+    <string name="media_player_loading_video">Carregando vídeo</string>
     <string name="profiler_started_toast">Profiler started</string>
     <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
     <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>

@@ -27,7 +27,6 @@
     <string name="handling">\"Elaboro...\"</string>
     <string name="temperature_unit">°</string>
     <string name="string_seperate">~</string>
-    <string name="wind_unit">livello</string>
     <string name="string_to">-</string>
     <string name="temperature_tab">/</string>
     <string name="button_begin">Inizio</string>
@@ -55,7 +54,7 @@
     <string name="miot_action_guide">Puoi scegliere di aprire, chiudere, impostare la modalità ed altro.</string>
     <string name="miot_open">Regolato su</string>
     <string name="miot_mode">Modalità</string>
-    <string name="miot_sorry">E' supportato solo il controllo dell\'air purifier.</string>
+    <string name="miot_sorry">E\' supportato solo il controllo dell\'air purifier.</string>
     <string name="weather_index">Tempo per %1$s futuro %2$s</string>
     <string name="weather_sunny">Soleggiato</string>
     <string name="weather_cloudy">Nuvoloso</string>
