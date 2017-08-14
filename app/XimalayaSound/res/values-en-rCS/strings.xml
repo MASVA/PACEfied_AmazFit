@@ -106,6 +106,8 @@
     <string name="music_download_cancel">Nahrávání skladem bylo zastaveno</string>
     <string name="storage_space_g">Úložiště %sG</string>
     <string name="storage_space_mb">Úložiště %sMB</string>
+    <string name="cancel">Zrušit</string>
+    <string name="delete">Smazat</string>
     <string name="stop_casting">Zastavit přenos</string>
     <string name="label_pause">Pozastavit</string>
     <string name="label_play">Přehrát</string>
