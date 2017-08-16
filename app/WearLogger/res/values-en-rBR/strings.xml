@@ -47,9 +47,9 @@ conectado ao WiFi"</string>
     <string name="next_upload_message">错误报告已生产，请上传。</string>
     <string name="please_upload">错误已成功抓取，请上传。</string>
     <string name="app_name">Logger</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="watch_ota">Watch Update</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="watch_ota">Atualização do Relógio</string>
     <string name="wifi_disconnect">请先连接手表助手</string>
     <string name="connect_phone_wifi">请先让手机联网</string>
     <string name="please_update_rom">"系统有新版本

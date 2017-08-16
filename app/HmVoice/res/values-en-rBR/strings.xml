@@ -103,9 +103,9 @@
     <string name="weather_none">Desconhecido</string>
     <string name="weather_wind_unit">nível</string>
     <string name="weather_wind_strengh">Força do vento</string>
-    <string name="weather_wind_direction_northeast">Vento NL</string>
+    <string name="weather_wind_direction_northeast">Vento NE</string>
     <string name="weather_wind_direction_east">Vento L</string>
-    <string name="weather_wind_direction_sourtheast">Vento SL</string>
+    <string name="weather_wind_direction_sourtheast">Vento SE</string>
     <string name="weather_wind_direction_sourth">Vento S</string>
     <string name="weather_wind_direction_sourthwest">Vento SO</string>
     <string name="weather_wind_direction_west">Vento O</string>
@@ -115,7 +115,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
     <string name="picker_default_nagetive_text">Desligar</string>
-    <string name="no_heartrate_data_hint">Dados de frequência cardíaca não detectados</string>
+    <string name="no_heartrate_data_hint">Dados de pulso não detectados</string>
     <string name="no_altitude_hint">Dados de altitude não detectados</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Configurações</string>

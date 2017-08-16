@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localapps">
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
+    </string-array>
+    <integer-array name="appcolors">
+        <item>0xFF4160F5</item>
+        <item>0xFFF76C00</item>
+    </integer-array>
+    <array name="appload_drawables">
+        <item>-1</item>
+        <item>@drawable/sport_start_loading</item>
+    </array>
+    <string-array name="quick_settings_status_week">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+        <item>Hoje</item>
+    </string-array>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>Muito frio</item>
+        <item>Chuvas</item>
+        <item>Equinócio Vernal</item>
+        <item>Chuva de grãos</item>
+        <item>Botões de grãos</item>
+        <item>Solstício de Verão</item>
+        <item>Muito calor</item>
+        <item>Calor diminuindo</item>
+        <item>Equinócio de Outono</item>
+        <item>Queda de Geada</item>
+        <item>Neve fraca</item>
+        <item>Solstício de Inverno</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>Pouco frio</item>
+        <item>Início da Primavera</item>
+        <item>Insetos despertam</item>
+        <item>Claro e brilhante</item>
+        <item>O Verão começa</item>
+        <item>Grão no ouvido</item>
+        <item>Pouco calor</item>
+        <item>O Outono começa</item>
+        <item>Orvalho branco</item>
+        <item>Orvalho frio</item>
+        <item>O Inverno começa</item>
+        <item>Neve forte</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>Chu</item>
+        <item>Shi</item>
+        <item>Er</item>
+        <item>San</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>Yi</item>
+        <item>Er</item>
+        <item>San</item>
+        <item>Si</item>
+        <item>Wu</item>
+        <item>Liu</item>
+        <item>Qi</item>
+        <item>Ba</item>
+        <item>Jiu</item>
+        <item>Shi</item>
+        <item>ShiYi</item>
+        <item>ShiEr</item>
+    </string-array>
+    <string-array name="jazzy_effects">
+        <item>Padrão</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Pilha</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Acordeão</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Ar Excelente</item>
+        <item>Ar Bom</item>
+        <item>Pouco Poluído</item>
+        <item>Poluído</item>
+        <item>Muito Poluído</item>
+        <item>Seriamente Poluído</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Perfeito para esportes</item>
+        <item>Não está para esportes</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Ensolarado</item>
+        <item>Nublado</item>
+        <item>Escuro</item>
+        <item>Nevoeiro</item>
+        <item>Poluição</item>
+        <item>Chuvisqueiro</item>
+        <item>Chuvisqueiro com trovões</item>
+        <item>Chuva fraca</item>
+        <item>Chuva</item>
+        <item>Chuva forte</item>
+        <item>Tempestade</item>
+        <item>Chuva torrencial</item>
+        <item>Granizo</item>
+        <item>Chuva fria</item>
+        <item>Chuva de granizo</item>
+        <item>Neve fraca</item>
+        <item>Neve</item>
+        <item>Neve forte</item>
+        <item>Tempestade de neve</item>
+        <item>Chuvisqueiro de neve</item>
+        <item>Poeirento</item>
+        <item>Vento de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Tempestade de areia forte</item>
+        <item>Sem Dados</item>
+    </string-array>
+</resources>
