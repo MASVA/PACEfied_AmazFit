@@ -204,6 +204,8 @@
     <string name="settings_item_title_cal_burn_heartrate_remind">Avviso FC aerobica</string>
     <string name="settings_item_title_safe_heartrate_remind">Avviso FC</string>
     <string name="settings_item_title_auto_pause">Pausa automatica</string>
+    <string name="settings_item_title_running_auto_pause">Corsa pausa auto</string>
+    <string name="settings_item_title_riding_auto_pause">Bici pausa auto</string>
     <string name="settings_item_title_target_use_time_remind">Tempo obiettivo</string>
     <string name="settings_item_title_target_distance_remind">Distanza obiettivo</string>
     <string name="settings_item_title_pace_remind">Avviso ritmo</string>
