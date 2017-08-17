@@ -5,7 +5,7 @@
     <string name="app_name">TrainCenter</string>
     <string name="app_train_center">Centro de Treinamento</string>
     <string name="my_train">Meu treino</string>
-    <string name="please_select_train_plan">Por favor esvolha um treino</string>
+    <string name="please_select_train_plan">Por favor escolha um treino</string>
     <string name="start_new_train">Começar treino</string>
     <string name="train_center">Centro de Treinamento</string>
     <string name="train_detail">Detalhes</string>

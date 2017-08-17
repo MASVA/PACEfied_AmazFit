@@ -10,8 +10,8 @@
     <string name="link_disconnected">Link desconectado</string>
     <string name="send_success">sucesso ao enviar</string>
     <string name="send_fail">erro ao enviar</string>
-    <string name="recv_success">sucesso ao recv</string>
-    <string name="recv_fail">erro ao recv</string>
+    <string name="recv_success">sucesso ao receber</string>
+    <string name="recv_fail">erro ao receber</string>
     <string name="data_channel_available">Canal de dados está disponível</string>
     <string name="data_channel_unavailable">Canal de dados está indisponível</string>
     <string name="connect_again">Por favor conecte-se novamente</string>

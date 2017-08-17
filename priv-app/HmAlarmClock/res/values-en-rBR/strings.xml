@@ -27,8 +27,8 @@
     <string name="hour_unit">Hora</string>
     <string name="minute_unit">Minuto</string>
     <string name="snooze_button">Soneca</string>
-    <string name="dimiss_button">Desligado</string>
-    <string name="stop_watch_left_button_positive">Voltar</string>
+    <string name="dimiss_button">Desligar</string>
+    <string name="stop_watch_left_button_positive">Volta</string>
     <string name="stop_watch_left_button_negative">Reiniciar</string>
     <string name="stop_watch_right_button_positive">Iniciar</string>
     <string name="stop_watch_start_button">Iniciar</string>
