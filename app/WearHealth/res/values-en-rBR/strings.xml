@@ -27,7 +27,7 @@
     <string name="label_active_slow_well_bad">Exercícios moderados podem transferir emoções negativas e aliviar o estresse.</string>
     <string name="label_active_slow_well_good">Funções neurológicas e musculares estarão enm sincronia quando estiver de bom humor, o que irá afetar o exercício produtivamente.</string>
     <string name="label_active_slow_well_medium">Este é um intervalo de exercício moderado. Uma grande parte do consumo virá da gordura, que é uma escolha ideal para novatos.</string>
-    <string name="label_active_xslow">Não é Treino</string>
+    <string name="label_active_xslow">Em Repouso</string>
     <string name="label_active_xslow_sick_any">A intensidade do exercício deve ser menor do que o normal quando estiver doente, e se qualquer sintoma sério como febre ocorrer, o exercício deve ser encerrado.</string>
     <string name="label_active_xslow_tired_any">Exercícios moderados ajudam a aliviar a fadiga mental. Para fadiga física, espere até estar totalmente recuperado para fazer outro exercício.</string>
     <string name="label_active_xslow_well_bad">Exercícios moderados podem transferir emoções negativas e aliviar o estresse.</string>
@@ -195,7 +195,7 @@
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
     <string name="weeklysports_frequency" />
     <string name="weeklysports_day" />
-    <string name="weeklysports_activity">Se mexendo</string>
+    <string name="weeklysports_activity">Mover-se</string>
     <string name="weeklysports_running">Corrida</string>
     <string name="weeklysports_walking">Caminhada</string>
     <string name="weeklysports_riding">Bicicleta</string>
@@ -209,10 +209,10 @@
     <string name="widget_currentstep_sleep_title">Sono</string>
     <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
     <string name="widget_currentstep_activity_no">Sem exercícios hoje?</string>
-    <string name="currentstep_detail_activity">Se mexendo</string>
-    <string name="currentstep_detail_running">Correndo</string>
-    <string name="currentstep_detail_walking">Caminhando</string>
-    <string name="currentstep_detail_riding">Bicicleta</string>
+    <string name="currentstep_detail_activity">Movendo-se</string>
+    <string name="currentstep_detail_running">Corrida</string>
+    <string name="currentstep_detail_walking">Caminhada</string>
+    <string name="currentstep_detail_riding">Pedalada</string>
     <string name="currentstep_detail_calories">Calorias</string>
     <string name="currentstep_detail_sleep">Sono</string>
     <string name="currentstep_detail_sleep_deep">Sono Profundo</string>
