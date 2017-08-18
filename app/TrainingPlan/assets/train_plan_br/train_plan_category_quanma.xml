@@ -298,7 +298,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="27">
-            <desc>finalizar Half marathon 21.2km</desc>
+            <desc>finalizar Meia maratona 21.2km</desc>
             <stageDesc>Construção de base</stageDesc>
             <distance>21.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -606,7 +606,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="55">
-            <desc>finsh Marathon 42.5km</desc>
+            <desc>finsh Maratona 42.5km</desc>
             <stageDesc>Período de redução</stageDesc>
             <distance>42.5</distance>
             <offsetWeeks>0</offsetWeeks>

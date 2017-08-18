@@ -162,7 +162,7 @@
     <string name="running_calorie_desc">Calorias</string>
     <string name="running_step_freq_desc">Cadência</string>
     <string name="running_speed_desc">Velocidade</string>
-    <string name="running_distance_desc">Milhagem</string>
+    <string name="running_distance_desc">Quilometragem</string>
     <string name="running_heartrate_desc">Pulso</string>
     <string name="running_avg_pace_desc">Ritmo médio</string>
     <string name="running_avg_speed_desc">Velocidade média</string>
@@ -315,7 +315,7 @@
     <string name="remind_current_heart">Atual</string>
     <string name="remind_last_dis_pace">Ritmo da última milha</string>
     <string name="remind_last_dis_speed">Velocidade da última milha</string>
-    <string name="count_down_tint">Por favor usee o relógio confortavelmente para resultados de pulso precisos</string>
+    <string name="count_down_tint">Por favor use o relógio confortavelmente para resultados de pulso precisos</string>
     <string name="history_detail_running_cost_time">Tempo em Movimento</string>
     <string name="history_detail_walking_cost_time">Tempo em Movimento</string>
     <string name="settings_sport_slpt_second_brush">Atualização de estatísticas por segundo</string>

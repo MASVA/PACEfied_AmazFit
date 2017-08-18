@@ -39,7 +39,7 @@
     <string name="label_calory_unit">kCal</string>
     <string name="label_choose_condition">Como você se sente?</string>
     <string name="label_choose_mood">Como está seu humor?</string>
-    <string name="label_choose_when">Descansando ou Exercitando?</string>
+    <string name="label_choose_when">Descansando ou\nExercitando?</string>
     <string name="label_condition_sick">Doente</string>
     <string name="label_condition_tired">Cansado</string>
     <string name="label_condition_well">Relaxado</string>
@@ -195,14 +195,14 @@
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
     <string name="weeklysports_frequency" />
     <string name="weeklysports_day" />
-    <string name="weeklysports_activity">Mover-se</string>
+    <string name="weeklysports_activity">Movendo-se</string>
     <string name="weeklysports_running">Corrida</string>
     <string name="weeklysports_walking">Caminhada</string>
     <string name="weeklysports_riding">Bicicleta</string>
     <string name="weekly_step_attained_rate">Dias para alcançar a meta</string>
     <string name="weekly_sports_notification_content">O sumário de atividades da semana passada está pronto.</string>
     <string name="weeklysports_date_format">dd/MM yyyy</string>
-    <string name="widget_currentstep_title">Visão geral diária</string>
+    <string name="widget_currentstep_title">Visão geral\ndiária</string>
     <string name="widget_currentstep_activities">Atividades</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
