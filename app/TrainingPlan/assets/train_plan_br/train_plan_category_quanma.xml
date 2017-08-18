@@ -606,7 +606,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="55">
-            <desc>finsh Maratona 42.5km</desc>
+            <desc>finalizar Maratona 42.5km</desc>
             <stageDesc>Período de redução</stageDesc>
             <distance>42.5</distance>
             <offsetWeeks>0</offsetWeeks>

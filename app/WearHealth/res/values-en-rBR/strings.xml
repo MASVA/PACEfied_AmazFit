@@ -125,7 +125,7 @@
     <string name="burning_fat_heart_rate">Queima de Gordura</string>
     <string name="aerobic_heart_rate">Aeróbico</string>
     <string name="high_strength_heart_rate">Anaeróbico</string>
-    <string name="non_movement_heart_rate">Em Repouse</string>
+    <string name="non_movement_heart_rate">Em Repouso</string>
     <string name="sleep_heart_rate">Sono</string>
     <string name="stretch_dialog_title">Hora de se alongar</string>
     <string name="stretch_dialog_subtitle">Muito tempo sentado hoje</string>
