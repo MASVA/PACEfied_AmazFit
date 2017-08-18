@@ -4,13 +4,13 @@
         <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Nedě</item>
-        <item>Ponď</item>
-        <item>Úter</item>
-        <item>Stře</item>
-        <item>Čtvr</item>
-        <item>Páte</item>
-        <item>Sobo</item>
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Úte</item>
+        <item>Stř</item>
+        <item>Čtv</item>
+        <item>Pát</item>
+        <item>Sob</item>
         <item>Dnes</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
