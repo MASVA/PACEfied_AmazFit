@@ -2,8 +2,8 @@
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Selecionar idioma</string>
-    <string name="app_name">TrainCenter</string>
-    <string name="app_train_center">Centro de Treinamento</string>
+    <string name="app_name">Centro de Treinamento</string>
+    <string name="app_train_center">Centro de\nTreinamento</string>
     <string name="my_train">Meu treino</string>
     <string name="please_select_train_plan">Por favor escolha um treino</string>
     <string name="start_new_train">Começar treino</string>
