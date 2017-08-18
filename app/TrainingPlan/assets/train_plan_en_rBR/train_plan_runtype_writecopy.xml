@@ -3,62 +3,62 @@
         <runremind id="0">
             <runType>Run</runType>
             <trainContent>Jog</trainContent>
-            <copyWrite>800m easy jogging + 200m walking. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>800m jogging leve + 200m caminhada. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="1">
-            <runType>Run</runType>
-            <trainContent>Recovery Run</trainContent>
-            <copyWrite>Easy jogging. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <runType>Corrida</runType>
+            <trainContent>Corrida de Recuperação</trainContent>
+            <copyWrite>Jogging leve. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="2">
-            <runType>Run</runType>
-            <trainContent>Base Run</trainContent>
-            <copyWrite>Run at conversational pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <runType>Corrida</runType>
+            <trainContent>Corrida Básica</trainContent>
+            <copyWrite>Correr em ritmo de conversação. Pulso recomendado:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="3">
-            <runType>Run</runType>
-            <trainContent>Progression Run</trainContent>
-            <copyWrite>Start slowly and gradually increase pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <runType>Corrida</runType>
+            <trainContent>Corrida Progressiva</trainContent>
+            <copyWrite>Iniciar devagar e aumentar o ritmo gradativamente. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="4">
-            <runType>Run</runType>
+            <runType>Corrida</runType>
             <trainContent>Fartlek</trainContent>
-            <copyWrite>Freely switching training strength. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <copyWrite>Treino com troca livre de intensidade. Pulso Recomendado: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="5">
-            <runType>Run</runType>
-            <trainContent>Hill Repeats</trainContent>
-            <copyWrite>Run on a uphill at a steady.Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <runType>Corrida</runType>
+            <trainContent>Repetições de Colina</trainContent>
+            <copyWrite>Corrida numa subida num ritmo estável. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="6">
-            <runType>Run</runType>
-            <trainContent>Tempo Run</trainContent>
-            <copyWrite>Run at a normal and steady pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <runType>Corrida</runType>
+            <trainContent>Corrida Ritmada</trainContent>
+            <copyWrite>Corrida com ritmo normal e estável. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="7">
-            <runType>Run</runType>
-            <trainContent>Short intervals</trainContent>
-            <copyWrite>800m fast run + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <runType>Corrida</runType>
+            <trainContent>Intervalos curtos</trainContent>
+            <copyWrite>800m corrida rápida + 800m caminhada, então repita. Pulso Recomendado: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="8">
-            <runType>Run</runType>
-            <trainContent>Long intervals</trainContent>
-            <copyWrite>2.4km jogging + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <runType>Corrida</runType>
+            <trainContent>Intervalos longos</trainContent>
+            <copyWrite>2.4km jogging + 800m caminhada, então repita. Pulso Recomendado: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="9">
-            <runType>Rest</runType>
+            <runType>Descanso</runType>
             <trainContent></trainContent>
-            <copyWrite>Rest today.%1$d day(s) to next workout</copyWrite>
+            <copyWrite>Descanse hoje.%1$d dias(s) até o próximo treino</copyWrite>
         </runremind>
         <runremind id="10">
-            <runType>Swim</runType>
+            <runType>Nado</runType>
             <trainContent></trainContent>
-            <copyWrite>Swimming to recovery speedwork. Remember to mark today as complete after swim.</copyWrite>
+            <copyWrite>Nade para recuperar-se mais rápido. Lembre de marcar hoje como completo depois de nadar.</copyWrite>
         </runremind>
         <runremind id="11">
-            <runType>Bike</runType>
+            <runType>Pedalar</runType>
             <trainContent></trainContent>
-            <copyWrite>Recovery speedwrok. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Trabalho de velocidade de recuperação. Pulso Recomendado:%1$d-%2$dbpm</copyWrite>
         </runremind>
 </runreminds>
 

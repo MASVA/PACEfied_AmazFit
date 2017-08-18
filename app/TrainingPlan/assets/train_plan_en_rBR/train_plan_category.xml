@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <trainplans>
         <trainplan id="1">
-            <title>Beginner</title>
+            <title>Iniciante</title>
             <type>1</type>
             <orderId>1</orderId>
-            <copyWrite>Suitable for the first run from walking to jogging. This training can help you step by step to adapt to running.</copyWrite>
+            <copyWrite>Adequado para a primeira corrida de caminhar para correr. Este treino pode ajudar você a se adaptar à corrida pouco a pouco.</copyWrite>
             <totalLength>85.6</totalLength>
             <totalDays>56</totalDays>
         </trainplan>
@@ -14,7 +14,7 @@
             <orderId>2</orderId>
             <totalLength>148</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Suitable for entry runners. This training can help you get better movement.</copyWrite>
+            <copyWrite>Adequado para corredores iniciantes. Este treino pode ajudar você a se movimentar melhor.</copyWrite>
         </trainplan>
         <trainplan id="3">
             <title>10 km</title>
@@ -22,22 +22,22 @@
             <orderId>3</orderId>
             <totalLength>212</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Suitable for advanced runners. This training helps to improve your aerobic fitness and muscle strength.</copyWrite>
+            <copyWrite>Adequando para corredores experientes. Este treino ajuda a melhorar sua aptidão aeróbica e força muscular.</copyWrite>
         </trainplan>
         <trainplan id="4">
-            <title>Half marathon</title>
+            <title>Meia maratona</title>
             <type>4</type>
             <orderId>4</orderId>
             <totalLength>307.4</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Suitable for half racing.Helps to improve your ability to run a long.</copyWrite>
+            <copyWrite>Adequado para meio maratonistas. Ajuda a melhorar sua capacidade de correr longas distâncias.</copyWrite>
         </trainplan>
         <trainplan id="5">
-            <title>Marathon</title>
+            <title>Maratona</title>
             <type>5</type>
             <orderId>5</orderId>
             <totalLength>436.0</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Suitable for all races.Help you predict performance and plan your pace and match strategy.</copyWrite>
+            <copyWrite>Adequado para todas as corridas. Ajuda você a prever seu desempenho e planejar seu ritmo e traçar uma estratégia.</copyWrite>
         </trainplan>
 </trainplans>
