@@ -9,7 +9,7 @@
         <item quantity="one">Passo</item>
     </plurals>
     <plurals name="floor_unit">
-        <item quantity="other"> Andares</item>
-        <item quantity="one"> Andar</item>
+        <item quantity="other">  Andares</item>
+        <item quantity="one">  Andar</item>
     </plurals>
 </resources>
