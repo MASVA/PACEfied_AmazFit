@@ -35,13 +35,13 @@
     <string name="bind_app">Bind</string>
     <string name="amazfit_app">App Amazfit Watch</string>
     <string name="personal_info">Informações Pessoais</string>
-    <string name="time_zone_clock">Configurações de Hora</string>
-    <string name="setting_time_format">Formato de Hora</string>
+    <string name="time_zone_clock">Configurações Hora</string>
+    <string name="setting_time_format">Formato Hora</string>
     <string name="connect">Conexão</string>
     <string name="common">Conf. Gerais</string>
     <string name="device">Dispositivo</string>
     <string name="nodisturb">Silencioso</string>
-    <string name="auto_airplane">Modo Avião Automático</string>
+    <string name="auto_airplane">Modo Avião\nAutomático</string>
     <string name="wifi_upload">Upload</string>
     <string name="replace_watchface">WatchFace</string>
     <string name="wifi_auto_upload_switch">Auto Upload</string>
