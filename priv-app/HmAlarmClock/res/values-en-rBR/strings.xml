@@ -42,7 +42,7 @@
     <string name="action_settings">Configurações</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
     <string name="count_down_title">Temporizador</string>
-    <string name="count_down_default_new">Novo Temporizador</string>
+    <string name="count_down_default_new">Novo\nTemporizador</string>
     <string name="count_down_end">O tempo acabou</string>
     <string name="count_down_btn_end">Parar</string>
     <string name="count_down_btn_pause">Pausar</string>
