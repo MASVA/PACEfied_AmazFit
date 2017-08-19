@@ -4,11 +4,11 @@
     <string name="confirm_unbind">OK Desvincular</string>
     <string name="unbind_warning">Após desvincular a função do relógio na Alipay não estará mais disponível !</string>
     <string name="bind_my_watch">Vincular meu relógio</string>
-    <string name="user_hint">Abrir o Alipay no celular (9.3 e superior), em "Meu Perfil> Configurações> Configurações de Segurança> Smart Watch"</string>
+    <string name="user_hint">Abra o Alipay no celular (9.3 e superior), em "Meu Perfil> Configurações> Configurações de Segurança> Smart Watch"</string>
     <string name="bind_im">Vincular imediatamente</string>
     <string name="bind_from_qr">Usar o Vínculo por Scan do Alipay</string>
     <string name="bind_qr_code">Vinculando QR code</string>
-    <string name="user_hint_title">Aviso do usuário</string>
+    <string name="user_hint_title">Aviso ao usuário</string>
     <string name="loading">Carregando Alipay</string>
     <string name="title">Watch Alipay</string>
     <string name="widget_title">Alipay</string>

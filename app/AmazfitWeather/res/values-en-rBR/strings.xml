@@ -40,14 +40,14 @@
     <string name="weather_warning_smog">Poluição</string>
     <string name="weather_warning_ice">Gelo</string>
     <string name="weather_warning_snowstorm">Tempestade de neve</string>
-    <string name="no_aqi">Impossível obter qualidade do ar</string>
+    <string name="no_aqi">Incapaz de obter qualidade do ar</string>
     <string name="air_perfect">Ar Perfeito</string>
     <string name="air_good">Ar Bom</string>
     <string name="air_lightly_polluted">Pouco poluído</string>
     <string name="air_moderate_polluted">Poluído</string>
     <string name="air_heavily_polluted">Muito poluído</string>
     <string name="air_severely_polluted">Seriamente poluído</string>
-    <string name="no_outdoor_info">Impossível obter índice de movimento</string>
+    <string name="no_outdoor_info">Incapaz de obter índice de movimento</string>
     <string name="outdoor_info_notsuit">Não está bom para esportes ao ar livre</string>
     <string name="outdoor_info_suit">Está bom para esportes ao ar livre</string>
     <string name="wind_strength">Força do Vento</string>
@@ -57,13 +57,13 @@
     <string name="fetching">Carregando</string>
     <string name="fetch_failed">busca falhou</string>
     <string name="unknown">desconhecido</string>
-    <string name="fetch_failed_title">Não é possível obter informações do tempo</string>
+    <string name="fetch_failed_title">Impossível obter informações do tempo</string>
     <string name="fetch_failed_msg">Por favor certifique-se de que o relógio está conectado ao app Amazfit Watch e uma localização válida está selecionada nele.</string>
     <string name="date_time_format">dd-MM</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Erro na validação dos dados de tempo ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Tipo de tempo não reconhecido</string>
     <string name="data_checkfail_temp">Temperatura fora da faixa</string>
     <string name="data_checkfail_match">Campo de tipo de tempo não confere</string>
-    <string name="data_checkfail_json">Erro na formatação do JSON</string>
+    <string name="data_checkfail_json">Erro no formato do JSON</string>
     <string name="detailed">Detalhes do tempo</string>
 </resources>
