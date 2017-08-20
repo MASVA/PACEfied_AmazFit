@@ -125,19 +125,19 @@
     <string name="sport_widget_title_setting">Configurações</string>
     <string name="sport_widget_title_music">Música</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="export_gpx">导出轨迹</string>
-    <string name="btn_cancel">取 消</string>
-    <string name="btn_confirm">确 定</string>
-    <string name="hint_rolling">正在导出轨迹，请耐心等待。</string>
-    <string name="dlg_msg_hint_cancel">是否取消本次轨迹导出？</string>
-    <string name="dlg_btn_l_msg">否</string>
-    <string name="dlg_btn_r_msg">是</string>
-    <string name="hint_cancelling">正在取消...</string>
-    <string name="hint_success_exported_title">轨迹导出成功</string>
-    <string name="hint_failed_exported_title">轨迹导出失败</string>
-    <string name="hint_where">"已将轨迹放入gpxdata文件夹。
-将手表连接到电脑即可拷贝使用。"</string>
-    <string name="hint_failed">轨迹导出失败，请重试。</string>
+    <string name="export_gpx">Exportar Trajeto</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm">Ok</string>
+    <string name="hint_rolling">Exportando trajeto, por favor aguarde</string>
+    <string name="dlg_msg_hint_cancel">Que cancelar esta trajetória?</string>
+    <string name="dlg_btn_l_msg">Não</string>
+    <string name="dlg_btn_r_msg">Sim</string>
+    <string name="hint_cancelling">Cancelando...</string>
+    <string name="hint_success_exported_title">Exportada com sucesso</string>
+    <string name="hint_failed_exported_title">Falha ao exportar</string>
+    <string name="hint_where">"A trilha foi posta na pasta gpxdata.
+Conecte o relógio ao seu computador para copiar"</string>
+    <string name="hint_failed">Falha ao exportar, por favor tente de novo</string>
     <string name="app_name">Esportes</string>
     <string name="sport_item_running_title">Corrida</string>
     <string name="sport_item_walking_title">Caminhada</string>
