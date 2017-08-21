@@ -87,7 +87,7 @@
     <string name="music_init_not_done">Music está inicializando...</string>
     <string name="music_no_douban_resource">Sem músicas para tocar, baixar agora?</string>
     <string name="sport_widget_title_outdoor_riding">Bicicleta</string>
-    <string name="sport_widget_title_indoor_riding">Ciclismo (interno)</string>
+    <string name="sport_widget_title_indoor_riding">Bic. Ergométrica</string>
     <string name="outdoor_riding_progressing">Ciclismo</string>
     <string name="indoor_riding_progressing">Ciclismo</string>
     <string name="outdoor_climb_distance">Distância de Velocidade do Solo</string>
@@ -119,7 +119,7 @@
     <string name="sport_widget_title_run">Corrida</string>
     <string name="sport_widget_title_walk">Caminhada</string>
     <string name="sport_widget_title_cross">Corrida de Trilha</string>
-    <string name="sport_widget_title_indoor_run">Corrida Interna</string>
+    <string name="sport_widget_title_indoor_run">Esteira</string>
     <string name="sport_widget_title_record">Atividades</string>
     <string name="sport_widget_title_achieve">Emblemas</string>
     <string name="sport_widget_title_setting">Configurações</string>
@@ -195,7 +195,7 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="history_info_cost_time_desc">Tempo decorrido</string>
     <string name="history_detail_running_title">Corrida</string>
     <string name="history_detail_walking_title">Caminhada</string>
-    <string name="history_detail_indoor_running_title">Corrida Interna</string>
+    <string name="history_detail_indoor_running_title">Esteira</string>
     <string name="history_detail_cost_time">Tempo total</string>
     <string name="history_detail_paused_time">Pausar tempo</string>
     <string name="default_pace_value">"00'00\""</string>
