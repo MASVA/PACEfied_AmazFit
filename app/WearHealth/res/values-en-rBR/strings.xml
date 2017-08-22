@@ -39,7 +39,7 @@
     <string name="label_calory_unit">kCal</string>
     <string name="label_choose_condition">Como você se sente?</string>
     <string name="label_choose_mood">Como está seu humor?</string>
-    <string name="label_choose_when">Descansando ou\nExercitando?</string>
+    <string name="label_choose_when">Em repouso\nou exercício?</string>
     <string name="label_condition_sick">Doente</string>
     <string name="label_condition_tired">Cansado</string>
     <string name="label_condition_well">Relaxado</string>
@@ -79,7 +79,7 @@
     <string name="settings_target_reach_reminder">Alerta de Meta</string>
     <string name="no_sleep_info">Nenhum sono detectado</string>
     <string name="today_sleep_info">Sono</string>
-    <string name="loading_sleep_info">Caregando</string>
+    <string name="loading_sleep_info">Carregando</string>
     <string name="start_sleep">%1$s</string>
     <string name="wake_up">%1$s</string>
     <string name="total_deep_sleep">Tempo em sono profundo</string>
@@ -89,7 +89,7 @@
     <string name="total_sleep">Tempo total de sono</string>
     <string name="all_day_deep_sleep">Tempo em sono profundo</string>
     <string name="all_day_light_sleep">Tempo em sono leve</string>
-    <string name="awake_duration">Hora que acodou</string>
+    <string name="awake_duration">Tempo acordado</string>
     <string name="sleep_unit_minute">min</string>
     <string name="sleep_uniti_hour">hora</string>
     <string name="sleep_duration">%1$s h %2$s min</string>
@@ -245,7 +245,7 @@
 "</string>
     <string name="widget_weeklyreports_sports_title">Esporte</string>
     <string name="widget_weeklyreports_reports_title">Relatório Semanal</string>
-    <string name="widget_weeklyreports_reports_review">Revisão da Semana</string>
+    <string name="widget_weeklyreports_reports_review">Rever Semana</string>
     <string name="widget_sleep_title">Sono</string>
     <string name="widget_sleep_late">Vai dormim muito tarde</string>
     <string name="widget_sleep_deep_leak">Pouco sono profundo</string>
