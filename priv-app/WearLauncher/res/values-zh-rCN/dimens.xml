@@ -4,4 +4,5 @@
     <dimen name="quicksettings_aqitext_size">16.0sp</dimen>
     <dimen name="dialog_weahter_no_data_title">18.0sp</dimen>
     <dimen name="dialog_weahter_no_data_msg">16.0sp</dimen>
+    <dimen name="icon_txt_size">14.0sp</dimen>
 </resources>

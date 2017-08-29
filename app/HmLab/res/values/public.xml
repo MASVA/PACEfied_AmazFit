@@ -11,11 +11,11 @@
     <public type="drawable" name="progress_large_material" id="0x7f020047" />
     <public type="drawable" name="progress_medium_material" id="0x7f020048" />
     <public type="drawable" name="progress_small_material" id="0x7f020049" />
-    <public type="drawable" name="time_picker_ok_vector" id="0x7f020057" />
-    <public type="drawable" name="vector_drawable_progress_bar_large" id="0x7f020058" />
-    <public type="drawable" name="vector_drawable_progress_bar_medium" id="0x7f020059" />
-    <public type="drawable" name="vector_drawable_progress_bar_small" id="0x7f02005a" />
-    <public type="drawable" name="ybar" id="0x7f02005b" />
+    <public type="drawable" name="time_picker_ok_vector" id="0x7f020058" />
+    <public type="drawable" name="vector_drawable_progress_bar_large" id="0x7f020059" />
+    <public type="drawable" name="vector_drawable_progress_bar_medium" id="0x7f02005a" />
+    <public type="drawable" name="vector_drawable_progress_bar_small" id="0x7f02005b" />
+    <public type="drawable" name="ybar" id="0x7f02005c" />
     <public type="drawable" name="button" id="0x7f020000" />
     <public type="drawable" name="button_selector" id="0x7f020001" />
     <public type="drawable" name="button_transparent" id="0x7f020002" />
@@ -87,14 +87,15 @@
     <public type="drawable" name="settings_common_buttom_continue_96" id="0x7f02004c" />
     <public type="drawable" name="settings_common_buttom_pause_96" id="0x7f02004d" />
     <public type="drawable" name="settings_common_buttom_phone_off_96" id="0x7f02004e" />
-    <public type="drawable" name="settings_laboratory_cancel" id="0x7f02004f" />
-    <public type="drawable" name="settings_laboratory_close" id="0x7f020050" />
-    <public type="drawable" name="settings_laboratory_collection" id="0x7f020051" />
-    <public type="drawable" name="settings_laboratory_determine" id="0x7f020052" />
-    <public type="drawable" name="settings_laboratory_heart_rate" id="0x7f020053" />
-    <public type="drawable" name="sport_heart_max" id="0x7f020054" />
-    <public type="drawable" name="sport_heart_min" id="0x7f020055" />
-    <public type="drawable" name="swipe_menu_bg" id="0x7f020056" />
+    <public type="drawable" name="settings_laboratory_ble_rssi_alert" id="0x7f02004f" />
+    <public type="drawable" name="settings_laboratory_cancel" id="0x7f020050" />
+    <public type="drawable" name="settings_laboratory_close" id="0x7f020051" />
+    <public type="drawable" name="settings_laboratory_collection" id="0x7f020052" />
+    <public type="drawable" name="settings_laboratory_determine" id="0x7f020053" />
+    <public type="drawable" name="settings_laboratory_heart_rate" id="0x7f020054" />
+    <public type="drawable" name="sport_heart_max" id="0x7f020055" />
+    <public type="drawable" name="sport_heart_min" id="0x7f020056" />
+    <public type="drawable" name="swipe_menu_bg" id="0x7f020057" />
     <public type="mipmap" name="ic_launcher" id="0x7f030000" />
     <public type="layout" name="activity_algo_data_collection" id="0x7f040000" />
     <public type="layout" name="activity_main_hmlab" id="0x7f040001" />
