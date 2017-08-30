@@ -8,7 +8,7 @@
     <string name="label_heartrate">Pulso</string>
     <string name="label_heartrate_unit">bpm</string>
     <string name="ratio_notworn">Não está usando o relógio</string>
-    <string name="heartrate_wear_before_gauging">Por favor bote-o antes de medir</string>
+    <string name="heartrate_wear_before_gauging">Bote-o antes de medir</string>
     <string name="label_active_fast">Anaeróbico</string>
     <string name="label_active_fast_sick_any">A intensidade de exercício deve ser menor que o normal quando estiver doente, e se qualquer sintoma sério como febre ocorrer, o exercício deve ser encerrado.</string>
     <string name="label_active_fast_tired_any">Exercícios moderados ajudam a aliviar a fadiga mental. Para fadiga física, espere até estar totalmente recuperado para fazer outro exercício.</string>
@@ -136,7 +136,7 @@
 "</string>
     <string name="stretch_connection_failed_title">"Impossível conectar-se ao seu telefone
 "</string>
-    <string name="stretch_connection_failed_content">"Por favor tenha certeza que o relógio está conectado ao seu telefone e o app Amazfit Watch está aberto
+    <string name="stretch_connection_failed_content">"Certifique-se que o relógio está conectado ao seu telefone e o app Amazfit Watch está aberto
 "</string>
     <string name="stretch_connection_failed_button">Tentar novamente</string>
     <string name="open_xiaomi_app_failed_title">"Impossível abrir o app MiFit
@@ -163,7 +163,7 @@
     <string name="widget_label_heartrate">Pulso</string>
     <string name="widget_label_heartrate_unit">batidas/min</string>
     <string name="widget_heartrate_gauging">Verificando...</string>
-    <string name="widget_heartrate_gauge_failure">Por favor bote o relógio corretamente no seu pulso para resultados precisos.</string>
+    <string name="widget_heartrate_gauge_failure">Bote o relógio corretamente no seu pulso para resultados precisos.</string>
     <string name="widget_heartrate_gauge_failure_title">Impossível obter resultado</string>
     <string name="widget_err_step_shown">ERR:(-1)</string>
     <string name="widget_heart_gauged_err">Falhou ao obter resultado</string>

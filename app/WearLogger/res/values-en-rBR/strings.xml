@@ -17,15 +17,15 @@
     <string name="compressing">Gerando relatório...</string>
     <string name="upload_finish">Upload do Log acabou</string>
     <string name="upload_failed">"Falha no upload,
-por favor tente novamente"</string>
+tente novamente"</string>
     <string name="open_wifi_hint">Abrindo Wi-Fi...</string>
-    <string name="please_keep_wifi_connected">"Por favor mantenha o relógio 
+    <string name="please_keep_wifi_connected">"Mantenha o relógio 
 conectado ao WiFi"</string>
     <string name="percent_sign">%</string>
     <string name="zero">0</string>
     <string name="has_log_file_message">Há relatórios de erro de falha de upload, continuar upload?</string>
     <string name="upload_failed_token_title">Upload falhou</string>
-    <string name="upload_failed_token_message">Não foi possível enviar relatórios de erro. Por favor conecte com o app Amazfit Watch e tente novamente</string>
+    <string name="upload_failed_token_message">Não foi possível enviar relatórios de erro. Conecte com o app Amazfit Watch e tente novamente</string>
     <string name="re_collecting">Gerar novamente</string>
     <string name="continue_upload">Continuar Upload</string>
     <string name="alllog">Pegar todo log</string>

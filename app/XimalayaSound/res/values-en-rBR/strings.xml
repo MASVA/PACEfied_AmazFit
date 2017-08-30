@@ -17,8 +17,8 @@
     <string name="music_no_wifi_title">Impossibilitado de baixar</string>
     <string name="music_download_fail_title">Falhou ao baixar música</string>
     <string name="music_download_not_complete_title">Músicas não acabaram de ser baixadas</string>
-    <string name="music_no_wifi_content">O Wi-Fi não está conectado, músicas não podem ser baixadas. Por favor conecte-se ao Wi-Fi em Configurações do Sistema - Wi-Fi no relógio.</string>
-    <string name="music_download_fail_content">Erro de conexão de rede. Músicas impossibilitadas de serem baixadas. Por favor conecte-se à rede e tente novamente.</string>
+    <string name="music_no_wifi_content">O Wi-Fi não está conectado, músicas não podem ser baixadas. Conecte-se ao Wi-Fi em Configurações do Sistema - Wi-Fi no relógio.</string>
+    <string name="music_download_fail_content">Erro de conexão de rede. Músicas impossibilitadas de serem baixadas. Conecte-se à rede e tente novamente.</string>
     <string name="music_download_not_complete_content">Erro ao conectar na rede, músicas impossibilitadas de acabar o download. Apenas reproduza músicas atualmente baixadas. (Todas as músicas serão baixadas automaticamente com conexão Wi-Fi)</string>
     <string name="music_download_success">Atualização de músicas bem sucedida</string>
     <string name="music_downloading">Baixando</string>
@@ -50,12 +50,12 @@
     <string name="music_init_not_done">A música está inicializando ...</string>
     <string name="music_broken">reprodução falhou, tente baixar de novo.</string>
     <string name="music_no_resource">Nenhuma música disponível</string>
-    <string name="music_no_resource_detail">Por favor baixe o app "Amazfit Watch App - Configurações do App - Himalayan FM".</string>
+    <string name="music_no_resource_detail">Baixe o app "Amazfit Watch App - Configurações do App - Himalayan FM".</string>
     <string name="music_down_not_complete_title">A lista de músicas não foi completamente baixada, sair?</string>
     <string name="music_no_douban_resource">Sem músicas locais disponíveis para tocar, baixar agora?</string>
-    <string name="music_no_local_resource">Sem músicas para tocar, por favor conecte o USB para importar.</string>
+    <string name="music_no_local_resource">Sem músicas para tocar, Conecte o USB para importar.</string>
     <string name="music_start_tips">Necessário conectar a um fone Bluetooth para música, conectar agora?</string>
-    <string name="music_down_not_complete_content">Após desconectar, músicas podem ser atualizadas em Configurações de Música - Watercress FM offline.</string>
+    <string name="music_down_not_complete_content">Após desconectar, músicas podem ser atualizadas em Config. de Música - Watercress FM offline.</string>
     <string name="sound_title">Nome da música</string>
     <string name="announcer">Artista</string>
     <string name="remain_duration">-28:00</string>
@@ -71,7 +71,7 @@
     <string name="browse_genre_subtitle">Músicas por gênero</string>
     <string name="browse_musics_by_genre_subtitle">%1$s músicas</string>
     <string name="random_queue_title">Música aleatória</string>
-    <string name="error_no_connection">Impossível se conectar ao servidor. Por favor, verifique sua conexão com a Internet.</string>
+    <string name="error_no_connection">Impossível se conectar ao servidor. Verifique sua conexão com a Internet.</string>
     <string name="error_loading_media">Erro ao Carregar Mídia</string>
     <string name="casting_to_device">Transmitindo para %1$s</string>
     <string name="currently_playing_song">Música tocando agora</string>
@@ -97,8 +97,8 @@
     <string name="media_route_menu_title">Tocar em…</string>
     <string name="confirm_exit">Baixando playlist, parar?</string>
     <string name="music_download_cancel">O download da música foi parado</string>
-    <string name="storage_space_g">Armazenamento %sG</string>
-    <string name="storage_space_mb">Armazenamento %sMB</string>
+    <string name="storage_space_g">Armaz. %sG</string>
+    <string name="storage_space_mb">Armaz. %sMB</string>
     <string name="cancel">Cancelar</string>
     <string name="delete">Excluir</string>
     <string name="stop_casting">Parar de Transmitir</string>

@@ -7,11 +7,11 @@
     <string name="custom_header_title">Plano de fundo enviado</string> 
     <string name="custom_select">Selecionar</string>
     <string name="custom_exit">Sair</string>
-    <string name="custom_none_selected">Por favor selecione</string>
+    <string name="custom_none_selected">Selecione</string>
     <string name="custom_selected_confirm">Confirmar</string>
     <string name="custom_exit_delete">Sair e excluir</string>
     <string name="custom_none_custom_background_title">Sem imagem</string>
-    <string name="custom_none_custom_background_content">Por favor adicione planos de fundo a partir do app Amazfit Watch.</string>
+    <string name="custom_none_custom_background_content">Adicione planos de fundo a partir do app Amazfit Watch.</string>
     <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string> <!-- é só um preview -->
     <string name="custom_title_bg">Plano de fundo</string>
     <string name="custom_title_graduation">Indicadores</string>

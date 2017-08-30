@@ -14,7 +14,7 @@
     <string name="recv_fail">erro ao receber</string>
     <string name="data_channel_available">Canal de dados está disponível</string>
     <string name="data_channel_unavailable">Canal de dados está indisponível</string>
-    <string name="connect_again">Por favor conecte-se novamente</string>
+    <string name="connect_again">Conecte-se novamente</string>
     <string name="consume_time">gastar tempo</string>
     <string name="clear_log">Limpar Log</string>
     <string name="file_transfer">Transferência de arquivo</string>
@@ -23,7 +23,7 @@
     <string name="confirm">Confirmar</string>
     <string name="cancel">Cancelar</string>
     <string name="unable_to_send">Impossível enviar</string>
-    <string name="install_companion_tip">Por favor instale o Amazfit Watch Assistant no seu telefone primeiro</string>
+    <string name="install_companion_tip">Instale o Amazfit Watch Assistant no seu telefone primeiro</string>
     <string name="simplified_chinese">Mandarim(Simplificado)</string>
     <string name="english_usa">Inglês(EUA)</string>
     <string name="low_battery">Se a bateria estiver abaixo de 5%, conecte no carregador para continuar</string>
@@ -55,9 +55,9 @@
     <string name="permission_read_user_info">permission_read_user_info</string>
     <string name="permission_write_user_info">permission_read_user_info</string>
     <string name="battery_low_title">Teste: Bateria baixa</string>
-    <string name="battery_low_plz_charge">A bateria está baixa, por favor conecte o carregador.</string>
+    <string name="battery_low_plz_charge">A bateria está baixa, conecte o carregador.</string>
     <string name="rest_time">Teste: Hora de se mexer</string>
-    <string name="take_a_rest">Sentado por muito tempo, por favor levante-se e caminhe por um minuto.</string>
+    <string name="take_a_rest">Sentado por muito tempo, levante-se e caminhe por um minuto.</string>
     <string name="reach_goal">Teste: Meta diária de passos</string>
     <string name="reach_goal_content">"Você alcançou sua meta diária de 8000 passos."</string>
     <string name="get_medal">Teste：Desbloquear novo emblema</string>

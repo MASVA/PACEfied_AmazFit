@@ -5,14 +5,13 @@
     <string name="actionbar_web_search">Busca na web</string>
     <string name="accessibility_content_view">Web View</string>
     <string name="media_player_error_title">Não é possível tocar o vídeo</string>
-    <string name="media_player_error_text_invalid_progressive_playback">Desculpe, este vídeo não é válido para transmitir para este dispositivo.</string>
+    <string name="media_player_error_text_invalid_progressive_playback">Desculpe, este vídeo não é válido para transm. para este dispositivo.</string>
     <string name="media_player_error_text_unknown">Desculpe, este vídeo não pode ser tocado.</string>
     <string name="media_player_error_button">OK</string>
     <string name="media_player_loading_video">Carregando vídeo</string>
-<<<<<<< HEAD
     <string name="profiler_started_toast">Profiler começou</string>
     <string name="profiler_stopped_toast">Profiler acabou. Resultados estão em %1$s.</string>
-    <string name="profiler_no_storage_toast">"Impossível iniciar profiler pois o armazenamento externo não está pronto"</string>
+    <string name="profiler_no_storage_toast">"Impossível iniciar profiler pois o armaz. ext. não está pronto"</string>
     <string name="profiler_error_toast">Falha ao iniciar o profiler</string>
     <string name="low_memory_error">Impossibilitado de completar a operação anterior por causa de pouca memória</string>
     <string name="opening_file_error">Falha ao abrir arquivos selecionados</string>
@@ -27,30 +26,11 @@
     <string name="color_picker_button_cyan">Ciano</string>
     <string name="color_picker_button_blue">Azul</string>
     <string name="color_picker_button_green">Verde</string>
-=======
-    <string name="profiler_started_toast">Profiler started</string>
-    <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
-    <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
-    <string name="profiler_error_toast">Failed to start profiler</string>
-    <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
-    <string name="opening_file_error">Failed to open selected file</string>
-    <string name="color_picker_button_more">More</string>
-    <string name="color_picker_hue">Hue</string>
-    <string name="color_picker_saturation">Saturation</string>
-    <string name="color_picker_value">Value</string>
-    <string name="color_picker_button_set">Set</string>
-    <string name="color_picker_button_cancel">Cancel</string>
-    <string name="color_picker_dialog_title">Select color</string>
-    <string name="color_picker_button_red">Red</string>
-    <string name="color_picker_button_cyan">Cyan</string>
-    <string name="color_picker_button_blue">Blue</string>
-    <string name="color_picker_button_green">Green</string>
->>>>>>> upstream/PACEfied_Amazfit
     <string name="color_picker_button_magenta">Magenta</string>
     <string name="color_picker_button_yellow">Amarelo</string>
     <string name="color_picker_button_black">Preto</string>
     <string name="color_picker_button_white">Branco</string>
-    <string name="copy_to_clipboard_failure_message">Falha ao copiar para a área de transferência</string>
+    <string name="copy_to_clipboard_failure_message">Falha ao copiar para a área de transf.</string>
     <string name="accessibility_date_picker_month">Mês</string>
     <string name="accessibility_date_picker_year">Ano</string>
     <string name="date_picker_dialog_set">Definir</string>

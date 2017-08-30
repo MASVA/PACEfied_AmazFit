@@ -11,9 +11,9 @@
     <string name="saving_data">Salvando dados</string>
     <string name="upload_data">Enviar</string>
     <string name="upload_success">Completou</string>
-    <string name="upload_failed">Falha ao enviar, por favor tente de novo</string>
+    <string name="upload_failed">Falha ao enviar, tente de novo</string>
     <string name="air_mode_alert_title">Não pode se conectar</string>
-    <string name="air_mode_alert_message">Por favor desligue o modo Avião e tente de novo.</string>
+    <string name="air_mode_alert_message">Desligue o modo Avião e tente de novo.</string>
     <string name="average_text">Média</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>

@@ -4,7 +4,7 @@
     <string name="action_settings">Configurações</string>
     <string name="heart_rate">HR_COUNTER</string>
     <string name="hello_world">Simulador de Pulso .</string>
-    <string name="install_companion_tip">Por favor, instale a Huami Watch Assistant no seu telefone primeiro</string>
+    <string name="install_companion_tip">Instale a Huami Watch Assistant no seu telefone primeiro</string>
     <string name="simplified_chinese">Mandarim(Simplificado)</string>
     <string name="english_usa">Inglês(EUA)</string>
     <string name="low_battery">Se a bateria estiver abaixo de 5%, conecte o carregador para continuar</string>

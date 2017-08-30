@@ -6,8 +6,8 @@
     <string name="music_no_wifi_title">Incapaz de baixar</string>
     <string name="music_download_fail_title">Falha ao baixar música</string>
     <string name="music_download_not_complete_title">Músicas não baixaram completamente</string>
-    <string name="music_no_wifi_content">O Wi-Fi não está conectado, músicas não podem ser baixadas. Por favor conecte-se ao Wi-Fi pelas Configurações do sistema - Wi-Fi no relógio.</string>
-    <string name="music_download_fail_content">Erro de conexão de rede. Músicas impossibilitadas de serem baixadas. Por favor conecte-se à rede e tente de novo.</string>
+    <string name="music_no_wifi_content">O Wi-Fi não está conectado, músicas não podem ser baixadas. Conecte-se ao Wi-Fi pelas Config. do sistema - Wi-Fi no relógio.</string>
+    <string name="music_download_fail_content">Erro de conexão de rede. Músicas impossibilitadas de serem baixadas. Conecte-se à rede e tente de novo.</string>
     <string name="music_download_not_complete_content">Erro ao conectar na rede, músicas não puderam acabar de ser baixadas. Toque apenas músicas já baixadas. (Todas as músicas serão baixadas automaticamente com a conexão Wi-Fi)</string>
     <string name="music_download_success">Atualização de músicas bem sucedida</string>
     <string name="music_downloading">Download de músicas...</string>
@@ -30,7 +30,7 @@
     <string name="music_no_resource">Nenhuma música disponível</string>
     <string name="music_down_not_complete_title">A lista de músicas não foi totalmente baixada, sair?</string>
     <string name="music_no_douban_resource">Nenhuma música local disponível para tocar, baixar agora?</string>
-    <string name="music_no_local_resource">Nenhuma música para tocar, por favor conecte o USB para importar.</string>
+    <string name="music_no_local_resource">Nenhuma música para tocar, conecte o USB para importar.</string>
     <string name="music_start_tips">Necessário conectar-se à um fone Bluetooth para ouvir música, conectar agora?</string>
     <string name="music_down_not_complete_content">Após sair, as músicas podem ser atualizadas nas Configurações de Música - Watercress FM offline.</string>
     <string name="app_name">HM Media Player</string>
@@ -40,7 +40,7 @@
     <string name="browse_genre_subtitle">Músicas por gênero</string>
     <string name="browse_musics_by_genre_subtitle">%1$s músicas</string>
     <string name="random_queue_title">Música aleatória</string>
-    <string name="error_no_connection">Não é possível conectar-se ao servidor. Por favor, verifique sua conexão com a Internet.</string>
+    <string name="error_no_connection">Não é possível conectar-se ao servidor. Verifique sua conexão com a Internet.</string>
     <string name="error_loading_media">Erro ao Carregar Mídia</string>
     <string name="casting_to_device">Transmitindo para %1$s</string>
     <string name="currently_playing_song">Música tocando agora</string>

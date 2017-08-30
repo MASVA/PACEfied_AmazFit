@@ -12,13 +12,13 @@ Se você não solicitou o backup, não permita a operação continuar."</string>
 Se você não solicitou a restauração, não permita a operação continuar. Isso irá sobrescrever quaisquer dados que estão no dispositivo!"</string>
     <string name="allow_restore_button_label">Restaurar meus dados</string>
     <string name="deny_restore_button_label">Não restaurar</string>
-    <string name="current_password_text">Por favor insira sua senha atual de backup abaixo:</string>
-    <string name="device_encryption_restore_text">Por favor insira sua senha de criptografia do dispositivo abaixo.</string>
-    <string name="device_encryption_backup_text">Por favor insira sua senha de criptografia do dispositivo abaixo. Ela também será usada para criptografar o arquivo de backup.</string>
-    <string name="backup_enc_password_text">Por favor insira uma senha para usar na criptografia dos dados do backup completo. Se for deixada em branco, sua senha atual de backup será utilizada:</string>
+    <string name="current_password_text">Insira sua senha atual de backup abaixo:</string>
+    <string name="device_encryption_restore_text">Insira sua senha de criptografia do dispositivo abaixo.</string>
+    <string name="device_encryption_backup_text">Insira sua senha de criptografia do dispositivo abaixo. Ela também será usada para criptografar o arquivo de backup.</string>
+    <string name="backup_enc_password_text">Insira uma senha para usar na criptografia dos dados do backup completo. Se for deixada em branco, sua senha atual de backup será utilizada:</string>
     <string name="backup_enc_password_optional">Se você deseja criptografar o backup completo, insira uma senha abaixo:</string>
-    <string name="backup_enc_password_required">Como seu dispositivo está criptografado, você será solicitado para criptografar seu backup. Por favor insira uma senha abaixo:</string>
-    <string name="restore_enc_password_text">Se os dados de restauração estiverem criptografados, por favor insira a senha abaixo:</string>
+    <string name="backup_enc_password_required">Como seu dispositivo está criptografado, você será solicitado para criptografar seu backup. Insira uma senha abaixo:</string>
+    <string name="restore_enc_password_text">Se os dados de restauração estiverem criptografados, insira a senha abaixo:</string>
     <string name="toast_backup_started">Iniciando backup...</string>
     <string name="toast_backup_ended">Backup pronto</string>
     <string name="toast_restore_started">Iniciando restauração...</string>
