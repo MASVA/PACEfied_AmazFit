@@ -15,8 +15,8 @@
     <string name="crossing_climb_unit">Pé</string>
     <string name="crossing_vertical_velocity_unit">pé/h</string>
     <string name="crossing_history_detail_total_time">Tempo total</string>
-    <string name="crossing_history_detail_move_time">Tempo se mexendo</string>
-    <string name="crossing_history_detail_ave_move_pace">Ritmo médio se mexendo</string>
+    <string name="crossing_history_detail_move_time">Tempo movimento</string>
+    <string name="crossing_history_detail_ave_move_pace">Ritmo méd. movimento</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/mi</string>
     <string name="crossing_history_detail_best_pace">Melhor ritmo</string>
     <string name="crossing_history_detail_ave_move_speed">Velocidade média de movimento</string>
@@ -34,7 +34,7 @@
     <string name="crossing_remind_target_individual_title">Volta %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Tempo decorrido</string>
     <string name="crossing_remind_target_individual_pace">Ritmo</string>
-    <string name="agps_time_out">AGPS expirou. A busca por GPS será lenta. Conecte o app Amazfit Watchpara atualizá-lo.</string>
+    <string name="agps_time_out">AGPS expirou. A busca por GPS será lenta. Conecte o app Amazfit Watch para atualizá-lo.</string>
     <string name="safe_hearate_remind_content">Quando acima %1d</string>
     <string name="settings_safe_heart_rate_hint">(pulso seguro)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
@@ -99,7 +99,7 @@
     <string name="outdoor_speed_graph_title">Velocidade(mi/h)</string>
     <string name="not_testing_speed_data">Dados de velocidade não detectados</string>
     <string name="con_leqi_table_title">O Relógio suporta mesa de equitação LEQI, está Conectado agora?</string>
-    <string name="con_leqi_table_subtitle">(Vincule em Configurações do Sistema-Dispositivo Bluetooth)</string>
+    <string name="con_leqi_table_subtitle">(Vincule em Config. do Sist.-Disp. Bluetooth)</string>
     <string name="unit_cadence">rpm</string>
     <string name="remind_target_riding_km_title_format">Completo %1$d mi</string>
     <string name="indoor_riding_time_too_short">Tempo de exercício é muito curto para salvar. Tem certeza que quer parar?</string>
@@ -129,13 +129,13 @@
     <string name="btn_cancel">Cancelar</string>
     <string name="btn_confirm">Ok</string>
     <string name="hint_rolling">Exportando trajeto, aguarde</string>
-    <string name="dlg_msg_hint_cancel">Que cancelar esta trajetória?</string>
+    <string name="dlg_msg_hint_cancel">Quer cancelar esta trajetória?</string>
     <string name="dlg_btn_l_msg">Não</string>
     <string name="dlg_btn_r_msg">Sim</string>
     <string name="hint_cancelling">Cancelando...</string>
     <string name="hint_success_exported_title">Exportada com sucesso</string>
     <string name="hint_failed_exported_title">Falha ao exportar</string>
-    <string name="hint_where">"A trilha foi posta na pasta gpxdata.
+    <string name="hint_where">"Trilha exportada para a pasta gpxdata.
 Conecte o relógio ao seu computador para copiar"</string>
     <string name="hint_failed">Falha ao exportar, tente de novo</string>
     <string name="app_name">Esportes</string>
@@ -354,13 +354,13 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="real_time_route">Trajeto em Tempo Real</string>
     <string name="real_time_output">Exportar</string>
     <string name="real_time_total_dis_title">Dist. Total</string>
-    <string name="complete_training_project">O programa de treino foi completo</string>
+    <string name="complete_training_project">Programa de treino completado</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Correu%1sKm</string>
     <string name="remind_target_time_training_title_format">Pedalou%1$dMin</string>
-    <string name="complete_training_target_tips">"Salvar esta corrida no programa de treino de hoje?"</string>
-    <string name="complete_training_outdoor_riding_target_tips">"Salvar esta pedalada no programa de treino de hoje?"</string>
-    <string name="not_complete_train_task">O treino não foi completo. Tem certeza que quer parar?</string>
+    <string name="complete_training_target_tips">"Salvar corrida no programa de treino de hoje?"</string>
+    <string name="complete_training_outdoor_riding_target_tips">"Salvar pedalada no programa de treino de hoje?"</string>
+    <string name="not_complete_train_task">Treino não completado. Tem certeza que quer parar?</string>
     <string name="km_metric">km</string>
     <string name="metre_metric">metro</string>
     <string name="km_metric_pace_unit">/km</string>

@@ -23,8 +23,8 @@
     <string name="day_train_record_status_finish">Completo</string>
     <string name="day_train_record_statis_un_finish">Incompleto</string>
     <string name="dialog_day_train_plan_is_complete">"Marcar o progresso de hoje como completo?"</string>
-    <string name="dialog_delete_history_record">Se quiser excluir este registro, a exclusão não será restaurada.</string>
-    <string name="dialog_train_plan_is_complete">Terminando seu treino , continuar?</string>
+    <string name="dialog_delete_history_record">Excluindo este registro, ele não poderá ser restaurado.</string>
+    <string name="dialog_train_plan_is_complete">Terminando seu treino, continuar?</string>
     <string name="last_day_rest_remind">O treino está perto do fim e descanse por um dia|Ajuda na recuperação do último exercício</string>
     <string name="cancel">Cancelar</string>
     <string name="dialog_delete">Excluir</string>
@@ -40,7 +40,7 @@
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Inscrito</string>
     <string name="notification_title">Centro de Treinamento</string>
-    <string name="notificaiton_train_content">"A malhação de hoje não está completa ainda. Continue!"</string>
+    <string name="notificaiton_train_content">"O treino de hoje não está completo ainda. Continue!"</string>
     <string name="this_train_record_finish">Este treino já acabou</string>
     <string name="train_finish_reason">Motivo para terminar</string>
     <string name="length_unit_km">km</string>

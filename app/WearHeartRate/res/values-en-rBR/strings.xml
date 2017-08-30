@@ -77,7 +77,7 @@
     <string name="sleep_unit_minute">Min</string>
     <string name="sleep_uniti_hour">Hora</string>
     <string name="sleep_duration">%1$s horas %2$s minutos</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">小时&lt;/font> %2$s 分</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">horas&lt;/font> %2$s minutos</string>
     <string name="date_m_d">%2$s/%1$s</string>
     <string name="date_today">Hoje</string>
     <string name="sleep_detail_title">Estatísticas</string>
@@ -118,7 +118,7 @@
     <string name="notif_target_reach_title">Você atingiu a meta!</string>
     <string name="notif_target_reach_desc">A meta de hoje foi atingida.</string>
     <string name="notif_target_half_reach_title">Continue se esforçando</string>
-    <string name="notif_target_half_reach_desc">Vocês está na metade da meta de hoje</string>
+    <string name="notif_target_half_reach_desc">Metade da meta diária atingida</string>
     <string name="notif_detail_view">Detalhes</string>
     <string name="notif_target_set">Definir meta</string>
     <string name="widget_label_step">Meta de hoje</string>

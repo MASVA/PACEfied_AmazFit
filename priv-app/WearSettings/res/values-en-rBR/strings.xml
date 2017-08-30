@@ -15,12 +15,12 @@
     <string name="dlg_cancel">Cancelar</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="more">Configurações</string>
-    <string name="find_phone">Achar Telefone</string>
+    <string name="find_phone">Achar Tel.</string>
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
     <string name="check_for_update">Atualizar</string>
     <string name="change_language">Idioma</string>
-    <string name="reset_factory">Restauração de Fábrica</string>
+    <string name="reset_factory">Rest. Fábrica</string>
     <string name="shut_down">Desligar</string>
     <string name="about">Sobre</string>
     <string name="wear_habit">Mão</string>
