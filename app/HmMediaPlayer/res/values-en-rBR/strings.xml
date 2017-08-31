@@ -17,7 +17,7 @@
     <string name="music_continue_downloading">As músicas continuarão sendo baixadas</string>
     <string name="music_service_unavalible">O serviço DouBan está Indisponível</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="music_list_title">Configurações de reprodução</string>
+    <string name="music_list_title">Config. reprod.</string>
     <string name="music_volumn_control">Volume</string>
     <string name="music_douban_offline">Watercress FM offline</string>
     <string name="music_play_mode">Alterar modo</string>

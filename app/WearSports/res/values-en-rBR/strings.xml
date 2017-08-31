@@ -47,7 +47,7 @@
     <string name="decision_yes">Sim</string>
     <string name="decision_no">Não</string>
     <string name="use_sport_route_remind">Este movimento usa a trajetória %1$s para navegação?</string>
-    <string name="please_start_sport_from_route_start">Para assegurar a precisão do guia da trajetória, inicie o movimento no local real do início da trilha.</string>
+    <string name="please_start_sport_from_route_start">Para garantir precisão do guia da trajetória, inicie a atividade no local real do início da trilha.</string>
     <string name="please_become_bigger">prolongar</string>
     <string name="please_become_smaller">limitar</string>
     <string name="current_altitude">Elevação atual</string>
@@ -323,7 +323,7 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="settings_sport_music_play_settings">Configurações de Música</string>
     <string name="settings_sport_lock_screen">Telas de Dados</string>
     <string name="settings_sport_four_data">4 Campos de Dado</string>
-    <string name="settings_sport_six_data">6 Camposd de Dado</string>
+    <string name="settings_sport_six_data">6 Campos de Dado</string>
     <string name="settting_sport_gpx_route">Trilha Esportiva</string>
     <string name="delete_sport_summary">Excluir</string>
     <string name="give_up_sport_record">Descartar</string>
