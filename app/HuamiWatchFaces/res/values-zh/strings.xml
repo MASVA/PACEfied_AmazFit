@@ -30,6 +30,7 @@
     <string name="custom_data_widget_title_battery">电量</string>
     <string name="custom_data_widget_title_msg">未读消息</string>
     <string name="custom_data_widget_title_date">日期</string>
+    <string name="custom_data_widget_title_floor">爬楼</string>
     <string name="custom_data_widget_date_2">datawidget/date_2/week_%d.png</string>
     <string name="cube_month">月</string>
     <string name="cube_day">日</string>
@@ -54,6 +55,8 @@
     <string name="watch_label_twelve">幻影迷彩</string>
     <string name="watch_label_fourteen">永恒时刻</string>
     <string name="watch_label_fifteen">金鸡报晓</string>
+    <string name="watch_label_sixteen">Everest</string>
+    <string name="watch_label_seventeen">初代机·源</string>
     <string name="watch_today_step">今日步数</string>
     <string name="sport_step">步</string>
     <string name="everyminute_times">次/分</string>
@@ -64,6 +67,11 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="quick_settings_date_yeareve">除夕</string>
+    <string name="quick_settings_status_month">月</string>
+    <string name="quick_settings_status_leaf">闰</string>
+    <string name="quick_settings_date_chinese">yyyy年MM月dd日</string>
+    <string name="quick_settings_date_format">1900年1月31日</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>

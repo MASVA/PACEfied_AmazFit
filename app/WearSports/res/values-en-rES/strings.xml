@@ -59,7 +59,11 @@
     <string name="gpx_select_empty" />
     <string name="gpx_details_view">Sel.Ruta</string>
     <string name="gpx_details_use">Usar</string>
-    <string name="gpx_route_loading">Por favor espere a que se cargue la ruta</string>																			   
+    <string name="gpx_route_loading">Por favor espere a que se cargue la ruta</string>
+    <string name="dialog_remind_to_look_route">Mire la ruta</string>
+    <string name="gpx_offset_route">Se ha desviado de la ruta</string>
+    <string name="gpx_back_route">Vuelva a la ruta</string>
+    <string name="gpx_alreay_offset">Fuera de ruta</string>
     <string name="indoor_run_progressing">Carrera Indoor</string>
     <string name="music_title">Música</string>
     <string name="music_local_title">Música deportiva</string>
@@ -103,13 +107,13 @@
     <string name="outdoor_climb_down_distance">Distancia al descenso</string>
     <string name="outdoor_climb_down_distance_time">Tiempo de descenso</string>
     <string name="outdoor_climb_distance_time">Tiempo cuesta arriba</string>
-	<string name="route_cur_altitude">Altitud actual</string>
+    <string name="route_cur_altitude">Altitud actual</string>
     <string name="route_glevation_gain">Altitud ganada</string>
     <string name="route_scale_enlarge">Expandir</string>
     <string name="route_scale_narrow">Escoger</string>
     <string name="route_cur_altitude_value">%1dm</string>
     <string name="route_climb_up_value">%1dm</string>
-   <string name="sport_widget_title">Deportes</string>
+    <string name="sport_widget_title">Deportes</string>
     <string name="sport_widget_title_run">Carrera</string>
     <string name="sport_widget_title_walk">Caminar</string>
     <string name="sport_widget_title_cross">Carrera trail</string>
@@ -199,8 +203,10 @@
     <string name="settings_item_title_km_voice_remind">Aviso por voz</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Alerta aeróbica Rc</string>
     <string name="settings_item_title_safe_heartrate_remind">Alerta de Rc</string>
+    <string name="settings_item_title_running_auto_pause">Autopausa corriendo</string>
+    <string name="settings_item_title_riding_auto_pause">Autopausa en ciclismo</string>															 
     <string name="settings_item_title_auto_pause">Pausa automática</string>
-    <string name="settings_item_title_target_use_time_remind">Meta de tiempo</string>
+    <string name="settings_item_title_target_use_time_remind">Meta de tiempo</string>													  
     <string name="settings_item_title_target_distance_remind">Meta de distancia</string>
     <string name="settings_item_title_pace_remind">Alerta de ritmo</string>
     <string name="settings_item_title_Leqi_remind">Alerta de cadencia</string>
@@ -300,9 +306,10 @@
     <string name="settings_sport_slpt_second_brush">Actualización de estadisticas por segundo</string>
     <string name="settings_sport_music_Watercress">Radio China FM</string>
     <string name="settings_sport_music_play_settings">Ajustes de música</string>
-    <string name="settings_sport_lock_screen">Pantallas de datos</string>
+    <string name="settings_sport_lock_screen">Pantalla de datos</string>
     <string name="settings_sport_four_data">4 Campos de datos</string>
     <string name="settings_sport_six_data">6 Campos de datos</string>
+    <string name="settting_sport_gpx_route">Rutas</string>																
     <string name="delete_sport_summary">Borrar</string>
     <string name="give_up_sport_record">Descartar</string>
     <string name="give_up_sport_record_tips">¿Descartar esta actividad?</string>
@@ -315,13 +322,25 @@
     <string name="waling_steps">pasos</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
-    <string name="settting_sport_gpx_route">Rutas</string>														   
+    <string name="setting_sport_heart_region_remind">Alerta límite de RC</string>
+    <string name="settings_item_title_safe_heartrate_safe_remind">Alerta RC seguro</string>
+    <string name="settings_item_title_safe_heartrate_region_remind">Alerta región RC</string>
+    <string name="setting_sport_heart_region_fat_burning">Región de de Quema-Grasa</string>
+    <string name="setting_sport_heart_region_aerobic">Región de zona aeróbica</string>
+    <string name="setting_sport_heart_region_high＿intensity_exercise">Región de alta intensidad</string>
+    <string name="setting_sport_heart_region_custom">Región Personalizada</string>
+    <string name="setting_sport_heart_region_text_fat_burning">Quemando grasas</string>
+    <string name="setting_sport_heart_region_text_aerobic">Aerobico</string>
+    <string name="setting_sport_heart_region_text_high＿intensity_exercise">Ejercicio de alta intensidad</string>
+    <string name="setting_sport_heart_region_text_custom">Personalizado</string>
+    <string name="remind_heart_rate_region_over">La frecuencia cardíaca es demasiado alta</string>
+    <string name="remind_heart_rate_region_less">La frecuencia cardíaca es demasiado baja</string>																			   
     <string name="complete_training_project">El programa de formación se ha completado</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Correr %1s Km</string>
     <string name="remind_target_time_training_title_format">Ciclismo %1$d Min</string>
     <string name="complete_training_target_tips">¿Guardar esta carrera con el programa de entrenamiento de hoy?</string>
-    <string name="complete_training_outdoor_riding_target_tips">"Guardar esta carrera al programa de entrenamiento de hoy"</string>
+    <string name="complete_training_outdoor_riding_target_tips">Guardar esta carrera al programa de entrenamiento de hoy</string>
     <string name="not_complete_train_task">Entrenamiento no completado.¿Estás seguro que quieres parar?</string>
     <string name="km_metric">km</string>
     <string name="metre_metric">metros</string>
@@ -360,6 +379,7 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ajustes</string>
     <string name="sport_music_settings">Música deportiva</string>
+<!--START of missed texts by Huami-->									 
     <string name="widget_currentstep_title">Centro de Datos</string>
     <string name="widget_currentstep_activities">Pasos hoy</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -367,4 +387,5 @@
     <string name="widget_currentstep_sleep_title">Sueño noche anterior</string>
     <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿Sin ejercicio hoy?</string>
+<!--END of missed texts by Huami-->									  
 </resources>

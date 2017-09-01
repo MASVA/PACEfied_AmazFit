@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Scegliere la lingua</string>
+    <string name="locale_title">Imposta lingua</string>
     <string name="generic_notification_more">%s ancora</string>
     <string name="notification_unread_num">%s non lette</string>
     <string name="notification_click_upgrade">Clicca su installa</string>
@@ -23,7 +23,7 @@
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
     <string name="delete_all_notifications">Elimina tutto</string>
-    <string name="delete_all_notifications_confrim_content">La cancellazione non puo essere annullata,continuare？</string>
+    <string name="delete_all_notifications_confrim_content">L\'eliminazione non puo essere annullata, continuare?</string>
     <string name="quick_settings_airplane_mode">Modo aereo: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Silenzioso: %1$s</string>
     <string name="quick_settings_auto_light_mode">Luminosità: %1$s</string>
@@ -31,8 +31,8 @@
     <string name="quick_settings_switch_auto">Auto</string>
     <string name="quick_settings_switch_awake">Attivo</string>
     <string name="quick_settings_switch_always">Sempre</string>
-    <string name="quick_settings_switch_on">ON</string>
-    <string name="quick_settings_switch_off">OFF</string>
+    <string name="quick_settings_switch_on">On</string>
+    <string name="quick_settings_switch_off">Off</string>
     <string name="quick_settings_toast_on">Abilitato</string>
     <string name="quick_settings_toast_off">Disabilitato</string>
     <string name="quick_settings_status">Scollegato</string>
@@ -42,21 +42,19 @@
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Collegato</string>
     <string name="quick_settings_disconnect">Scollegato</string>
-    <string name="quick_settings_date_chinese">dd-MM-yyyy</string>
-    <string name="quick_settings_date_format">31-1-1900</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
+    <string name="quick_settings_date_format">31/1/1900</string>
     <string name="quick_settings_date_yeareve">Vigilia di Capodanno</string>
-    <string name="seconed_confirm_nodisturb">Modalità Silenziosa attiva. 
+    <string name="seconed_confirm_nodisturb">Modalità silenziosa attiva. 
 Le nuove notifiche non saranno mostrate.</string>
     <string name="quick_settings_battery_charging_full">Ricarica completata</string>
     <string name="quick_settings_battery_is_charging">In carica...</string>
     <string name="quick_settings_battery_hasnot_charged">Non è stato caricato</string>
-    <string name="quick_settings_battery_charging_intervalDay">Caricato da: %1$d giorni %2$d ore</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">Caricato da: %d giorni</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">Caricato da: %d ore</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">Caricato da meno
- di 1 ora</string>
-    <string name="quick_settings_battery_sportString">"Durata della batteria
- in modalità GPS"</string>
+    <string name="quick_settings_battery_charging_intervalDay">Caricato %1$d giorni %2$d ore fa</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">Caricato %d giorni fa</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">Caricato %d ore fa</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">Caricato meno di 1 ora fa</string>
+    <string name="quick_settings_battery_sportString">"Batteria residua in modalità corsa"</string>
     <string name="quick_settings_battery_sporttime_hour_unit">ora</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
@@ -83,7 +81,7 @@ Le nuove notifiche non saranno mostrate.</string>
     <string name="notification_block_cancel">Annulla blocco notifiche</string>
     <string name="notification_block_ok">Ok</string>
     <string name="notification_more_settings">Altre impostazioni</string>
-    <string name="notification_time_just">Proprio</string>
+    <string name="notification_time_just">Adesso</string>
     <string name="notification_time_yesterday">Ieri</string>
     <string name="notificaton_empty_message">Nessuna notifica</string>
     <string name="amazing_dialog_btn_confirm_text">Conferma</string>
@@ -240,13 +238,13 @@ visitare il %s"</string>
     <string name="clockwork_home_enable_notifications">"Attivare l\'accesso di notifica per Android Wear"</string>
     <string name="clockwork_home_no_notif_settings">Questo dispositivo non può inviare notifiche al tuo orologio</string>
     <string name="perm_label_provide_background">Quadrante personalizzato</string>
-    <string name="perm_description_provide_background">Questa applicazione può agire come un quadrante personalizzato.</string>
+    <string name="perm_description_provide_background">Questa app può agire come un quadrante personalizzato.</string>
     <string name="perm_label_secure_adb_confirmation">Confermare connessioni sicure ADB</string>
-    <string name="perm_description_secure_adb_confirmation">Questa applicazione può confermare le connessioni ADB sicure.</string>
+    <string name="perm_description_secure_adb_confirmation">Questa app può confermare le connessioni ADB sicure.</string>
     <string name="perm_label_install_wearable_packages">installare applicazioni</string>
-    <string name="perm_description_install_wearable_packages">Questa applicazione può installare applicazioni per dispositivi indossabili.</string>
+    <string name="perm_description_install_wearable_packages">Questa app può installare app per dispositivi indossabili.</string>
     <string name="perm_label_set_watch_face_privileged">Set quadrante, privilegiata</string>
-    <string name="perm_description_set_watch_face_privileged">Questa applicazione può impostare il quadrante senza conferma.</string>
+    <string name="perm_description_set_watch_face_privileged">Questa app può impostare il quadrante senza conferma.</string>
     <string name="open">Apri</string>
     <string name="open_on_phone">Aperto sul telefono</string>
     <string name="title_mute_app">Blocco app</string>
@@ -538,7 +536,7 @@ attiva"</string>
     <string name="power_overcounted">Over-counted</string>
     <string name="power_screen">Schermo</string>
     <string name="power_flashlight">Torcia</string>
-    <string name="power_wifi">Wi-Fi</string>
+    <string name="power_wifi">WiFi</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Cellulare in standby</string>
     <string name="power_phone">Chiamate vocali</string>

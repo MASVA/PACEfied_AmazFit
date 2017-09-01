@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Výber jazyka</string>
@@ -14,7 +14,7 @@
     <string name="day_train_record_train_stage">-%1$sdeň</string>
     <string name="remind_train_first_text">Systematický tréning vám pomôže zlepšiť vaše behanie. Poďme na to！</string>
     <string name="train_start">Start Training</string>
-    <string name="hidtory_train_start_date">Začiatok  %1$s</string>
+    <string name="hidtory_train_start_date">Začiatok %1$s</string>
     <string name="hidtory_train_end_date">Koniec %1$s</string>
     <string name="train_detail_number_weekly">- %1$d.týždeň</string>
     <string name="day_train_status_done">(Dokončené)</string>

@@ -13,6 +13,14 @@
     <item type="id" name="start_indoor_riding">9</item>
     <item type="id" name="start_ellipticals">10</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="node_rolling">false</item>
+    <item type="id" name="iv_loading">false</item>
+    <item type="id" name="tv_hint">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="node_result">false</item>
+    <item type="id" name="title_result">false</item>
+    <item type="id" name="msg_result">false</item>
+    <item type="id" name="result_confirm">false</item>
     <item type="id" name="container">false</item>
     <item type="id" name="fragment_container">false</item>
     <item type="id" name="main_root">false</item>
@@ -66,6 +74,7 @@
     <item type="id" name="dialog_titile">false</item>
     <item type="id" name="train_plan_markd_desc">false</item>
     <item type="id" name="txt_confirm">false</item>
+    <item type="id" name="title_img">false</item>
     <item type="id" name="icon_notify_complete">false</item>
     <item type="id" name="route_status_remind">false</item>
     <item type="id" name="line_separate">false</item>
@@ -132,6 +141,7 @@
     <item type="id" name="history_detail_altitude">false</item>
     <item type="id" name="altitude_cache_view">false</item>
     <item type="id" name="delete_summary_container">false</item>
+    <item type="id" name="export_gpx">false</item>
     <item type="id" name="delete_summary">false</item>
     <item type="id" name="dialog_delete_sport_summary">false</item>
     <item type="id" name="list_view">false</item>
@@ -319,16 +329,25 @@
     <item type="id" name="remind_type_text_desc">false</item>
     <item type="id" name="second_remind_type_text_tint">false</item>
     <item type="id" name="second_remind_value">false</item>
+    <item type="id" name="heart_region_text">false</item>
     <item type="id" name="remind_type_text_unit">false</item>
     <item type="id" name="root_id">false</item>
     <item type="id" name="medal_bg">false</item>
     <item type="id" name="detail_container">false</item>
-    <item type="id" name="history_viewpager_container">false</item>
     <item type="id" name="sport_control_container">false</item>
     <item type="id" name="train_container">false</item>
     <item type="id" name="settings_item_icon">false</item>
     <item type="id" name="settings_item_title">false</item>
     <item type="id" name="settings_item_value">false</item>
+    <item type="id" name="history_detail_gps_sport_title">false</item>
+    <item type="id" name="output_container">false</item>
+    <item type="id" name="dis_container">false</item>
+    <item type="id" name="route_dis_title">false</item>
+    <item type="id" name="route_dis">false</item>
+    <item type="id" name="dis_unit">false</item>
+    <item type="id" name="route_dis_climb_title">false</item>
+    <item type="id" name="route_climb">false</item>
+    <item type="id" name="climb_unit">false</item>
     <item type="id" name="distance">false</item>
     <item type="id" name="ticker">false</item>
     <item type="id" name="medal_desc">false</item>

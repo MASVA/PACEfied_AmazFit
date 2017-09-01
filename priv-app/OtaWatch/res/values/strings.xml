@@ -24,6 +24,8 @@ in the Amazfit watch App"</string>
     <string name="checking_rom_failed">"Network connection timed out,
 please retry"</string>
     <string name="current_is_new">Latest version running</string>
+    <string name="has_new_rom_all">"发现新版本 
+由于你的版本较旧,升级时间可能较长,请耐心等待?"</string>
     <string name="has_new_rom">"New version found,
 update to %1$s version?"</string>
     <string name="processbar_downloading_rom">Downloading...</string>
