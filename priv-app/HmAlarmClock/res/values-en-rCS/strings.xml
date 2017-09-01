@@ -43,7 +43,7 @@
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
     <string name="count_down_title">Odpočet</string>
     <string name="count_down_default_new">Nový odpočet</string>
-    <string name="count_down_end">Time is over</string>
+    <string name="count_down_end">Čas vypršel</string>
     <string name="count_down_btn_end">Zastavit</string>
     <string name="count_down_btn_pause">Pozastavit</string>
     <string name="count_down_btn_continue">Spustit</string>
