@@ -26,7 +26,7 @@
     <string name="wear_habit">Wear Habit</string>
     <string name="bugreport">Report Error</string>
     <string name="light_change">Backlight</string>
-    <string name="wrist_up">Lift the wrist</string>
+    <string name="wrist_up">Activate on Wrist Raise</string>
     <string name="auto_nodisturb">Silent Time</string>
     <string name="double_click_wakeup">Tap to Wake</string>
     <string name="vibration_intensity">Vibration</string>
