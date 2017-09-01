@@ -602,8 +602,8 @@ Zap"</string>
     <string name="moisture">Vlhkost</string>
     <string name="no_aqi">Kvalita ovzduší nezjištěna</string>
     <string name="no_outdoor_info">Nejsou data</string>
-    <string name="outdoor_info_notsuit">Nevhodné k venkovnímu sportování</string>
-    <string name="outdoor_info_suit">Vhodné k venkovnímu sportování</string>
+    <string name="outdoor_info_notsuit">Nevhodné ke sportu</string>
+    <string name="outdoor_info_suit">Vhodné ke sportu</string>
     <string name="uv">UV záření</string>
     <string name="weather">Počasí</string>
     <string name="weather_warning">Upozornění</string>
