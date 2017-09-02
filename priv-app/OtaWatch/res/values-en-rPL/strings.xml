@@ -19,6 +19,9 @@ w aplikacji Amazfit"</string>
     <string name="checking_rom">Sprawdzanie nowych wersji</string>
     <string name="checking_rom_failed">"Przekroczono limit czasu poł.sieciowego, spróbuj ponownie"</string>
     <string name="current_is_new">Najnowsza wersja jest uruchomiona</string>
+    <string name="has_new_rom_all">"Znaleziono nowa wersję.
+Ponieważ masz starszą wersję, uaktualnienie
+może trwać dłużej, prosimy o cierpliwość?"</string>
     <string name="has_new_rom">"Nowa wersja została znaleziona,
 aktual.do wersji %1$s?"</string>
     <string name="processbar_downloading_rom">Pobieranie...</string>

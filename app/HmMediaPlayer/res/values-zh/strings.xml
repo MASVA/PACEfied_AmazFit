@@ -14,10 +14,13 @@
     <string name="check_network">检查网络</string>
     <string name="music_continue_downloading">歌曲继续将下载</string>
     <string name="music_service_unavalible">抱歉，该功能已停止服务。</string>
+    <string name="mode_singles">单曲循环</string>
+    <string name="mode_loop">顺序播放</string>
+    <string name="mode_random">随机播放</string>
     <string name="music_list_title">播放设置</string>
     <string name="music_volumn_control">音量控制</string>
     <string name="music_douban_offline">豆瓣FM离线</string>
-    <string name="music_play_mode">更换模式</string>
+    <string name="music_play_mode">播放模式</string>
     <string name="music_play_source">更换曲库</string>
     <string name="music_source_douban">豆瓣FM</string>
     <string name="music_source_local">本地歌曲</string>

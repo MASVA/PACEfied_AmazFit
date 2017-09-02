@@ -127,6 +127,19 @@
     <string name="sport_widget_title_setting">Nastavení</string>
     <string name="sport_widget_title_music">Hudba</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
+    <string name="export_gpx">Export trasy</string>
+    <string name="btn_cancel">Zrušit</string>
+    <string name="btn_confirm">Pokračovat</string>
+    <string name="hint_rolling">Exportu trasy, prosím, buďte trpěliví.</string>
+    <string name="dlg_msg_hint_cancel">Zrušit export trasy?</string>
+    <string name="dlg_btn_l_msg">ne</string>
+    <string name="dlg_btn_r_msg">ano</string>
+    <string name="hint_cancelling">Ruší se...</string>
+    <string name="hint_success_exported_title">Uspěšně vyexportováno</string>
+    <string name="hint_failed_exported_title">Export trasy selhal</string>
+    <string name="hint_where">"Trasa byla exportována do adresáře GPXDATA
+Pro stažení připojte hodinky k počítači"</string>
+    <string name="hint_failed">Export trasy se nezdařil, prosím opakujte.</string>
     <string name="app_name">Sporty</string>
     <string name="sport_item_running_title">Běh</string>
     <string name="sport_item_walking_title">Chůze</string>
@@ -340,6 +353,9 @@
     <string name="setting_sport_heart_region_text_custom">Vlastní</string>
     <string name="remind_heart_rate_region_over">Tep je příliš vysoký</string>
     <string name="remind_heart_rate_region_less">Tep je příliš nízký</string>
+    <string name="real_time_route">Real-time trasa</string>
+    <string name="real_time_output">Export</string>
+    <string name="real_time_total_dis_title">Celková vzdálenost</string>
     <string name="complete_training_project">Tréninkový program je dokončen.</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Běh %1s Km</string>
