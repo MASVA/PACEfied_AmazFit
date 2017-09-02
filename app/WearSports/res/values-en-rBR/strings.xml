@@ -64,6 +64,8 @@
     <string name="gpx_offset_route">Trajetória desviada</string>
     <string name="gpx_back_route">Retornou à trilha</string>
     <string name="gpx_alreay_offset">Desvio</string>
+    <string name="gpx_no_find_route">Nenhuma trilha disp. encontrada</string>
+    <string name="gpx_no_route_guide">Por favor conecte aos computador e copie o arquivo GPX para a pasta \"gpxdata\" e tente de novo</string>
     <string name="indoor_run_progressing">Corrida</string>
     <string name="music_title">Música</string>
     <string name="music_local_title">Música esportiva</string>
@@ -398,8 +400,6 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Configurações</string>
     <string name="sport_music_settings">Música esportiva</string>
-    <string name="gpx_no_find_route">Nenhuma trilha disponível encontrada</string>
-    <string name="gpx_no_route_guide">Conecte ao computador e copie o arquivo GPX para a pasta \"gpxdata\" e tente novamente</string>
     <string name="widget_currentstep_title">Estatísticas</string>
     <string name="widget_currentstep_activities">Passo hoje</string>
     <string name="widget_currentstep_sleep_hour">h</string>

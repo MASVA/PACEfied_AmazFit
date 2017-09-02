@@ -16,6 +16,9 @@
     <string name="check_network">Verifique a rede</string>
     <string name="music_continue_downloading">As músicas continuarão sendo baixadas</string>
     <string name="music_service_unavalible">O serviço DouBan está Indisponível</string>
+    <string name="mode_singles">repetir esta</string>
+    <string name="mode_loop">repetir</string>
+    <string name="mode_random">aleatório</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="music_list_title">Config. reprod.</string>
     <string name="music_volumn_control">Volume</string>
