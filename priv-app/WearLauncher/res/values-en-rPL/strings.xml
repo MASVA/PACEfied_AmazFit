@@ -553,7 +553,7 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="battery_info_status_not_charging">Nie ładuje się</string>
     <string name="battery_info_status_full">Pełna</string>
     <string name="battery_info_status_percentage">%</string>
-    <string name="quick_settings_notification_title">przerwy/string>
+    <string name="quick_settings_notification_title">przerwy</string>
     <string name="quick_settings_notifications_none">None</string>
     <string name="quick_settings_notifications_not_even_alarms">Not even alarms</string>
     <string name="quick_settings_notifications_priority">Tylko priorytety</string>
@@ -635,7 +635,6 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-<!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centrum danych</string>
     <string name="widget_currentstep_activities">Kroki dzisiaj</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -643,5 +642,4 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
     <string name="widget_currentstep_sleep_no">Brak danych snu</string>
     <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
-<!--END of missed texts by Huami-->
 </resources>
