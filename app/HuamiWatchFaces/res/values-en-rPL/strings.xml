@@ -32,6 +32,7 @@
     <string name="custom_data_widget_title_date">Data</string>
     <string name="custom_data_widget_title_floor">Poziom</string>
     <string name="custom_data_widget_date_2">datawidget/date_2/en/week_%d.png</string>
+    <string name="custom_data_widget_date_3">datawidget/date_3/en/week_%d.png</string>
     <string name="cube_month">-</string>
     <string name="cube_day" />
     <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/en/watchface_slpt_number_km.png</string>
@@ -58,6 +59,8 @@
     <string name="watch_label_thirteen">2017</string>
     <string name="watch_label_fourteen">Eternal Moment</string>
     <string name="watch_label_fifteen">Golden Rooster</string>
+    <string name="watch_label_sixteen">Everest</string>
+    <string name="watch_label_seventeen">Prototype·Source</string>
     <string name="watch_today_step">Dzisiejsze kroki</string>
     <string name="sport_step">Kroki</string>
     <string name="everyminute_times">uderz/min</string>
