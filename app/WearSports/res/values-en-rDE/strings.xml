@@ -2,15 +2,15 @@
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Sprache auswählen</string>
-    <string name="crossing_title">Traillaufen</string>
-    <string name="crossing_end_sport">Bitte stoppen Sie zuerst Traillauf</string>
-    <string name="crossing_in_progress">Traillauf...</string>
+    <string name="crossing_title">Spaziergang</string>
+    <string name="crossing_end_sport">Bitte stoppen Sie zuerst Spaziergang</string>
+    <string name="crossing_in_progress">Spaziergang läuft...</string>
     <string name="crossing_max_step_freq_desc">Max Cadence</string>
     <string name="crossing_climb_up">Elevation Gain</string>
     <string name="crossing_climb_down">Elevation Loss</string>
     <string name="crossing_vertical_speed">Vertikale Geschwindigkeit</string>
     <string name="crossing_individual_pen_dis">Single lap distance</string>
-    <string name="crossing_individual_pen_cost_time">Single lap time</string>
+    <string name="crossing_individual_pen_cost_time">Einzel Rundenzeit</string>
     <string name="crossing_individual_pen_pace">Single lap pace</string>
     <string name="crossing_climb_unit">Füße</string>
     <string name="crossing_vertical_velocity_unit">ft/h</string>
@@ -35,7 +35,7 @@
     <string name="crossing_remind_target_individual_cost_time">Verstrichene Zeit</string>
     <string name="crossing_remind_target_individual_pace">Tempo</string>
     <string name="agps_time_out">GPS nicht gefunden. GPS wird gesucht. Bitte aktualisieren Sie Amazfit Watch App.</string>
-    <string name="safe_hearate_remind_content">When above %1d</string>
+    <string name="safe_hearate_remind_content">Wenn über %1d</string>
     <string name="settings_safe_heart_rate_hint">(sichere Herzfrequenz)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
     <string name="elliptical">Elliptical</string>
