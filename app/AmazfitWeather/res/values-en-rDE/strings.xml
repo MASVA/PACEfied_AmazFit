@@ -58,7 +58,7 @@
     <string name="unknown">Unbekannt</string>
     <string name="fetch_failed_title">Wetterinformationen können nicht empfangen werden</string>
     <string name="fetch_failed_msg">Bitte stelle sicher, das die Uhr mit der Amazfit Watch App verbunden ist und die Region richtig eingestellt wurde.</string>
-    <string name="date_time_format">MM-dd</string>
+    <string name="date_time_format">dd-MM</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Wettertyp nicht erkannt</string>
     <string name="data_checkfail_temp">Wettertemperatur außerhalb des zulässigen Bereichs</string>
