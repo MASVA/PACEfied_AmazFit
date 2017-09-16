@@ -1,0 +1,2 @@
+#!/system/bin/sh
+content insert --uri content://settings/system --bind value:s:15 --bind name:s:volume_music_bt_a2dp
