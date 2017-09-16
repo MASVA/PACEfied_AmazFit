@@ -144,7 +144,7 @@
     <string name="open_xiaom_app_failed_content">Retry after installing MiFit app</string>
     <string name="stretch_notification_subtitle">Sitting too much</string>
     <string name="stretch_notification_content">Stretch exercises help loosen stiff muscles from sitting too much</string>
-    <string name="heart_name">Heart</string>
+    <string name="heart_name">Heart Rate</string>
     <string name="step_name">Step</string>
     <string name="sleep_name">Sleep</string>
     <string name="floor_description">"Note: \"One floor\" is roughtly 9.84 feet in "</string>
@@ -259,6 +259,7 @@
     <string name="currentstep_detail_activity_chart_unit">Unit: hour</string>
     <string name="date_format">MM/dd</string>
     <string name="widget_weeklyreports_nodata">Not Available</string>
+    <string name="app_list_title">Activity</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>

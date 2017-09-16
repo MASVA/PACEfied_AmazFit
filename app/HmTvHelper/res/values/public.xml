@@ -239,6 +239,7 @@
     <public type="mipmap" name="handset_volume_bg" id="0x7f03001b" />
     <public type="mipmap" name="handset_volume_focus" id="0x7f03001c" />
     <public type="mipmap" name="handset_weight_icon_tv" id="0x7f03001d" />
+    <public type="mipmap" name="lan_voice_input_bg" id="0x7f03001f" />
     <public type="layout" name="activity_main" id="0x7f040000" />
     <public type="layout" name="animation_bg" id="0x7f040001" />
     <public type="layout" name="common_dialog_view" id="0x7f040002" />
@@ -357,20 +358,22 @@
     <public type="color" name="unlock_progress_bg" id="0x7f07005c" />
     <public type="color" name="altitude_start_color" id="0x7f07005d" />
     <public type="color" name="altitude_end_color" id="0x7f07005e" />
-    <public type="color" name="setting_bg" id="0x7f07005f" />
-    <public type="color" name="main_bg_color" id="0x7f070060" />
-    <public type="color" name="main_text_color" id="0x7f070061" />
-    <public type="color" name="blt_setting_bg_color" id="0x7f070062" />
-    <public type="color" name="loading_txt_color" id="0x7f070063" />
-    <public type="color" name="colorPrimary" id="0x7f070064" />
-    <public type="color" name="colorPrimaryDark" id="0x7f070065" />
-    <public type="color" name="colorAccent" id="0x7f070066" />
-    <public type="color" name="tv_title_color" id="0x7f070067" />
-    <public type="color" name="tv_device_background_color" id="0x7f070068" />
-    <public type="color" name="tv_device_tx_color" id="0x7f070069" />
-    <public type="color" name="tv_dialog_tx_color" id="0x7f07006a" />
-    <public type="color" name="tv_research_color" id="0x7f07006b" />
-    <public type="color" name="tv_voice_bg_color" id="0x7f07006c" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f07005f" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f070060" />
+    <public type="color" name="setting_bg" id="0x7f070061" />
+    <public type="color" name="main_bg_color" id="0x7f070062" />
+    <public type="color" name="main_text_color" id="0x7f070063" />
+    <public type="color" name="blt_setting_bg_color" id="0x7f070064" />
+    <public type="color" name="loading_txt_color" id="0x7f070065" />
+    <public type="color" name="colorPrimary" id="0x7f070066" />
+    <public type="color" name="colorPrimaryDark" id="0x7f070067" />
+    <public type="color" name="colorAccent" id="0x7f070068" />
+    <public type="color" name="tv_title_color" id="0x7f070069" />
+    <public type="color" name="tv_device_background_color" id="0x7f07006a" />
+    <public type="color" name="tv_device_tx_color" id="0x7f07006b" />
+    <public type="color" name="tv_dialog_tx_color" id="0x7f07006c" />
+    <public type="color" name="tv_research_color" id="0x7f07006d" />
+    <public type="color" name="tv_voice_bg_color" id="0x7f07006e" />
     <public type="dimen" name="card_content_padding_rect_top" id="0x7f080000" />
     <public type="dimen" name="close_button_diameter" id="0x7f080001" />
     <public type="dimen" name="dismiss_padding" id="0x7f080002" />
@@ -436,6 +439,7 @@
     <public type="dimen" name="tv_dialog_title_size" id="0x7f08003e" />
     <public type="dimen" name="tv_dialog_content_size" id="0x7f08003f" />
     <public type="dimen" name="tv_launcher_guide_size" id="0x7f080040" />
+    <public type="dimen" name="tv_commond_icon_title_size" id="0x7f080041" />
     <public type="style" name="PromptDialog" id="0x7f09000f" />
     <public type="style" name="HMProgressBar" id="0x7f090010" />
     <public type="style" name="HMProgressBar.Large" id="0x7f090011" />
@@ -490,48 +494,47 @@
     <public type="id" name="action_success" id="0x7f0a001e" />
     <public type="id" name="animation" id="0x7f0a001f" />
     <public type="id" name="message" id="0x7f0a0020" />
-    <public type="id" name="power" id="0x7f0a0021" />
-    <public type="id" name="voice" id="0x7f0a0022" />
-    <public type="id" name="controller_menu_back" id="0x7f0a0023" />
-    <public type="id" name="back" id="0x7f0a0024" />
-    <public type="id" name="menu" id="0x7f0a0025" />
-    <public type="id" name="controller_change_ok" id="0x7f0a0026" />
-    <public type="id" name="direction" id="0x7f0a0027" />
-    <public type="id" name="ok" id="0x7f0a0028" />
-    <public type="id" name="voice_face" id="0x7f0a0029" />
-    <public type="id" name="voice_animatior" id="0x7f0a002a" />
-    <public type="id" name="dismiss_overlay_explain" id="0x7f0a002b" />
-    <public type="id" name="dismiss_overlay_button" id="0x7f0a002c" />
-    <public type="id" name="title" id="0x7f0a002d" />
-    <public type="id" name="content" id="0x7f0a002e" />
-    <public type="id" name="know" id="0x7f0a002f" />
-    <public type="id" name="operation" id="0x7f0a0030" />
-    <public type="id" name="datacenter_viewpager" id="0x7f0a0031" />
-    <public type="id" name="pager_indicator" id="0x7f0a0032" />
-    <public type="id" name="anchor_view" id="0x7f0a0033" />
-    <public type="id" name="picker_listview" id="0x7f0a0034" />
-    <public type="id" name="picker_unit" id="0x7f0a0035" />
-    <public type="id" name="tv_search" id="0x7f0a0036" />
-    <public type="id" name="foot_guide" id="0x7f0a0037" />
-    <public type="id" name="head_title" id="0x7f0a0038" />
-    <public type="id" name="tv_device" id="0x7f0a0039" />
-    <public type="id" name="tv_device_icon" id="0x7f0a003a" />
-    <public type="id" name="tv_device_name" id="0x7f0a003b" />
-    <public type="id" name="launcher_view" id="0x7f0a003c" />
-    <public type="id" name="seatch_icon" id="0x7f0a003d" />
-    <public type="id" name="action" id="0x7f0a003e" />
-    <public type="id" name="guide" id="0x7f0a003f" />
-    <public type="id" name="voice_controller_container" id="0x7f0a0040" />
-    <public type="id" name="quiet" id="0x7f0a0041" />
-    <public type="id" name="voice_level" id="0x7f0a0042" />
-    <public type="id" name="loud" id="0x7f0a0043" />
-    <public type="id" name="divider" id="0x7f0a0044" />
-    <public type="id" name="device_title" id="0x7f0a0045" />
-    <public type="id" name="device_container" id="0x7f0a0046" />
-    <public type="id" name="device_name" id="0x7f0a0047" />
-    <public type="id" name="device_change" id="0x7f0a0048" />
-    <public type="id" name="voicing" id="0x7f0a0049" />
-    <public type="id" name="text" id="0x7f0a004a" />
+    <public type="id" name="controller_menu_back" id="0x7f0a0021" />
+    <public type="id" name="back" id="0x7f0a0022" />
+    <public type="id" name="menu" id="0x7f0a0023" />
+    <public type="id" name="controller_change_ok" id="0x7f0a0024" />
+    <public type="id" name="direction" id="0x7f0a0025" />
+    <public type="id" name="ok" id="0x7f0a0026" />
+    <public type="id" name="dismiss_overlay_explain" id="0x7f0a0027" />
+    <public type="id" name="dismiss_overlay_button" id="0x7f0a0028" />
+    <public type="id" name="title" id="0x7f0a0029" />
+    <public type="id" name="content" id="0x7f0a002a" />
+    <public type="id" name="know" id="0x7f0a002b" />
+    <public type="id" name="operation" id="0x7f0a002c" />
+    <public type="id" name="datacenter_viewpager" id="0x7f0a002d" />
+    <public type="id" name="voice" id="0x7f0a002e" />
+    <public type="id" name="voice_face" id="0x7f0a002f" />
+    <public type="id" name="voice_animatior" id="0x7f0a0030" />
+    <public type="id" name="anchor_view" id="0x7f0a0031" />
+    <public type="id" name="picker_listview" id="0x7f0a0032" />
+    <public type="id" name="picker_unit" id="0x7f0a0033" />
+    <public type="id" name="tv_search" id="0x7f0a0034" />
+    <public type="id" name="foot_guide" id="0x7f0a0035" />
+    <public type="id" name="head_title" id="0x7f0a0036" />
+    <public type="id" name="tv_device" id="0x7f0a0037" />
+    <public type="id" name="tv_device_icon" id="0x7f0a0038" />
+    <public type="id" name="tv_device_name" id="0x7f0a0039" />
+    <public type="id" name="launcher_view" id="0x7f0a003a" />
+    <public type="id" name="seatch_icon" id="0x7f0a003b" />
+    <public type="id" name="action" id="0x7f0a003c" />
+    <public type="id" name="guide" id="0x7f0a003d" />
+    <public type="id" name="power_change_container" id="0x7f0a003e" />
+    <public type="id" name="power_container" id="0x7f0a003f" />
+    <public type="id" name="power" id="0x7f0a0040" />
+    <public type="id" name="power_title" id="0x7f0a0041" />
+    <public type="id" name="change_container" id="0x7f0a0042" />
+    <public type="id" name="device_change" id="0x7f0a0043" />
+    <public type="id" name="device_name" id="0x7f0a0044" />
+    <public type="id" name="voice_controller_container" id="0x7f0a0045" />
+    <public type="id" name="quiet" id="0x7f0a0046" />
+    <public type="id" name="voice_level" id="0x7f0a0047" />
+    <public type="id" name="loud" id="0x7f0a0048" />
+    <public type="id" name="text" id="0x7f0a0049" />
     <public type="string" name="average_text" id="0x7f0b0000" />
     <public type="string" name="menu_item_high_light_scale_factor" id="0x7f0b0001" />
     <public type="string" name="picker_default_positive_text" id="0x7f0b0002" />
@@ -555,14 +558,16 @@
     <public type="string" name="tv_use_content" id="0x7f0b001b" />
     <public type="string" name="tv_current_device" id="0x7f0b001c" />
     <public type="string" name="tv_launcher_guide" id="0x7f0b001d" />
-    <public type="string" name="error_bluetooth_title" id="0x7f0b001e" />
-    <public type="string" name="error_bluetooth_content" id="0x7f0b001f" />
-    <public type="string" name="error_wifi_title" id="0x7f0b0020" />
-    <public type="string" name="error_wifi_content" id="0x7f0b0021" />
-    <public type="string" name="error_connect_title" id="0x7f0b0022" />
-    <public type="string" name="error_connect_content" id="0x7f0b0023" />
-    <public type="string" name="error_device_title" id="0x7f0b0024" />
-    <public type="string" name="error_device_content" id="0x7f0b0025" />
+    <public type="string" name="tv_power_title" id="0x7f0b001e" />
+    <public type="string" name="tv_change_title" id="0x7f0b001f" />
+    <public type="string" name="error_bluetooth_title" id="0x7f0b0020" />
+    <public type="string" name="error_bluetooth_content" id="0x7f0b0021" />
+    <public type="string" name="error_wifi_title" id="0x7f0b0022" />
+    <public type="string" name="error_wifi_content" id="0x7f0b0023" />
+    <public type="string" name="error_connect_title" id="0x7f0b0024" />
+    <public type="string" name="error_connect_content" id="0x7f0b0025" />
+    <public type="string" name="error_device_title" id="0x7f0b0026" />
+    <public type="string" name="error_device_content" id="0x7f0b0027" />
     <public type="string" name="widget_currentstep_title" id="0x7f0b0009" />
     <public type="string" name="widget_currentstep_activities" id="0x7f0b000a" />
     <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0b000b" />

@@ -416,20 +416,22 @@
     <public type="color" name="unlock_progress_bg" id="0x7f07005c" />
     <public type="color" name="altitude_start_color" id="0x7f07005d" />
     <public type="color" name="altitude_end_color" id="0x7f07005e" />
-    <public type="color" name="setting_bg" id="0x7f07005f" />
-    <public type="color" name="main_bg_color" id="0x7f070060" />
-    <public type="color" name="main_text_color" id="0x7f070061" />
-    <public type="color" name="blt_setting_bg_color" id="0x7f070062" />
-    <public type="color" name="loading_txt_color" id="0x7f070063" />
-    <public type="color" name="bt_accent" id="0x7f070064" />
-    <public type="color" name="music_volumn_base_color" id="0x7f070065" />
-    <public type="color" name="music_volumn_progress_color" id="0x7f070066" />
-    <public type="color" name="music_name_color" id="0x7f070067" />
-    <public type="color" name="music_download_color" id="0x7f070068" />
-    <public type="color" name="music_color_base" id="0x7f070069" />
-    <public type="color" name="music_color_arc" id="0x7f07006a" />
-    <public type="color" name="music_color_progress" id="0x7f07006b" />
-    <public type="color" name="selector_color" id="0x7f07006c" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f07005f" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f070060" />
+    <public type="color" name="setting_bg" id="0x7f070061" />
+    <public type="color" name="main_bg_color" id="0x7f070062" />
+    <public type="color" name="main_text_color" id="0x7f070063" />
+    <public type="color" name="blt_setting_bg_color" id="0x7f070064" />
+    <public type="color" name="loading_txt_color" id="0x7f070065" />
+    <public type="color" name="bt_accent" id="0x7f070066" />
+    <public type="color" name="music_volumn_base_color" id="0x7f070067" />
+    <public type="color" name="music_volumn_progress_color" id="0x7f070068" />
+    <public type="color" name="music_name_color" id="0x7f070069" />
+    <public type="color" name="music_download_color" id="0x7f07006a" />
+    <public type="color" name="music_color_base" id="0x7f07006b" />
+    <public type="color" name="music_color_arc" id="0x7f07006c" />
+    <public type="color" name="music_color_progress" id="0x7f07006d" />
+    <public type="color" name="selector_color" id="0x7f07006e" />
     <public type="dimen" name="card_content_padding_rect_top" id="0x7f080000" />
     <public type="dimen" name="close_button_diameter" id="0x7f080001" />
     <public type="dimen" name="dismiss_padding" id="0x7f080002" />

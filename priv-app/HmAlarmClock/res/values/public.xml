@@ -427,8 +427,10 @@
     <public type="color" name="unlock_progress_bg" id="0x7f070067" />
     <public type="color" name="altitude_start_color" id="0x7f070068" />
     <public type="color" name="altitude_end_color" id="0x7f070069" />
-    <public type="color" name="setting_bg" id="0x7f07006a" />
-    <public type="color" name="main_text_color" id="0x7f07006b" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f07006a" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f07006b" />
+    <public type="color" name="setting_bg" id="0x7f07006c" />
+    <public type="color" name="main_text_color" id="0x7f07006d" />
     <public type="dimen" name="label_text_size" id="0x7f080000" />
     <public type="dimen" name="stop_watch_lap_list_time_text_size" id="0x7f080001" />
     <public type="dimen" name="stop_watch_lap_list_hundredths_time_text_size" id="0x7f080002" />

@@ -247,4 +247,5 @@
     <string name="currentstep_detail_activity_chart_unit">(单位:小时)</string>
     <string name="date_format">MM月dd日</string>
     <string name="widget_weeklyreports_nodata">暂无上周数据</string>
+    <string name="app_list_title">数据中心</string>
 </resources>

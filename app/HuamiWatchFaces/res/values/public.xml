@@ -616,8 +616,10 @@
     <public type="color" name="unlock_progress_bg" id="0x7f08008b" />
     <public type="color" name="altitude_start_color" id="0x7f08008c" />
     <public type="color" name="altitude_end_color" id="0x7f08008d" />
-    <public type="color" name="setting_bg" id="0x7f08008e" />
-    <public type="color" name="main_text_color" id="0x7f08008f" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f08008e" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f08008f" />
+    <public type="color" name="setting_bg" id="0x7f080090" />
+    <public type="color" name="main_text_color" id="0x7f080091" />
     <public type="dimen" name="flash_text_title_size" id="0x7f090000" />
     <public type="dimen" name="flash_text_content_size" id="0x7f090001" />
     <public type="dimen" name="flash_text_width" id="0x7f090002" />

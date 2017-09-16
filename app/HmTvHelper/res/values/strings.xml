@@ -23,6 +23,8 @@
     <string name="tv_use_content">请保持电视开机并与手机连入同一Wi-Fi</string>
     <string name="tv_current_device">当前设备</string>
     <string name="tv_launcher_guide">提示: 部分小米电视和盒子不支持语音功能</string>
+    <string name="tv_power_title">关机</string>
+    <string name="tv_change_title">切换设备</string>
     <string name="error_bluetooth_title">蓝牙已断开</string>
     <string name="error_bluetooth_content">请检查手表与手机的蓝牙连接。</string>
     <string name="error_wifi_title">Wi-Fi连接已断开</string>

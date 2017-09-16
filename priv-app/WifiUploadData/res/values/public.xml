@@ -199,12 +199,14 @@
     <public type="color" name="unlock_progress_bg" id="0x7f06005c" />
     <public type="color" name="altitude_start_color" id="0x7f06005d" />
     <public type="color" name="altitude_end_color" id="0x7f06005e" />
-    <public type="color" name="setting_bg" id="0x7f06005f" />
-    <public type="color" name="main_bg_color" id="0x7f060060" />
-    <public type="color" name="main_text_color" id="0x7f060061" />
-    <public type="color" name="colorPrimary" id="0x7f060062" />
-    <public type="color" name="colorPrimaryDark" id="0x7f060063" />
-    <public type="color" name="colorAccent" id="0x7f060064" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f06005f" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f060060" />
+    <public type="color" name="setting_bg" id="0x7f060061" />
+    <public type="color" name="main_bg_color" id="0x7f060062" />
+    <public type="color" name="main_text_color" id="0x7f060063" />
+    <public type="color" name="colorPrimary" id="0x7f060064" />
+    <public type="color" name="colorPrimaryDark" id="0x7f060065" />
+    <public type="color" name="colorAccent" id="0x7f060066" />
     <public type="dimen" name="bench_xaxis_text_size" id="0x7f070000" />
     <public type="dimen" name="xaxis_offset" id="0x7f070001" />
     <public type="dimen" name="average_line_width" id="0x7f070002" />

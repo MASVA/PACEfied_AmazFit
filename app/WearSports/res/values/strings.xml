@@ -128,20 +128,7 @@
     <string name="sport_widget_title_setting">Settings</string>
     <string name="sport_widget_title_music">Music</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="export_gpx">导出轨迹</string>
-    <string name="btn_cancel">取 消</string>
-    <string name="btn_confirm">确 定</string>
-    <string name="hint_rolling">正在导出轨迹，请耐心等待。</string>
-    <string name="dlg_msg_hint_cancel">是否取消本次轨迹导出？</string>
-    <string name="dlg_btn_l_msg">否</string>
-    <string name="dlg_btn_r_msg">是</string>
-    <string name="hint_cancelling">正在取消...</string>
-    <string name="hint_success_exported_title">轨迹导出成功</string>
-    <string name="hint_failed_exported_title">轨迹导出失败</string>
-    <string name="hint_where">"已将轨迹放入gpxdata文件夹。
-将手表连接到电脑即可拷贝使用。"</string>
-    <string name="hint_failed">轨迹导出失败，请重试。</string>
-    <string name="app_name">Sports</string>
+    <string name="app_name">gpx-recorder</string>
     <string name="sport_item_running_title">Run</string>
     <string name="sport_item_walking_title">Walking</string>
     <string name="title_activity_main">MainActivity</string>
@@ -392,6 +379,20 @@
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Altitude(feet)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Speed(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
+    <string name="export_gpx">Export Track to GPX</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="hint_rolling">Exporting, please wait for a while ...</string>
+    <string name="dlg_msg_hint_cancel">Do you want to cancel this track export?</string>
+    <string name="dlg_btn_l_msg">No</string>
+    <string name="dlg_btn_r_msg">Yes</string>
+    <string name="hint_cancelling">Cancelling...</string>
+    <string name="hint_success_exported_title">The track was exported succesfully.</string>
+    <string name="hint_failed_exported_title">Failed to Export</string>
+    <string name="hint_where">"The gpx file has been places in 
+ dir '/sdcard/gpxdata'。
+ You can get it by through a computer file browser."</string>
+    <string name="hint_failed">Failed to export the track, please try again.</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>

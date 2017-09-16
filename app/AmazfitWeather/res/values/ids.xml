@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="id" name="container">false</item>
+    <item type="id" name="weather_detail_pager">false</item>
+    <item type="id" name="page_indicator">false</item>
     <item type="id" name="temp_layout">false</item>
     <item type="id" name="status_text_date">false</item>
     <item type="id" name="status_text_weather">false</item>
@@ -24,6 +26,9 @@
     <item type="id" name="uv_icon">false</item>
     <item type="id" name="uv_tip">false</item>
     <item type="id" name="detailed_uv">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="picker_listview">false</item>
+    <item type="id" name="picker_unit">false</item>
     <item type="id" name="date_one">false</item>
     <item type="id" name="img_one">false</item>
     <item type="id" name="dataup_one">false</item>
