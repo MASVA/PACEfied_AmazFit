@@ -16,6 +16,9 @@
     <string name="check_network">Sprawdź sieć</string>
     <string name="music_continue_downloading">Pobieranie utw. bedzie kontynuowane</string>
     <string name="music_service_unavalible">Usługa DouBan jest niedostępna</string>
+    <string name="mode_singles">pojedyńcze</string>
+    <string name="mode_loop">pętla</string>
+    <string name="mode_random">losowy</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="music_list_title">Ust.odtwarzania</string>
     <string name="music_volumn_control">Głośność</string>
