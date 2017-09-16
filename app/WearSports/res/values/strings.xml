@@ -66,6 +66,7 @@
     <string name="gpx_alreay_offset">Deviate</string>
     <string name="gpx_no_find_route">No available tracks found</string>
     <string name="gpx_no_route_guide">Please connect to the computer and copy the GPX file to the \"gpxdata\" folder and try again</string>
+    <string name="bpm_to">bpm to</string>
     <string name="indoor_run_progressing">Running</string>
     <string name="music_title">Music</string>
     <string name="music_local_title">Sports music</string>
