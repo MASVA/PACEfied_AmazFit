@@ -379,9 +379,11 @@
     <public type="color" name="unlock_progress_bg" id="0x7f070069" />
     <public type="color" name="altitude_start_color" id="0x7f07006a" />
     <public type="color" name="altitude_end_color" id="0x7f07006b" />
-    <public type="color" name="main_text_color" id="0x7f07006c" />
-    <public type="color" name="blt_setting_bg_color" id="0x7f07006d" />
-    <public type="color" name="loading_txt_color" id="0x7f07006e" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f07006c" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f07006d" />
+    <public type="color" name="main_text_color" id="0x7f07006e" />
+    <public type="color" name="blt_setting_bg_color" id="0x7f07006f" />
+    <public type="color" name="loading_txt_color" id="0x7f070070" />
     <public type="dimen" name="card_content_padding_rect_top" id="0x7f080000" />
     <public type="dimen" name="close_button_diameter" id="0x7f080001" />
     <public type="dimen" name="dismiss_padding" id="0x7f080002" />

@@ -76,6 +76,8 @@
     <string name="update_online">在线升级</string>
     <string name="update_local">本地升级</string>
     <string name="local_update_confirm_1_title">注意事项</string>
+    <string name="local_update_invalid_zip">"该卡刷包系统版本过低,
+建议使用最新版本升级"</string>
     <string name="local_update_confirm_1_msg">"为确保本地升级后的版
 本兼容性问题,我们将清空所
 有数据后安装升级包,安装

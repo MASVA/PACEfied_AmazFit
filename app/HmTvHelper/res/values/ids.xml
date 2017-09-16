@@ -22,16 +22,12 @@
     <item type="id" name="action_success">false</item>
     <item type="id" name="animation">false</item>
     <item type="id" name="message">false</item>
-    <item type="id" name="power">false</item>
-    <item type="id" name="voice">false</item>
     <item type="id" name="controller_menu_back">false</item>
     <item type="id" name="back">false</item>
     <item type="id" name="menu">false</item>
     <item type="id" name="controller_change_ok">false</item>
     <item type="id" name="direction">false</item>
     <item type="id" name="ok">false</item>
-    <item type="id" name="voice_face">false</item>
-    <item type="id" name="voice_animatior">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
     <item type="id" name="title">false</item>
@@ -39,7 +35,9 @@
     <item type="id" name="know">false</item>
     <item type="id" name="operation">false</item>
     <item type="id" name="datacenter_viewpager">false</item>
-    <item type="id" name="pager_indicator">false</item>
+    <item type="id" name="voice">false</item>
+    <item type="id" name="voice_face">false</item>
+    <item type="id" name="voice_animatior">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
@@ -53,15 +51,16 @@
     <item type="id" name="seatch_icon">false</item>
     <item type="id" name="action">false</item>
     <item type="id" name="guide">false</item>
+    <item type="id" name="power_change_container">false</item>
+    <item type="id" name="power_container">false</item>
+    <item type="id" name="power">false</item>
+    <item type="id" name="power_title">false</item>
+    <item type="id" name="change_container">false</item>
+    <item type="id" name="device_change">false</item>
+    <item type="id" name="device_name">false</item>
     <item type="id" name="voice_controller_container">false</item>
     <item type="id" name="quiet">false</item>
     <item type="id" name="voice_level">false</item>
     <item type="id" name="loud">false</item>
-    <item type="id" name="divider">false</item>
-    <item type="id" name="device_title">false</item>
-    <item type="id" name="device_container">false</item>
-    <item type="id" name="device_name">false</item>
-    <item type="id" name="device_change">false</item>
-    <item type="id" name="voicing">false</item>
     <item type="id" name="text">false</item>
 </resources>

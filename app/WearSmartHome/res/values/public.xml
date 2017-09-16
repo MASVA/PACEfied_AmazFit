@@ -453,16 +453,18 @@
     <public type="color" name="unlock_progress_bg" id="0x7f09005c" />
     <public type="color" name="altitude_start_color" id="0x7f09005d" />
     <public type="color" name="altitude_end_color" id="0x7f09005e" />
-    <public type="color" name="setting_bg" id="0x7f09005f" />
-    <public type="color" name="main_bg_color" id="0x7f090060" />
-    <public type="color" name="main_text_color" id="0x7f090061" />
-    <public type="color" name="mihome_card_0_prop_color" id="0x7f090062" />
-    <public type="color" name="mihome_card_0_title_color" id="0x7f090063" />
-    <public type="color" name="mihome_card_1_prop_color" id="0x7f090064" />
-    <public type="color" name="mihome_card_1_title_color" id="0x7f090065" />
-    <public type="color" name="mihome_card_1_status_color" id="0x7f090066" />
-    <public type="color" name="mihome_card_2_title_color" id="0x7f090067" />
-    <public type="color" name="mihome_card_2_prop_color" id="0x7f090068" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f09005f" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f090060" />
+    <public type="color" name="setting_bg" id="0x7f090061" />
+    <public type="color" name="main_bg_color" id="0x7f090062" />
+    <public type="color" name="main_text_color" id="0x7f090063" />
+    <public type="color" name="mihome_card_0_prop_color" id="0x7f090064" />
+    <public type="color" name="mihome_card_0_title_color" id="0x7f090065" />
+    <public type="color" name="mihome_card_1_prop_color" id="0x7f090066" />
+    <public type="color" name="mihome_card_1_title_color" id="0x7f090067" />
+    <public type="color" name="mihome_card_1_status_color" id="0x7f090068" />
+    <public type="color" name="mihome_card_2_title_color" id="0x7f090069" />
+    <public type="color" name="mihome_card_2_prop_color" id="0x7f09006a" />
     <public type="style" name="PromptDialog" id="0x7f0a0000" />
     <public type="style" name="HMProgressBar" id="0x7f0a0001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f0a0002" />

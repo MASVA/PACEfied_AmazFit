@@ -122,6 +122,9 @@
     <string name="weather_wind_direction_west">Wind W</string>
     <string name="weather_wind_direction_northwest">Wind NW</string>
     <string name="weather_wind_direction_north">Wind N</string>
+    <string name="huami_voice_default_reply">OK</string>
+    <string name="huami_voice_not_support_xiaomi">Sorry, this feature is not yet supported.</string>
+    <string name="huami_voice_not_support_watch">Sorry, this feature is not supported at this time.</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>
