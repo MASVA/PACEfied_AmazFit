@@ -64,6 +64,8 @@
     <string name="gpx_offset_route">Odchylenie trajektori</string>
     <string name="gpx_back_route">Wróciłeś na tor</string>
     <string name="gpx_alreay_offset">Odchylenie</string>
+    <string name="gpx_no_find_route">Brak dostępnych ścieżek</string>
+    <string name="gpx_no_route_guide">Podłącz zegarek do komputera i skopiuj plik GPX do folderu \"gpxdata\" i spróbuj ponownie</string>
     <string name="indoor_run_progressing">Bieganie</string>
     <string name="music_title">Muzyka</string>
     <string name="music_local_title">Sports music</string>
@@ -125,20 +127,7 @@
     <string name="sport_widget_title_setting">Ustawienia</string>
     <string name="sport_widget_title_music">Muzyka</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="export_gpx">eksport GPX</string>
-    <string name="btn_cancel">anuluj</string>
-    <string name="btn_confirm">zatwierdź</string>
-    <string name="hint_rolling">Eksportowanie ścieżek, prosimy o cierpliwość.</string>
-    <string name="dlg_msg_hint_cancel">Anulowac eksport Toru?</string>
-    <string name="dlg_btn_l_msg">nie</string>
-    <string name="dlg_btn_r_msg">tak</string>
-    <string name="hint_cancelling">Anulowanie ...</string>
-    <string name="hint_success_exported_title">Eksport zakończony</string>
-    <string name="hint_failed_exported_title">Eksport przerwany</string>
-    <string name="hint_where">"Tor został umieszczony w folderzr danych GPX.
-Obserwować można za pomocą kopii na komputerze."</string>
-    <string name="hint_failed">Esport śladu nie powiódł się, spóbuj ponownie.</string>
-    <string name="app_name">Sporty</string>
+    <string name="app_name">gpx-recorder</string>
     <string name="sport_item_running_title">Bieg</string>
     <string name="sport_item_walking_title">Chodzenie</string>
     <string name="title_activity_main">Moja aktywność</string>
@@ -389,6 +378,19 @@ Obserwować można za pomocą kopii na komputerze."</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Wysokość(st)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Pręd.(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
+    <string name="export_gpx">Eksport śladu do GPX</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="btn_confirm">Zatwierdź</string>
+    <string name="hint_rolling">Eksport śladów,prosimy o cierpliwość.</string>
+    <string name="dlg_msg_hint_cancel">Anulować eksport Śladu?</string>
+    <string name="dlg_btn_l_msg">Nie</string>
+    <string name="dlg_btn_r_msg">Tak</string>
+    <string name="hint_cancelling">Anulowanie ...</string>
+    <string name="hint_success_exported_title">Eksport zakończony</string>
+    <string name="hint_failed_exported_title">Eksport przerwany</string>
+    <string name="hint_where">"Ślad został umieszczony w folderze '/sdcard/gpxdata'.
+Obserwować można za pomocą przeglądarki plików komputerowych."</string>
+    <string name="hint_failed">Esport śladu nie powiódł się, spóbuj ponownie.</string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zatwierdź</string>
@@ -398,15 +400,4 @@ Obserwować można za pomocą kopii na komputerze."</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="gpx_no_find_route">Brak dostępnych ścieżek</string>
-    <string name="gpx_no_route_guide">Podłącz zegarek do komputera i skopiuj plik GPX do folderu \"gpxdata\" i spróbuj ponownie</string>
-<!--START of missed texts by Huami-->
-	<string name="widget_currentstep_title">Centrum danych</string>
-    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
-    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
-    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
-<!--END of missed texts by Huami-->
 </resources>
