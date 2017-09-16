@@ -140,7 +140,7 @@
     <string name="open_xiaom_app_failed_content">Zainstal.aplikację Xiaomi ponownie</string>
     <string name="stretch_notification_subtitle">Zbyt długo</string>
     <string name="stretch_notification_content">Odpowiednie ćwiczenia zmniejszą ból pleców</string>
-    <string name="heart_name">Serce</string>
+    <string name="heart_name">Tętno</string>
     <string name="step_name">Krok</string>
     <string name="sleep_name">Sen</string>
     <string name="floor_description">Uwaga: "warstwa" około 3 metrów nad poziomem morza</string>
@@ -254,6 +254,7 @@
     <string name="currentstep_detail_activity_chart_unit">(Jedn: godz.)</string>
     <string name="date_format">MM/dd</string>
     <string name="widget_weeklyreports_nodata">Brak danych z ostat.tygodnia</string>
+    <string name="app_list_title">Aktywność</string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zarwierdź</string>
