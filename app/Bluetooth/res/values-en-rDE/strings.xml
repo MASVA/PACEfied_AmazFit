@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="permlab_bluetoothShareManager">Zugriff auf Download-Manager.</string>
-    <string name="permdesc_bluetoothShareManager">Allows the app to access the BluetoothShare manager and use it to transfer files.</string>
+    <string name="permlab_bluetoothShareManager">Zugriff auf Bluetooth Sharemanager.</string>
+    <string name="permdesc_bluetoothShareManager">Erlaubt der Applikation den Zugriff auf den Bluetooth Sharemanager zur Übermittlung von Dateien.</string>
     <string name="permlab_bluetoothWhitelist">Genehmigter Bluetooth Zugriff.</string>
-    <string name="permdesc_bluetoothWhitelist">Erlaubt der App temporären Zugriff auf ein Bluetooth Gerät, Erlaubt Dateitransfer zu diesem Gerät ohne manuelle Bestätigung.</string>
+    <string name="permdesc_bluetoothWhitelist">Erlaubt der Applikation den temporären Zugriff auf ein Bluetooth Gerät. Erlaubt Dateitransfer zu diesem Gerät ohne manuelle Bestätigung.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Unbekanntes Gerät</string>
     <string name="unknownNumber">Unbekannt</string>
-    <string name="airplane_error_title">Flugzeug Modus</string>
-    <string name="airplane_error_msg">"Du kannst Bluetooth nicht im Flugzeug-Modus nutzen."</string>
+    <string name="airplane_error_title">Flugmodus</string>
+    <string name="airplane_error_msg">"Du kannst Bluetooth nicht im Flugmodus nutzen."</string>
     <string name="bt_enable_title" />
     <string name="bt_enable_line1">Um Bluetooth nutzen zu können, musst du es erst einschalten.</string>
-    <string name="bt_enable_line2">Bluetooth jetzt einschalten?</string>
+    <string name="bt_enable_line2">Bluetooth einschalten?</string>
     <string name="bt_enable_cancel">Abbruch</string>
     <string name="bt_enable_ok">Einschalten</string>
     <string name="incoming_file_confirm_title">Datentransfer</string>
@@ -19,10 +19,10 @@
     <string name="incoming_file_confirm_cancel">Ablehnen</string>
     <string name="incoming_file_confirm_ok">Akzeptieren</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
-    <string name="incoming_file_confirm_timeout_content">Zeitüberschreitung beim akzeptieren der eingehenden Datei von \"%1$s\"</string>
+    <string name="incoming_file_confirm_timeout_content">Zeitüberschreitung beim Akzeptieren der eingehenden Datei von \"%1$s\"</string>
     <string name="incoming_file_confirm_Notification_title">Bluetooth share: Eingehende Datei</string>
     <string name="incoming_file_confirm_Notification_caption">Möchtest Du diese Datei empfangen?</string>
-    <string name="incoming_file_toast_msg">Eingehende Datei ovn einem anderen Gerät, bestätige ob Du diese Datei empfangen möchtest.</string>
+    <string name="incoming_file_toast_msg">Eingehende Datei von einem anderen Gerät. Bestätige, ob Du diese Datei empfangen möchtest.</string>
     <string name="notification_receiving">Bluetooth share: Empfange %1$s</string>
     <string name="notification_received">Bluetooth share: Empfangen %1$s</string>
     <string name="notification_received_fail">Bluetooth share: Datei %1$s nicht empfangen</string>
@@ -54,16 +54,16 @@
     <string name="upload_succ_ok">OK</string>
     <string name="upload_fail_line1">"Die Datei wurde nicht an \"%1$s\"gesendet."</string>
     <string name="upload_fail_line1_2">Datei: %1$s</string>
-    <string name="upload_fail_ok">Versuche es nochmal</string>
+    <string name="upload_fail_ok">Versuche es erneut</string>
     <string name="upload_fail_cancel">Schließen</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">Unbekannte Datei</string>
-    <string name="unknown_file_desc">"Es gibt keine App, um diese Art von Datei zu verwenden 
+    <string name="unknown_file_desc">"Es gibt keine App, um diese Art von Datei zu öffnen
 "</string>
     <string name="not_exist_file">Keine Datei</string>
     <string name="not_exist_file_desc">"Die Datei existiert nicht. 
 "</string>
-    <string name="enabling_progress_title">Bitte warte…</string>
+    <string name="enabling_progress_title">Bitte warten…</string>
     <string name="enabling_progress_content">Schalte Bluetooth ein…</string>
     <string name="bt_toast_1">Die Datei wird empfangen. Überprüfe den Fortschritt im Bedienfeld "Benachrichtigungen".</string>
     <string name="bt_toast_2">"Die Datei kann nicht empfangen werden."</string>
