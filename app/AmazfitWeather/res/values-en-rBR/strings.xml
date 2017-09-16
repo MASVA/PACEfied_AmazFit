@@ -59,7 +59,7 @@
     <string name="unknown">desconhecido</string>
     <string name="fetch_failed_title">Não é possível obter informações do tempo</string>
     <string name="fetch_failed_msg">Por favor certifique-se de que o relógio está conectado ao app Amazfit Watch e uma localização válida está selecionada nele.</string>
-    <string name="date_time_format">MM-dd</string>
+    <string name="date_time_format">dd-MM</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Tipo de tempo não reconhecido</string>
     <string name="data_checkfail_temp">Temperatura fora da faixa</string>
