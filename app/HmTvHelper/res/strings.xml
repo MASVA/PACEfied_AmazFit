@@ -23,6 +23,8 @@
     <string name="tv_use_content">Włącz telewizor i połącz się z tym samym urządz. Wi-Fi za pomocą telefonu</string>
     <string name="tv_current_device">Aktualne urządz.</string>
     <string name="tv_launcher_guide">Wskazówka: niektóre Piloty i TV nie obsł.funk.głos.</string>
+    <string name="tv_power_title">Zamknąć</string>
+    <string name="tv_change_title">Przeł.urządzenie</string>
     <string name="error_bluetooth_title">BT został odłączony</string>
     <string name="error_bluetooth_content">Sprawdź połączenie BT zegarka z telef.</string>
     <string name="error_wifi_title">Połącz.Wi-Fi zostało przerwane</string>
