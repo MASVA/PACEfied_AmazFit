@@ -127,7 +127,7 @@
     <string name="sport_widget_title_setting">Ustawienia</string>
     <string name="sport_widget_title_music">Muzyka</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="app_name">gpx-recorder</string>
+    <string name="app_name">Sporty</string>
     <string name="sport_item_running_title">Bieg</string>
     <string name="sport_item_walking_title">Chodzenie</string>
     <string name="title_activity_main">Moja aktywność</string>
