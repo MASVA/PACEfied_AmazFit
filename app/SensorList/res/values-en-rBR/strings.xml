@@ -12,5 +12,5 @@
     <string name="uploading">fazendo upload!</string>
     <string name="no_uploaded_files">Sem arquivos para upload!</string>
     <string name="open_wifi_failed">abrir o wifi falhou!</string>
-    <string name="connect_APP">Por favor conecte-se ao APP!</string>
+    <string name="connect_APP">Conecte-se ao APP!</string>
 </resources>

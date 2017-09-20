@@ -16,10 +16,10 @@
     <string-array name="weather_card_aqilevel">
         <item>Ar Excelente</item>
         <item>Ar Bom</item>
-        <item>Pouco Poluído</item>
+        <item>Pouca Poluição</item>
         <item>Poluído</item>
-        <item>Muito Poluído</item>
-        <item>Seriamente Poluído</item>
+        <item>Muita Poluição</item>
+        <item>Poluição Grave</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
@@ -33,8 +33,8 @@
         <item>Escuro</item>
         <item>Nevoeiro</item>
         <item>Poluição</item>
-        <item>Chuvisqueiro</item>
-        <item>Chuvisqueiro com trovões</item>
+        <item>Chuvisco</item>
+        <item>Chuvisco com trovões</item>
         <item>Chuva fraca</item>
         <item>Chuva</item>
         <item>Chuva forte</item>
@@ -47,7 +47,7 @@
         <item>Neve</item>
         <item>Neve forte</item>
         <item>Tempestade de neve</item>
-        <item>Chuvisqueiro de neve</item>
+        <item>Chuvisco de neve</item>
         <item>Poeirento</item>
         <item>Vento de areia</item>
         <item>Tempestade de areia</item>
