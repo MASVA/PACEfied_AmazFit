@@ -259,7 +259,8 @@
     <string name="currentstep_detail_activity_chart_unit">Unidade: hora</string>
     <string name="date_format">dd/MM</string>
     <string name="widget_weeklyreports_nodata">Indisponível</string>
-    <string name="average_text">Média</string>
+    <string name="app_list_title">Activity</string>
+    <string name="average_text">Méd</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
     <string name="picker_default_nagetive_text">Desligar</string>
