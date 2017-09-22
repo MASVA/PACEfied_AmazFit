@@ -3,7 +3,7 @@
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Configurações</string>
-    <string name="watch_ota">Watch Update</string>
+    <string name="watch_ota">Atualizar Relógio</string>
     <string name="wifi_disconnect">"Conecte o
 app do Amazfit para ajudar o relógio a
 verificar por atualizações"</string>
@@ -24,6 +24,8 @@ no app do Amazfit"</string>
     <string name="checking_rom_failed">"A conexão de rede expirou,
 tente novamente"</string>
     <string name="current_is_new">Última versão rodando</string>
+    <string name="has_new_rom_all">"Atualização encontrada 
+Por sua versão ser antiga, pode levar mais tempo para atualizar, continuar?"</string>
     <string name="has_new_rom">"Nova versão encontrada,
 atualizar para a versão %1$s?"</string>
     <string name="processbar_downloading_rom">Baixando...</string>
@@ -75,6 +77,8 @@ outro ponto Wi-Fi"</string>
     <string name="update_online">Atualização OTA</string>
     <string name="update_local">Atualizar de um arquivo zip local</string>
     <string name="local_update_confirm_1_title">Leia</string>
+    <string name="local_update_invalid_zip">"A versão do sistema é muito antiga,
+é recomendado atualizar"</string>
     <string name="local_update_confirm_1_msg">"Para assegurar que a nova versão
 funciona corretamente, iremos apagar todos
 os dados do usuário após atualizar. Conecte

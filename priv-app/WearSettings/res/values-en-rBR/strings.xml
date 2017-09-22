@@ -23,7 +23,7 @@
     <string name="reset_factory">Rest. Fábrica</string>
     <string name="shut_down">Desligar</string>
     <string name="about">Sobre</string>
-    <string name="wear_habit">Hábito de uso</string>
+    <string name="wear_habit">Mão</string>
     <string name="bugreport">Relatar Erro</string>
     <string name="light_change">Luz de fundo</string>
     <string name="wrist_up">Levantar pulso</string>
@@ -85,7 +85,7 @@
     <string name="blt_bound_stat_disconnect">Desconectado</string>
     <string name="blt_bound_stat_bonding">Pareando...</string>
     <string name="blt_bound_stat_none">Disponível</string>
-    <string name="blt_default_name">Nome padrão</string>
+    <string name="blt_default_name">Sem nome</string>
     <string name="blt_hint_disconnect">"%1s
 Desconectar?"</string>
     <string name="blt_hint_connect">"%1s
@@ -147,15 +147,18 @@ e próximo"</string>
     <string name="confirm_change_locale">"Mudar idioma para
 %1$s?"</string>
     <string name="gender">Gênero</string>
-    <string name="birth_year">Ano de Nascimento</string>
+    <string name="birth_year">Ano de Nascença</string>
     <string name="height">Altura</string>
     <string name="weight">Peso</string>
     <string name="male">Homem</string>
     <string name="female">Mulher</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Ano"</string>
-    <string name="height_unit">"Altura em cm"</string>
-    <string name="weight_unit">"Peso em kg"</string>
+    <string name="birth_year_unit">"Ano de
+Nascença"</string>
+    <string name="height_unit">"Altura em
+cm"</string>
+    <string name="weight_unit">"Peso em
+kg"</string>
     <string name="reset_factory_hint">Restaurar para configurações de fábrica?</string>
     <string name="time_zone">Fuso Horário</string>
     <string name="date">Data</string>
@@ -167,8 +170,8 @@ e próximo"</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="strong">forte</string>
-    <string name="mid">médio</string>
-    <string name="weak">fraco</string>
+    <string name="mid">média</string>
+    <string name="weak">fraca</string>
     <string name="confirm_shutdown">Desligar?</string>
     <string name="app_name">Configurações do Relógio</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
@@ -177,8 +180,8 @@ e próximo"</string>
     <string name="bind_tips_title">"Por favor ative
  para proteger seus dados de forma mais segura"</string>
     <string name="upgrade_checking">Verificando por atualização...</string>
-    <string name="left_hand">Pulso esquerdo</string>
-    <string name="right_hand">Pulso direito</string>
+    <string name="left_hand">Esquerda</string>
+    <string name="right_hand">Direita</string>
 <!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Estatísticas</string>
     <string name="widget_currentstep_activities">Passos hoje</string>

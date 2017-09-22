@@ -66,4 +66,13 @@
     <string name="data_checkfail_match">Campo de tipo de tempo não confere</string>
     <string name="data_checkfail_json">Erro no formato do JSON</string>
     <string name="detailed">Detalhes do tempo</string>
+    <string name="average_text">Méd</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_nagetive_text">Desligar</string>
+    <string name="no_heartrate_data_hint">Dados de pulso não detectados</string>
+    <string name="no_altitude_hint">Dados de altitude não detectados</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Configurações</string>
+    <string name="sport_music_settings">Música esportiva</string>
 </resources>

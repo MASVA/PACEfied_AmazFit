@@ -23,6 +23,8 @@
     <string name="tv_use_content">Deixe sua TV ligada e conectada à mesma rede que o celular</string>
     <string name="tv_current_device">Disp. Atual</string>
     <string name="tv_launcher_guide">Dica: Algumas MiTV e MiBox não suportam controle por voz</string>
+    <string name="tv_power_title">Desligar</string>
+    <string name="tv_change_title">Alterar dispositivo</string>
     <string name="error_bluetooth_title">Bluetooth desconectado</string>
     <string name="error_bluetooth_content">Virifique a conexão bluetooth entre o relógio e o celular</string>
     <string name="error_wifi_title">Erro conexão Wi-Fi</string>
