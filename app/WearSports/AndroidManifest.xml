@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.sport" platformBuildVersionCode="22" platformBuildVersionName="5.1-244">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.sport" platformBuildVersionCode="22" platformBuildVersionName="5.1-264">
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
@@ -31,6 +31,15 @@
             </intent-filter>
         </activity>
         <activity android:configChanges="keyboard|orientation|screenSize" android:exported="true" android:label="@string/title_activity_running" android:launchMode="singleInstance" android:name=".ui.SportActivity" android:parentActivityName=".ui.SportMainActivity" android:theme="@style/Theme.Sport.WarkingCustom"/>
+        <activity android:name=".ui.VoiceSportActivity" android:theme="@android:style/Theme.DeviceDefault.Light">
+            <intent-filter>
+                <action android:name="com.huami.watch.sports.action.SPORTS"/>
+                <action android:name="com.huami.watch.sports.action.HISTORY"/>
+                <action android:name="com.huami.watch.sports.action.SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="voice_ability" android:resource="@array/support_sport"/>
+        </activity>
         <activity android:label="@string/title_activity_sport_history_detail" android:name=".ui.SportHistoryDetailActivity" android:theme="@android:style/Theme.DeviceDefault.Light"/>
         <uses-library android:name="com.google.android.wearable" android:required="false"/>
         <activity android:exported="true" android:label="@string/title_activity_gpswaiting" android:launchMode="singleTask" android:name=".ui.WaitingGPSActivity" android:parentActivityName=".ui.SportMainActivity" android:theme="@android:style/Theme.DeviceDefault.Light"/>

@@ -150,4 +150,11 @@
     <string name="weather_warning_smog">霾</string>
     <string name="weather_warning_ice">道路结冰</string>
     <string name="weather_warning_snowstorm">暴雪</string>
+    <string name="music">音乐</string>
+    <string name="music_title">未知</string>
+    <string name="music_author">未知</string>
+    <string name="music_stop_status">已暂停</string>
+    <string name="music_play_status">正在播放</string>
+    <string name="music_bulethooth_disconnect">正在检查蓝牙连接…</string>
+    <string name="music_peek_content">您的手机正在使用%s应用播放音乐。可以在手表通知栏进行音乐的快捷控制。</string>
 </resources>

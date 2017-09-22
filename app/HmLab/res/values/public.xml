@@ -211,11 +211,13 @@
     <public type="color" name="unlock_progress_bg" id="0x7f070061" />
     <public type="color" name="altitude_start_color" id="0x7f070062" />
     <public type="color" name="altitude_end_color" id="0x7f070063" />
-    <public type="color" name="setting_bg" id="0x7f070064" />
-    <public type="color" name="main_bg_color" id="0x7f070065" />
-    <public type="color" name="main_text_color" id="0x7f070066" />
-    <public type="color" name="blt_setting_bg_color" id="0x7f070067" />
-    <public type="color" name="loading_txt_color" id="0x7f070068" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f070064" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f070065" />
+    <public type="color" name="setting_bg" id="0x7f070066" />
+    <public type="color" name="main_bg_color" id="0x7f070067" />
+    <public type="color" name="main_text_color" id="0x7f070068" />
+    <public type="color" name="blt_setting_bg_color" id="0x7f070069" />
+    <public type="color" name="loading_txt_color" id="0x7f07006a" />
     <public type="dimen" name="activity_horizontal_margin" id="0x7f080000" />
     <public type="dimen" name="activity_vertical_margin" id="0x7f080001" />
     <public type="dimen" name="venus_sub_text_size" id="0x7f080002" />

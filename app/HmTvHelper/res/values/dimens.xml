@@ -65,4 +65,5 @@
     <dimen name="tv_dialog_title_size">18.669983sp</dimen>
     <dimen name="tv_dialog_content_size">16.0sp</dimen>
     <dimen name="tv_launcher_guide_size">12.0sp</dimen>
+    <dimen name="tv_commond_icon_title_size">12.0sp</dimen>
 </resources>

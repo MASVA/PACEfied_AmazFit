@@ -45,6 +45,7 @@
     <string name="length_unit_miles">mi</string>
     <string name="unit_yinli">英里</string>
     <string name="unit_gongli">公里</string>
+    <string name="app_list_title">训练中心</string>
     <string name="average_text">平均</string>
     <string name="picker_default_positive_text">确定</string>
     <string name="picker_default_nagetive_text">关闭</string>

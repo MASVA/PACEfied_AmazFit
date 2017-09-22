@@ -297,9 +297,11 @@
     <public type="color" name="unlock_progress_bg" id="0x7f060068" />
     <public type="color" name="altitude_start_color" id="0x7f060069" />
     <public type="color" name="altitude_end_color" id="0x7f06006a" />
-    <public type="color" name="setting_bg" id="0x7f06006b" />
-    <public type="color" name="main_bg_color" id="0x7f06006c" />
-    <public type="color" name="main_text_color" id="0x7f06006d" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f06006b" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f06006c" />
+    <public type="color" name="setting_bg" id="0x7f06006d" />
+    <public type="color" name="main_bg_color" id="0x7f06006e" />
+    <public type="color" name="main_text_color" id="0x7f06006f" />
     <public type="dimen" name="activity_horizontal_margin" id="0x7f070000" />
     <public type="dimen" name="activity_vertical_margin" id="0x7f070001" />
     <public type="dimen" name="size_button_state" id="0x7f070002" />
@@ -470,22 +472,25 @@
     <public type="string" name="weather_wind_direction_west" id="0x7f080074" />
     <public type="string" name="weather_wind_direction_northwest" id="0x7f080075" />
     <public type="string" name="weather_wind_direction_north" id="0x7f080076" />
-    <public type="string" name="average_text" id="0x7f080077" />
-    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f080078" />
-    <public type="string" name="picker_default_positive_text" id="0x7f080079" />
-    <public type="string" name="picker_default_nagetive_text" id="0x7f08007a" />
-    <public type="string" name="no_heartrate_data_hint" id="0x7f08007b" />
-    <public type="string" name="no_altitude_hint" id="0x7f08007c" />
-    <public type="string" name="ui_lib_name" id="0x7f08007d" />
-    <public type="string" name="title_settings" id="0x7f08007e" />
-    <public type="string" name="sport_music_settings" id="0x7f08007f" />
-    <public type="string" name="widget_currentstep_title" id="0x7f080080" />
-    <public type="string" name="widget_currentstep_activities" id="0x7f080081" />
-    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f080082" />
-    <public type="string" name="widget_currentstep_sleep_min" id="0x7f080083" />
-    <public type="string" name="widget_currentstep_sleep_title" id="0x7f080084" />
-    <public type="string" name="widget_currentstep_sleep_no" id="0x7f080085" />
-    <public type="string" name="widget_currentstep_activity_no" id="0x7f080086" />
+    <public type="string" name="huami_voice_default_reply" id="0x7f080077" />
+    <public type="string" name="huami_voice_not_support_xiaomi" id="0x7f080078" />
+    <public type="string" name="huami_voice_not_support_watch" id="0x7f080079" />
+    <public type="string" name="average_text" id="0x7f08007a" />
+    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f08007b" />
+    <public type="string" name="picker_default_positive_text" id="0x7f08007c" />
+    <public type="string" name="picker_default_nagetive_text" id="0x7f08007d" />
+    <public type="string" name="no_heartrate_data_hint" id="0x7f08007e" />
+    <public type="string" name="no_altitude_hint" id="0x7f08007f" />
+    <public type="string" name="ui_lib_name" id="0x7f080080" />
+    <public type="string" name="title_settings" id="0x7f080081" />
+    <public type="string" name="sport_music_settings" id="0x7f080082" />
+    <public type="string" name="widget_currentstep_title" id="0x7f080083" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f080084" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f080085" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f080086" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f080087" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f080088" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f080089" />
     <public type="array" name="miot_supported" id="0x7f090000" />
     <public type="array" name="miot_supported_light" id="0x7f090001" />
     <public type="array" name="weekly_date" id="0x7f090002" />
