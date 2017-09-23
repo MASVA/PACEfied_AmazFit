@@ -5,14 +5,14 @@
     <string name="picker_default_positive_text">Bestätige</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">Herzfrequenz nicht erkannt</string>
-    <string name="no_altitude_hint">höhenmeter nicht erkannt</string>
+    <string name="no_altitude_hint">Höhenmeter nicht erkannt</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Einstellungen</string></string>
     <string name="sport_music_settings">Sportmusik</string>
     <string name="double_click_wakeup_open">An</string>
     <string name="double_click_wakeup_close">Aus</string>
     <string name="dlg_confirm">Bestätige</string>
-    <string name="dlg_cancel">Storniereb</string>
+    <string name="dlg_cancel">Stornieren</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="more">Einstellungen</string>
     <string name="find_phone">Finde mein Telefon</string>
