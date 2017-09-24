@@ -195,7 +195,7 @@
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
     <string name="weeklysports_frequency" />
     <string name="weeklysports_day" />
-    <string name="weeklysports_activity">Movendo-se</string>
+    <string name="weeklysports_activity">Movendo</string>
     <string name="weeklysports_running">Corrida</string>
     <string name="weeklysports_walking">Caminhada</string>
     <string name="weeklysports_riding">Bicicleta</string>

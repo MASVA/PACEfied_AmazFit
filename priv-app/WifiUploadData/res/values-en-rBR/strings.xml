@@ -10,7 +10,7 @@
     <string name="title_settings">Configurações</string>
     <string name="sport_music_settings">Música esportiva</string>
     <string name="app_name">Upload por Wi-Fi</string>
-    <string name="notice_text_success_top">upload de dados completo</string>
+    <string name="notice_text_success_top">Envio de dados completo</string>
     <string name="notice_text_success_bottom">Os dados podem ser vistos no app Amazfit Watch</string>
     <string name="notice_text_failed_top">Falha ao fazer upload dos dados</string>
     <string name="net_failed">Certifique-se que o Pace está conectado ao Wifi</string>
@@ -24,7 +24,7 @@
     <string name="cannot_upload_user">Não é possível verificar o token de acesso</string>
     <string name="please_upload_assist_version">Atualize o app Amazfit Watch para a versão mais recente e tente novamente</string>
     <string name="did_not_connect_assist">Conecte-se ao app Amazfit Watch para atualizar o token de acesso para poder fazer o upload dos dadospara o servidor</string>
-    <string name="upload_failed_full">Upload dos dados não completou, sair agora?</string>
+    <string name="upload_failed_full">Envio dos dados não completou, sair agora?</string>
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">Mantenha o Pace conectado ao Wi-Fi</string>
     <string name="init_wifi">Conectando ao Wi-Fi</string>
