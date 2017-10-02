@@ -70,7 +70,7 @@ Use apenas o carregador fornecido."</string>
     <string name="accessibility_recent">Visão geral</string>
     <string name="accessibility_search_light">Buscar</string>
     <string name="accessibility_camera_button">Câmera</string>
-    <string name="accessibility_phone_button">Telephone</string>
+    <string name="accessibility_phone_button">Telefone</string>
     <string name="accessibility_unlock_button">Desbloquear</string>
     <string name="unlock_label">desbloquear</string>
     <string name="phone_label">abrir telefone</string>
