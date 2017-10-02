@@ -65,4 +65,14 @@
     <string name="data_checkfail_temp">Temp.poza zakresem</string>
     <string name="data_checkfail_match">Typy pól nie pasują</string>
     <string name="data_checkfail_json">Błąd formatu JSON</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Potwierdż</string>
+    <string name="picker_default_nagetive_text">Wył.</string>
+    <string name="no_heartrate_data_hint">Brak danych tętna.</string>
+    <string name="no_altitude_hint">Brak danych wysokości.</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="sport_music_settings">Sports music</string>
 </resources>
+

@@ -117,6 +117,9 @@
     <string name="weather_wind_direction_west">wiatr zachodni</string>
     <string name="weather_wind_direction_northwest">wiatr półn.-zachodni</string>
     <string name="weather_wind_direction_north">wiatr północny</string>
+    <string name="huami_voice_default_reply">Ok</string>
+    <string name="huami_voice_not_support_xiaomi">Ta funkcja nie jest jeszcze obsługiwana.</string>
+    <string name="huami_voice_not_support_watch">Ta funkcja nie jest obecnie obsługiwana.</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zatwierdź</string>
