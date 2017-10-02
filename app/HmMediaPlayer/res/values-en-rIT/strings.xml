@@ -16,6 +16,9 @@
     <string name="check_network">Controlla la rete</string>
     <string name="music_continue_downloading">Proseguo in background</string>
     <string name="music_service_unavalible">Il servizio DouBan non è disponibile</string>
+    <string name="mode_singles">singoli</string>
+    <string name="mode_loop">ripeti</string>
+    <string name="mode_random">casuale</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="music_list_title">Preferenze</string>
     <string name="music_volumn_control">Volume</string>
