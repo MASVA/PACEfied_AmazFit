@@ -16,12 +16,15 @@
     <string name="check_network">Vérifiez le réseau</string>
     <string name="music_continue_downloading">Les morceaux continueront d\'être téléchargés</string>
     <string name="music_service_unavalible">Le service DouBan n\'est pas disponible</string>
+    <string name="mode_singles">1fois</string>
+    <string name="mode_loop">Boucle</string>
+    <string name="mode_random">Aléatoire</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="music_list_title">Paramètres de lecture</string>
+    <string name="music_list_title">Paramètres</string>
     <string name="music_volumn_control">Volume</string>
     <string name="music_douban_offline">Watercress FM hors ligne</string>
-    <string name="music_play_mode">Mode de changement</string>
-    <string name="music_play_source">Changer la bibliothèque musicale</string>
+    <string name="music_play_mode">Mode</string>
+    <string name="music_play_source">Changer la bibliothèque</string>
     <string name="music_source_douban">Watercress FM</string>
     <string name="music_source_local">Musiques locales</string>
     <string name="music_source_all">Tous les morceaux</string>
