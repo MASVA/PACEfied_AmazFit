@@ -3,7 +3,7 @@
     <string name="app_name">Il mio orologio</string>
     <string name="iterations_count">Conteggio interazioni</string>
     <string name="send">Invia</string>
-    <string name="file_not_found">File non trovato su </string>
+    <string name="file_not_found">File non trovato</string>
     <string name="connect">Connetti</string>
     <string name="disconnect">Disconnetti</string>
     <string name="link_connected">Link connesso</string>
@@ -23,11 +23,11 @@
     <string name="confirm">Conferma</string>
     <string name="cancel">Annulla</string>
     <string name="unable_to_send">Impossibile inviare</string>
-    <string name="install_companion_tip">"Installa l\'app AmazonFit sul telefono"</string>
+    <string name="install_companion_tip">"Installa l\'app Amazfit sul telefono"</string>
     <string name="simplified_chinese">中文(简体)</string>
     <string name="english_usa">English(US)</string>
-    <string name="low_battery">Batteria inferiore 5%, collega l\'alimentatore per continuare.</string>
-    <string name="scan_to_bind">Scansiona QR</string>
+    <string name="low_battery">Batteria inferiore al 5%, collega l\'alimentatore per continuare.</string>
+    <string name="scan_to_bind">Scansiona il QR</string>
     <string name="function_unavailable_tip">Alcune funzioni non sono disponibili: uscire?</string>
     <string name="cancel_bind">Annullato</string>
     <string name="skip_bind">Ignora</string>
