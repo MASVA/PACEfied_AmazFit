@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sogou.map.android.maps.widget.drawer.WearableDrawerLayout android:id="@id/drawer_layout" android:background="@color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/main_activity" android:background="#ffd8d9db" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/map_common_group" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <include android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" layout="@layout/common_map_view_group" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout android:orientation="horizontal" android:id="@id/dialog" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.sogou.map.android.maps.widget.drawer.WearableNavigationDrawer android:layout_gravity="top" android:id="@id/top_navigation_drawer" android:background="#ff3e83ff" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.sogou.map.android.maps.widget.drawer.WearableDrawerLayout>

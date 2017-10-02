@@ -17,11 +17,9 @@
         <item quantity="one">1 second</item>
     </plurals>
     <plurals name="plurals_hours">
-        <item quantity="other">%d hours</item>
-        <item quantity="one">%d hour</item>
+        <item quantity="other">%d h</item>
     </plurals>
     <plurals name="plurals_minutes">
-        <item quantity="other">%d minutes</item>
-        <item quantity="one">%d minute</item>
+        <item quantity="other">%d m</item>
     </plurals>
 </resources>

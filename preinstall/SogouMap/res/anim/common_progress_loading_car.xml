@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="100" android:drawable="@drawable/common_progress_loading_car1" />
+    <item android:duration="100" android:drawable="@drawable/common_progress_loading_car2" />
+    <item android:duration="100" android:drawable="@drawable/common_progress_loading_car3" />
+    <item android:duration="100" android:drawable="@drawable/common_progress_loading_car4" />
+</animation-list>

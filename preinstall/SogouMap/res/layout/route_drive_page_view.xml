@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.SildingLayout android:id="@id/silding_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <com.sogou.map.android.maps.widget.CommonCardFrame android:id="@id/end_card_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_card_bottom" android:layout_marginRight="@dimen/common_card_bottom" android:layout_marginBottom="@dimen/common_card_bottom">
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/card_contain" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:id="@id/end_time" style="@style/card_view_txt_style" />
+                    <TextView android:id="@id/end_distance" style="@style/card_view_txt_style" />
+                </LinearLayout>
+                <ImageView android:layout_gravity="center|left" android:id="@id/end_go" android:paddingLeft="0.0dip" android:paddingTop="0.0dip" android:paddingRight="0.0dip" android:paddingBottom="0.0dip" android:layout_width="wrap_content" android:layout_height="48.0dip" android:src="@drawable/ic_nav_go_selector" />
+            </LinearLayout>
+        </com.sogou.map.android.maps.widget.CommonCardFrame>
+    </com.sogou.map.android.maps.widget.SildingLayout>
+    <ImageView android:id="@id/water_mark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/map_logo_right_margin" android:layout_marginBottom="@dimen/map_logo_bottom_margin" android:src="@drawable/watermark" android:layout_above="@id/silding_view" android:layout_alignParentRight="true" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/show_gps_tip_view" android:background="@color/black_86p" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textColor="@color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_poplay_margin" android:layout_marginRight="@dimen/common_poplay_margin" android:text="@string/navi_open_gps_tip" />
+        <Button android:textColor="@color/white" android:gravity="center" android:id="@id/hide_tip_btn" android:background="@drawable/wifi_tip_btn" android:paddingLeft="30.0dip" android:paddingTop="10.0dip" android:paddingRight="30.0dip" android:paddingBottom="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/common_know" />
+    </LinearLayout>
+</RelativeLayout>

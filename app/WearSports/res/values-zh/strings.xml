@@ -316,6 +316,9 @@
     <string name="setting_sport_heart_region_text_custom">自定义</string>
     <string name="remind_heart_rate_region_over">心率过高</string>
     <string name="remind_heart_rate_region_less">心率过低</string>
+    <string name="real_time_route">实时轨迹</string>
+    <string name="real_time_output">导出</string>
+    <string name="real_time_total_dis_title">总距离</string>
     <string name="complete_training_project">训练计划已完成</string>
     <string name="reminder_speed_unit">/小时</string>
     <string name="remind_target_distance_training_title_format">跑步%1s公里</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.sport" platformBuildVersionCode="22" platformBuildVersionName="5.1-264">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.sport" platformBuildVersionCode="22" platformBuildVersionName="5.1-273">
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
@@ -36,6 +36,7 @@
                 <action android:name="com.huami.watch.sports.action.SPORTS"/>
                 <action android:name="com.huami.watch.sports.action.HISTORY"/>
                 <action android:name="com.huami.watch.sports.action.SETTINGS"/>
+                <action android:name="com.huami.watch.sports.action.ACHIEVEMENT"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
             <meta-data android:name="voice_ability" android:resource="@array/support_sport"/>

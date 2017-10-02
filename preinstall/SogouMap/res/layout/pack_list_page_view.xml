@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sogou.map.android.maps.widget.SildingLayout android:id="@id/silding_view" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/citypack_page_text_size" android:textStyle="bold" android:textColor="@color/black" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/citypack_page_margin_top" android:text="全部城市" android:layout_centerHorizontal="true" />
+    <com.sogou.map.android.maps.widget.CommonWearableListView android:id="@id/page_list" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/title" />
+</com.sogou.map.android.maps.widget.SildingLayout>

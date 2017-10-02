@@ -1263,40 +1263,41 @@
     <public type="id" name="retry" id="0x7f0a0150" />
     <public type="id" name="picker1" id="0x7f0a0151" />
     <public type="id" name="picker2" id="0x7f0a0152" />
-    <public type="style" name="weeklysportslinearlayout" id="0x7f0b0000" />
-    <public type="style" name="weeklysportstitle" id="0x7f0b0001" />
-    <public type="style" name="weeklysportsclassify" id="0x7f0b0002" />
-    <public type="style" name="weeklysportsdata" id="0x7f0b0003" />
-    <public type="style" name="weeklysporttimes" id="0x7f0b0004" />
-    <public type="style" name="weeklysports_text12sp" id="0x7f0b0005" />
-    <public type="style" name="weeklysports_summary_title" id="0x7f0b0006" />
-    <public type="style" name="weeklysports_text10sp" id="0x7f0b0007" />
-    <public type="style" name="weeklysports_text16sp" id="0x7f0b0008" />
-    <public type="style" name="weeklysports_text40sp" id="0x7f0b0009" />
-    <public type="style" name="AppBaseTheme" id="0x7f0b000a" />
-    <public type="style" name="AppTheme" id="0x7f0b000b" />
-    <public type="style" name="PromptDialog" id="0x7f0b0010" />
-    <public type="style" name="HMProgressBar" id="0x7f0b0011" />
-    <public type="style" name="HMProgressBar.Large" id="0x7f0b0012" />
-    <public type="style" name="HMProgressBar.Small" id="0x7f0b0013" />
-    <public type="style" name="VendorTextViewStyle" id="0x7f0b000c" />
-    <public type="style" name="HealthMainTheme" id="0x7f0b000d" />
-    <public type="style" name="HealthMainTheme.NoAnimation" id="0x7f0b000e" />
-    <public type="style" name="Animation.NoAnimation" id="0x7f0b000f" />
-    <public type="integer" name="size_shadow_dy0" id="0x7f0c0000" />
-    <public type="integer" name="size_shadow_radius0" id="0x7f0c0001" />
-    <public type="integer" name="size_shadow_dy1" id="0x7f0c0002" />
-    <public type="integer" name="size_shadow_radius1" id="0x7f0c0003" />
-    <public type="integer" name="widget_size_shadow_dy0" id="0x7f0c0004" />
-    <public type="integer" name="widget_size_shadow_radius0" id="0x7f0c0005" />
-    <public type="integer" name="widget_size_shadow_dy1" id="0x7f0c0006" />
-    <public type="integer" name="widget_size_shadow_radius1" id="0x7f0c0007" />
-    <public type="array" name="spring_depend" id="0x7f0d0000" />
-    <public type="array" name="hour_select_labels" id="0x7f0d0001" />
-    <public type="array" name="weekday_names" id="0x7f0d0002" />
-    <public type="array" name="subject_typenfreqs" id="0x7f0d0003" />
-    <public type="array" name="chart_x_titles" id="0x7f0d0004" />
-    <public type="array" name="chart_x_titles2" id="0x7f0d0005" />
+    <public type="array" name="support_category" id="0x7f0b0000" />
+    <public type="array" name="spring_depend" id="0x7f0b0001" />
+    <public type="array" name="hour_select_labels" id="0x7f0b0002" />
+    <public type="array" name="weekday_names" id="0x7f0b0003" />
+    <public type="array" name="subject_typenfreqs" id="0x7f0b0004" />
+    <public type="array" name="chart_x_titles" id="0x7f0b0005" />
+    <public type="array" name="chart_x_titles2" id="0x7f0b0006" />
+    <public type="style" name="weeklysportslinearlayout" id="0x7f0c0000" />
+    <public type="style" name="weeklysportstitle" id="0x7f0c0001" />
+    <public type="style" name="weeklysportsclassify" id="0x7f0c0002" />
+    <public type="style" name="weeklysportsdata" id="0x7f0c0003" />
+    <public type="style" name="weeklysporttimes" id="0x7f0c0004" />
+    <public type="style" name="weeklysports_text12sp" id="0x7f0c0005" />
+    <public type="style" name="weeklysports_summary_title" id="0x7f0c0006" />
+    <public type="style" name="weeklysports_text10sp" id="0x7f0c0007" />
+    <public type="style" name="weeklysports_text16sp" id="0x7f0c0008" />
+    <public type="style" name="weeklysports_text40sp" id="0x7f0c0009" />
+    <public type="style" name="AppBaseTheme" id="0x7f0c000a" />
+    <public type="style" name="AppTheme" id="0x7f0c000b" />
+    <public type="style" name="PromptDialog" id="0x7f0c0010" />
+    <public type="style" name="HMProgressBar" id="0x7f0c0011" />
+    <public type="style" name="HMProgressBar.Large" id="0x7f0c0012" />
+    <public type="style" name="HMProgressBar.Small" id="0x7f0c0013" />
+    <public type="style" name="VendorTextViewStyle" id="0x7f0c000c" />
+    <public type="style" name="HealthMainTheme" id="0x7f0c000d" />
+    <public type="style" name="HealthMainTheme.NoAnimation" id="0x7f0c000e" />
+    <public type="style" name="Animation.NoAnimation" id="0x7f0c000f" />
+    <public type="integer" name="size_shadow_dy0" id="0x7f0d0000" />
+    <public type="integer" name="size_shadow_radius0" id="0x7f0d0001" />
+    <public type="integer" name="size_shadow_dy1" id="0x7f0d0002" />
+    <public type="integer" name="size_shadow_radius1" id="0x7f0d0003" />
+    <public type="integer" name="widget_size_shadow_dy0" id="0x7f0d0004" />
+    <public type="integer" name="widget_size_shadow_radius0" id="0x7f0d0005" />
+    <public type="integer" name="widget_size_shadow_dy1" id="0x7f0d0006" />
+    <public type="integer" name="widget_size_shadow_radius1" id="0x7f0d0007" />
     <public type="plurals" name="weeklysports_frequency" id="0x7f0e0000" />
     <public type="plurals" name="weeklysports_step" id="0x7f0e0001" />
     <public type="plurals" name="floor_unit" id="0x7f0e0002" />

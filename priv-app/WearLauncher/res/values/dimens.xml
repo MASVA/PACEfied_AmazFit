@@ -30,7 +30,7 @@
     <dimen name="item_width">171.0dip</dimen>
     <dimen name="item_height">88.0dip</dimen>
     <dimen name="item_layout_drawing_top">-46.0dip</dimen>
-    <dimen name="cell_width">85.0dip</dimen>
+    <dimen name="cell_width">90.0dip</dimen>
     <dimen name="cell_height">88.0dip</dimen>
     <dimen name="notification_icon_size">68.0dip</dimen>
     <dimen name="notification_icon_width">68.0dip</dimen>
@@ -430,8 +430,10 @@
     <dimen name="quicksettings_chargingCircleLineStrokeWidth">2.6999817dip</dimen>
     <dimen name="quicksettings_chargingCircleRadius">19.199982dip</dimen>
     <item type="dimen" name="quicksettings_chargingCircleMaxProgress">100</item>
-    <dimen name="assist_music_title_text">18.0sp</dimen>
-    <dimen name="assist_music_author_text">16.0sp</dimen>
+    <dimen name="assist_music_title_text">17.0sp</dimen>
+    <dimen name="assist_music_author_text">14.0sp</dimen>
+    <dimen name="assist_music_state_text">16.0sp</dimen>
+    <dimen name="assist_music_author_width">100.0dip</dimen>
     <dimen name="alert_dialog_button_bar_height">48.0dip</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20.0dip</dimen>
     <dimen name="bench_xaxis_text_size">10.0sp</dimen>

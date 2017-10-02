@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:id="@id/VolumeButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/common_margin" android:layout_marginBottom="@dimen/common_map_button_margin" android:checked="false" android:button="@drawable/volume_switcher_selector" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <com.sogou.map.android.maps.widget.pager.BTViewPager android:layout_gravity="center" android:id="@id/viewpager" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>
