@@ -26,7 +26,7 @@
     <string name="music_download_not_complete_title">Stahování hudby není kompletní</string>
     <string name="music_no_wifi_content">Wi-Fi není připojena, hudba nemůže být stažena. Prosím připojte se k Wi-Fi v Nastavení systému - Wi-Fi v hodinkách.</string>
     <string name="music_download_fail_content">Chyba sítě. Hudba nemůže být stažena. Prosím připojte se k síti a opakujte.</string>
-    <string name="music_download_not_complete_content">Chyba sítě. Hudba nebyla stažena kompletně. Můžete pustit jen stáhnutou hudbu. (Všechan hudba bude automaticky stažena po připojení k síti)</string>
+    <string name="music_download_not_complete_content">Chyba sítě. Hudba nebyla stažena kompletně. Můžete pustit jen stáhnutou hudbu. (Všechna hudba bude automaticky stažena po připojení k síti)</string>
     <string name="music_download_success">Aktualizace hudby úspěšná</string>
     <string name="music_downloading">Stahuji</string>
     <string name="music_fetch_list">Získávání seznamu hudby...</string>
@@ -42,7 +42,7 @@
     <string name="delete_all_task_toast">Opravdu zastavit stahování？</string>
     <string name="waiting_download">Čekejte/</string>
     <string name="download_completed">Stahování dokončeno</string>
-    <string name="music_list_title">nastavení přehrávání</string>
+    <string name="music_list_title">Nastavení přehrávání</string>
     <string name="music_volumn_control">Hlasitost</string>
     <string name="music_douban_offline">Watercress FM offline</string>
     <string name="music_play_mode">Změna módu</string>

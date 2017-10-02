@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <integer-array name="day_of_weak">
-        <item>1</item>
         <item>2</item>
         <item>3</item>
         <item>4</item>
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>1</item>
     </integer-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>Budík sa spustí o menej ako 1 minútu.</item>
         <item>Budík sa spustí o %1$s.</item>
@@ -31,13 +36,13 @@
     </string-array>
     <string-array name="short_week_days">
         <item></item>
-        <item>Ned</item>
         <item>Pon</item>
         <item>Ut</item>
         <item>Str</item>
         <item>Štv</item>
         <item>Pia</item>
         <item>Sob</item>
+        <item>Ned</item>
     </string-array>
     <string-array name="stopwatch_format_set">
         <item>%2$02d:%3$02d.%4$02d</item>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="lib_item">
-        <item>HR vždy aktivní</item>
+        <item>Záznam tepu</item>
         <item>BLE Anti Lost</item>
     </string-array>
 </resources>

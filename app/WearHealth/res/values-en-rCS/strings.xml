@@ -259,6 +259,7 @@
     <string name="picker_default_positive_text">Potvrď</string>
     <string name="picker_default_nagetive_text">Vypnout</string>
     <string name="no_heartrate_data_hint">Údaje o tepové frekvence nebyly detekovány</string>
+    <string name="app_list_title">Pohyb</string>
     <string name="no_altitude_hint">Údaje a výšce nebyly zjištěny</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavení</string>

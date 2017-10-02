@@ -24,7 +24,7 @@
     <string name="music_source_douban">Watercress FM</string>
     <string name="music_source_local">Lokálne skladby</string>
     <string name="music_source_all">Všetky skladby</string>
-    <string name="music_title">Music</string>
+    <string name="music_title">Hudba</string>
     <string name="music_init_not_done">Hudba sa inicializuje...</string>
     <string name="music_no_resource">K dispozícii nie sú žiadne skladby</string>
     <string name="music_down_not_complete_title">Zoznam skladieb nebol úplne stiahnutý, zrušiť?</string>

@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Průměr</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdit</string>
     <string name="picker_default_nagetive_text">Vypnuto</string>
@@ -33,8 +33,9 @@
     <string name="wear_habit">Zvyk nošení</string>
     <string name="bugreport">Nahlásit chybu</string>
     <string name="light_change">Podsvětlení</string>
-    <string name="auto_nodisturb">NERUŠIT-nastavení</string>
-    <string name="double_click_wakeup">Probuzení dotykem</string>
+    <string name="wrist_up">Zap.otočením ruky</string>
+    <string name="auto_nodisturb">Nerušit-nastavení</string>
+    <string name="double_click_wakeup">Probuz. dotykem</string>
     <string name="vibration_intensity">Vibrace</string>
     <string name="flight_mode">Mód letadlo</string>
     <string name="hm_lab">Huami Lab</string>
@@ -71,8 +72,8 @@
     <string name="legal">Zkontrolujte v Amazfit</string>
     <string name="legal2">Watch App</string>
     <string name="lab">Lab</string>
-    <string name="opened">Lab zapnuta</string>
-    <string name="closed">Lab vypnuta</string>
+    <string name="opened">Zapnuto</string>
+    <string name="closed">Vypnuto</string>
     <string name="air_plane_mode_note">"Režim Letadlo 
 Režim Letadlo vypne Bluetooth a Wi-Fi připojení k internetu, aby se šetřila energie. Pokud potřebujete používat funkce, které vyžadují BT / WiFi, vypněte režim Letadlo v Nastavení systému."</string>
     <string name="nodisturb_open_string">Zapnuto</string>
@@ -173,9 +174,9 @@ kg"</string>
     <string name="hour_system">%s-hodinový system</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-    <string name="strong">silné</string>
-    <string name="mid">střední</string>
-    <string name="weak">slabé</string>
+    <string name="strong">Silné</string>
+    <string name="mid">Střední</string>
+    <string name="weak">Slabé</string>
     <string name="confirm_shutdown">Vypnout?</string>
     <string name="app_name">Nastavení hodinek</string>
     <string name="title_activity_long_sitting_time">ČasovéAktivityDlouhéhoSezení</string>

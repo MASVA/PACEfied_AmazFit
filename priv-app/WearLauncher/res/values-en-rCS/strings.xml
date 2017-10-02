@@ -471,7 +471,7 @@ Zap"</string>
     <string name="secure_adb_instructions_title">Povolit ladění?</string>
     <string name="secure_adb_instructions_text">Otevřete vývojářské možnosti k povolení ladění.</string>
     <string name="mute">Ztlumit</string>
-    <string name="unmute">Zasílit</string>
+    <string name="unmute">Zesílit</string>
     <string name="tutorial_all_set">Jste připraveni!</string>
     <string name="tutorial_swipe_up">K zahajení přejeďte prstem</string>
     <string name="tutorial_great">Výborně</string>
@@ -554,7 +554,7 @@ Zap"</string>
     <string name="battery_info_status_charging">Nabíjení</string>
     <string name="battery_info_status_charging_ac">Nabíjení na AC</string>
     <string name="battery_info_status_charging_usb">Nabíjení přes USB</string>
-    <string name="battery_info_status_charging_wireless">Nabíjení drátově</string>
+    <string name="battery_info_status_charging_wireless">Nabíjení bezdrátově</string>
     <string name="battery_info_status_discharging">Nenabíjí se</string>
     <string name="battery_info_status_not_charging">Nenabíjí se</string>
     <string name="battery_info_status_full">Plně nabito</string>

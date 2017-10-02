@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="app_list_title">Trénink</string>	
     <string name="locale_title">Výběr Jazyka</string>
     <string name="app_name">TréninPlán</string>
     <string name="app_train_center">Tréninkový plán</string>
