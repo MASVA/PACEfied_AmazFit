@@ -2,5 +2,6 @@
 <resources>
     <string-array name="lib_item">
         <item>Capture PPG</item>
+        <item>BLE Anti Lost</item>
     </string-array>
 </resources>
