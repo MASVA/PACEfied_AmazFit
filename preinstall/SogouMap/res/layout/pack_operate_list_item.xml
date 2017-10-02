@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sogou.map.android.maps.wearablelist.WearableListItemLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/wearable_list_item" android:paddingLeft="@dimen/citypack_page_margin_left" android:paddingRight="@dimen/citypack_page_margin_left" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentEnd="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:circleprogress="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/downloadLayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/statusLayout" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <View android:visibility="invisible" android:layout_width="@dimen/citypack_page_icon_wh" android:layout_height="@dimen/citypack_page_icon_wh" />
+            <TextView android:textSize="@dimen/citypack_page_text_size" android:textColor="@color/black" android:layout_gravity="center_vertical" android:id="@id/status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/citypack_page_interval" android:text="已完成" android:singleLine="true" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/downloadStatusLayout" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.sogou.map.android.maps.widget.ButtonCircleProgressBar android:id="@id/progressBar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:progress="0" circleprogress:progress_reached_color="@color/red" circleprogress:radius="@dimen/citypack_page_progressbar_radius" />
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/citypack_page_interval">
+                <TextView android:textSize="@dimen/citypack_page_text_size" android:textColor="@color/black" android:gravity="center_vertical" android:id="@id/downloadStatusImage" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="全部下载" android:singleLine="true" />
+                <TextView android:textSize="@dimen/citypack_page_text_size" android:textColor="@color/black" android:id="@id/downloadStatusInfo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="更新提示" android:singleLine="true" />
+            </LinearLayout>
+        </LinearLayout>
+    </FrameLayout>
+    <FrameLayout android:id="@id/deleteCancleLayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/cancelLayout" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/cancleImg" android:background="@drawable/citypack_operate_button_bg" android:layout_width="@dimen/citypack_page_progressbar_diameter" android:layout_height="@dimen/citypack_page_progressbar_diameter" android:src="@drawable/ic_file_clear" />
+            <TextView android:textSize="@dimen/citypack_page_text_size" android:textColor="@color/black" android:id="@id/cancleTxt" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/citypack_page_interval" android:text="@string/status_cancle" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/deleteLayout" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@id/deleteImg" android:background="@drawable/citypack_operate_button_bg" android:layout_width="@dimen/citypack_page_progressbar_diameter" android:layout_height="@dimen/citypack_page_progressbar_diameter" android:src="@drawable/ic_file_del" />
+            <TextView android:textSize="@dimen/citypack_page_text_size" android:textColor="@color/black" android:id="@id/deleteTxt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/citypack_page_interval" android:text="@string/status_delete" />
+        </LinearLayout>
+    </FrameLayout>
+</com.sogou.map.android.maps.wearablelist.WearableListItemLayout>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.health" platformBuildVersionCode="22" platformBuildVersionName="5.1-264">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.health" platformBuildVersionCode="22" platformBuildVersionName="5.1-273">
     <uses-feature android:name="android.hardware.type.watch"/>
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="com.huami.watch.permission.READ_USER_SETTINGS"/>
@@ -72,12 +72,8 @@
         <activity android:launchMode="singleInstance" android:name="com.huami.watch.reports.DataCenterActivity">
             <intent-filter>
                 <action android:name="com.huami.watch.report.daily"/>
-            </intent-filter>
-        </activity>
-        <activity android:launchMode="singleInstance" android:name="com.huami.watch.reports.WeeklyReportsActivity"/>
-        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.huami.watch.reports.DailyReportListActivity">
-            <intent-filter>
-                <action android:name="com.huami.watch.report.daily"/>
+                <action android:name="com.huami.watch.report.weekly"/>
+                <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
         <activity android:exported="true" android:launchMode="singleInstance" android:name="com.huami.watch.reports.ReportsHistoryDetailActivity"/>
@@ -95,5 +91,12 @@
             </intent-filter>
         </receiver>
         <provider android:authorities="com.huami.watch.reports.database.DataReportProvider" android:exported="true" android:name="com.huami.watch.reports.database.DataReportProvider"/>
+        <activity android:name="com.huami.watch.reports.VoiceHealthActivity" android:theme="@android:style/Theme.DeviceDefault.Light">
+            <intent-filter>
+                <action android:name="com.huami.watch.health.DATACENTER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="voice_ability" android:resource="@array/support_category"/>
+        </activity>
     </application>
 </manifest>

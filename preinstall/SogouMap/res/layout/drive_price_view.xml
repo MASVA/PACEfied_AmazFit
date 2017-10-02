@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/common_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@drawable/title_bar_bg" android:paddingLeft="@dimen/common_title_bar_padding_h" android:paddingRight="@dimen/common_title_bar_padding_h" android:layout_width="fill_parent" android:layout_height="@dimen/TitleBarHeight">
+        <TextView android:textAppearance="@style/TitleBarText" android:textSize="@dimen/TitleBarTextSize" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_title" android:layout_centerInParent="true" style="@style/common_title_bar_title_style" />
+        <Button android:layout_gravity="center_vertical" android:id="@id/DrivePriceCancelButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/common_title_bar_padding_h" android:text="@string/common_cancel" android:layout_alignParentRight="true" android:layout_centerInParent="true" style="@style/common_search_button_style" />
+    </RelativeLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/DrivePriceLayout" android:background="@drawable/toolbar_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/search_poi_pager_padding_h" android:layout_marginTop="@dimen/search_poi_pager_padding_h" android:layout_marginRight="@dimen/search_poi_pager_padding_h">
+            <LinearLayout android:orientation="horizontal" android:background="@color/Divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="50.0dip" android:layout_weight="1.0">
+                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_position" />
+                </FrameLayout>
+                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
+                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_start" />
+                </FrameLayout>
+                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
+                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_money" />
+                </FrameLayout>
+                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
+                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_distance" />
+                </FrameLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

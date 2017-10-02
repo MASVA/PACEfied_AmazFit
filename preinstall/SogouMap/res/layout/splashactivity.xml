@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/splashactivity_layout" android:background="@drawable/welcome_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.wearable.view.WatchViewStub android:layout_width="fill_parent" android:layout_height="fill_parent" app:rectLayout="@layout/swipeback_layout" app:roundLayout="@layout/swipeback_layout" xmlns:app="http://schemas.android.com/apk/res-auto" />
+    <RelativeLayout android:orientation="horizontal" android:id="@id/dialog" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

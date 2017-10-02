@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.SubCommonCardFrame android:id="@id/end_card_view" style="@style/card_view_style">
+        <com.sogou.map.android.maps.widget.DefineMaxHeightScroolView android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/scrollViewContainer" android:paddingLeft="@dimen/common_margin_bigger" android:paddingRight="@dimen/common_margin_big" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <TextView android:textSize="@dimen/common_big_textsize" android:id="@id/end_name" style="@style/card_Scroll_view_txt_style" />
+                    <TextView android:textColor="@color/common_pop_layer_black" android:id="@id/end_address" android:layout_width="fill_parent" style="@style/card_Scroll_view_txt_style" />
+                </LinearLayout>
+                <ImageView android:id="@id/end_go" android:layout_width="20.0dip" android:layout_height="24.0dip" android:src="@drawable/ic_nav_mode_go_selector" />
+            </LinearLayout>
+        </com.sogou.map.android.maps.widget.DefineMaxHeightScroolView>
+    </com.sogou.map.android.maps.widget.SubCommonCardFrame>
+    <ImageView android:id="@id/water_mark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/map_logo_right_margin" android:layout_marginBottom="@dimen/map_logo_bottom_margin" android:src="@drawable/watermark" android:layout_above="@id/end_card_view" android:layout_alignParentRight="true" />
+</RelativeLayout>

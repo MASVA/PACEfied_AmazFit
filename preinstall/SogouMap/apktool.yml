@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: sogoumap.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '23'
+sharedLibrary: false
+unknownFiles:
+  build-data.properties: '8'
+  com/sogou/map/loc/sogouaes: '8'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: 1.2.39
+version: 2.2.2
+versionInfo:
+  versionCode: '30002000'
+  versionName: 3.0.2

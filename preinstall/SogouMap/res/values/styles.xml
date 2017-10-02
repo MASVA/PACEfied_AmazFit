@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActivityThemeNormal" parent="@style/AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="AppUpgradeProgressDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/app_upgrade_progress_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="CarHelpDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/car_help_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="CityShortNameDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/city_short_name_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="ConfirmationActivity" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowEnterAnimation">@null</item>
+        <item name="android:activityOpenEnterAnimation">@null</item>
+    </style>
+    <style name="CustomProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="DeleteCityPackDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/delete_citypack_dialog_bg</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="DialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/common_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="DriveStartEndText">
+        <item name="android:textSize">17.0dip</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Drive_Text_1">
+        <item name="android:textSize">@dimen/NormalTextSize</item>
+        <item name="android:textColor">#ff515151</item>
+    </style>
+    <style name="FavoriteContextDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+    <style name="HUDGuidDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="LayerDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="NormalRedText">
+        <item name="android:textSize">@dimen/NormalTextSize</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+    <style name="OtherLineDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/other_line_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="SdpathChangeDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/sdpath_change_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="SdpathChooseDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/sdpath_choose_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="ShareDialogTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/share_dialog_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+    <style name="SinglePageNavDrawerIconStyle">
+        <item name="android:padding">@dimen/nav_drawer_single_page_icon_padding</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:layout_width">@dimen/nav_drawer_single_page_icon_size</item>
+        <item name="android:layout_height">@dimen/nav_drawer_single_page_icon_size</item>
+        <item name="circle_color">#33ffffff</item>
+        <item name="circle_radius">@dimen/nav_drawer_single_page_circle_radius</item>
+    </style>
+    <style name="SinglePageNavDrawerTextStyle">
+        <item name="android:textSize">@dimen/nav_drawer_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="layout_marginTopPercent">@fraction/nav_drawer_text_margin</item>
+        <item name="layout_marginStartPercent">@fraction/nav_drawer_text_margin</item>
+        <item name="layout_marginEndPercent">@fraction/nav_drawer_text_margin</item>
+    </style>
+    <style name="SpeechDialogTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="SplashActivityTheme" parent="@style/AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="SwipeBackLayout">
+        <item name="edge_size">50.0dip</item>
+        <item name="shadow_left">@drawable/shadow_left</item>
+        <item name="shadow_right">@drawable/shadow_right</item>
+        <item name="shadow_bottom">@drawable/shadow_bottom</item>
+    </style>
+    <style name="TitleBarText">
+        <item name="android:textSize">@dimen/TitleBarTextSize</item>
+        <item name="android:textColor">@color/Title</item>
+    </style>
+    <style name="TransferDetailMemoText">
+        <item name="android:textSize">@dimen/common_normal_textsize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/TransferDetailMemoText</item>
+    </style>
+    <style name="TransferDetailStopNameText">
+        <item name="android:textSize">@dimen/common_big_textsize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/TransferDetailStopText</item>
+    </style>
+    <style name="card_Scroll_view_txt_style">
+        <item name="android:textSize">@dimen/common_normal_textsize</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="card_view_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/common_card_bottom</item>
+        <item name="android:layout_marginRight">@dimen/common_card_bottom</item>
+        <item name="android:layout_marginBottom">@dimen/common_card_bottom</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+    <style name="card_view_txt_style">
+        <item name="android:textSize">@dimen/common_normal_textsize</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:focusable">false</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="common_search_button_style">
+        <item name="android:textSize">@dimen/common_big_textsize</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/common_button_text_color</item>
+        <item name="android:background">@drawable/common_btn_gray_selector</item>
+        <item name="android:height">@dimen/common_search_button_height</item>
+        <item name="android:width">@dimen/common_search_button_width</item>
+    </style>
+    <style name="common_title_bar_title_style">
+        <item name="android:textSize">@dimen/common_most_big_textsize</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="drive_settings_dialog_bg" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.0</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="more_menu_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.2</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="route_high_hint_dialog" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

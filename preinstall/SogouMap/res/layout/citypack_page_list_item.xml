@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sogou.map.android.maps.wearablelist.WearableListItemLayout android:orientation="vertical" android:id="@id/wearable_list_item" android:paddingLeft="@dimen/citypack_page_margin_left" android:paddingRight="@dimen/citypack_page_margin_left" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/citypack_page_text_size" android:textStyle="bold" android:textColor="@color/black" android:id="@id/CityName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="城市名称" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/CityInfo" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/citypack_page_text_size" android:textColor="@color/black" android:ellipsize="end" android:id="@id/TipOrSize" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1024" android:singleLine="true" />
+        <TextView android:textSize="@dimen/citypack_page_text_size" android:textColor="@color/black" android:id="@id/status" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:text="更新提示" android:singleLine="true" />
+    </LinearLayout>
+</com.sogou.map.android.maps.wearablelist.WearableListItemLayout>

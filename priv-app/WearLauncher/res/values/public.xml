@@ -637,17 +637,24 @@
     <public type="string" name="notification_time_just" id="0x7f060050" />
     <public type="string" name="notification_time_yesterday" id="0x7f060051" />
     <public type="string" name="notificaton_empty_message" id="0x7f060052" />
-    <public type="string" name="amazing_dialog_btn_confirm_text" id="0x7f060053" />
-    <public type="string" name="amazing_dialog_btn_cancel_text" id="0x7f060054" />
-    <public type="string" name="accept" id="0x7f060055" />
-    <public type="string" name="action_failure" id="0x7f060056" />
-    <public type="string" name="action_success" id="0x7f060057" />
-    <public type="string" name="action_working" id="0x7f060058" />
-    <public type="string" name="activity_not_found" id="0x7f060059" />
-    <public type="string" name="data_checkfail_match" id="0x7f06005a" />
-    <public type="string" name="data_checkfail_temp" id="0x7f06005b" />
-    <public type="string" name="data_checkfail_type" id="0x7f06005c" />
-    <public type="string" name="notification_block_message" id="0x7f06005d" />
+    <public type="string" name="music" id="0x7f060053" />
+    <public type="string" name="music_title" id="0x7f060054" />
+    <public type="string" name="music_author" id="0x7f060055" />
+    <public type="string" name="music_stop_status" id="0x7f060056" />
+    <public type="string" name="music_play_status" id="0x7f060057" />
+    <public type="string" name="music_bulethooth_disconnect" id="0x7f060058" />
+    <public type="string" name="music_peek_content" id="0x7f060059" />
+    <public type="string" name="amazing_dialog_btn_confirm_text" id="0x7f06005a" />
+    <public type="string" name="amazing_dialog_btn_cancel_text" id="0x7f06005b" />
+    <public type="string" name="accept" id="0x7f06005c" />
+    <public type="string" name="action_failure" id="0x7f06005d" />
+    <public type="string" name="action_success" id="0x7f06005e" />
+    <public type="string" name="action_working" id="0x7f06005f" />
+    <public type="string" name="activity_not_found" id="0x7f060060" />
+    <public type="string" name="data_checkfail_match" id="0x7f060061" />
+    <public type="string" name="data_checkfail_temp" id="0x7f060062" />
+    <public type="string" name="data_checkfail_type" id="0x7f060063" />
+    <public type="string" name="notification_block_message" id="0x7f060064" />
     <public type="string" name="launcher_app_name" id="0x7f060065" />
     <public type="string" name="hm_watch_sports_notification_km" id="0x7f060066" />
     <public type="string" name="hm_watch_sports_notification_sports" id="0x7f060067" />
@@ -1195,13 +1202,6 @@
     <public type="string" name="widget_currentstep_sleep_title" id="0x7f060285" />
     <public type="string" name="widget_currentstep_sleep_no" id="0x7f060286" />
     <public type="string" name="widget_currentstep_activity_no" id="0x7f060287" />
-    <public type="string" name="music" id="0x7f06005e" />
-    <public type="string" name="music_title" id="0x7f06005f" />
-    <public type="string" name="music_author" id="0x7f060060" />
-    <public type="string" name="music_stop_status" id="0x7f060061" />
-    <public type="string" name="music_play_status" id="0x7f060062" />
-    <public type="string" name="music_bulethooth_disconnect" id="0x7f060063" />
-    <public type="string" name="music_peek_content" id="0x7f060064" />
     <public type="color" name="main_bg_color" id="0x7f070000" />
     <public type="color" name="blt_setting_bg_color" id="0x7f070001" />
     <public type="color" name="loading_txt_color" id="0x7f070002" />
@@ -1913,48 +1913,50 @@
     <public type="dimen" name="quicksettings_chargingCircleMaxProgress" id="0x7f0801b1" />
     <public type="dimen" name="assist_music_title_text" id="0x7f0801b2" />
     <public type="dimen" name="assist_music_author_text" id="0x7f0801b3" />
-    <public type="dimen" name="alert_dialog_button_bar_height" id="0x7f0801b6" />
-    <public type="dimen" name="item_touch_helper_max_drag_scroll_per_frame" id="0x7f0801b7" />
-    <public type="dimen" name="bench_xaxis_text_size" id="0x7f0801b8" />
-    <public type="dimen" name="xaxis_offset" id="0x7f0801b9" />
-    <public type="dimen" name="average_line_width" id="0x7f0801ba" />
-    <public type="dimen" name="average_text_size" id="0x7f0801bb" />
-    <public type="dimen" name="average_text_padding_left" id="0x7f0801bc" />
-    <public type="dimen" name="average_hundred_text_padding_left" id="0x7f0801bd" />
-    <public type="dimen" name="min_max_margin" id="0x7f0801be" />
-    <public type="dimen" name="indicator_radius" id="0x7f0801bf" />
-    <public type="dimen" name="indicator_radius_focused" id="0x7f0801c0" />
-    <public type="dimen" name="indicator_center_distance" id="0x7f0801c1" />
-    <public type="dimen" name="menu_touch_area" id="0x7f0801c2" />
-    <public type="dimen" name="size_shadow_dy1" id="0x7f0801c3" />
-    <public type="dimen" name="size_shadow_radius1" id="0x7f0801c4" />
-    <public type="dimen" name="size_shadow_radius2" id="0x7f0801c5" />
-    <public type="dimen" name="size_xaxis_label_font" id="0x7f0801c6" />
-    <public type="dimen" name="size_xaxis_label_font2" id="0x7f0801c7" />
-    <public type="dimen" name="size_linechart_line_width" id="0x7f0801c8" />
-    <public type="dimen" name="size_linechart_minmax_font" id="0x7f0801c9" />
-    <public type="dimen" name="size_ybar_radius" id="0x7f0801ca" />
-    <public type="dimen" name="size_ybar_default_height" id="0x7f0801cb" />
-    <public type="dimen" name="size_linechart_yoffset" id="0x7f0801cc" />
-    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f0801cd" />
-    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f0801ce" />
-    <public type="dimen" name="unlock_view_min_size" id="0x7f0801cf" />
-    <public type="dimen" name="unlock_progress_radius" id="0x7f0801d0" />
-    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f0801d1" />
-    <public type="dimen" name="unlock_icon_size" id="0x7f0801d2" />
-    <public type="dimen" name="size_linechart_width" id="0x7f0801d3" />
-    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f0801d4" />
-    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f0801d5" />
-    <public type="dimen" name="pickview_unit_size" id="0x7f0801d6" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f0801d7" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f0801d8" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f0801d9" />
+    <public type="dimen" name="assist_music_state_text" id="0x7f0801b4" />
+    <public type="dimen" name="assist_music_author_width" id="0x7f0801b5" />
+    <public type="dimen" name="alert_dialog_button_bar_height" id="0x7f0801b8" />
+    <public type="dimen" name="item_touch_helper_max_drag_scroll_per_frame" id="0x7f0801b9" />
+    <public type="dimen" name="bench_xaxis_text_size" id="0x7f0801ba" />
+    <public type="dimen" name="xaxis_offset" id="0x7f0801bb" />
+    <public type="dimen" name="average_line_width" id="0x7f0801bc" />
+    <public type="dimen" name="average_text_size" id="0x7f0801bd" />
+    <public type="dimen" name="average_text_padding_left" id="0x7f0801be" />
+    <public type="dimen" name="average_hundred_text_padding_left" id="0x7f0801bf" />
+    <public type="dimen" name="min_max_margin" id="0x7f0801c0" />
+    <public type="dimen" name="indicator_radius" id="0x7f0801c1" />
+    <public type="dimen" name="indicator_radius_focused" id="0x7f0801c2" />
+    <public type="dimen" name="indicator_center_distance" id="0x7f0801c3" />
+    <public type="dimen" name="menu_touch_area" id="0x7f0801c4" />
+    <public type="dimen" name="size_shadow_dy1" id="0x7f0801c5" />
+    <public type="dimen" name="size_shadow_radius1" id="0x7f0801c6" />
+    <public type="dimen" name="size_shadow_radius2" id="0x7f0801c7" />
+    <public type="dimen" name="size_xaxis_label_font" id="0x7f0801c8" />
+    <public type="dimen" name="size_xaxis_label_font2" id="0x7f0801c9" />
+    <public type="dimen" name="size_linechart_line_width" id="0x7f0801ca" />
+    <public type="dimen" name="size_linechart_minmax_font" id="0x7f0801cb" />
+    <public type="dimen" name="size_ybar_radius" id="0x7f0801cc" />
+    <public type="dimen" name="size_ybar_default_height" id="0x7f0801cd" />
+    <public type="dimen" name="size_linechart_yoffset" id="0x7f0801ce" />
+    <public type="dimen" name="menu_item_layout_margin_top" id="0x7f0801cf" />
+    <public type="dimen" name="picker_default_nagetive_text_size" id="0x7f0801d0" />
+    <public type="dimen" name="unlock_view_min_size" id="0x7f0801d1" />
+    <public type="dimen" name="unlock_progress_radius" id="0x7f0801d2" />
+    <public type="dimen" name="unlock_progress_strokewidth" id="0x7f0801d3" />
+    <public type="dimen" name="unlock_icon_size" id="0x7f0801d4" />
+    <public type="dimen" name="size_linechart_width" id="0x7f0801d5" />
+    <public type="dimen" name="size_linechart_point_padding_left" id="0x7f0801d6" />
+    <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f0801d7" />
+    <public type="dimen" name="pickview_unit_size" id="0x7f0801d8" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f0801d9" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f0801da" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f0801db" />
     <public type="dimen" name="amazing_seekbar_maxheight" id="0x7f080014" />
     <public type="dimen" name="amazing_seekbar_progress_radius" id="0x7f080015" />
     <public type="dimen" name="amazing_dialog_size" id="0x7f080016" />
     <public type="dimen" name="amazing_dialog_button_size" id="0x7f080017" />
-    <public type="dimen" name="cw_circular_incoming_call_title_vertical_padding" id="0x7f0801b4" />
-    <public type="dimen" name="confirmation_body_font_size_circular" id="0x7f0801b5" />
+    <public type="dimen" name="cw_circular_incoming_call_title_vertical_padding" id="0x7f0801b6" />
+    <public type="dimen" name="confirmation_body_font_size_circular" id="0x7f0801b7" />
     <public type="array" name="localapps" id="0x7f090000" />
     <public type="array" name="appcolors" id="0x7f090001" />
     <public type="array" name="appload_drawables" id="0x7f090002" />

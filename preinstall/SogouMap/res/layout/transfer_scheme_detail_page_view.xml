@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sogou.map.android.maps.widget.SildingLayout android:id="@id/silding_view" android:background="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/frame_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="@dimen/common_card_bottom">
+        <com.sogou.map.android.maps.widget.CommonWearableListView android:id="@id/DetailWearableListView" android:layout_width="fill_parent" android:layout_height="fill_parent" WearableListView:heightIdx="1"
+          xmlns:WearableListView="http://schemas.android.com/apk/res/com.sogou.map.android.maps" />
+    </LinearLayout>
+</com.sogou.map.android.maps.widget.SildingLayout>

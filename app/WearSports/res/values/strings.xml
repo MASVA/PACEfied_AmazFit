@@ -341,9 +341,9 @@
     <string name="setting_sport_heart_region_text_custom">Custom</string>
     <string name="remind_heart_rate_region_over">Heart rate is too high</string>
     <string name="remind_heart_rate_region_less">Heart rate is too low</string>
-    <string name="real_time_route">实时轨迹</string>
-    <string name="real_time_output">导出</string>
-    <string name="real_time_total_dis_title">总距离</string>
+    <string name="real_time_route">Route</string>
+    <string name="real_time_output">Export</string>
+    <string name="real_time_total_dis_title">Total Distance</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Run%1sKm</string>
@@ -379,20 +379,20 @@
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Altitude(feet)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Speed(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
-    <string name="export_gpx">Export Track to GPX</string>
+    <string name="export_gpx">Export GPX file</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_confirm">Confirm</string>
     <string name="hint_rolling">Exporting, please wait for a while ...</string>
-    <string name="dlg_msg_hint_cancel">Do you want to cancel this track export?</string>
+    <string name="dlg_msg_hint_cancel">Do you want to cancel the export?</string>
     <string name="dlg_btn_l_msg">No</string>
     <string name="dlg_btn_r_msg">Yes</string>
     <string name="hint_cancelling">Cancelling...</string>
-    <string name="hint_success_exported_title">The track was exported succesfully.</string>
+    <string name="hint_success_exported_title">Exported to GPX file successfully.</string>
     <string name="hint_failed_exported_title">Failed to Export</string>
-    <string name="hint_where">"The gpx file has been places in 
- dir '/sdcard/gpxdata'。
- You can get it by through a computer file browser."</string>
-    <string name="hint_failed">Failed to export the track, please try again.</string>
+    <string name="hint_where">"The gpx file has been placed in 
+ folder '/sdcard/gpxdata'.
+ You can copy it to a computer through USB."</string>
+    <string name="hint_failed">Failed to export, please try again.</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>
