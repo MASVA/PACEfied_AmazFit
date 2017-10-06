@@ -84,6 +84,13 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="notification_time_just">Właśnie</string>
     <string name="notification_time_yesterday">Wczoraj</string>
     <string name="notificaton_empty_message">Brak wiad.</string>
+    <string name="music">Muzyka</string>
+    <string name="music_title">Nieznany tytuł</string>
+    <string name="music_author">Nieznany Artysta</string>
+    <string name="music_stop_status">Pauza</string>
+    <string name="music_play_status">Odtwarzanie</string>
+    <string name="music_bulethooth_disconnect">Łączenie się z Bluetooth…</string>
+    <string name="music_peek_content">Twój telefon używa apl. %s do odtw. muzyki. Możesz sterować odtw.muzyki przez powiad.na zegarku.</string>
     <string name="amazing_dialog_btn_confirm_text">Zatwierdź</string>
     <string name="amazing_dialog_btn_cancel_text">Anuluj</string>
     <string name="accept">Zaakceptuj</string>
