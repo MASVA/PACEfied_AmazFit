@@ -14,7 +14,7 @@
     <string name="widget_title">Alipay</string>
     <string name="tip">Do aplikácie Alipay (9.3 alebo vyššej), "Moje - Nastavenia - Nastavenia zabezpečenia - Smart Watch"</string>
     <string name="ios_unsupport_tips">（Alipay nie je podporovaný systémom iOS）</string>
-    <string name="button_start_bind">Sputenie pripájania</string>
+    <string name="button_start_bind">Spustenie pripájania</string>
     <string name="bind_usage">Skenovať QR Alipay</string>
     <string name="bar_code_tip">Platba kompletná</string>
     <string name="qr_code_tip">Skenovať prevody alebo pridať mojich priateľov</string>

@@ -12,7 +12,7 @@
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Výber jazyka</string>
     <string name="app_name">TV pomocník</string>
-    <string name="tv_title_controller">Diaľkové ovládánie TV</string>
+    <string name="tv_title_controller">TV ovládač</string>
     <string name="tv_use_title">Pozrite si tipy</string>
     <string name="tv_title_searching">Hľadám...</string>
     <string name="tv_title_choices">Vyberte prosím zariadenie, které chcete ovládať</string>
@@ -23,7 +23,7 @@ ovládateľný prístroj"</string>
     <string name="tv_foot_search_again">Opakovať</string>
     <string name="tv_use_content">Zapnite televízor a pripojte sa na rovnakú Wi-Fi sieť</string>
     <string name="tv_current_device">Aktuálne zariadenie</string>
-    <string name="tv_launcher_guide">Tip: Niektoré TV a TV boxy nepodporujú hlasové funkcie</string>
+    <string name="tv_launcher_guide">Info: Niektoré TV nepodporujú hlasové funkcie</string>
     <string name="error_bluetooth_title">Bluetooth bol odpojený</string>
     <string name="error_bluetooth_content">Skontrolujte prosím Bluetooth spojenie hodinek s telefónom.</string>
     <string name="error_wifi_title">Pripojenie Wi-Fi je prerušené</string>

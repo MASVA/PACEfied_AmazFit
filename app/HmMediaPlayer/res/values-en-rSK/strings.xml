@@ -29,7 +29,7 @@
     <string name="music_no_resource">K dispozícii nie sú žiadne skladby</string>
     <string name="music_down_not_complete_title">Zoznam skladieb nebol úplne stiahnutý, zrušiť?</string>
     <string name="music_no_douban_resource">Nie sú dostupné žiadne lokálne skladby, stiahnuť teraz?</string>
-    <string name="music_no_local_resource">Žiadne skladby k prehratiu, nahrajte skladby cez USB.</string>
+    <string name="music_no_local_resource">Žiadne skladby na prehratie, nahrajte skladby cez USB.</string>
     <string name="music_start_tips">Pre prehrávanie hudby je potrebné pripojiť Bluetooth headsed, pripojiť?</string>
     <string name="music_down_not_complete_content">Po odhlásení môžete skladby aktualizovať v Nastaveniach Hudby - Watercress FM offline.</string>
     <string name="app_name">HM Media Player</string>

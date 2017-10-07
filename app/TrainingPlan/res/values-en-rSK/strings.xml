@@ -13,7 +13,7 @@
     <string name="day_train_record_stag">%1$s - %2$d .týždeň - %3$d deň</string>
     <string name="day_train_record_stag_simple">- %1$d .týždeň - %2$d deň</string>
     <string name="day_train_record_train_stage">-%1$sdeň</string>
-    <string name="remind_train_first_text">Systematický tréning vám pomôže zlepšiť vaše behanie. Poďme na to！</string>
+    <string name="remind_train_first_text">pravidelný tréning vám pomôže zlepšiť váš výkon. Poďme na to!</string>
     <string name="train_start">Začať tréning</string>
     <string name="hidtory_train_start_date">Začiatok %1$s</string>
     <string name="hidtory_train_end_date">Koniec %1$s</string>

@@ -53,8 +53,8 @@
     <string name="label_quiet_fast_well_bad">Negativní emoce, jako je úzkost či strach může způsobit vysokou srdeční frekvenci. Udržování klidu pomáhá udržet normální srdeční rytmus.</string>
     <string name="label_quiet_fast_well_good">Změny nálady, jako je rozčílení či vzrušení může způsobit vysokou tepovou frekvenci. Udržování klidu pomáhá udržet normální srdeční rytmus.</string>
     <string name="label_quiet_fast_well_medium">Dle doporučení by měla mít vaše tepová frekvence v rozmezí: 60-100 tepů za minutu. Mírné cvičení a zdravý životní styl povede k normálnímu srdeční frekvenci.</string>
-    <string name="label_quiet_normal">Normální srdeční frekvence</string>
-    <string name="label_quiet_normal_any">Tepová frekvence pod klidovým stavem: 60 až 100 tepů za minutu. Mírné cvičení a zdravý životní styl usnadní normální tepovou frekvenci</string>
+    <string name="label_quiet_normal">Normální tep</string>
+    <string name="label_quiet_normal_any">Tepová frekvence v klidovém stavu je v rozmezí: 60 až 100 tepů za minutu. Mírné cvičení a zdravý životní styl usnadní normální tepovou frekvenci</string>
     <string name="label_quiet_slow">Pod normálem</string>
     <string name="label_quiet_slow_any">Dle doporučení by měla mít vaše tepová frekvence v rozmezí: 60-100 tepů za minutu. Mírné cvičení a zdravý životní styl povede k normálnímu srdeční frekvenci.</string>
     <string name="label_step_unit">Kroků</string>

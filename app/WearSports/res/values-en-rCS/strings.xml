@@ -38,8 +38,8 @@
     <string name="safe_hearate_remind_content">Pokud nad %1d</string>
     <string name="settings_safe_heart_rate_hint">(Bezpečná tepová frekvence)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
-    <string name="elliptical">Eliptický trenažér</string>
-    <string name="elliptical_in_progress">Eliptický trenažér probíhá</string>
+    <string name="elliptical">Elipt.trenažer</string>
+    <string name="elliptical_in_progress">Eliptický trenažér běží</string>
     <string name="experience_title">Prosím nastav osobní údaje, nebo budou mít data velkou odchylku</string>
     <string name="sport_setting_gpx_route_selected">Trasa vybrána</string>
     <string name="sport_setting_gpx_route_selectd_remind">Venkovní sporty budou používat tuto trasu k navigaci. Pokud nechcete navigovat, vyberte Vypnout pro zrušení navigace.</string>
@@ -197,7 +197,7 @@ Pro stažení připojte hodinky k počítači"</string>
     <string name="history_info_cost_time_desc">Uplynulý čas</string>
     <string name="history_detail_running_title">Běh</string>
     <string name="history_detail_walking_title">Chůze</string>
-    <string name="history_detail_indoor_running_title">Halový běh</string>
+    <string name="history_detail_indoor_running_title">Běžecký pás</string>
     <string name="history_detail_cost_time">Celkový čas</string>
     <string name="history_detail_paused_time">Čas pozastavení</string>
     <string name="default_pace_value">"00'00\""</string>
@@ -317,7 +317,7 @@ Pro stažení připojte hodinky k počítači"</string>
     <string name="remind_current_heart">Aktuální</string>
     <string name="remind_last_dis_pace">Tempo poslední mi</string>
     <string name="remind_last_dis_speed">Rychlost v poslední mi</string>
-    <string name="count_down_tint">Pro přesné výsledky tepové frekvence utáhněte pásek hodinek</string>
+    <string name="count_down_tint">Pro přesné měření tepu si utáhněte hodinky</string>
     <string name="history_detail_running_cost_time">Čas pohybu</string>
     <string name="history_detail_walking_cost_time">Čas pohybu</string>
     <string name="settings_sport_slpt_second_brush">Obnovení statistik každou sekundu</string>
