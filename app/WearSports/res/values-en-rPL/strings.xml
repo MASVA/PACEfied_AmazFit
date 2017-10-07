@@ -340,9 +340,9 @@
     <string name="setting_sport_heart_region_text_custom">Standardowy</string>
     <string name="remind_heart_rate_region_over">Tętno jest za wysokie</string>
     <string name="remind_heart_rate_region_less">Tętno jest za niskie</string>
-    <string name="real_time_route">tor w czasie rzeczywistym</string>
-    <string name="real_time_output">eksport</string>
-    <string name="real_time_total_dis_title">całkowita odległ.</string>
+    <string name="real_time_route">Trasa</string>
+    <string name="real_time_output">Eksport</string>
+    <string name="real_time_total_dis_title">Całkowita odległ.</string>
     <string name="complete_training_project">Program trningu został zakoń.</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Bieg %1sKm</string>
@@ -378,7 +378,7 @@
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Wysokość(st)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Pręd.(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
-    <string name="export_gpx">Eksport śladu do GPX</string>
+    <string name="export_gpx">Eksport pliku GPX</string>
     <string name="btn_cancel">Anuluj</string>
     <string name="btn_confirm">Zatwierdź</string>
     <string name="hint_rolling">Eksport śladów,prosimy o cierpliwość.</string>
@@ -386,10 +386,10 @@
     <string name="dlg_btn_l_msg">Nie</string>
     <string name="dlg_btn_r_msg">Tak</string>
     <string name="hint_cancelling">Anulowanie ...</string>
-    <string name="hint_success_exported_title">Eksport zakończony</string>
+    <string name="hint_success_exported_title">Eksp.do pliku GPX zakoń.</string>
     <string name="hint_failed_exported_title">Eksport przerwany</string>
-    <string name="hint_where">"Ślad został umieszczony w folderze '/sdcard/gpxdata'.
-Obserwować można za pomocą przeglądarki plików komputerowych."</string>
+    <string name="hint_where">"Ślad zapis.w fold.'/gpxdata/'. 
+	Skopiuj do komputera za pomocą USB"</string>
     <string name="hint_failed">Esport śladu nie powiódł się, spóbuj ponownie.</string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

@@ -166,7 +166,7 @@ kg"</string>
     <string name="date_ymd">Data(Y/M/D)</string>
     <string name="time_hms">Czas(H/M/S)</string>
     <string name="time_format">Format Czasu</string>
-    <string name="hour_system">%s-hour system</string>
+    <string name="hour_system">%s-format czasu</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="strong">silne</string>
