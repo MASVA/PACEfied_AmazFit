@@ -91,7 +91,7 @@
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
     <string name="app_name">Gesundheit</string>
     <string name="label_heartrate">Puls</string>
-    <string name="label_heartrate_unit"Bpm</string>
+    <string name="label_heartrate_unit">Bpm</string>
     <string name="ratio_notworn">Die Uhr wird nicht getragen</string>
     <string name="heartrate_wear_before_gauging">Bitte trage die Uhr bevor Du eine Messung vornimmst</string>
     <string name="label_active_fast">Anaerob</string>
@@ -178,7 +178,7 @@
     <string name="sleep_unit_minute">min</string>
     <string name="sleep_uniti_hour">hour</string>
     <string name="sleep_duration">%1$s h %2$s min</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">Hour&lt;/font> %2$s Min</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;Hour&lt;/font&gt; %2$s Min</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Today</string>
     <string name="sleep_detail_title">History</string>

@@ -60,11 +60,11 @@ Neue Benachrichtigung wird nicht mehr angezeigt."</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
-    <string name="health_def_value" />
-    <string name="health_def_hint" />
+    <string name="health_def_value"/>
+    <string name="health_def_hint"/>
     <string name="health_title_def_value">Sie sind heute gegangen</string>
     <string name="splash_hint">Initialisieren ...</string>
-    <string name="header_incomming_call_name" />
+    <string name="header_incomming_call_name"/>
     <string name="header_incomming_call_hint">Eingehender Anruf</string>
     <string name="header_incomming_call_mobilephone">Telefon</string>
     <string name="header_incomming_call_landlinephone">Festnetz</string>
@@ -291,7 +291,7 @@ day"</string>
     <string name="cue_menu_agenda">Agenda</string>
     <string name="cue_menu_agenda_help">für heute</string>
     <string name="cue_menu_settings">Einstellungen</string>
-    <string name="cue_menu_bug_report">Fehlerbericht/string>
+    <string name="cue_menu_bug_report">Fehlerbericht</string>
     <string name="cue_menu_apps">wird gestartet…</string>
     <string name="cue_launch_error">"Tut mir leid, das kann ich jetzt nicht machen."</string>
     <string name="voice_action_edit">Bearbeiten</string>
