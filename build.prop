@@ -35,7 +35,7 @@ ro.board.platform=M200
 ro.build.product=watch
 # Do not try to parse description, fingerprint, or thumbprint
 ro.build.description=huanghe-user 5.1 LMY47D 273 release-keys
-ro.build.fingerprint=Huami/huanghe/watch:5.1/PACEfied/28:user/release-keys
+ro.build.fingerprint=Huami/huanghe/watch:5.1/PACEfied/29:user/release-keys
 ro.build.characteristics=tablet
 # end build properties
 
