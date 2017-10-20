@@ -25,12 +25,12 @@
     <dimen name="dialog_weahter_no_data_msg">12.0sp</dimen>
     <dimen name="icon_width">68.0dip</dimen>
     <dimen name="icon_height">68.0dip</dimen>
-    <dimen name="icon_txt_size">14.0sp</dimen>
+    <dimen name="icon_txt_size">13.0sp</dimen>
     <dimen name="icon_txt_padding_top">-5.0dip</dimen>
     <dimen name="item_width">171.0dip</dimen>
     <dimen name="item_height">88.0dip</dimen>
     <dimen name="item_layout_drawing_top">-46.0dip</dimen>
-    <dimen name="cell_width">90.0dip</dimen>
+    <dimen name="cell_width">95.0dip</dimen>
     <dimen name="cell_height">88.0dip</dimen>
     <dimen name="notification_icon_size">68.0dip</dimen>
     <dimen name="notification_icon_width">68.0dip</dimen>

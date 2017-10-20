@@ -153,7 +153,7 @@
     </style>
     <style name="sport_route_data_title_style" parent="@style/sport_text_style">
         <item name="android:textSize">9.299988sp</item>
-        <item name="android:textColor">#b3ffffff</item>
+        <item name="android:textColor">@color/default_font_color_white</item>
     </style>
     <style name="sport_route_num_style" parent="@style/sport_num_text_style">
         <item name="android:textSize">16.0sp</item>
