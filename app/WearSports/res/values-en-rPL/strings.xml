@@ -383,7 +383,7 @@
     <string name="export_gpx">Eksport pliku GPX</string>
     <string name="btn_cancel">Anuluj</string>
     <string name="btn_confirm">Zatwierdź</string>
-    <string name="hint_rolling">Eksport śladów,prosimy o cierpliwość.</string>
+    <string name="hint_rolling">Eksp.śladów,prosimy o cierpliwość.</string>
     <string name="dlg_msg_hint_cancel">Anulować eksport Śladu?</string>
     <string name="dlg_btn_l_msg">Nie</string>
     <string name="dlg_btn_r_msg">Tak</string>
