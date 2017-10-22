@@ -38,8 +38,8 @@
     <string name="safe_hearate_remind_content">% 1d bpm gainditzen ba duzu</string>
     <string name="settings_safe_heart_rate_hint">Bihotzeko taupada maizt segurua</string>
     <string name="settings_safe_heart_rate_unit">Taup/min</string>
-    <string name="elliptical">Eliptica</string>
-    <string name="elliptical_in_progress">Eliptica</string>
+    <string name="elliptical">Eliptika</string>
+    <string name="elliptical_in_progress">Eliptika</string>
     <string name="experience_title">Mesedez, informazio pertsonala prestatu, edo datuek desbideratze haundia izango dute</string>
     <string name="sport_setting_gpx_route_selected">Aukeratu Ibilbidea</string>
     <string name="sport_setting_gpx_route_selectd_remind">Zure ibilbidea mapan erakutsiko da jarduera bat hasterakoan. Ezaktibatu nahi izan ezkero, sakatu Ezarpenak / Ibilbideak / Ezgaitu</string>
