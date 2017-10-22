@@ -3,7 +3,7 @@
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Selectionner Langue</string>
     <string name="generic_notification_more">Plus %s</string>
-    <string name="notification_unread_num"> %s Non lu(s)</string>
+    <string name="notification_unread_num">%s Non lus</string>
     <string name="notification_click_upgrade">Mise à jour</string>
     <string name="notification_click_download">Visualiser</string>
     <string name="notification_click_open">Voir plus</string>
@@ -23,7 +23,7 @@
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
     <string name="delete_all_notifications">Supprimer les notifications</string>
-    <string name="delete_all_notifications_confrim_content">Suppression des notifications. Continuer ?</string>
+    <string name="delete_all_notifications_confrim_content">Suppression des notifications. Continuer?</string>
     <string name="quick_settings_airplane_mode">Avion: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Silence: %1$s</string>
     <string name="quick_settings_auto_light_mode">Eclairage: %1$s</string>
@@ -90,7 +90,7 @@ Les notifications ne s\'afficheront pas."</string>
     <string name="music_stop_status">Pause</string>
     <string name="music_play_status">En cours</string>
     <string name="music_bulethooth_disconnect">Connexion au Bluetooth…</string>
-	<string name="music_peek_content">Votre téléphone utilise l\'app %s pour lire la musique. Vous pouvez contrôler la lecture de la musique à l\'aide de la notification sur la montre.</string>
+	<string name="music_peek_content">Votre téléphone utilise   %s qui peut être contrôlée sur la montre.</string>
     <string name="amazing_dialog_btn_confirm_text">Confirmer</string>
     <string name="amazing_dialog_btn_cancel_text">Annuler</string>
     <string name="accept">Accepter</string>

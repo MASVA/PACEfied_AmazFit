@@ -26,8 +26,8 @@
     <string name="work_days">Jour de travail</string>
     <string name="hour_unit">Heure</string>
     <string name="minute_unit">Minute</string>
-    <string name="snooze_button">Snooze</string>
-    <string name="dimiss_button">Off</string>
+    <string name="snooze_button">Répéter</string>
+    <string name="dimiss_button">Arrêter</string>
     <string name="stop_watch_left_button_positive">Tour</string>
     <string name="stop_watch_left_button_negative">Raz</string>
     <string name="stop_watch_right_button_positive">Début</string>
