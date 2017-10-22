@@ -67,6 +67,8 @@
     <string name="gpx_no_find_route">Brak dostępnych ścieżek</string>
     <string name="gpx_no_route_guide">Podłącz zegarek do komputera i skopiuj plik GPX do folderu \"gpxdata\" i spróbuj ponownie</string>
     <string name="indoor_run_progressing">Bieganie</string>
+    <string name="sport_widget_title_moutaineer">Wspinaczka</string>
+    <string name="sport_widget_title_moutaineer_in_progress">Wspinanie...</string>
     <string name="music_title">Muzyka</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">Brak utworu do odtw.</string>
