@@ -121,7 +121,7 @@
     <string name="sport_widget_title_run">Beh</string>
     <string name="sport_widget_title_walk">Chôdza</string>
     <string name="sport_widget_title_cross">Beh v teréne</string>
-    <string name="sport_widget_title_indoor_run">Dráhový beh</string>
+    <string name="sport_widget_title_indoor_run">Bežecký pás</string>
     <string name="sport_widget_title_record">Aktivity</string>
     <string name="sport_widget_title_achieve">Medaily</string>
     <string name="sport_widget_title_setting">Nastavenia</string>
@@ -296,7 +296,7 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="running_in_progress">Behanie...</string>
     <string name="walking_in_progress">Chôdza...</string>
     <string name="sport_in_progress_confirm">Potvrdiť</string>
-    <string name="sport_modify">Kalibrácia</string>
+    <string name="sport_modify">Kalibruj</string>
     <string name="sport_history_detail_heart_unit">Jednotky (h:m:s)</string>
     <string name="widget_sport_item_running_title">Behanie</string>
     <string name="wait_gps_no_gps_signal">GPS nedostupné, prosím choďte na voľné priestranstvo</string>

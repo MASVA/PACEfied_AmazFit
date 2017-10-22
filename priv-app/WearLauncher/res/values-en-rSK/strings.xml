@@ -53,7 +53,7 @@ Nové notifikácie sa viac nebudú zobrazovať."</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d dní %2$d hodín od nabitia</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d dní od nabitia</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d hodín od nabitia</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">Od nabitia uplynula menej ako jedna hodina</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">Od nabitia menej ako 1h.</string>
     <string name="quick_settings_battery_sportString">Životnosť batérie v GPS móde</string>
     <string name="quick_settings_battery_sporttime_hour_unit">hod.</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>

@@ -12,7 +12,7 @@
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Výber jazyka</string>
     <string name="app_name">TV pomocník</string>
-    <string name="tv_title_controller">TV ovládač</string>
+    <string name="tv_title_controller">TVovládač</string>
     <string name="tv_use_title">Pozrite si tipy</string>
     <string name="tv_title_searching">Hľadám...</string>
     <string name="tv_title_choices">Vyberte prosím zariadenie, které chcete ovládať</string>

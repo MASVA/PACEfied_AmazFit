@@ -53,7 +53,7 @@
     <string name="quick_settings_battery_charging_intervalDay">%1$d dní %2$d hodin od nabití</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d dní od nabití </string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d hodin od nabití </string>
-    <string name="quick_settings_battery_charging_intervalLessHour">Od nabití uplynula méně než hodina</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">Od nabití méně než 1h.</string>
     <string name="quick_settings_battery_sportString">Životnost baterie v módu GPS</string>
     <string name="quick_settings_battery_sporttime_hour_unit">hod.</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
