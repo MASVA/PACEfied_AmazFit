@@ -60,6 +60,7 @@
     <string name="fetch_failed_title">Nie można uzyskać informacji o pogodzie</string>
     <string name="fetch_failed_msg">Upewnij się, że zegarek jest podłą.do apli.Amazfit i wybrano właś.lokali.</string>
     <string name="date_time_format">MM-dd</string>
+    <string name="fetch_failed_help">Najpierw zsynchronizuj informacje o pogodzie</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Zła suma kontrolna danych pogodowych！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Typ Pogody nierozpoz.</string>
     <string name="data_checkfail_temp">Temp.poza zakresem</string>
