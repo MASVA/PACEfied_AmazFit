@@ -25,7 +25,7 @@
     <string name="about">Über</string>
     <string name="wear_habit">Tragegewohnheiten</string>
     <string name="bugreport">Fehler melden</string>
-    <string name="light_change">Hintergrundbeleuchtung</string>
+    <string name="light_change">Beleuchtung</string>
     <string name="wrist_up">Aktivieren bei Handgelenksbewegung</string>
     <string name="auto_nodisturb">Nicht stören</string>
     <string name="double_click_wakeup">Tippen für Aufwachen</string>
@@ -41,10 +41,10 @@
     <string name="common">Allgemein</string>
     <string name="device">Gerät</string>
     <string name="nodisturb">Nicht stören</string>
-    <string name="auto_airplane">Automatischer Flugmodus</string>
+    <string name="auto_airplane">Autom. Flugmodus</string>
     <string name="wifi_upload">Hochladen</string>
     <string name="replace_watchface">WatchFace</string>
-    <string name="wifi_auto_upload_switch">Automatisches Hochladen</string>
+    <string name="wifi_auto_upload_switch">Autom. Hochladen</string>
     <string name="nothing">Leer</string>
     <string name="about_title">Über</string>
     <string name="model">Modell</string>
@@ -72,7 +72,7 @@
     <string name="nodisturb_open_string">An</string>
     <string name="nodisturb_close_string">Aus</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
-    <string name="auto_nodisturb_title_string">Automatisches Nicht stören</string>
+    <string name="auto_nodisturb_title_string">Autom. Nicht stören</string>
     <string name="auto_nodisturb_start_time_string">Startzeit</string>
     <string name="auto_nodisturb_end_time_string">Endzeit</string>
     <string name="time_to">" bis "</string>
@@ -135,7 +135,7 @@ Verbinden?"</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Immer an</string>
     <string name="rise_no_bl_under_slpt">Nur entsperrt</string>
-    <string name="subtitle_of_raise_hand_no_bl">Auto wenn entsperrt</string>
+    <string name="subtitle_of_raise_hand_no_bl">Autom. wenn entsperrt</string>
     <string name="rise_with_bl_under_slpt">An</string>
     <string name="rise_without_bl_under_slpt">Aus</string>
     <string name="locale_title">Sprache</string>
@@ -161,7 +161,7 @@ Verbinden?"</string>
     <string name="date_ymd">Datum(D/M/Y)</string>
     <string name="time_hms">Zeit(H/M/S)</string>
     <string name="time_format">Zeitformat</string>
-    <string name="hour_system">%s-hour system</string>
+    <string name="hour_system">%s-Stunden-System</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="strong">stark</string>
@@ -179,10 +179,10 @@ Verbinden?"</string>
 <!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Datencenter</string>
     <string name="widget_currentstep_activities">Schritte heute</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_hour">Std</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Schlaf letzte Nacht</string>
+    <string name="widget_currentstep_sleep_title">geschlafen</string>
     <string name="widget_currentstep_sleep_no">Keine Schlafdaten</string>
-    <string name="widget_currentstep_activity_no">Keine Übungen heute?</string>
+    <string name="widget_currentstep_activity_no">Heute keine übungen?</string>
 <!--END of missed texts by Huami-->
 </resources>
