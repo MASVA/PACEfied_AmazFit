@@ -161,7 +161,7 @@ Verbinden?"</string>
     <string name="date_ymd">Datum(D/M/Y)</string>
     <string name="time_hms">Zeit(H/M/S)</string>
     <string name="time_format">Zeitformat</string>
-    <string name="hour_system">%s-Stunden-System</string>
+    <string name="hour_system">%s-Std.System</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="strong">stark</string>
