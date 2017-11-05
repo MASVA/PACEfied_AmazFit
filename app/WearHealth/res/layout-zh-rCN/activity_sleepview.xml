@@ -47,6 +47,5 @@
                 <TextView android:textSize="@dimen/widget_sleep_view_title_size" android:layout_width="90.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:text="@string/widget_sleep_conment" android:lines="2" android:layout_toRightOf="@id/weeklysports_sleep_well_ig" android:layout_centerVertical="true" android:lineSpacingExtra="6.0dip" />
             </RelativeLayout>
         </FrameLayout>
-        <View android:background="@color/color_detail_half_white" android:layout_width="fill_parent" android:layout_height="0.70000005dip" android:layout_marginTop="21.0dip" />
     </LinearLayout>
 </com.huami.watch.reports.widget.SleepView>

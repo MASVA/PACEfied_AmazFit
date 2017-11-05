@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="watch.huami.com.mediaplayer" platformBuildVersionCode="22" platformBuildVersionName="5.1-283">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="watch.huami.com.mediaplayer" platformBuildVersionCode="22" platformBuildVersionName="5.1-288">
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
@@ -53,7 +53,7 @@
                 <action android:name="com.huami.watch.mediaplayer.MUSIC_SOURCE_VOLUMN_SETTINGS"/>
             </intent-filter>
         </activity>
-        <service android:exported="true" android:name="com.huami.watch.amazfitmusic.mediasync.global.CoreSyncService">
+        <service android:enabled="false" android:exported="true" android:name="com.huami.watch.amazfitmusic.mediasync.global.CoreSyncService">
             <intent-filter>
                 <action android:name="com.huami.watch.amazfitmusic.CORE_SYNC_SERVICE"/>
             </intent-filter>
