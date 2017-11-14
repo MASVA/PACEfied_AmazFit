@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer-list
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@android:id/background" android:drawable="@drawable/ico_heart_empty" />
-    <item android:id="@android:id/secondaryProgress" android:drawable="@drawable/ico_heart_empty" />
-    <item android:id="@android:id/progress" android:drawable="@drawable/ico_heart_full" />
+<layer-list>
+    <item n1:id="@android:id/background" n1:drawable="@drawable/ico_heart_empty"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <item n2:id="@android:id/secondaryProgress" n2:drawable="@drawable/ico_heart_empty"
+      xmlns:n2="http://schemas.android.com/apk/res/android" />
+    <item n3:id="@android:id/progress" n3:drawable="@drawable/ico_heart_full"
+      xmlns:n3="http://schemas.android.com/apk/res/android" />
 </layer-list>

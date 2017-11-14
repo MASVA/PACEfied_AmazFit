@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="common_google_play_services_enable_button">有効にする</string>
-    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
-    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
-    <string name="common_google_play_services_install_button">インストール</string>
-    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
-    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
-    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
-    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
-    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
-    <string name="common_google_play_services_update_button">更新</string>
-    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
-    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
-    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
-    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
-    <string name="common_open_on_phone">スマートフォンで開く</string>
-    <string name="common_signin_button_text">ログイン</string>
-    <string name="common_signin_button_text_long">Googleにログイン</string>
     <string name="buttons_rect_bottom_center">下</string>
     <string name="buttons_rect_bottom_left">左下</string>
     <string name="buttons_rect_bottom_right">右下</string>
@@ -45,6 +28,23 @@
     <string name="buttons_round_top_right">右上</string>
     <string name="buttons_round_top_right_lower">右斜め上より下</string>
     <string name="buttons_round_top_right_upper">右斜め上より上</string>
+    <string name="common_google_play_services_enable_button">有効にする</string>
+    <string name="common_google_play_services_enable_text">%1$sの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Google Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_install_button">インストール</string>
+    <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
+    <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">%1$sの実行にはGoogle Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Google Play開発者サービスの更新</string>
+    <string name="common_google_play_services_updating_text">%1$sの実行にはGoogle Play開発者サービスが必要ですが、このサービスは現在更新中です。</string>
+    <string name="common_google_play_services_wear_update_text">Google Play開発者サービスの新しいバージョンが必要です。まもなく自動更新されます。</string>
+    <string name="common_open_on_phone">スマートフォンで開く</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleにログイン</string>
     <string name="dismiss_overlay_button_label">終了</string>
     <string name="generic_cancel">キャンセル</string>
     <string name="generic_yes">はい</string>

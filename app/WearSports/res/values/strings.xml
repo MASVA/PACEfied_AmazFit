@@ -391,7 +391,8 @@
     <string name="dlg_btn_l_msg">No</string>
     <string name="dlg_btn_r_msg">Yes</string>
     <string name="hint_cancelling">Cancelling...</string>
-    <string name="hint_success_exported_title">Exported to GPX file successfully.</string>
+    <string name="hint_success_exported_title">"Exported to GPX file 
+ successfully"</string>
     <string name="hint_failed_exported_title">Failed to Export</string>
     <string name="hint_where">"The gpx file has been placed in 
  folder '/sdcard/gpxdata'.

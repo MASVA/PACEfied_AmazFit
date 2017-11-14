@@ -1,19 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="confirmation_overlay_image_size">64.0dip</dimen>
-    <dimen name="action_drawer_item_bottom_padding">8.0dip</dimen>
-    <dimen name="action_drawer_item_icon_padding">7.0dip</dimen>
-    <dimen name="action_drawer_item_icon_right_margin">8.0dip</dimen>
-    <dimen name="action_drawer_item_icon_size">36.0dip</dimen>
-    <dimen name="action_drawer_item_text_size">14.0sp</dimen>
-    <dimen name="action_drawer_item_top_padding">8.0dip</dimen>
-    <dimen name="nav_drawer_single_page_circle_radius">24.0dip</dimen>
-    <dimen name="nav_drawer_single_page_icon_size">28.0dip</dimen>
-    <dimen name="nav_drawer_text_size">12.0sp</dimen>
-    <dimen name="screen_percentage_05">0.0dip</dimen>
-    <dimen name="screen_percentage_10">0.0dip</dimen>
-    <dimen name="screen_percentage_12">0.0dip</dimen>
-    <dimen name="screen_percentage_15">0.0dip</dimen>
     <dimen name="BottomBarHeight">50.0dip</dimen>
     <dimen name="BusSliderFrame_FirstStep">134.0dip</dimen>
     <dimen name="DefaultSliderFrame_BottomMargin">34.0dip</dimen>
@@ -33,6 +19,12 @@
     <item type="dimen" name="action_chooser_min_drag_select_percent">0.5</item>
     <item type="dimen" name="action_chooser_min_swipe_select_percent">0.25</item>
     <dimen name="action_drawer_expand_icon_top_margin">-3.0dip</dimen>
+    <dimen name="action_drawer_item_bottom_padding">8.0dip</dimen>
+    <dimen name="action_drawer_item_icon_padding">7.0dip</dimen>
+    <dimen name="action_drawer_item_icon_right_margin">8.0dip</dimen>
+    <dimen name="action_drawer_item_icon_size">36.0dip</dimen>
+    <dimen name="action_drawer_item_text_size">14.0sp</dimen>
+    <dimen name="action_drawer_item_top_padding">8.0dip</dimen>
     <dimen name="action_drawer_peek_top_padding">2.0dip</dimen>
     <dimen name="action_drawer_peek_view_height">43.0dip</dimen>
     <dimen name="app_update_log_textsize">15.0sp</dimen>
@@ -82,6 +74,7 @@
     <dimen name="common_search_button_width">53.299988dip</dimen>
     <dimen name="common_small_textsize">11.299988sp</dimen>
     <dimen name="common_title_bar_padding_h">10.0dip</dimen>
+    <dimen name="confirmation_overlay_image_size">64.0dip</dimen>
     <dimen name="confirmation_overlay_text_size">14.0sp</dimen>
     <dimen name="defaultContentPadding_bottom">-12.0dip</dimen>
     <dimen name="defaultContentPadding_left">-12.0dip</dimen>
@@ -107,12 +100,19 @@
     <dimen name="map_logo_bottom_margin">0.0dip</dimen>
     <dimen name="map_logo_right_margin">16.0dip</dimen>
     <dimen name="map_logo_right_margin_big">50.0dip</dimen>
+    <dimen name="nav_drawer_single_page_circle_radius">24.0dip</dimen>
     <dimen name="nav_drawer_single_page_icon_padding">6.0dip</dimen>
+    <dimen name="nav_drawer_single_page_icon_size">28.0dip</dimen>
+    <dimen name="nav_drawer_text_size">12.0sp</dimen>
     <dimen name="offline_title_big_textsize">13.299988sp</dimen>
     <dimen name="page_line_margin">10.0dip</dimen>
     <dimen name="peek_view_bottom_padding">8.0dip</dimen>
     <dimen name="peek_view_icon_size">22.0dip</dimen>
     <dimen name="peek_view_top_padding">8.0dip</dimen>
+    <dimen name="screen_percentage_05">0.0dip</dimen>
+    <dimen name="screen_percentage_10">0.0dip</dimen>
+    <dimen name="screen_percentage_12">0.0dip</dimen>
+    <dimen name="screen_percentage_15">0.0dip</dimen>
     <dimen name="search_poi_pager_padding_h">10.0dip</dimen>
     <dimen name="sliderMenu_shadow_width">4.0dip</dimen>
     <dimen name="wearable_drawer_view_elevation">12.0dip</dimen>

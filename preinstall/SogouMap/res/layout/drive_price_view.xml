@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:background="@color/common_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <RelativeLayout android:background="@drawable/title_bar_bg" android:paddingLeft="@dimen/common_title_bar_padding_h" android:paddingRight="@dimen/common_title_bar_padding_h" android:layout_width="fill_parent" android:layout_height="@dimen/TitleBarHeight">
-        <TextView android:textAppearance="@style/TitleBarText" android:textSize="@dimen/TitleBarTextSize" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_title" android:layout_centerInParent="true" style="@style/common_title_bar_title_style" />
-        <Button android:layout_gravity="center_vertical" android:id="@id/DrivePriceCancelButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/common_title_bar_padding_h" android:text="@string/common_cancel" android:layout_alignParentRight="true" android:layout_centerInParent="true" style="@style/common_search_button_style" />
+<LinearLayout n1:orientation="vertical" n1:background="@color/common_background" n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <RelativeLayout n1:background="@drawable/title_bar_bg" n1:paddingLeft="@dimen/common_title_bar_padding_h" n1:paddingRight="@dimen/common_title_bar_padding_h" n1:layout_width="fill_parent" n1:layout_height="@dimen/TitleBarHeight">
+        <TextView n1:textAppearance="@style/TitleBarText" n1:textSize="@dimen/TitleBarTextSize" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/drive_price_dialog_title" n1:layout_centerInParent="true" style="@style/common_title_bar_title_style" />
+        <Button n1:layout_gravity="center_vertical" n1:id="@id/DrivePriceCancelButton" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="@dimen/common_title_bar_padding_h" n1:text="@string/common_cancel" n1:layout_alignParentRight="true" n1:layout_centerInParent="true" style="@style/common_search_button_style" />
     </RelativeLayout>
-    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0"
-      xmlns:android="http://schemas.android.com/apk/res/android">
-        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/DrivePriceLayout" android:background="@drawable/toolbar_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/search_poi_pager_padding_h" android:layout_marginTop="@dimen/search_poi_pager_padding_h" android:layout_marginRight="@dimen/search_poi_pager_padding_h">
-            <LinearLayout android:orientation="horizontal" android:background="@color/Divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
-                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="50.0dip" android:layout_weight="1.0">
-                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_position" />
+    <ScrollView n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_weight="1.0">
+        <LinearLayout n1:gravity="center_horizontal" n1:layout_gravity="center_horizontal" n1:orientation="vertical" n1:id="@id/DrivePriceLayout" n1:background="@drawable/toolbar_background" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_marginLeft="@dimen/search_poi_pager_padding_h" n1:layout_marginTop="@dimen/search_poi_pager_padding_h" n1:layout_marginRight="@dimen/search_poi_pager_padding_h">
+            <LinearLayout n1:orientation="horizontal" n1:background="@color/Divider" n1:layout_width="fill_parent" n1:layout_height="wrap_content" n1:layout_weight="1.0">
+                <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/drive_price_dialog_position" />
                 </FrameLayout>
-                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
-                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_start" />
+                <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_marginLeft="1.0px" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/drive_price_dialog_start" />
                 </FrameLayout>
-                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
-                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_money" />
+                <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_marginLeft="1.0px" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/drive_price_dialog_money" />
                 </FrameLayout>
-                <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
-                    <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drive_price_dialog_distance" />
+                <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_marginLeft="1.0px" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+                    <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@string/drive_price_dialog_distance" />
                 </FrameLayout>
             </LinearLayout>
         </LinearLayout>

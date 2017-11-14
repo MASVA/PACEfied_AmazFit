@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ImageView android:id="@id/overview_item_icon" android:layout_width="wrap_content" android:layout_height="38.0dip" android:src="@drawable/ico_w_tras_walk" />
-    <ImageView android:id="@id/overview_item_arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ico_w_tras_arrow" />
+<LinearLayout n1:gravity="center" n1:orientation="horizontal" n1:layout_width="wrap_content" n1:layout_height="wrap_content"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <ImageView n1:id="@id/overview_item_icon" n1:layout_width="wrap_content" n1:layout_height="38.0dip" n1:src="@drawable/ico_w_tras_walk" />
+    <ImageView n1:id="@id/overview_item_arrow" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:src="@drawable/ico_w_tras_arrow" />
 </LinearLayout>
