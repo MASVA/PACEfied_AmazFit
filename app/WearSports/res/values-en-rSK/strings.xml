@@ -66,7 +66,10 @@
     <string name="gpx_alreay_offset">Odchýlenie</string>
     <string name="gpx_no_find_route">Nenájdené žiadne trasy</string>
     <string name="gpx_no_route_guide">Prosím pripojte hodinky k počítaču, nakopírujte GPX súbor do adresára \"gpxdata\" a skúste to znova</string>
+    <string name="bpm_to">tep k</string>
     <string name="indoor_run_progressing">Beh</string>
+    <string name="sport_widget_title_moutaineer">Horolezec</string>
+    <string name="sport_widget_title_moutaineer_in_progress">Prebieha horolezectvo...</string>
     <string name="music_title">Hudba</string>
     <string name="music_local_title">Športová hudba</string>
     <string name="music_no_resource">Žiadne skladby na prehratie</string>
@@ -127,19 +130,6 @@
     <string name="sport_widget_title_setting">Nastavenia</string>
     <string name="sport_widget_title_music">Hudba</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="export_gpx">Export trasy</string>
-    <string name="btn_cancel">Zrušiť</string>
-    <string name="btn_confirm">Pokračovať</string>
-    <string name="hint_rolling">Export trasy, prosím, buďte trpezliví.</string>
-    <string name="dlg_msg_hint_cancel">Zrušiť export trasy?</string>
-    <string name="dlg_btn_l_msg">nie</string>
-    <string name="dlg_btn_r_msg">áno</string>
-    <string name="hint_cancelling">Ruší sa...</string>
-    <string name="hint_success_exported_title">Úspěšne vyexportované</string>
-    <string name="hint_failed_exported_title">Export trasy zlyhal</string>
-    <string name="hint_where">"Trasa bola exportovaná do adresára GPXDATA
-Pre stiahnutie pripojte hodinky k počítaču"</string>
-    <string name="hint_failed">Export trasy se nepodaril, prosím zopakujte ho.</string>	
     <string name="app_name">Športy</string>
     <string name="sport_item_running_title">Behanie</string>
     <string name="sport_item_walking_title">Chôdza</string>
@@ -391,6 +381,19 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Výška(stop)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Rýchlosť(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
+    <string name="export_gpx">Export trasy</string>
+    <string name="btn_cancel">Zrušiť</string>
+    <string name="btn_confirm">Pokračovať</string>
+    <string name="hint_rolling">Export trasy, prosím, buďte trpezliví.</string>
+    <string name="dlg_msg_hint_cancel">Zrušiť export trasy?</string>
+    <string name="dlg_btn_l_msg">nie</string>
+    <string name="dlg_btn_r_msg">áno</string>
+    <string name="hint_cancelling">Ruší sa...</string>
+    <string name="hint_success_exported_title">Úspěšne vyexportované</string>
+    <string name="hint_failed_exported_title">Export trasy zlyhal</string>
+    <string name="hint_where">"Trasa bola exportovaná do adresára GPXDATA
+Pre stiahnutie pripojte hodinky k počítaču"</string>
+    <string name="hint_failed">Export trasy se nepodaril, prosím zopakujte ho.</string>	
     <string name="average_text">Priemer</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdiť</string>
