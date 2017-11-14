@@ -23,10 +23,10 @@
     <string name="reset_factory">Paramètres d\'Usine</string>
     <string name="shut_down">Eteindre</string>
     <string name="about">A Propos</string>
-    <string name="wear_habit">Poingée</string>
+    <string name="wear_habit">Poignée</string>
     <string name="bugreport">Report d\'Erreur</string>
     <string name="light_change">Rétro-Eclairage</string>
-    <string name="wrist_up">Activer sur soulèvement du poignet</string>	
+    <string name="wrist_up">Mouvement poignet</string>	
     <string name="auto_nodisturb">Période Silence</string>
     <string name="double_click_wakeup">Double appui</string>
     <string name="vibration_intensity">Vibration</string>
@@ -43,7 +43,7 @@
     <string name="nodisturb">Silence</string>
     <string name="auto_airplane">Période Avion</string>
     <string name="wifi_upload">Envoi</string>
-    <string name="replace_watchface">Changer WatchFace</string>
+    <string name="replace_watchface">Cadran</string>
     <string name="wifi_auto_upload_switch">Envoi Auto</string>
     <string name="nothing">Vide</string>
     <string name="about_title">A Propos</string>

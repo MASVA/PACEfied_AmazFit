@@ -54,11 +54,11 @@
     <string name="cumulative_climb">Altitude cumulée</string>
     <string name="sport_route_out_of">Dévié du parcours</string>
     <string name="sport_back_to_route">Retour au parcours</string>
-    <string name="gpx_currnet_is_selected">selectionné</string>
+    <string name="gpx_currnet_is_selected">Choisir</string>
     <string name="gpx_select_closed">Fermer</string>
     <string name="gpx_select_empty" />
-    <string name="gpx_details_view">selectionné</string>
-    <string name="gpx_details_use">Utilisé</string>
+    <string name="gpx_details_view">Choisir</string>
+    <string name="gpx_details_use">Utiliser</string>
     <string name="gpx_route_loading">Patientez pendant le chargement du parcours</string>
     <string name="dialog_remind_to_look_route">Regardez la route</string>
     <string name="gpx_offset_route">Dévié du parcours</string>
