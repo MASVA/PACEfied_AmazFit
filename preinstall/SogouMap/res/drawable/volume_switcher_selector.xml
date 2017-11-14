@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_checked="true" android:drawable="@drawable/ico_w_volume_off" />
-    <item android:state_checked="false" android:drawable="@drawable/ico_w_volume_on" />
+<selector>
+    <item n1:state_checked="true" n1:drawable="@drawable/ico_w_volume_off"
+      xmlns:n1="http://schemas.android.com/apk/res/android" />
+    <item n2:state_checked="false" n2:drawable="@drawable/ico_w_volume_on"
+      xmlns:n2="http://schemas.android.com/apk/res/android" />
 </selector>

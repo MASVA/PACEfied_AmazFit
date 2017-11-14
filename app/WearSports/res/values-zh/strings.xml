@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">gpx-recorder</string>
     <string name="crossing_title">越野跑</string>
     <string name="crossing_end_sport">请先结束越野跑运动</string>
     <string name="crossing_in_progress">越野跑步中</string>
@@ -126,7 +127,6 @@
     <string name="sport_widget_title_setting">运动设置</string>
     <string name="sport_widget_title_music">运动音乐</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="app_name">gpx-recorder</string>
     <string name="sport_item_running_title">路 跑</string>
     <string name="sport_item_walking_title">健 走</string>
     <string name="title_sport_list">户外运动</string>
@@ -192,6 +192,7 @@
     <string name="no_gps_button_text">确定</string>
     <string name="settings_item_title_km_remind">每公里提醒</string>
     <string name="settings_item_title_mi_remind">每英里提醒</string>
+    <string name="settings_item_title_use_sogou">地图轨迹</string>
     <string name="settings_item_title_km_voice_remind">语音提醒</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">燃脂心率提醒</string>
     <string name="settings_item_title_safe_heartrate_remind">心率提醒</string>
@@ -319,6 +320,7 @@
     <string name="real_time_route">实时轨迹</string>
     <string name="real_time_output">导出</string>
     <string name="real_time_total_dis_title">总距离</string>
+    <string name="sogou_map_trail_alert">手表将通过手机网络读取地图，为节省流量请先在手表的搜狗地图应用中下载所在地区的离线地图。</string>
     <string name="complete_training_project">训练计划已完成</string>
     <string name="reminder_speed_unit">/小时</string>
     <string name="remind_target_distance_training_title_format">跑步%1s公里</string>

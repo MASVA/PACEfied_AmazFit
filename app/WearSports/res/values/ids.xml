@@ -59,6 +59,8 @@
     <item type="id" name="read">false</item>
     <item type="id" name="display">false</item>
     <item type="id" name="scrollView">false</item>
+    <item type="id" name="parent">false</item>
+    <item type="id" name="ok">false</item>
     <item type="id" name="dlg_container_id">false</item>
     <item type="id" name="dlg_container">false</item>
     <item type="id" name="opt_btn">false</item>

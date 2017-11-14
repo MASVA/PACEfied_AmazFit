@@ -64,12 +64,12 @@
     <string name="gpx_offset_route">Deviated trajectory</string>
     <string name="gpx_back_route">Has returned to the track</string>
     <string name="gpx_alreay_offset">Deviate</string>
-    <string name="gpx_no_find_route">No available tracks found</string>
-    <string name="gpx_no_route_guide">Please connect to the computer and copy the GPX file to the \"gpxdata\" folder and try again</string>
-    <string name="bpm_to">bpm to</string>
+    <string name="gpx_no_find_route">No trace available</string>
+    <string name="gpx_no_route_guide">"Please connect your watch to the computer and copy the GPX file to the 'gpxdata' folder and try again"</string>
+    <string name="bpm_to">bpm To</string>
     <string name="indoor_run_progressing">Running</string>
-    <string name="sport_widget_title_moutaineer">登山</string>
-    <string name="sport_widget_title_moutaineer_in_progress">登山中...</string>
+    <string name="sport_widget_title_moutaineer">Climbing</string>
+    <string name="sport_widget_title_moutaineer_in_progress">Mountaineering...</string>
     <string name="music_title">Music</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">No songs to play</string>
@@ -207,6 +207,7 @@
     <string name="no_gps_button_text">Confirm</string>
     <string name="settings_item_title_km_remind">Lap Alert</string>
     <string name="settings_item_title_mi_remind">Lap Alert</string>
+    <string name="settings_item_title_use_sogou">Use Sogou Map</string>
     <string name="settings_item_title_km_voice_remind">Voice Prompt</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Aerobic HR Alert</string>
     <string name="settings_item_title_safe_heartrate_remind">HR Alert</string>
@@ -330,22 +331,23 @@
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">Region Alert</string>
-    <string name="setting_sport_heart_region_remind">Heart Region Alert</string>
+    <string name="setting_sport_heart_region_remind">Heart Rate Alert</string>
     <string name="settings_item_title_safe_heartrate_safe_remind">Safe heart rate Alert</string>
     <string name="settings_item_title_safe_heartrate_region_remind">Heart Region Alert</string>
-    <string name="setting_sport_heart_region_fat_burning">Fat burning Region</string>
-    <string name="setting_sport_heart_region_aerobic">Aerobic zone Region</string>
-    <string name="setting_sport_heart_region_high＿intensity_exercise">High-intensity Region</string>
-    <string name="setting_sport_heart_region_custom">Custom Region</string>
+    <string name="setting_sport_heart_region_fat_burning">Fat burning</string>
+    <string name="setting_sport_heart_region_aerobic">Aerobic zone</string>
+    <string name="setting_sport_heart_region_high＿intensity_exercise">High-intensity</string>
+    <string name="setting_sport_heart_region_custom">Custom</string>
     <string name="setting_sport_heart_region_text_fat_burning">fatBurning</string>
     <string name="setting_sport_heart_region_text_aerobic">Aerobic</string>
-    <string name="setting_sport_heart_region_text_high＿intensity_exercise">High intensity exercise</string>
+    <string name="setting_sport_heart_region_text_high＿intensity_exercise">High-Intensity</string>
     <string name="setting_sport_heart_region_text_custom">Custom</string>
     <string name="remind_heart_rate_region_over">Heart rate is too high</string>
     <string name="remind_heart_rate_region_less">Heart rate is too low</string>
-    <string name="real_time_route">Real-time track</string>
+    <string name="real_time_route">Route</string>
     <string name="real_time_output">Export</string>
-    <string name="real_time_total_dis_title">Total distance</string>
+    <string name="real_time_total_dis_title">Total Distance</string>
+    <string name="sogou_map_trail_alert">The watch will read the map through the mobile phone network. To save traffic, please download the offline map of the region in the watch's Sogou map application.</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Run%1sKm</string>
@@ -381,20 +383,20 @@
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Altitude(feet)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Speed(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
-    <string name="export_gpx">Export Track to GPX</string>
+    <string name="export_gpx">Export GPX file</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_confirm">Confirm</string>
     <string name="hint_rolling">Exporting, please wait for a while ...</string>
-    <string name="dlg_msg_hint_cancel">Do you want to cancel this track export?</string>
+    <string name="dlg_msg_hint_cancel">Do you want to cancel the export?</string>
     <string name="dlg_btn_l_msg">No</string>
     <string name="dlg_btn_r_msg">Yes</string>
     <string name="hint_cancelling">Cancelling...</string>
-    <string name="hint_success_exported_title">The track was exported succesfully.</string>
+    <string name="hint_success_exported_title">Exported to GPX file successfully.</string>
     <string name="hint_failed_exported_title">Failed to Export</string>
-    <string name="hint_where">"The gpx file has been places in 
- dir '/sdcard/gpxdata'。
- You can get it by through a computer file browser."</string>
-    <string name="hint_failed">Failed to export the track, please try again.</string>
+    <string name="hint_where">"The gpx file has been placed in 
+ folder '/sdcard/gpxdata'.
+ You can copy it to a computer through USB."</string>
+    <string name="hint_failed">Failed to export, please try again.</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.sogou.map.android.maps.widget.CommonCardFrame android:id="@id/nav_card_view" style="@style/card_view_style">
-        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/card_contain" android:paddingLeft="@dimen/common_margin_bigger" android:layout_width="fill_parent" android:layout_height="wrap_content">
-            <LinearLayout android:layout_gravity="center|left" android:id="@id/NaviDirectLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/common_margin">
-                <ImageView android:id="@id/nav_img_tip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-                <TextView android:textSize="@dimen/common_small_textsize" android:textColor="@color/black_54p" android:layout_gravity="center|right|top" android:id="@id/NaviDirectNumTxt" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="#99000000" android:shadowDy="1.0" />
+<RelativeLayout n1:layout_width="fill_parent" n1:layout_height="fill_parent"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <com.sogou.map.android.maps.widget.CommonCardFrame n1:id="@id/nav_card_view" style="@style/card_view_style">
+        <LinearLayout n1:gravity="center" n1:orientation="horizontal" n1:id="@id/card_contain" n1:paddingLeft="@dimen/common_margin_bigger" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+            <LinearLayout n1:layout_gravity="center|left" n1:id="@id/NaviDirectLayout" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginRight="@dimen/common_margin">
+                <ImageView n1:id="@id/nav_img_tip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
+                <TextView n1:textSize="@dimen/common_small_textsize" n1:textColor="@color/black_54p" n1:layout_gravity="center|right|top" n1:id="@id/NaviDirectNumTxt" n1:visibility="gone" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:shadowColor="#99000000" n1:shadowDy="1.0" />
             </LinearLayout>
-            <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/common_margin" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
-                <TextView android:id="@id/nav_txt_tip" android:layout_width="fill_parent" style="@style/card_view_txt_style" />
-                <TextView android:id="@id/nav_txt_distance" android:visibility="gone" android:layout_width="fill_parent" style="@style/card_view_txt_style" />
+            <LinearLayout n1:orientation="vertical" n1:paddingLeft="@dimen/common_margin" n1:layout_width="0.0dip" n1:layout_height="wrap_content" n1:layout_weight="1.0">
+                <TextView n1:id="@id/nav_txt_tip" n1:layout_width="fill_parent" style="@style/card_view_txt_style" />
+                <TextView n1:id="@id/nav_txt_distance" n1:visibility="gone" n1:layout_width="fill_parent" style="@style/card_view_txt_style" />
             </LinearLayout>
         </LinearLayout>
     </com.sogou.map.android.maps.widget.CommonCardFrame>
-    <ImageView android:id="@id/water_mark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/map_logo_bottom_margin" android:src="@drawable/watermark" android:layout_above="@id/nav_card_view" android:layout_marginEnd="@dimen/map_logo_right_margin" android:layout_alignParentEnd="true" />
+    <ImageView n1:id="@id/water_mark" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:layout_marginBottom="@dimen/map_logo_bottom_margin" n1:src="@drawable/watermark" n1:layout_above="@id/nav_card_view" n1:layout_marginEnd="@dimen/map_logo_right_margin" n1:layout_alignParentEnd="true" />
 </RelativeLayout>

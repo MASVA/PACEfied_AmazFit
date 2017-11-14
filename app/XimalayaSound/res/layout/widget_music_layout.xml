@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+<RelativeLayout android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <LinearLayout android:orientation="vertical" android:id="@id/play_source_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_centerHorizontal="true">
         <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/xmly_weight_logo_54" />
-        <TextView android:textSize="14.0sp" android:layout_gravity="center" android:id="@id/play_source" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.6999817dip" android:text="@string/player_banner" />
-        <TextView android:textSize="16.0sp" android:id="@id/play_no_resource_help" android:paddingLeft="20.0dip" android:paddingRight="15.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.6999817dip" android:text="@string/music_no_resource_detail" />
+        <TextView android:textSize="14.0sp" android:layout_gravity="center" android:id="@id/play_source" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0px" android:text="@string/player_banner" />
+        <TextView android:textSize="21.0px" android:id="@id/play_no_resource_help" android:paddingLeft="36.0px" android:paddingRight="36.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0px" android:text="@string/music_no_resource_detail" android:lineSpacingExtra="7.0px" />
     </LinearLayout>
     <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="5.0dip">
         <ImageView android:id="@id/play_backgroud" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/xmly_weight_play_bg" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />

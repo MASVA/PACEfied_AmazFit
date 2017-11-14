@@ -41,7 +41,7 @@
     <dimen name="mihome_widget_header_text_size">18.699982sp</dimen>
     <dimen name="mihome_widget_init_icon_margin_top_unbind">31.0px</dimen>
     <dimen name="mihome_widget_init_icon_margin_top_nodevice">115.0px</dimen>
-    <dimen name="mihome_widget_init_info_width">230.0px</dimen>
+    <dimen name="mihome_widget_init_info_width">248.0px</dimen>
     <dimen name="mihome_widget_init_info_height">88.0px</dimen>
     <dimen name="mihome_widget_init_info_margin_top_unbind">138.0px</dimen>
     <dimen name="mihome_widget_init_info_margin_top_nodevice">182.0px</dimen>

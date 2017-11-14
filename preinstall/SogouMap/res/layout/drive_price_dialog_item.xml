@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:background="@color/Divider" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
-        <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:id="@id/PositionTxt" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+<LinearLayout n1:background="@color/Divider" n1:layout_width="fill_parent" n1:layout_height="wrap_content"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_marginTop="1.0px" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+        <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:id="@id/PositionTxt" n1:padding="3.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
     </FrameLayout>
-    <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:layout_marginTop="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
-        <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:id="@id/StartTxt" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_marginLeft="1.0px" n1:layout_marginTop="1.0px" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+        <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:id="@id/StartTxt" n1:padding="3.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
     </FrameLayout>
-    <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:layout_marginTop="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
-        <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:id="@id/MoneyTxt" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_marginLeft="1.0px" n1:layout_marginTop="1.0px" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+        <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:id="@id/MoneyTxt" n1:padding="3.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
     </FrameLayout>
-    <FrameLayout android:background="@color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="1.0px" android:layout_marginTop="1.0px" android:minHeight="50.0dip" android:layout_weight="1.0">
-        <TextView android:textAppearance="@style/Drive_Text_1" android:layout_gravity="center" android:id="@id/DistanceTxt" android:padding="3.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <FrameLayout n1:background="@color/white" n1:layout_width="fill_parent" n1:layout_height="fill_parent" n1:layout_marginLeft="1.0px" n1:layout_marginTop="1.0px" n1:minHeight="50.0dip" n1:layout_weight="1.0">
+        <TextView n1:textAppearance="@style/Drive_Text_1" n1:layout_gravity="center" n1:id="@id/DistanceTxt" n1:padding="3.0dip" n1:layout_width="wrap_content" n1:layout_height="wrap_content" />
     </FrameLayout>
 </LinearLayout>
