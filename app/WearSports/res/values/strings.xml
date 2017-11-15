@@ -347,7 +347,7 @@
     <string name="real_time_route">Route</string>
     <string name="real_time_output">Export</string>
     <string name="real_time_total_dis_title">Total Distance</string>
-    <string name="sogou_map_trail_alert">The watch will read the map through the mobile phone network. To save traffic, please download the offline map of the region in the watch's Sogou map application.</string>
+    <string name="sogou_map_trail_alert">The watch will read the map through the mobile phone network. To save traffic, please download the offline map of the region Sogou map application.</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Run%1sKm</string>
