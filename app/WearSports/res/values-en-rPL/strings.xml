@@ -388,7 +388,8 @@
     <string name="dlg_btn_l_msg">Nie</string>
     <string name="dlg_btn_r_msg">Tak</string>
     <string name="hint_cancelling">Anulowanie ...</string>
-    <string name="hint_success_exported_title">Eksp.do pliku GPX zakoń.</string>
+    <string name="hint_success_exported_title">Eksp.do pliku GPX
+    zakoń.</string>
     <string name="hint_failed_exported_title">Eksport przerwany</string>
     <string name="hint_where">"Ślad zapis.w fold.'/gpxdata/'. 
 	Skopiuj do komputera za pomocą USB"</string>
