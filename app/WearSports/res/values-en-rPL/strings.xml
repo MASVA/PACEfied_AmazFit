@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Sporty</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Wybierz język</string>
     <string name="crossing_title">Bieg w terenie</string>
@@ -67,8 +68,6 @@
     <string name="gpx_no_find_route">Brak dostępnych ścieżek</string>
     <string name="gpx_no_route_guide">Podłącz zegarek do komputera i skopiuj plik GPX do folderu \"gpxdata\" i spróbuj ponownie</string>
     <string name="indoor_run_progressing">Bieganie</string>
-    <string name="sport_widget_title_moutaineer">Wspinaczka</string>
-    <string name="sport_widget_title_moutaineer_in_progress">Wspinanie...</string>
     <string name="music_title">Muzyka</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">Brak utworu do odtw.</string>
@@ -129,7 +128,6 @@
     <string name="sport_widget_title_setting">Ustawienia</string>
     <string name="sport_widget_title_music">Muzyka</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="app_name">Sporty</string>
     <string name="sport_item_running_title">Bieg</string>
     <string name="sport_item_walking_title">Chodzenie</string>
     <string name="title_activity_main">Moja aktywność</string>
@@ -206,6 +204,7 @@
     <string name="no_gps_button_text">Zatwierdź</string>
     <string name="settings_item_title_km_remind">Alarm Okrąż.</string>
     <string name="settings_item_title_mi_remind">Alarm Okrąż.</string>
+    <string name="settings_item_title_use_sogou">Użyj Sogou Mapy</string>
     <string name="settings_item_title_km_voice_remind">Powiad.głosowe</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Alarm Aerobik HR</string>
     <string name="settings_item_title_safe_heartrate_remind">HR Alarm</string>
@@ -345,6 +344,7 @@
     <string name="real_time_route">Trasa</string>
     <string name="real_time_output">Eksport</string>
     <string name="real_time_total_dis_title">Całkowita odległ.</string>
+    <string name="sogou_map_trail_alert">Zegarek odczyta mapę za pośrednictwem sieci telefonii komórkowej, aby zaoszczędzić dane, najpierw pobierz mapę offline regionu w aplikacji mapy Sogou zegarka.</string>
     <string name="complete_training_project">Program trningu został zakoń.</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Bieg %1sKm</string>
@@ -383,7 +383,7 @@
     <string name="export_gpx">Eksport pliku GPX</string>
     <string name="btn_cancel">Anuluj</string>
     <string name="btn_confirm">Zatwierdź</string>
-    <string name="hint_rolling">Eksp.śladów,prosimy o cierpliwość.</string>
+    <string name="hint_rolling">Eksport śladów,prosimy o cierpliwość.</string>
     <string name="dlg_msg_hint_cancel">Anulować eksport Śladu?</string>
     <string name="dlg_btn_l_msg">Nie</string>
     <string name="dlg_btn_r_msg">Tak</string>
