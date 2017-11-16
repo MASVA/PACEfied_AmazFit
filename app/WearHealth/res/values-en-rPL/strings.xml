@@ -189,6 +189,13 @@
     <string name="weeklysports_outdoorriding_max">Maks.pręd.jazdy na zew.</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+    <string name="weeklysports_swimerrate">Wyniki prędkości pływania</string>
+    <string name="weeklysports_innerswimrate">Śr.prędk.pływ.w basenie</string>
+    <string name="weeklysports_openswimrate">r.prędk.pływ.w otwartej wodzie</string>
+    <string name="weeklysports_triathlon">Triathlon</string>
+    <string name="weeklysports_triathlon_totaltime">Zawsze używaj urządzenia</string>
+    <string name="weeklysports_triathlon_hour">godz.</string>
+    <string name="weeklysports_triathlon_min">min</string>
     <string name="weeklysports_classify_frequency" />
     <string name="weeklysports_day" />
     <string name="weeklysports_activity">Aktyw.</string>
@@ -197,6 +204,7 @@
     <string name="weeklysports_riding">Jaz.row.</string>
     <string name="weekly_step_attained_rate">Osiągniety etap</string>
     <string name="weekly_sports_notification_content">Raport tygodniowych osiągnięć sportowych</string>
+    <string name="weekly_sports_notification_action">Więcej info</string>
     <string name="weeklysports_date_format">yyyy MM/dd</string>
     <string name="widget_currentstep_title">Centrum danych</string>
     <string name="widget_currentstep_activities">Kroki dzisiaj</string>
@@ -209,6 +217,10 @@
     <string name="currentstep_detail_running">Bieg</string>
     <string name="currentstep_detail_walking">Chód</string>
     <string name="currentstep_detail_riding">Jazda</string>
+    <string name="currentstep_detail_swimming">Pływak</string>
+    <string name="currentstep_detail_triathlon">Triathlon</string>
+    <string name="currentstep_detail_triathlon_short">Tri</string>
+    <string name="currentstep_detail_mountain">Alpinizm</string>
     <string name="currentstep_detail_calories">Zużycie kal.</string>
     <string name="currentstep_detail_sleep">Sen</string>
     <string name="currentstep_detail_sleep_deep">Głęb.sen</string>
@@ -219,6 +231,8 @@
     <string name="currentstep_detail_activity_run_rate_ma">Najl.tempo</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Śr.pręd.</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max pręd.</string>
+    <string name="currentstep_detail_activity_mount_total_disacend">Łączne wspinaczka</string>
+    <string name="currentstep_detail_activity_mount_total_up">Łączny wzrost</string>
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Spoczyn.</string>
@@ -230,8 +244,15 @@
     <string name="currentstep_detail_walk_ridding_rate_unit_en">mi/h</string>
     <string name="currentstep_detail_distance_unit_zh">km</string>
     <string name="currentstep_detail_distance_unit_en">mi</string>
+    <string name="currentstep_detail_swim_distance_unit_zh">m</string>
+    <string name="currentstep_detail_swim_distance_unit_en">ft</string>
+    <string name="currentstep_detail_swim_rate_unit_zh">/hm</string>
+    <string name="currentstep_detail_swim_rate_unit_en">/100 m</string>
+    <string name="currentstep_distance">dystans</string>
+    <string name="currentstep_time">czasowy</string>
+    <string name="currentstep_history_title">Dane historyczne</string>
     <string name="step_value">%1$s / %2$s</string>
-    <string name="detail_date">%1$s Profil ruchu</string>
+    <string name="detail_date">Dzisiaj %1$s</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min tętno</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max tętno</string>
     <string name="widget_weeklyreports_heart_rate_title">Tętno</string>
@@ -255,6 +276,8 @@
     <string name="date_format">MM/dd</string>
     <string name="widget_weeklyreports_nodata">Brak danych z ostat.tygodnia</string>
     <string name="app_list_title">Aktywność</string>
+    <string name="currentstep_detail_activities">Rozkład czasu działania (min)</string>
+    <string name="currentstep_detail_activities_title">Legenda dystrybucji aktywności</string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zarwierdź</string>
