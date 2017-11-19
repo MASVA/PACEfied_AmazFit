@@ -519,9 +519,11 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f080055" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f080056" />
     <public type="dimen" name="pickview_unit_size" id="0x7f080057" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f080058" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f080059" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f08005a" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f080058" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f080059" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f08005a" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f08005b" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f08005c" />
     <public type="array" name="day_of_weak" id="0x7f090000" />
     <public type="array" name="spring_depend" id="0x7f090001" />
     <public type="array" name="alarm_set" id="0x7f090002" />

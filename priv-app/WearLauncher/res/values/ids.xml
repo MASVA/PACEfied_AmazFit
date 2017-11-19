@@ -412,6 +412,7 @@
     <item type="id" name="weatherlayout5">false</item>
     <item type="id" name="fetch_failed_dialog">false</item>
     <item type="id" name="dialog_confirm">false</item>
+    <item type="id" name="clear">false</item>
     <item type="id" name="left_top">false</item>
     <item type="id" name="right_top">false</item>
     <item type="id" name="left_bottom">false</item>
@@ -456,7 +457,39 @@
     <item type="id" name="datadown_one">false</item>
     <item type="id" name="llToast">false</item>
     <item type="id" name="strame_layout">false</item>
+    <item type="id" name="message_list">false</item>
     <item type="id" name="horizonal_slider">false</item>
+    <item type="id" name="message_detail_action">false</item>
+    <item type="id" name="message_detail_header_icon">false</item>
+    <item type="id" name="message_detail_header_title">false</item>
+    <item type="id" name="message_detail_content_time">false</item>
+    <item type="id" name="message_detail_header_content">false</item>
+    <item type="id" name="left_container">false</item>
+    <item type="id" name="left_button">false</item>
+    <item type="id" name="right_content">false</item>
+    <item type="id" name="right_button">false</item>
+    <item type="id" name="content_container">false</item>
+    <item type="id" name="message_badge_view">false</item>
+    <item type="id" name="message_icon">false</item>
+    <item type="id" name="content_header">false</item>
+    <item type="id" name="message_time">false</item>
+    <item type="id" name="message_title">false</item>
+    <item type="id" name="message_content">false</item>
+    <item type="id" name="peek_view_icon">false</item>
+    <item type="id" name="peek_view_content">false</item>
+    <item type="id" name="message_music_displayer_container">false</item>
+    <item type="id" name="message_music_controller_changemusic">false</item>
+    <item type="id" name="message_music_controller_play">false</item>
+    <item type="id" name="message_music_controller_prev">false</item>
+    <item type="id" name="message_music_controller_next">false</item>
+    <item type="id" name="message_music_controller_changesound">false</item>
+    <item type="id" name="message_music_controller_sound">false</item>
+    <item type="id" name="message_music_controller_cound_minus">false</item>
+    <item type="id" name="message_music_controller_sound_plus">false</item>
+    <item type="id" name="message_music_displayer_icon">false</item>
+    <item type="id" name="message_music_displayer_title">false</item>
+    <item type="id" name="message_music_displayer_author">false</item>
+    <item type="id" name="message_music_displayer_state">false</item>
     <item type="id" name="music_peek_view_icon">false</item>
     <item type="id" name="music_peek_title">false</item>
     <item type="id" name="music_peek_content">false</item>
@@ -511,5 +544,4 @@
     <item type="id" name="buttonPanel">false</item>
     <item type="id" name="button1">false</item>
     <item type="id" name="contentPanel">false</item>
-    <item type="id" name="message_title">false</item>
 </resources>

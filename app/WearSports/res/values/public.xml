@@ -1406,12 +1406,14 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f0b00c5" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f0b00c6" />
     <public type="dimen" name="pickview_unit_size" id="0x7f0b00c7" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f0b00c8" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f0b00c9" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f0b00ca" />
-    <public type="dimen" name="card_content_padding_rect_top" id="0x7f0b00cb" />
-    <public type="dimen" name="close_button_diameter" id="0x7f0b00cc" />
-    <public type="dimen" name="dismiss_padding" id="0x7f0b00cd" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f0b00c8" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f0b00c9" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f0b00ca" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f0b00cb" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f0b00cc" />
+    <public type="dimen" name="card_content_padding_rect_top" id="0x7f0b00cd" />
+    <public type="dimen" name="close_button_diameter" id="0x7f0b00ce" />
+    <public type="dimen" name="dismiss_padding" id="0x7f0b00cf" />
     <public type="array" name="localapps" id="0x7f0c0000" />
     <public type="array" name="appcolors" id="0x7f0c0001" />
     <public type="array" name="appload_drawables" id="0x7f0c0002" />

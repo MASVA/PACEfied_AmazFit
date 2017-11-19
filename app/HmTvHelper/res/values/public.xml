@@ -412,34 +412,36 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f080023" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f080024" />
     <public type="dimen" name="pickview_unit_size" id="0x7f080025" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f080026" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f080027" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f080028" />
-    <public type="dimen" name="settings_icon_rx" id="0x7f080029" />
-    <public type="dimen" name="settings_label_rx" id="0x7f08002a" />
-    <public type="dimen" name="header_txt_size" id="0x7f08002b" />
-    <public type="dimen" name="common_txt_size" id="0x7f08002c" />
-    <public type="dimen" name="common_txt_l_size" id="0x7f08002d" />
-    <public type="dimen" name="txt_icon_margin" id="0x7f08002e" />
-    <public type="dimen" name="smaller_txt_size" id="0x7f08002f" />
-    <public type="dimen" name="setting_icon_txt_margin" id="0x7f080030" />
-    <public type="dimen" name="settings_item_height" id="0x7f080031" />
-    <public type="dimen" name="settings_item_padding_left_right" id="0x7f080032" />
-    <public type="dimen" name="header_height_scaled" id="0x7f080033" />
-    <public type="dimen" name="setting_icon_txt_margin_trans_dis" id="0x7f080034" />
-    <public type="dimen" name="header_title_size" id="0x7f080035" />
-    <public type="dimen" name="header_hint_size" id="0x7f080036" />
-    <public type="dimen" name="controller_button_size" id="0x7f080037" />
-    <public type="dimen" name="tv_title_size" id="0x7f080038" />
-    <public type="dimen" name="tv_action_size" id="0x7f080039" />
-    <public type="dimen" name="tv_device_name_size" id="0x7f08003a" />
-    <public type="dimen" name="tv_recyclerview_head_size" id="0x7f08003b" />
-    <public type="dimen" name="tv_recyclerview_foot_button_size" id="0x7f08003c" />
-    <public type="dimen" name="tv_recyclerview_foot_guide_size" id="0x7f08003d" />
-    <public type="dimen" name="tv_dialog_title_size" id="0x7f08003e" />
-    <public type="dimen" name="tv_dialog_content_size" id="0x7f08003f" />
-    <public type="dimen" name="tv_launcher_guide_size" id="0x7f080040" />
-    <public type="dimen" name="tv_commond_icon_title_size" id="0x7f080041" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f080026" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f080027" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f080028" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f080029" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f08002a" />
+    <public type="dimen" name="settings_icon_rx" id="0x7f08002b" />
+    <public type="dimen" name="settings_label_rx" id="0x7f08002c" />
+    <public type="dimen" name="header_txt_size" id="0x7f08002d" />
+    <public type="dimen" name="common_txt_size" id="0x7f08002e" />
+    <public type="dimen" name="common_txt_l_size" id="0x7f08002f" />
+    <public type="dimen" name="txt_icon_margin" id="0x7f080030" />
+    <public type="dimen" name="smaller_txt_size" id="0x7f080031" />
+    <public type="dimen" name="setting_icon_txt_margin" id="0x7f080032" />
+    <public type="dimen" name="settings_item_height" id="0x7f080033" />
+    <public type="dimen" name="settings_item_padding_left_right" id="0x7f080034" />
+    <public type="dimen" name="header_height_scaled" id="0x7f080035" />
+    <public type="dimen" name="setting_icon_txt_margin_trans_dis" id="0x7f080036" />
+    <public type="dimen" name="header_title_size" id="0x7f080037" />
+    <public type="dimen" name="header_hint_size" id="0x7f080038" />
+    <public type="dimen" name="controller_button_size" id="0x7f080039" />
+    <public type="dimen" name="tv_title_size" id="0x7f08003a" />
+    <public type="dimen" name="tv_action_size" id="0x7f08003b" />
+    <public type="dimen" name="tv_device_name_size" id="0x7f08003c" />
+    <public type="dimen" name="tv_recyclerview_head_size" id="0x7f08003d" />
+    <public type="dimen" name="tv_recyclerview_foot_button_size" id="0x7f08003e" />
+    <public type="dimen" name="tv_recyclerview_foot_guide_size" id="0x7f08003f" />
+    <public type="dimen" name="tv_dialog_title_size" id="0x7f080040" />
+    <public type="dimen" name="tv_dialog_content_size" id="0x7f080041" />
+    <public type="dimen" name="tv_launcher_guide_size" id="0x7f080042" />
+    <public type="dimen" name="tv_commond_icon_title_size" id="0x7f080043" />
     <public type="style" name="PromptDialog" id="0x7f09000f" />
     <public type="style" name="HMProgressBar" id="0x7f090010" />
     <public type="style" name="HMProgressBar.Large" id="0x7f090011" />

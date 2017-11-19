@@ -350,9 +350,11 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f07002d" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f07002e" />
     <public type="dimen" name="pickview_unit_size" id="0x7f07002f" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f070030" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070031" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070032" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f070030" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f070031" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f070032" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070033" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070034" />
     <public type="string" name="huami_voice_name" id="0x7f080000" />
     <public type="string" name="app_name" id="0x7f080001" />
     <public type="string" name="xiaoice_response" id="0x7f080002" />
