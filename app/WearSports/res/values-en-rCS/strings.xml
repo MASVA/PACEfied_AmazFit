@@ -95,7 +95,7 @@
     <string name="sport_widget_title_indoor_riding">Rotoped</string>
     <string name="outdoor_riding_progressing">Cyklistika</string>
     <string name="indoor_riding_progressing">Cyklistika</string>
-    <string name="outdoor_climb_distance">Skupinová rychlostní vzdálenost</string>
+    <string name="outdoor_climb_distance">Ujetá pozemní vzdálenost</string>
     <string name="outdoor_climb_altitude">Nastoupáno</string>
     <string name="outdoor_max_cadence">Maximální kadence</string>
     <string name="outdoor_ave_cadence">Průměrné kadence</string>
@@ -341,6 +341,7 @@
     <string name="setting_sport_heart_region_text_aerobic">Aerobic</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Vysoká intenzita</string>
     <string name="setting_sport_heart_region_text_custom">Vlastní</string>
+    <string name="settings_item_title_use_sogou">Použ.Sogou mapy</string>
     <string name="remind_heart_rate_region_over">Tep je příliš vysoký</string>
     <string name="remind_heart_rate_region_less">Tep je příliš nízký</string>
     <string name="real_time_route">Real-time trasa</string>
@@ -354,7 +355,7 @@
     <string name="complete_training_outdoor_riding_target_tips">Uložit tuto jízdu do dnešního tréninkového plánu?</string>
     <string name="not_complete_train_task">Ténink není dokončen. Chcete přerušit?</string>
     <string name="km_metric">km</string>
-    <string name="metre_metric">metr</string>
+    <string name="metre_metric">metrů</string>
     <string name="km_metric_pace_unit">/km</string>
     <string name="km_metric_speed_unit">km/h</string>
     <string name="km_metric_distance">Vzdálenost(km)</string>
