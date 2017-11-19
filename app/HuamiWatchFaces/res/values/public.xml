@@ -929,9 +929,11 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f090132" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f090133" />
     <public type="dimen" name="pickview_unit_size" id="0x7f090134" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f090135" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f090136" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f090137" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f090135" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f090136" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f090137" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f090138" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f090139" />
     <public type="bool" name="digital_sport_three_need_unit" id="0x7f0a0000" />
     <public type="bool" name="digital_sport_two_need_unit" id="0x7f0a0001" />
     <public type="array" name="weekdays" id="0x7f0b0005" />

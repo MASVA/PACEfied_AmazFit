@@ -33,6 +33,12 @@
     <item type="id" name="units_set">27</item>
     <item type="id" name="auto_wifi_trans_switch">28</item>
     <item type="id" name="wrist_up">29</item>
+    <item type="id" name="reboot">30</item>
+    <item type="id" name="refresh_screen_switch">31</item>
+    <item type="id" name="watchface">32</item>
+    <item type="id" name="setting_item_application">33</item>
+    <item type="id" name="anti_lost_remind">34</item>
+    <item type="id" name="far_away_remind">35</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="view_pager">false</item>

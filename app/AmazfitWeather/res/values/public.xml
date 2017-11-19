@@ -334,9 +334,11 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f09003a" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f09003b" />
     <public type="dimen" name="pickview_unit_size" id="0x7f09003c" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f09003d" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f09003e" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f09003f" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f09003d" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f09003e" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f09003f" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f090040" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f090041" />
     <public type="string" name="app_name" id="0x7f0a0000" />
     <public type="string" name="action_settings" id="0x7f0a0001" />
     <public type="string" name="celsius" id="0x7f0a0002" />

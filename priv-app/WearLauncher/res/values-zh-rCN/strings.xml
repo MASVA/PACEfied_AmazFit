@@ -95,6 +95,8 @@
     <string name="action_failure">抱歉，该功能不工作</string>
     <string name="action_success">已成功！</string>
     <string name="action_working">正在进行</string>
+    <string name="action_delete">删除</string>
+    <string name="action_shield">不再通知</string>
     <string name="activity_not_found">请求中发生问题</string>
     <string name="data_checkfail_match">天气类型字段不匹配</string>
     <string name="data_checkfail_temp">天气温度超出范围</string>

@@ -965,9 +965,11 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f09009e" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f09009f" />
     <public type="dimen" name="pickview_unit_size" id="0x7f0900a0" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f0900a1" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f0900a2" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f0900a3" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f0900a1" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f0900a2" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f0900a3" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f0900a4" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f0900a5" />
     <public type="id" name="item_touch_helper_previous_elevation" id="0x7f0a0000" />
     <public type="id" name="one" id="0x7f0a0001" />
     <public type="id" name="three" id="0x7f0a0002" />

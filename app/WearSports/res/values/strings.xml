@@ -69,8 +69,8 @@
     <string name="gpx_no_route_guide">"Please connect your watch to the computer and copy the GPX file to the 'gpxdata' folder and try again"</string>
     <string name="bpm_to">bpm To</string>
     <string name="indoor_run_progressing">Running</string>
-    <string name="sport_widget_title_moutaineer">登山</string>
-    <string name="sport_widget_title_moutaineer_in_progress">登山中...</string>
+    <string name="sport_widget_title_moutaineer">Climb</string>
+    <string name="sport_widget_title_moutaineer_in_progress">Climbing...</string>
     <string name="music_title">Music</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">No songs to play</string>
@@ -365,7 +365,7 @@
     <string name="km_metric_remind_target_km_walking_title_format">Completed %1$d km</string>
     <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
     <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
-    <string name="meter_metric_crossing_vertical_velocity_unit">meter/min</string>
+    <string name="meter_metric_crossing_vertical_velocity_unit">m/min</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Altitude(meter)</string>
     <string name="km_metric_outdoor_speed_graph_title">Speed(km/h)</string>
     <string name="km_metric_settings_item_value_target_distance">%.2fkm</string>
@@ -379,7 +379,7 @@
     <string name="km_imperial_remind_target_km_walking_title_format">Completed %1$d mi</string>
     <string name="km_imperial_remind_target_riding_km_title_format">Completed %1$d mi</string>
     <string name="km_imperial_remind_target_distance_training_title_format">Completed %1s mi</string>
-    <string name="meter_imperial_crossing_vertical_velocity_unit">feet/min</string>
+    <string name="meter_imperial_crossing_vertical_velocity_unit">ft/min</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Altitude(feet)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Speed(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
