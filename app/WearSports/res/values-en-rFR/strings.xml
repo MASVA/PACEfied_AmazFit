@@ -68,6 +68,8 @@
 	<string name="gpx_no_route_guide">Connectez-vous à l\'ordinateur et copiez le fichier GPX dans le dossier gpxdata et réessayez</string>
 	<string name="bpm_to">bpm to</string>	
 	<string name="indoor_run_progressing">Course</string>
+	<string name="sport_widget_title_moutaineer">Escalade</string>
+    <string name="sport_widget_title_moutaineer_in_progress">Escalade...</string>
     <string name="music_title">Musique</string>
     <string name="music_local_title">Musique sport</string>
     <string name="music_no_resource">Pas de musiques à lire</string>
