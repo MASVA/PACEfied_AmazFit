@@ -55,7 +55,7 @@ Novas notificações não serão mais mostradas."</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d horas desde carregado</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Menos de 1 hora  
 desde carregado"</string>
-    <string name="quick_settings_battery_sportString">Vida da Bateria no modo EsportesBattery life in Sports mode</string>
+    <string name="quick_settings_battery_sportString">Vida da Bateria no modo Esportes</string>
     <string name="quick_settings_battery_sporttime_hour_unit">hora</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
@@ -85,6 +85,13 @@ desde carregado"</string>
     <string name="notification_time_just">Agora</string>
     <string name="notification_time_yesterday">Ontem</string>
     <string name="notificaton_empty_message">Sem itens</string>
+    <string name="music">Música</string>
+    <string name="music_title">Título Desconhecido</string>
+    <string name="music_author">Artista Desconhecido</string>
+    <string name="music_stop_status">Pausado</string>
+    <string name="music_play_status">Reproduzindo</string>
+    <string name="music_bulethooth_disconnect">Conectando Bluetooth…</string>
+    <string name="music_peek_content">Seu telefone está usando o aplicativo %s para tocar música. Você pode controlar a reprodução de música através da notificação no relógio.</string>
     <string name="amazing_dialog_btn_confirm_text">Confirmar</string>
     <string name="amazing_dialog_btn_cancel_text">Cancelar</string>
     <string name="accept">Aceitar</string>
@@ -96,12 +103,21 @@ desde carregado"</string>
     <string name="data_checkfail_temp">Temperatura do clima fora da faixa</string>
     <string name="data_checkfail_type">Impossibilitado de reconhecer o tipo de clima</string>
     <string name="notification_block_message">Não receber mais notificações de app</string>
+    <string name="data_checkfail_type">Não é possível reconhecer o tipo de clima</string>
+    <string name="notification_block_message">Já não recebe notificações de aplicativos</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Quilômetros</string>
     <string name="hm_watch_sports_notification_sports">Esportes</string>
     <string name="hm_generic_notification_iconified_content_line">Olá, Eu sou um fã da Huami</string>
     <string name="notification_action_more">Mais</string>
     <string name="notitification_wechat_red_content_pattern_two">: \\[微信红包\\]</string>
+    <string name="notification_time_day">HH:mm</string>
+    <string name="notification_time_month">dd/MM HH:mm</string>
+    <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
+    <string name="notification_none">Sem itens</string>
+    <string name="notification_allclear">Limpar todas as notificações</string>
+    <string name="notification_allclear_confirm">Notificações excluídas não podem ser recuperadas mais tarde no relógio, continuar?</string>
+    <string name="notification_checking_bluetooth">Verificando a conexão Bluetooth...</string>
     <string name="store_picture_title">Salvar imagem</string>
     <string name="store_picture_message">Permitir a propaganda salvar imagens na galeria de Imagens?</string>
     <string name="decline">Recusar</string>
