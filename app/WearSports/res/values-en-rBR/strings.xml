@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">gpx-recorder</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Selecionar Idioma</string>
     <string name="crossing_title">Trilha</string>
@@ -66,7 +67,10 @@
     <string name="gpx_alreay_offset">Desvio</string>
     <string name="gpx_no_find_route">Nenhuma trilha disp. encontrada</string>
     <string name="gpx_no_route_guide">Por favor conecte aos computador e copie o arquivo GPX para a pasta \"gpxdata\" e tente de novo</string>
+    <string name="bpm_to">bpm To</string>
     <string name="indoor_run_progressing">Corrida</string>
+    <string name="sport_widget_title_moutaineer">Escalar</string>
+    <string name="sport_widget_title_moutaineer_in_progress">Escalando...</string>
     <string name="music_title">Música</string>
     <string name="music_local_title">Música esportiva</string>
     <string name="music_no_resource">Sem músicas para tocar</string>
@@ -86,7 +90,7 @@
     <string name="music_source_douban">Watercress FM</string>
     <string name="music_source_local">Músicas locais</string>
     <string name="music_source_all">Todas</string>
-    <string name="music_init_not_done">Music está inicializando...</string>
+    <string name="music_init_not_done">Música está inicializando...</string>
     <string name="music_no_douban_resource">Sem músicas para tocar, baixar agora?</string>
     <string name="sport_widget_title_outdoor_riding">Bicicleta</string>
     <string name="sport_widget_title_indoor_riding">Bic. Ergom.</string>
@@ -127,20 +131,6 @@
     <string name="sport_widget_title_setting">Configurações</string>
     <string name="sport_widget_title_music">Música</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="export_gpx">Exportar Trajeto</string>
-    <string name="btn_cancel">Cancelar</string>
-    <string name="btn_confirm">Ok</string>
-    <string name="hint_rolling">Exportando trajeto, aguarde</string>
-    <string name="dlg_msg_hint_cancel">Quer cancelar esta trajetória?</string>
-    <string name="dlg_btn_l_msg">Não</string>
-    <string name="dlg_btn_r_msg">Sim</string>
-    <string name="hint_cancelling">Cancelando...</string>
-    <string name="hint_success_exported_title">Exportada com sucesso</string>
-    <string name="hint_failed_exported_title">Falha ao exportar</string>
-    <string name="hint_where">"Trilha exportada para a pasta gpxdata.
-Conecte o relógio ao seu computador para copiar"</string>
-    <string name="hint_failed">Falha ao exportar, tente de novo</string>
-    <string name="app_name">Esportes</string>
     <string name="sport_item_running_title">Corrida</string>
     <string name="sport_item_walking_title">Caminhada</string>
     <string name="title_activity_main">MainActivity</string>
@@ -217,7 +207,8 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="no_gps_button_text">Confirmar</string>
     <string name="settings_item_title_km_remind">Alerta Volta</string>
     <string name="settings_item_title_mi_remind">Alerta Volta</string>
-    <string name="settings_item_title_km_voice_remind">Comando de Voz</string>
+    <string name="settings_item_title_use_sogou">Use Sogou Map</string>
+    <string name="settings_item_title_km_voice_remind">Comando de voz</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Alerta Pulso Aeróbico</string>
     <string name="settings_item_title_safe_heartrate_remind">Alerta Pulso</string>
     <string name="settings_item_title_auto_pause">Auto pausar (AP)</string>
@@ -356,6 +347,7 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="real_time_route">Trajeto em Tempo Real</string>
     <string name="real_time_output">Exportar</string>
     <string name="real_time_total_dis_title">Dist. Total</string>
+    <string name="sogou_map_trail_alert">O relógio irá ler o mapa através da rede de móvel. Para economizar tráfego, faça o download do mapa off-line do aplicativo de Sogou map da região.</string>
     <string name="complete_training_project">Programa de treino completado</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Correu%1sKm</string>
@@ -391,6 +383,21 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Altitude(pés)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Velocidade(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
+    <string name="export_gpx">Exportar Trajeto</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm">Ok</string>
+    <string name="hint_rolling">Exportando trajeto, aguarde</string>
+    <string name="dlg_msg_hint_cancel">Quer cancelar esta trajetória?</string>
+    <string name="dlg_btn_l_msg">Não</string>
+    <string name="dlg_btn_r_msg">Sim</string>
+    <string name="hint_cancelling">Cancelando...</string>
+    <string name="hint_success_exported_title">Exportada com 
+ sucesso</string>
+    <string name="hint_failed_exported_title">Falha ao exportar</string>
+    <string name="hint_where">"Trilha exportada para a pasta 
+ '/sdcard/gpxdata'.
+ Conecte o relógio ao seu computador para copiar"</string>
+    <string name="hint_failed">Falha ao exportar, tente de novo</string>
     <string name="average_text">Média</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
