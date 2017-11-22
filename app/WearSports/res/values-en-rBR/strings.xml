@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">gpx-recorder</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-    <string name="locale_title">Selecionar Idioma</string>
+    <string name="locale_quick_settings_airplane_modetitle">Selecionar Idioma</string>
     <string name="crossing_title">Trilha</string>
     <string name="crossing_end_sport">Encerre a trilha primeiro</string>
     <string name="crossing_in_progress">Trilha...</string>
