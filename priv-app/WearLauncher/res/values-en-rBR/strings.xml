@@ -98,13 +98,13 @@ desde carregado"</string>
     <string name="action_failure">"Desculpe, isto não funcionou"</string>
     <string name="action_success">Sucesso!</string>
     <string name="action_working">A caminho...</string>
+    <string name="action_delete">Excluir</string>
+    <string name="action_shield">Nenhum aviso</string>
     <string name="activity_not_found">Houve um problema ao completar a ação solicitada.</string>
     <string name="data_checkfail_match">Campos do tipo clima não conferem</string>
     <string name="data_checkfail_temp">Temperatura do clima fora da faixa</string>
-    <string name="data_checkfail_type">Impossibilitado de reconhecer o tipo de clima</string>
-    <string name="notification_block_message">Não receber mais notificações de app</string>
     <string name="data_checkfail_type">Não é possível reconhecer o tipo de clima</string>
-    <string name="notification_block_message">Já não recebe notificações de aplicativos</string>
+    <string name="notification_block_message">Não receber mais notificações de app</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Quilômetros</string>
     <string name="hm_watch_sports_notification_sports">Esportes</string>
