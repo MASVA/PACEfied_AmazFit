@@ -49,10 +49,10 @@
         <item>O verão começa</item>
         <item>Grain in ear</item>
         <item>Pouco calor</item>
-        <item>O outono começa/item>
+        <item>O outono começa</item>
         <item>White dews</item>
         <item>Cold dews</item>
-        <item>O inverno começa/item>
+        <item>O inverno começa</item>
         <item>Neve pesada</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
@@ -110,7 +110,7 @@
         <item>Névoa</item>
         <item>Poluição atmosférica</item>
         <item>Chuva</item>
-        <item>Chuva de trovão/item>
+        <item>Chuva de trovão</item>
         <item>Chuva leve</item>
         <item>Chuva moderada</item>
         <item>Chuva pesada</item>
