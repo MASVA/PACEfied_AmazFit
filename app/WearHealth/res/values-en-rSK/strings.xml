@@ -143,7 +143,7 @@
     <string name="heart_name">Tep</string>
     <string name="step_name">Krok</string>
     <string name="sleep_name">Spánok</string>
-    <string name="floor_description">Poznámka: 1 poschodie sa rovná 3 metrom</string>
+    <string name="floor_description">Poznámka: 1 poschodie = 3 metre</string>
     <string name="climbed_floors">"Výjdených "</string>
     <string name="widget_label_step">Dnes</string>
     <string name="widget_heart_analysis">Analyzovať</string>
@@ -189,6 +189,13 @@
     <string name="weeklysports_outdoorriding_max">Najvyššia rýchlosť na bicykli</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+    <string name="weeklysports_swimerrate">Rýchlosť plávania</string>
+    <string name="weeklysports_innerswimrate">Priemerná rýchlosť plávania</string>
+    <string name="weeklysports_openswimrate">Otvorená priemerná rýchlosť</string>
+    <string name="weeklysports_triathlon">Triatlon</string>
+    <string name="weeklysports_triathlon_totaltime">Celkový čas</string>
+    <string name="weeklysports_triathlon_hour">h</string>
+    <string name="weeklysports_triathlon_min">m</string>
     <string name="weeklysports_frequency" />
     <string name="weeklysports_day">dní</string>
     <string name="weeklysports_activity">Pohyb</string>
@@ -197,6 +204,7 @@
     <string name="weeklysports_riding">Bicykel</string>
     <string name="weekly_step_attained_rate">na dosiahnutie cieľa počtu krokov</string>
     <string name="weekly_sports_notification_content">Zhrnutie aktivity za minulý týždeň je pripravené.</string>
+    <string name="weekly_sports_notification_action">Viac</string>
     <string name="weeklysports_date_format">dd.MM.yyyy</string>
     <string name="widget_currentstep_title">Denný prehľad</string>
     <string name="widget_currentstep_activities">Krokov dnes</string>
@@ -219,6 +227,8 @@
     <string name="currentstep_detail_activity_run_rate_ma">Max.rych.</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Priem.rych.</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max.rych.</string>
+    <string name="currentstep_detail_activity_mount_total_disacend">Vylezené</string>
+    <string name="currentstep_detail_activity_mount_total_up">Nárast</string>
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Odpočinok</string>
@@ -230,6 +240,13 @@
     <string name="currentstep_detail_walk_ridding_rate_unit_en">mi/h</string>
     <string name="currentstep_detail_distance_unit_zh">km</string>
     <string name="currentstep_detail_distance_unit_en">mi</string>
+    <string name="currentstep_detail_swim_distance_unit_zh">m</string>
+    <string name="currentstep_detail_swim_distance_unit_en">ft</string>
+    <string name="currentstep_detail_swim_rate_unit_zh">/hm</string>
+    <string name="currentstep_detail_swim_rate_unit_en">/hft</string>
+    <string name="currentstep_distance">Vzdialenosť</string>
+    <string name="currentstep_time">Čas</string>
+    <string name="currentstep_history_title">História</string>
     <string name="step_value">%1$s / %2$s</string>
     <string name="detail_date">%1$s profil pohybu</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min tep(bpm)</string>
