@@ -24,7 +24,7 @@
     <string name="more">Nastavenia</string>
     <string name="find_phone">Nájsť telefón</string>
     <string name="bluetooth_dev">Bluetooth</string>
-    <string name="wifi_dev">Wi-Fi</string>
+    <string name="wifi_dev">WiFi</string>
     <string name="check_for_update">Aktualizácia</string>
     <string name="change_language">Jazyk</string>	
     <string name="reset_factory">Továrne nastavenia</string>
@@ -33,9 +33,9 @@
     <string name="wear_habit">Hodinky na</string>
     <string name="bugreport">Nahlásiť chybu</string>
     <string name="light_change">Podsvietenie</string>
-    <string name="wrist_up">Zap.otoč.ruky</string>
-    <string name="auto_nodisturb">Nerušiť-nastav.</string>
-    <string name="double_click_wakeup">Prebuď.dotykom</string>
+    <string name="wrist_up">Prebuď otočením</string>
+    <string name="auto_nodisturb">Auto nerušiť</string>
+    <string name="double_click_wakeup">Prebuď dotykom</string>
     <string name="vibration_intensity">Vibrácie</string>
     <string name="flight_mode">Mód lietadlo</string>
     <string name="hm_lab">Huami Lab</string>
@@ -48,10 +48,10 @@
     <string name="common">Iné nastavenia</string>
     <string name="device">Zariadenie</string>
     <string name="nodisturb">Nerušiť</string>
-    <string name="auto_airplane">Auto m.lietadlo</string>
-    <string name="wifi_upload">Uložiť->WiFi</string>
-    <string name="replace_watchface">Iný ciferník</string>
-    <string name="wifi_auto_upload_switch">Auto.nahr.WiFi</string>
+    <string name="auto_airplane">Auto lietadlo</string>
+    <string name="wifi_upload">Nahrať->WiFi</string>
+    <string name="replace_watchface">Ciferníky</string>
+    <string name="wifi_auto_upload_switch">Auto nahr.WiFi</string>
     <string name="nothing">Prázdne</string>
     <string name="about_title">Info</string>
     <string name="model">Model</string>
@@ -75,7 +75,7 @@
     <string name="opened">Zapnuté</string>
     <string name="closed">Vypnuté</string>
     <string name="air_plane_mode_note">"Režim Lietadlo 
-Režim Lietadlo vypne Bluetooth a Wi-Fi pripojenie k internetu, aby se šetrila energia. Pokiaľ potrebujete používať funkcie, ktoré vyžadujú BT / WiFi, vypnite režim Lietadlo v Nastaveniach systému."</string>
+Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ potrebujete používať funkcie, ktoré vyžadujú BT/WiFi, vypnite režim Lietadlo v Nastaveniach systému."</string>
     <string name="nodisturb_open_string">Zapnuté</string>
     <string name="nodisturb_close_string">Vypnuté</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
