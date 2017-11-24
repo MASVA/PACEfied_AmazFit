@@ -26,7 +26,7 @@
     <string name="delete_all_notifications_confrim_content">Gelöschte Benachrichtigungen können nicht später auf der Uhr abgerufen werden, weiter?</string>
     <string name="quick_settings_airplane_mode">Flugmodus: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Leise: %1$s</string>
-    <string name="quick_settings_auto_light_mode">Hintergrundbeleuchtung: %1$s</string>
+    <string name="quick_settings_auto_light_mode">Beleuchtung: %1$s</string>
     <string name="quick_settings_more_settings">Weitere Einstellungen</string>
     <string name="quick_settings_switch_auto">Auto</string>
     <string name="quick_settings_switch_awake">Wach</string>
@@ -42,8 +42,8 @@
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Verbunden</string>
     <string name="quick_settings_disconnect">Getrennt</string>
-    <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
-    <string name="quick_settings_date_format">1900-1-31</string>
+    <string name="quick_settings_date_chinese">dd-MM-yyyy</string>
+    <string name="quick_settings_date_format">31-1-1900</string>
     <string name="quick_settings_date_yeareve">Silvester</string>
     <string name="seconed_confirm_nodisturb">"Stummschaltung
 Neue Benachrichtigung wird nicht mehr angezeigt."</string>
@@ -55,7 +55,7 @@ Neue Benachrichtigung wird nicht mehr angezeigt."</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d Stunden nicht mehr aufgeladen</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Weniger als 1 Stunde
     nicht mehr aufgeladen."</string>
-    <string name="quick_settings_battery_sportString">Akkulebensdauer im Sport Modus</string>
+    <string name="quick_settings_battery_sportString">Akkudauer im Sport Modus</string>
     <string name="quick_settings_battery_sporttime_hour_unit">Stunden</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
