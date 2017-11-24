@@ -41,8 +41,8 @@ unknownFiles:
 usesFramework:
   ids:
   - 1
-  tag: 1.2.27
-version: 2.2.2
+  tag: 1.2.45
+version: 2.3.0
 versionInfo:
   versionCode: '5'
   versionName: '1.2'

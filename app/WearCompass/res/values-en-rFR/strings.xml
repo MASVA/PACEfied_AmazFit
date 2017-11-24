@@ -17,8 +17,8 @@
     <string name="ori_southwest">SO</string>
     <string name="ori_west">O</string>
     <string name="ori_northwest">NO</string>
-    <string name="correcting">Calibrage</string>
-    <string name="correcting_line1">Tournez votre poignet à</string>
+    <string name="correcting">Calibrage...</string>
+    <string name="correcting_line1">Tournez votre poignet</string>
     <string name="correcting_line2">Faire rouler la balle</string>
     <string name="value_default">-</string>
     <string name="loading">Chargement</string>

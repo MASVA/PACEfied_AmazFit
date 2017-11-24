@@ -26,8 +26,8 @@
     <string name="work_days">Jour de travail</string>
     <string name="hour_unit">Heure</string>
     <string name="minute_unit">Minute</string>
-    <string name="snooze_button">Snooze</string>
-    <string name="dimiss_button">Off</string>
+    <string name="snooze_button">Répéter</string>
+    <string name="dimiss_button">Arrêter</string>
     <string name="stop_watch_left_button_positive">Tour</string>
     <string name="stop_watch_left_button_negative">Raz</string>
     <string name="stop_watch_right_button_positive">Début</string>
@@ -41,8 +41,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Paramètres</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
-    <string name="count_down_title">Timer</string>
-    <string name="count_down_default_new">Nouveau Timer</string>
+    <string name="count_down_title">Minuteur</string>
+    <string name="count_down_default_new">Nouveau</string>
     <string name="count_down_end">Temps écoulé</string>
     <string name="count_down_btn_end">Stop</string>
     <string name="count_down_btn_pause">Pause</string>
@@ -50,7 +50,8 @@
     <string name="count_down_btn_stop">Stop</string>
     <string name="count_down_picker_min">m</string>
     <string name="count_down_picker_hour">h</string>
-    <string name="count_down_wrong_time_tips">Configurer un temps de timer valide</string>
+    <string name="count_down_wrong_time_tips">Configurer un temps valide</string>
+	<string name="count_down_del_time">Supprimer？</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Selection Langue</string>
     <string name="average_text">Avg</string>

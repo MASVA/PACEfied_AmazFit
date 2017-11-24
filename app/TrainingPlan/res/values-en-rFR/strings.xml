@@ -46,6 +46,7 @@
     <string name="length_unit_miles">miles</string>
     <string name="unit_yinli">mile</string>
     <string name="unit_gongli">km</string>
+	<string name="app_list_title">Training</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmer</string>

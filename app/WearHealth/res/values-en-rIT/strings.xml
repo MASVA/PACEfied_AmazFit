@@ -25,7 +25,6 @@
     <string name="weeklysports_outdoorriding_max">Velocità max bicicletta</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
-    <string name="weeklysports_classify_frequency" />
     <string name="weeklysports_day">giorno</string>
     <string name="weeklysports_activity">Attivo</string>
     <string name="weeklysports_running">Corsa</string>
@@ -63,7 +62,6 @@
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Riposo</string>
-    <string name="currentstep_detail_step_unit">passi</string>
     <string name="currentstep_detail_calories_unit">kCal</string>
     <string name="currentstep_detail_sleep_hour">h</string>
     <string name="currentstep_detail_sleep_min">min</string>
@@ -135,7 +133,7 @@
     <string name="label_when_active">In/Dopo allenamento</string>
     <string name="notif_detail_view">Vedi dettagli</string>
     <string name="notif_long_sit_desc">"Sei fermo da troppo tempo: muoviti almeno per un minuto."</string>
-    <string name="notif_long_sit_title">E' ora di muoversi!</string>
+    <string name="notif_long_sit_title">E\' ora di muoversi!</string>
     <string name="notif_target_half_reach_desc">Sei a metà strada del tuo obiettivo passi odierno!</string>
     <string name="notif_target_half_reach_title">Continua</string>
     <string name="notif_target_reach_desc">"Obiettivo giornaliero passi raggiunto!”</string>

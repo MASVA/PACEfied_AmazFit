@@ -401,6 +401,7 @@
     <item type="id" name="watchface_content">false</item>
     <item type="id" name="gallery">false</item>
     <item type="id" name="watchface_title">false</item>
+    <item type="id" name="init_loading">false</item>
     <item type="id" name="view_pager">false</item>
     <item type="id" name="weather_dialog_confirm">false</item>
     <item type="id" name="forecast_container">false</item>
@@ -411,6 +412,7 @@
     <item type="id" name="weatherlayout5">false</item>
     <item type="id" name="fetch_failed_dialog">false</item>
     <item type="id" name="dialog_confirm">false</item>
+    <item type="id" name="clear">false</item>
     <item type="id" name="left_top">false</item>
     <item type="id" name="right_top">false</item>
     <item type="id" name="left_bottom">false</item>
@@ -455,13 +457,64 @@
     <item type="id" name="datadown_one">false</item>
     <item type="id" name="llToast">false</item>
     <item type="id" name="strame_layout">false</item>
+    <item type="id" name="message_list">false</item>
     <item type="id" name="horizonal_slider">false</item>
+    <item type="id" name="message_detail_action">false</item>
+    <item type="id" name="message_detail_header_icon">false</item>
+    <item type="id" name="message_detail_header_title">false</item>
+    <item type="id" name="message_detail_content_time">false</item>
+    <item type="id" name="message_detail_header_content">false</item>
+    <item type="id" name="left_container">false</item>
+    <item type="id" name="left_button">false</item>
+    <item type="id" name="right_content">false</item>
+    <item type="id" name="right_button">false</item>
+    <item type="id" name="content_container">false</item>
+    <item type="id" name="message_badge_view">false</item>
+    <item type="id" name="message_icon">false</item>
+    <item type="id" name="content_header">false</item>
+    <item type="id" name="message_time">false</item>
+    <item type="id" name="message_title">false</item>
+    <item type="id" name="message_content">false</item>
+    <item type="id" name="peek_view_icon">false</item>
+    <item type="id" name="peek_view_content">false</item>
+    <item type="id" name="message_music_displayer_container">false</item>
+    <item type="id" name="message_music_controller_changemusic">false</item>
+    <item type="id" name="message_music_controller_play">false</item>
+    <item type="id" name="message_music_controller_prev">false</item>
+    <item type="id" name="message_music_controller_next">false</item>
+    <item type="id" name="message_music_controller_changesound">false</item>
+    <item type="id" name="message_music_controller_sound">false</item>
+    <item type="id" name="message_music_controller_cound_minus">false</item>
+    <item type="id" name="message_music_controller_sound_plus">false</item>
+    <item type="id" name="message_music_displayer_icon">false</item>
+    <item type="id" name="message_music_displayer_title">false</item>
+    <item type="id" name="message_music_displayer_author">false</item>
+    <item type="id" name="message_music_displayer_state">false</item>
+    <item type="id" name="music_peek_view_icon">false</item>
+    <item type="id" name="music_peek_title">false</item>
+    <item type="id" name="music_peek_content">false</item>
     <item type="id" name="notification_update_click">false</item>
     <item type="id" name="notification_click_message">false</item>
     <item type="id" name="notification_click_drawable">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
+    <item type="id" name="top_icon">false</item>
+    <item type="id" name="music_soft_icon">false</item>
+    <item type="id" name="info_layout">false</item>
+    <item type="id" name="music_title">false</item>
+    <item type="id" name="author_and_state_layout">false</item>
+    <item type="id" name="state_play_layout">false</item>
+    <item type="id" name="music_author">false</item>
+    <item type="id" name="music_status">false</item>
+    <item type="id" name="state_connecting_view">false</item>
+    <item type="id" name="controller_layout">false</item>
+    <item type="id" name="previous_btn">false</item>
+    <item type="id" name="play_pause_btn">false</item>
+    <item type="id" name="next_btn">false</item>
+    <item type="id" name="minute_volume_btn">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="plus_volume_btn">false</item>
     <item type="id" name="status_settings_ai">false</item>
     <item type="id" name="batterySportImage">false</item>
     <item type="id" name="batterySport">false</item>
@@ -491,5 +544,4 @@
     <item type="id" name="buttonPanel">false</item>
     <item type="id" name="button1">false</item>
     <item type="id" name="contentPanel">false</item>
-    <item type="id" name="message_title">false</item>
 </resources>

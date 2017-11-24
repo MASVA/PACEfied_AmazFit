@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Průměr</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdit</string>
     <string name="picker_default_nagetive_text">Vypnuto</string>
@@ -33,8 +33,9 @@
     <string name="wear_habit">Zvyk nošení</string>
     <string name="bugreport">Nahlásit chybu</string>
     <string name="light_change">Podsvětlení</string>
-    <string name="auto_nodisturb">NERUŠIT-nastavení</string>
-    <string name="double_click_wakeup">Probuzení dotykem</string>
+    <string name="wrist_up">Zap.otoč.ruky</string>
+    <string name="auto_nodisturb">Nerušit-nastav.</string>
+    <string name="double_click_wakeup">Probuz.dotykem</string>
     <string name="vibration_intensity">Vibrace</string>
     <string name="flight_mode">Mód letadlo</string>
     <string name="hm_lab">Huami Lab</string>
@@ -48,13 +49,13 @@
     <string name="device">Zařízení</string>
     <string name="nodisturb">Nerušit</string>
     <string name="auto_airplane">Auto mód letadlo</string>
-    <string name="wifi_upload">Nahrát</string>
-    <string name="replace_watchface">Změnit pozadí</string>
-    <string name="wifi_auto_upload_switch">Auto.nahrání</string>
+    <string name="wifi_upload">Uložit->Wifi</string>
+    <string name="replace_watchface">Jiný ciferník</string>
+    <string name="wifi_auto_upload_switch">Auto.nahr.WiFi</string>
     <string name="nothing">Prázdné</string>
     <string name="about_title">Info</string>
     <string name="model">Model</string>
-    <string name="dev_name">Jméno</string>
+    <string name="dev_name">Název</string>
     <string name="dev_desc">Amazfit Sports Watch</string>
     <string name="ard_version">Verze Androidu</string>
     <string name="rom_version">Verze ROM</string>
@@ -63,16 +64,16 @@
     <string name="flash_free_capacity">Voľná pamět</string>
     <string name="blt_mac_addr">Bluetooth MAC</string>
     <string name="wlan_addr">WLAN Address</string>
-    <string name="serial_no">Sériové č.</string>
+    <string name="serial_no">Sériové číslo</string>
     <string name="cmiit_id">CMIIT ID</string>
     <string name="license">Právní informace</string>
     <string name="build_time">[DEBUG]Čas vytvoření</string>
     <string name="build_desc">[DEBUG]Popis vytvoření</string>
-    <string name="legal">Zkontrolujte v Amazfit</string>
-    <string name="legal2">Watch App</string>
+    <string name="legal">Přečtěte si v aplikaci</string>
+    <string name="legal2">Amazfit Watch</string>
     <string name="lab">Lab</string>
-    <string name="opened">Lab zapnuta</string>
-    <string name="closed">Lab vypnuta</string>
+    <string name="opened">Zapnuto</string>
+    <string name="closed">Vypnuto</string>
     <string name="air_plane_mode_note">"Režim Letadlo 
 Režim Letadlo vypne Bluetooth a Wi-Fi připojení k internetu, aby se šetřila energie. Pokud potřebujete používat funkce, které vyžadují BT / WiFi, vypněte režim Letadlo v Nastavení systému."</string>
     <string name="nodisturb_open_string">Zapnuto</string>
@@ -82,8 +83,8 @@ Režim Letadlo vypne Bluetooth a Wi-Fi připojení k internetu, aby se šetřila
     <string name="auto_nodisturb_start_time_string">Čas začátku</string>
     <string name="auto_nodisturb_end_time_string">Čas ukončení</string>
     <string name="time_to">" do "</string>
-    <string name="auto_wifi_trans_on_string">Zapnout</string>
-    <string name="auto_wifi_trans_off_string">Vypnout</string>
+    <string name="auto_wifi_trans_on_string">Zapnuto</string>
+    <string name="auto_wifi_trans_off_string">Vypnuto</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Vyhledávám...</string>
     <string name="blt_bound_stat_bonded">Spárováno</string>
@@ -128,7 +129,7 @@ v dosahu"</string>
     <string name="bluetooth_disabled">Bluetooth je vypnuté</string>
     <string name="bluetooth_unknown">Neznámý stav</string>
     <string name="blt_confirm_ignore">Opravdu ignorovat toto zařízení?</string>
-    <string name="phone_finding">Lokalizuji telefon...</string>
+    <string name="phone_finding">Hledám telefon...</string>
     <string name="phone_found">Telefon nalezen</string>
     <string name="phone_not_connected">Telefon nepřipojen</string>
     <string name="phone_not_found">Telefon nenalezen</string>
@@ -143,6 +144,8 @@ v dosahu"</string>
     <string name="light_on">Vždy zapnuto</string>
     <string name="rise_no_bl_under_slpt">Pouze při odblokování</string>
     <string name="subtitle_of_raise_hand_no_bl">Automaticky po odblokování</string>
+    <string name="rise_with_bl_under_slpt">Zapnuto</string>
+    <string name="rise_without_bl_under_slpt">Vypnuto</string>		
     <string name="locale_title">Jazyk</string>
     <string name="locale_applying">Nastavuji jazyk ..</string>
     <string name="zh_cn">Čínština (Zjednodušená)</string>
@@ -173,9 +176,9 @@ kg"</string>
     <string name="hour_system">%s-hodinový system</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-    <string name="strong">silné</string>
-    <string name="mid">střední</string>
-    <string name="weak">slabé</string>
+    <string name="strong">Silné</string>
+    <string name="mid">Střední</string>
+    <string name="weak">Slabé</string>
     <string name="confirm_shutdown">Vypnout?</string>
     <string name="app_name">Nastavení hodinek</string>
     <string name="title_activity_long_sitting_time">ČasovéAktivityDlouhéhoSezení</string>

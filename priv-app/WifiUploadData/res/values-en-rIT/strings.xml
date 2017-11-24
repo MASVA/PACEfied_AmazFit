@@ -23,11 +23,10 @@
     <string name="cannot_acess_server">Server non disponibile</string>
     <string name="cannot_upload_user">Impossibile aggiornare i dati</string>
     <string name="please_upload_assist_version">Aggiorna la versione di assistenza</string>
-    <string name="did_not_connect_assist">Collega all\'app Amazfit. Dopo l\'aggiornamento automatico delle info di autenticazione, sarà possibile accedere al server.</string>
+    <string name="did_not_connect_assist">Collega all\'app Amazfit per aggiornare le info di autenticazione ed accedere al server.</string>
     <string name="upload_failed_full">Il caricamento non può essere completato, arrestare?</string>
     <string name="percent_sign">%</string>
-    <string name="please_keep_wifi_connected">"Tenere l\'orologio 
- connesso al WiFi"</string>
+    <string name="please_keep_wifi_connected">"Mantieni la connessione WiFi"</string>
     <string name="init_wifi">Connesso al WiFi</string>
     <string name="init_user">Controllo utente</string>
     <string name="init_app">App connessa</string>

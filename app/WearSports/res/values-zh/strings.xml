@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">gpx-recorder</string>
     <string name="crossing_title">越野跑</string>
     <string name="crossing_end_sport">请先结束越野跑运动</string>
     <string name="crossing_in_progress">越野跑步中</string>
@@ -62,7 +63,12 @@
     <string name="gpx_offset_route">已偏离轨迹</string>
     <string name="gpx_back_route">已回归到轨迹</string>
     <string name="gpx_alreay_offset">已偏离</string>
+    <string name="gpx_no_find_route">未找到可用轨迹</string>
+    <string name="gpx_no_route_guide">请在手表连接到电脑，并将GPX文件拷贝到\"gpxdata\"文件夹后重试</string>
+    <string name="bpm_to">bpm至</string>
     <string name="indoor_run_progressing">室内跑中</string>
+    <string name="sport_widget_title_moutaineer">登山</string>
+    <string name="sport_widget_title_moutaineer_in_progress">登山中...</string>
     <string name="music_title">音乐</string>
     <string name="music_local_title">运动音乐</string>
     <string name="music_no_resource">暂无可播放歌曲</string>
@@ -123,7 +129,6 @@
     <string name="sport_widget_title_setting">运动设置</string>
     <string name="sport_widget_title_music">运动音乐</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="app_name">运动</string>
     <string name="sport_item_running_title">路 跑</string>
     <string name="sport_item_walking_title">健 走</string>
     <string name="title_sport_list">户外运动</string>
@@ -189,6 +194,7 @@
     <string name="no_gps_button_text">确定</string>
     <string name="settings_item_title_km_remind">每公里提醒</string>
     <string name="settings_item_title_mi_remind">每英里提醒</string>
+    <string name="settings_item_title_use_sogou">地图轨迹</string>
     <string name="settings_item_title_km_voice_remind">语音提醒</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">燃脂心率提醒</string>
     <string name="settings_item_title_safe_heartrate_remind">心率提醒</string>
@@ -313,6 +319,10 @@
     <string name="setting_sport_heart_region_text_custom">自定义</string>
     <string name="remind_heart_rate_region_over">心率过高</string>
     <string name="remind_heart_rate_region_less">心率过低</string>
+    <string name="real_time_route">实时轨迹</string>
+    <string name="real_time_output">导出</string>
+    <string name="real_time_total_dis_title">总距离</string>
+    <string name="sogou_map_trail_alert">手表将通过手机网络读取地图，为节省流量请先在手表的搜狗地图应用中下载所在地区的离线地图。</string>
     <string name="complete_training_project">训练计划已完成</string>
     <string name="reminder_speed_unit">/小时</string>
     <string name="remind_target_distance_training_title_format">跑步%1s公里</string>
@@ -348,6 +358,19 @@
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">海拔(英尺)</string>
     <string name="km_imperial_outdoor_speed_graph_title">速度(英里/时)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2f英里</string>
+    <string name="export_gpx">导出轨迹</string>
+    <string name="btn_cancel">取 消</string>
+    <string name="btn_confirm">确 定</string>
+    <string name="hint_rolling">正在导出轨迹，请耐心等待。</string>
+    <string name="dlg_msg_hint_cancel">是否取消本次轨迹导出？</string>
+    <string name="dlg_btn_l_msg">否</string>
+    <string name="dlg_btn_r_msg">是</string>
+    <string name="hint_cancelling">正在取消...</string>
+    <string name="hint_success_exported_title">轨迹导出成功</string>
+    <string name="hint_failed_exported_title">轨迹导出失败</string>
+    <string name="hint_where">"已将轨迹放入gpxdata文件夹。
+将手表连接到电脑即可拷贝使用。"</string>
+    <string name="hint_failed">轨迹导出失败，请重试。</string>
     <string name="average_text">平均</string>
     <string name="picker_default_positive_text">确定</string>
     <string name="picker_default_nagetive_text">关闭</string>
@@ -355,8 +378,6 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
-    <string name="gpx_no_find_route">未找到可用轨迹</string>
-    <string name="gpx_no_route_guide">请在手表连接到电脑，并将GPX文件拷贝到\"gpxdata\"文件夹后重试</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>

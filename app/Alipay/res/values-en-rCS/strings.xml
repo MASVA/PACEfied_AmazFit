@@ -5,11 +5,11 @@
     <string name="unbind_warning">Odpojení zařízení funkce Alipay nebudou k dispozici!</string>
     <string name="bind_my_watch">Připojte svoje hodinky</string>
     <string name="user_hint">"Otevřete aplikaci Alipay (9.3 a vyšší), cestoval do mého profilu> nastavení> Nastavení zabezpečení> smartwhatches."</string>
-    <string name="bind_im">Letního</string>
+    <string name="bind_im">Připojit se okamžitě</string>
     <string name="bind_from_qr">Sdružovaní QR</string>
     <string name="bind_qr_code">Připojuje přes QR</string>
     <string name="user_hint_title">Tipy</string>
-    <string name="loading">Nahravání</string>
+    <string name="loading">Nahrávání</string>
     <string name="title">Alipay</string>
     <string name="widget_title">Alipay</string>
     <string name="tip">"Otevřete aplikaci Alipay (9.3 a vyšší), cestoval do mého profilu> nastavení> Nastavení zabezpečení> smartwhatches."</string>

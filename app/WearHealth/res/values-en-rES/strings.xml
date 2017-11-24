@@ -24,8 +24,6 @@
     <string name="weeklysports_outdoorriding_max">"Velocidad máxima en Bicicleta al Aire libre"</string>
     <string name="weeklysports_outdoorriding_unit_zh">"km/h"</string>
     <string name="weeklysports_outdoorriding_unit_en">"mi/h"</string>
-    <string name="weeklysports_classify_frequency">""</string>
-    <string name="weeklysports_day">""</string>
     <string name="weeklysports_activity">"Activo"</string>
     <string name="weeklysports_running">"Correr"</string>
     <string name="weeklysports_walking">"Caminar"</string>
@@ -235,7 +233,6 @@
     <string name="currentstep_detail_heart_rate_max_text">"Máx"</string>
     <string name="currentstep_detail_heart_rate_min_text">"Mín"</string>
     <string name="currentstep_detail_heart_rate_quiet_text">"Inact"</string>
-    <string name="currentstep_detail_step_unit">"pasos"</string>
     <string name="currentstep_detail_calories_unit">"kCal"</string>
     <string name="currentstep_detail_sleep_hour">"h"</string>
     <string name="currentstep_detail_sleep_min">"min"</string>

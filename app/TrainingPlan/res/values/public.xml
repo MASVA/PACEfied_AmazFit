@@ -312,22 +312,23 @@
     <public type="string" name="length_unit_miles" id="0x7f07002b" />
     <public type="string" name="unit_yinli" id="0x7f07002c" />
     <public type="string" name="unit_gongli" id="0x7f07002d" />
-    <public type="string" name="average_text" id="0x7f07002e" />
-    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f07002f" />
-    <public type="string" name="picker_default_positive_text" id="0x7f070030" />
-    <public type="string" name="picker_default_nagetive_text" id="0x7f070031" />
-    <public type="string" name="no_heartrate_data_hint" id="0x7f070032" />
-    <public type="string" name="no_altitude_hint" id="0x7f070033" />
-    <public type="string" name="ui_lib_name" id="0x7f070034" />
-    <public type="string" name="title_settings" id="0x7f070035" />
-    <public type="string" name="sport_music_settings" id="0x7f070036" />
-    <public type="string" name="widget_currentstep_title" id="0x7f070037" />
-    <public type="string" name="widget_currentstep_activities" id="0x7f070038" />
-    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f070039" />
-    <public type="string" name="widget_currentstep_sleep_min" id="0x7f07003a" />
-    <public type="string" name="widget_currentstep_sleep_title" id="0x7f07003b" />
-    <public type="string" name="widget_currentstep_sleep_no" id="0x7f07003c" />
-    <public type="string" name="widget_currentstep_activity_no" id="0x7f07003d" />
+    <public type="string" name="app_list_title" id="0x7f07002e" />
+    <public type="string" name="average_text" id="0x7f07002f" />
+    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f070030" />
+    <public type="string" name="picker_default_positive_text" id="0x7f070031" />
+    <public type="string" name="picker_default_nagetive_text" id="0x7f070032" />
+    <public type="string" name="no_heartrate_data_hint" id="0x7f070033" />
+    <public type="string" name="no_altitude_hint" id="0x7f070034" />
+    <public type="string" name="ui_lib_name" id="0x7f070035" />
+    <public type="string" name="title_settings" id="0x7f070036" />
+    <public type="string" name="sport_music_settings" id="0x7f070037" />
+    <public type="string" name="widget_currentstep_title" id="0x7f070038" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f070039" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f07003a" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f07003b" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f07003c" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f07003d" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f07003e" />
     <public type="color" name="main_bg_color" id="0x7f080000" />
     <public type="color" name="blt_setting_bg_color" id="0x7f080001" />
     <public type="color" name="loading_txt_color" id="0x7f080002" />
@@ -452,8 +453,10 @@
     <public type="color" name="unlock_progress_bg" id="0x7f080079" />
     <public type="color" name="altitude_start_color" id="0x7f08007a" />
     <public type="color" name="altitude_end_color" id="0x7f08007b" />
-    <public type="color" name="setting_bg" id="0x7f08007c" />
-    <public type="color" name="main_text_color" id="0x7f08007d" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f08007c" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f08007d" />
+    <public type="color" name="setting_bg" id="0x7f08007e" />
+    <public type="color" name="main_text_color" id="0x7f08007f" />
     <public type="dimen" name="settings_icon_rx" id="0x7f090000" />
     <public type="dimen" name="settings_label_rx" id="0x7f090001" />
     <public type="dimen" name="header_txt_size" id="0x7f090002" />
@@ -513,12 +516,14 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f090038" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f090039" />
     <public type="dimen" name="pickview_unit_size" id="0x7f09003a" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f09003b" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f09003c" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f09003d" />
-    <public type="dimen" name="card_content_padding_rect_top" id="0x7f09003e" />
-    <public type="dimen" name="close_button_diameter" id="0x7f09003f" />
-    <public type="dimen" name="dismiss_padding" id="0x7f090040" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f09003b" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f09003c" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f09003d" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f09003e" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f09003f" />
+    <public type="dimen" name="card_content_padding_rect_top" id="0x7f090040" />
+    <public type="dimen" name="close_button_diameter" id="0x7f090041" />
+    <public type="dimen" name="dismiss_padding" id="0x7f090042" />
     <public type="array" name="weekdays" id="0x7f0a0000" />
     <public type="array" name="simple_weekdays" id="0x7f0a0001" />
     <public type="array" name="train_finish_reason_strs" id="0x7f0a0002" />

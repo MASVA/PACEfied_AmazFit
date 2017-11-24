@@ -17,4 +17,13 @@
     <string name="mihome_activity_info_disconnected">Connecter l\'app MI Home sur le téléphone par Bluetooth</string>
     <string name="mihome_activity_btn_disconnected">Connecter l\'app MI Home sur le téléphone par Bluetooth</string>
     <string name="mihome_device_card_2_offline">[Hors Ligne]</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centre de données</string>
+    <string name="widget_currentstep_activities">Activité</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sommeil la nuit dernière</string>
+    <string name="widget_currentstep_sleep_no">Pas de données de sommeil</string>
+    <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\'hui?</string>
+<!--END of missed texts by Huami-->
 </resources>

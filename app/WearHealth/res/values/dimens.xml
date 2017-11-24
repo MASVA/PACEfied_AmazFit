@@ -30,7 +30,7 @@
     <dimen name="report_widget_size_title_value">18.699982sp</dimen>
     <dimen name="report_widget_size_title_margin_top">23.299988dip</dimen>
     <dimen name="report_widget_size_step_value_size">36.0sp</dimen>
-    <dimen name="report_widget_size_sleep_value_size">20.0sp</dimen>
+    <dimen name="report_widget_size_sleep_value_size">24.0sp</dimen>
     <dimen name="report_widget_size_classifychart_width">172.69998dip</dimen>
     <dimen name="report_widget_size_classifychart_height">94.0dip</dimen>
     <dimen name="report_widget_size_parent_paddingtop">16.0dip</dimen>
@@ -38,9 +38,10 @@
     <dimen name="report_widget_size_parent_paddingleft">28.0dip</dimen>
     <dimen name="report_widget_size_listview_line_height">0.70000005dip</dimen>
     <dimen name="report_widget_size_listview_item_next_icon">16.0dip</dimen>
-    <dimen name="report_widget_size_unit_font">12.0sp</dimen>
+    <dimen name="report_widget_size_unit_font">10.0sp</dimen>
     <dimen name="report_widget_size_result_unit_font">12.0sp</dimen>
     <dimen name="report_widget_size_desc_font">16.0sp</dimen>
+    <dimen name="report_widget_size_detail_title">12.0sp</dimen>
     <dimen name="size_title_margin_top">20.0dip</dimen>
     <dimen name="size_title_margin_top2">32.0dip</dimen>
     <dimen name="size_small_title_font">14.0sp</dimen>
@@ -127,6 +128,8 @@
     <dimen name="widget_view_heart_detail_unit">16.0sp</dimen>
     <dimen name="widget_sleep_view_title_size">12.0sp</dimen>
     <dimen name="widget_sleep_view_value_size">24.0sp</dimen>
+    <dimen name="widget_activities_classify_title">14.0sp</dimen>
+    <dimen name="widget_activities_classify_content">14.0sp</dimen>
     <dimen name="bench_xaxis_text_size">10.0sp</dimen>
     <dimen name="xaxis_offset">3.0dip</dimen>
     <dimen name="average_line_width">1.2999878dip</dimen>
@@ -158,6 +161,8 @@
     <dimen name="size_linechart_point_padding_left">6.0dip</dimen>
     <dimen name="size_linechart_no_yaxis_padding_left">10.0dip</dimen>
     <dimen name="pickview_unit_size">10.0sp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800.0dip</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120.0dip</dimen>
     <dimen name="blt_info_margin_top">5.0dip</dimen>
     <dimen name="blt_searching_gif_view_x">60.0dip</dimen>
     <dimen name="blt_searching_gif_view_y">28.0dip</dimen>

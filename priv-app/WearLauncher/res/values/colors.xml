@@ -20,6 +20,17 @@
     <color name="notification_alert_def">#ffaf7cff</color>
     <color name="notification_alert_white">#ffffffff</color>
     <color name="notification_alert_black">#44000000</color>
+    <color name="notification_summary_time_color">#ccffffff</color>
+    <color name="notification_summary_title_color">#ffffffff</color>
+    <color name="notification_summary_content_color">#ffffffff</color>
+    <color name="notification_action_delete">#ffffffff</color>
+    <color name="notification_action_shield">#ffffffff</color>
+    <color name="notification_action_bg">#4dffffff</color>
+    <color name="notification_bg">#ff000000</color>
+    <color name="notification_detail_time_color">#ccffffff</color>
+    <color name="notification_detail_title_color">#ffffffff</color>
+    <color name="notification_detail_content_color">#ffffffff</color>
+    <color name="notification_allclear_color">#ffffffff</color>
     <color name="black">#ff000000</color>
     <color name="blue">#ff2979ff</color>
     <color name="dark_blue">#ff1565c0</color>
@@ -273,6 +284,8 @@
     <color name="unlock_progress_bg">#3dffffff</color>
     <color name="altitude_start_color">#0000ff19</color>
     <color name="altitude_end_color">#ff00ff19</color>
+    <color name="indicator_black_color_normal">#33000000</color>
+    <color name="indicator_black_color_focused">#ff000000</color>
     <color name="setting_bg">#ff000000</color>
     <color name="main_text_color">#ffffffff</color>
 </resources>

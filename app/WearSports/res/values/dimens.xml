@@ -31,6 +31,8 @@
     <dimen name="running_control_button_diameter">60.0dip</dimen>
     <dimen name="sport_history_detail_trail_width">80.0dip</dimen>
     <dimen name="sport_history_detail_trail_height">80.0dip</dimen>
+    <dimen name="sport_history_detail_trail_width1">140.0dip</dimen>
+    <dimen name="sport_history_detail_trail_height1">140.0dip</dimen>
     <dimen name="sport_trail_width">140.0dip</dimen>
     <dimen name="sport_trail_height">144.0dip</dimen>
     <dimen name="sport_start_sport_item_title">16.0sp</dimen>
@@ -198,6 +200,8 @@
     <dimen name="size_linechart_point_padding_left">6.0dip</dimen>
     <dimen name="size_linechart_no_yaxis_padding_left">10.0dip</dimen>
     <dimen name="pickview_unit_size">10.0sp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800.0dip</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120.0dip</dimen>
     <dimen name="blt_info_margin_top">5.0dip</dimen>
     <dimen name="blt_searching_gif_view_x">60.0dip</dimen>
     <dimen name="blt_searching_gif_view_y">28.0dip</dimen>

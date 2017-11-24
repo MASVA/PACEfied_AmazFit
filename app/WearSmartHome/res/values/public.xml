@@ -279,46 +279,49 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f070020" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f070021" />
     <public type="dimen" name="pickview_unit_size" id="0x7f070022" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f070023" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070024" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070025" />
-    <public type="dimen" name="mihome_widget_header_text_size" id="0x7f070026" />
-    <public type="dimen" name="mihome_widget_init_icon_margin_top_unbind" id="0x7f070027" />
-    <public type="dimen" name="mihome_widget_init_icon_margin_top_nodevice" id="0x7f070028" />
-    <public type="dimen" name="mihome_widget_init_info_width" id="0x7f070029" />
-    <public type="dimen" name="mihome_widget_init_info_height" id="0x7f07002a" />
-    <public type="dimen" name="mihome_widget_init_info_margin_top_unbind" id="0x7f07002b" />
-    <public type="dimen" name="mihome_widget_init_info_margin_top_nodevice" id="0x7f07002c" />
-    <public type="dimen" name="mihome_widget_init_info_text_size_unbind" id="0x7f07002d" />
-    <public type="dimen" name="mihome_widget_init_info_text_size_nodevice" id="0x7f07002e" />
-    <public type="dimen" name="mihome_widget_init_loading_size" id="0x7f07002f" />
-    <public type="dimen" name="mihome_card_width" id="0x7f070030" />
-    <public type="dimen" name="mihome_card_height" id="0x7f070031" />
-    <public type="dimen" name="mihome_card_2_height" id="0x7f070032" />
-    <public type="dimen" name="mihome_card_padding_left" id="0x7f070033" />
-    <public type="dimen" name="mihome_card_padding_right" id="0x7f070034" />
-    <public type="dimen" name="mihome_card_1_padding_left" id="0x7f070035" />
-    <public type="dimen" name="mihome_card_1_padding_right" id="0x7f070036" />
-    <public type="dimen" name="mihome_card_0_prop_value_margin_top" id="0x7f070037" />
-    <public type="dimen" name="mihome_card_0_prop_value_margin_right" id="0x7f070038" />
-    <public type="dimen" name="mihome_card_0_prop_value_text_size" id="0x7f070039" />
-    <public type="dimen" name="mihome_card_0_prop_name_margin_top" id="0x7f07003a" />
-    <public type="dimen" name="mihome_card_0_prop_name_text_size" id="0x7f07003b" />
-    <public type="dimen" name="mihome_card_0_prop_unit_margin_top" id="0x7f07003c" />
-    <public type="dimen" name="mihome_card_0_prop_unit_text_size" id="0x7f07003d" />
-    <public type="dimen" name="mihome_card_0_title_margin_top" id="0x7f07003e" />
-    <public type="dimen" name="mihome_card_0_title_text_size" id="0x7f07003f" />
-    <public type="dimen" name="mihome_card_1_prop_value_margin_top" id="0x7f070040" />
-    <public type="dimen" name="mihome_card_1_title_margin_top" id="0x7f070041" />
-    <public type="dimen" name="mihome_card_2_title_margin_top" id="0x7f070042" />
-    <public type="dimen" name="mihome_card_2_title_text_size" id="0x7f070043" />
-    <public type="dimen" name="mihome_card_2_icon_size" id="0x7f070044" />
-    <public type="dimen" name="mihome_card_2_icon_margin_top" id="0x7f070045" />
-    <public type="dimen" name="mihome_card_2_icon_margin_left" id="0x7f070046" />
-    <public type="dimen" name="mihome_card_2_prop_name_0_margin_top" id="0x7f070047" />
-    <public type="dimen" name="mihome_card_2_prop_name_1_margin_top" id="0x7f070048" />
-    <public type="dimen" name="mihome_card_2_prop_name_margin_left" id="0x7f070049" />
-    <public type="dimen" name="mihome_card_2_prop_name_text_size" id="0x7f07004a" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f070023" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f070024" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f070025" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070026" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070027" />
+    <public type="dimen" name="mihome_widget_header_text_size" id="0x7f070028" />
+    <public type="dimen" name="mihome_widget_init_icon_margin_top_unbind" id="0x7f070029" />
+    <public type="dimen" name="mihome_widget_init_icon_margin_top_nodevice" id="0x7f07002a" />
+    <public type="dimen" name="mihome_widget_init_info_width" id="0x7f07002b" />
+    <public type="dimen" name="mihome_widget_init_info_height" id="0x7f07002c" />
+    <public type="dimen" name="mihome_widget_init_info_margin_top_unbind" id="0x7f07002d" />
+    <public type="dimen" name="mihome_widget_init_info_margin_top_nodevice" id="0x7f07002e" />
+    <public type="dimen" name="mihome_widget_init_info_text_size_unbind" id="0x7f07002f" />
+    <public type="dimen" name="mihome_widget_init_info_text_size_nodevice" id="0x7f070030" />
+    <public type="dimen" name="mihome_widget_init_loading_size" id="0x7f070031" />
+    <public type="dimen" name="mihome_widget_init_loading_margin_top" id="0x7f070032" />
+    <public type="dimen" name="mihome_card_width" id="0x7f070033" />
+    <public type="dimen" name="mihome_card_height" id="0x7f070034" />
+    <public type="dimen" name="mihome_card_2_height" id="0x7f070035" />
+    <public type="dimen" name="mihome_card_padding_left" id="0x7f070036" />
+    <public type="dimen" name="mihome_card_padding_right" id="0x7f070037" />
+    <public type="dimen" name="mihome_card_1_padding_left" id="0x7f070038" />
+    <public type="dimen" name="mihome_card_1_padding_right" id="0x7f070039" />
+    <public type="dimen" name="mihome_card_0_prop_value_margin_top" id="0x7f07003a" />
+    <public type="dimen" name="mihome_card_0_prop_value_margin_right" id="0x7f07003b" />
+    <public type="dimen" name="mihome_card_0_prop_value_text_size" id="0x7f07003c" />
+    <public type="dimen" name="mihome_card_0_prop_name_margin_top" id="0x7f07003d" />
+    <public type="dimen" name="mihome_card_0_prop_name_text_size" id="0x7f07003e" />
+    <public type="dimen" name="mihome_card_0_prop_unit_margin_top" id="0x7f07003f" />
+    <public type="dimen" name="mihome_card_0_prop_unit_text_size" id="0x7f070040" />
+    <public type="dimen" name="mihome_card_0_title_margin_top" id="0x7f070041" />
+    <public type="dimen" name="mihome_card_0_title_text_size" id="0x7f070042" />
+    <public type="dimen" name="mihome_card_1_prop_value_margin_top" id="0x7f070043" />
+    <public type="dimen" name="mihome_card_1_title_margin_top" id="0x7f070044" />
+    <public type="dimen" name="mihome_card_2_title_margin_top" id="0x7f070045" />
+    <public type="dimen" name="mihome_card_2_title_text_size" id="0x7f070046" />
+    <public type="dimen" name="mihome_card_2_icon_size" id="0x7f070047" />
+    <public type="dimen" name="mihome_card_2_icon_margin_top" id="0x7f070048" />
+    <public type="dimen" name="mihome_card_2_icon_margin_left" id="0x7f070049" />
+    <public type="dimen" name="mihome_card_2_prop_name_0_margin_top" id="0x7f07004a" />
+    <public type="dimen" name="mihome_card_2_prop_name_1_margin_top" id="0x7f07004b" />
+    <public type="dimen" name="mihome_card_2_prop_name_margin_left" id="0x7f07004c" />
+    <public type="dimen" name="mihome_card_2_prop_name_text_size" id="0x7f07004d" />
     <public type="id" name="item_touch_helper_previous_elevation" id="0x7f080000" />
     <public type="id" name="one" id="0x7f080001" />
     <public type="id" name="three" id="0x7f080002" />
@@ -452,16 +455,18 @@
     <public type="color" name="unlock_progress_bg" id="0x7f09005c" />
     <public type="color" name="altitude_start_color" id="0x7f09005d" />
     <public type="color" name="altitude_end_color" id="0x7f09005e" />
-    <public type="color" name="setting_bg" id="0x7f09005f" />
-    <public type="color" name="main_bg_color" id="0x7f090060" />
-    <public type="color" name="main_text_color" id="0x7f090061" />
-    <public type="color" name="mihome_card_0_prop_color" id="0x7f090062" />
-    <public type="color" name="mihome_card_0_title_color" id="0x7f090063" />
-    <public type="color" name="mihome_card_1_prop_color" id="0x7f090064" />
-    <public type="color" name="mihome_card_1_title_color" id="0x7f090065" />
-    <public type="color" name="mihome_card_1_status_color" id="0x7f090066" />
-    <public type="color" name="mihome_card_2_title_color" id="0x7f090067" />
-    <public type="color" name="mihome_card_2_prop_color" id="0x7f090068" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f09005f" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f090060" />
+    <public type="color" name="setting_bg" id="0x7f090061" />
+    <public type="color" name="main_bg_color" id="0x7f090062" />
+    <public type="color" name="main_text_color" id="0x7f090063" />
+    <public type="color" name="mihome_card_0_prop_color" id="0x7f090064" />
+    <public type="color" name="mihome_card_0_title_color" id="0x7f090065" />
+    <public type="color" name="mihome_card_1_prop_color" id="0x7f090066" />
+    <public type="color" name="mihome_card_1_title_color" id="0x7f090067" />
+    <public type="color" name="mihome_card_1_status_color" id="0x7f090068" />
+    <public type="color" name="mihome_card_2_title_color" id="0x7f090069" />
+    <public type="color" name="mihome_card_2_prop_color" id="0x7f09006a" />
     <public type="style" name="PromptDialog" id="0x7f0a0000" />
     <public type="style" name="HMProgressBar" id="0x7f0a0001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f0a0002" />

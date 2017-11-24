@@ -44,8 +44,8 @@
     <string name="air_heavily_polluted">重度污染</string>
     <string name="air_severely_polluted">严重污染</string>
     <string name="no_outdoor_info">无法获取运动指标</string>
-    <string name="outdoor_info_notsuit">不适宜户外运动</string>
-    <string name="outdoor_info_suit">适宜户外运动</string>
+    <string name="outdoor_info_notsuit">不适宜运动</string>
+    <string name="outdoor_info_suit">适宜运动</string>
     <string name="wind_strength">风力</string>
     <string name="moisture">湿度</string>
     <string name="uv">紫外线</string>
@@ -56,5 +56,6 @@
     <string name="fetch_failed_title">无法获取天气</string>
     <string name="fetch_failed_msg">请连接Amazfit手表App同步天气信息, 并确保已在App端添加地区.</string>
     <string name="date_time_format">MM月dd日</string>
+    <string name="fetch_failed_help">请先同步天气信息</string>
     <string name="detailed">天气详情</string>
 </resources>

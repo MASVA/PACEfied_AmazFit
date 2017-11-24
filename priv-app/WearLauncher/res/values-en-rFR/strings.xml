@@ -2,8 +2,8 @@
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Selectionner Langue</string>
-    <string name="generic_notification_more">Plus(%s)</string>
-    <string name="notification_unread_num">Non lu(s) %s</string>
+    <string name="generic_notification_more">Plus %s</string>
+    <string name="notification_unread_num">%s Non lus</string>
     <string name="notification_click_upgrade">Mise à jour</string>
     <string name="notification_click_download">Visualiser</string>
     <string name="notification_click_open">Voir plus</string>
@@ -23,7 +23,7 @@
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
     <string name="delete_all_notifications">Supprimer les notifications</string>
-    <string name="delete_all_notifications_confrim_content">Suppression des notifications. Continuer ?</string>
+    <string name="delete_all_notifications_confrim_content">Suppression des notifications. Continuer?</string>
     <string name="quick_settings_airplane_mode">Avion: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Silence: %1$s</string>
     <string name="quick_settings_auto_light_mode">Eclairage: %1$s</string>
@@ -46,14 +46,14 @@
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">New Year Eve</string>
     <string name="seconed_confirm_nodisturb">"Mode silence activé
-Les nouvelles notifications ne s\'afficheront pas."</string>
+Les notifications ne s\'afficheront pas."</string>
     <string name="quick_settings_battery_charging_full">Chargé</string>
     <string name="quick_settings_battery_is_charging">En charge...</string>
     <string name="quick_settings_battery_hasnot_charged">Pas chargé</string>
-    <string name="quick_settings_battery_charging_intervalDay">%1$d j %2$d h (dernière charge)</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d j (dernière charge)</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">%d j (dernière charge)</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"1 h (dernière charge)"</string>
+    <string name="quick_settings_battery_charging_intervalDay">%1$d jours %2$d heures</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d jours</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">%d heures</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">Moins de 1 heure</string>
     <string name="quick_settings_battery_sportString">Autonomie en mode Sport</string>
     <string name="quick_settings_battery_sporttime_hour_unit">heure</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
@@ -84,6 +84,13 @@ Les nouvelles notifications ne s\'afficheront pas."</string>
     <string name="notification_time_just">Maintenant</string>
     <string name="notification_time_yesterday">Hier</string>
     <string name="notificaton_empty_message">Pas de contenu</string>
+    <string name="music">Musique</string>
+    <string name="music_title">Titre inconnu</string>
+    <string name="music_author">Artiste inconnu</string>
+    <string name="music_stop_status">Pause</string>
+    <string name="music_play_status">En cours</string>
+    <string name="music_bulethooth_disconnect">Connexion au Bluetooth…</string>
+	<string name="music_peek_content">Votre téléphone utilise   %s qui peut être contrôlée sur la montre.</string>
     <string name="amazing_dialog_btn_confirm_text">Confirmer</string>
     <string name="amazing_dialog_btn_cancel_text">Annuler</string>
     <string name="accept">Accepter</string>
@@ -566,7 +573,7 @@ Activé"</string>
     <string name="state_on">On</string>
     <string name="state_off">Off</string>
     <string name="quick_settings_sunlight_title">Sunlight mode</string>
-    <string name="theater_mode">Mode silencieux</string>
+    <string name="theater_mode">Mode silence</string>
     <string name="theater_mode_toast_button">Pour réactiver l\'écran, appuyez sur le bouton latéral</string>
     <string name="theater_mode_toast_no_button">Pour réactiver l\'écran, appuyez deux fois dessus</string>
     <string name="more_on_weather_domain">Plus sur %s</string>
@@ -601,8 +608,8 @@ Activé"</string>
     <string name="moisture">Humidité</string>
     <string name="no_aqi">Impossible d\'obtenir la qualité de l\'air</string>
     <string name="no_outdoor_info">Pas de données</string>
-    <string name="outdoor_info_notsuit">Inapproprié pour le sport</string>
-    <string name="outdoor_info_suit">Convient pour le sport</string>
+    <string name="outdoor_info_notsuit">Non pour le sport</string>
+    <string name="outdoor_info_suit">Bien pour le sport</string>
     <string name="uv">Rayons UV</string>
     <string name="weather">Météo</string>
     <string name="weather_warning">Préalarme</string>

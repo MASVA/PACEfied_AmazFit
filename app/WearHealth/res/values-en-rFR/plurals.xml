@@ -8,4 +8,8 @@
         <item quantity="other">Pas</item>
         <item quantity="one">Pas</item>
     </plurals>
+	<plurals name="floor_unit">
+        <item quantity="other"> Etages</item>
+        <item quantity="one"> Etage</item>
+    </plurals>
 </resources>

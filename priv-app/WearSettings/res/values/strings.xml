@@ -26,7 +26,7 @@
     <string name="wear_habit">Wear Habit</string>
     <string name="bugreport">Report Error</string>
     <string name="light_change">Backlight</string>
-    <string name="wrist_up">Lift the wrist</string>
+    <string name="wrist_up">Activate on Wrist Raise</string>
     <string name="auto_nodisturb">Silent Time</string>
     <string name="double_click_wakeup">Tap to Wake</string>
     <string name="vibration_intensity">Vibration</string>
@@ -183,6 +183,13 @@ kg"</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
 <!--START of missed texts by Huami-->
+    <string name="setting_item_application">Application</string>
+    <string name="app_item_phone_anti_lost">Anti-lost mobile phone</string>
+    <string name="app_item_anti_lost_remind">Anti-lost reminder</string>
+    <string name="app_item_far_away_remind">Too far remind</string>
+    <string name="remind_aleary_open">Reminder already on</string>
+    <string name="phone_far_away_remind_to_you">The watch will remind you when it is far away from the phone。</string>
+    <string name="dialog_confire">Confirm</string>
     <string name="widget_currentstep_title">Data Center</string>
     <string name="widget_currentstep_activities">Steps today</string>
     <string name="widget_currentstep_sleep_hour">h</string>

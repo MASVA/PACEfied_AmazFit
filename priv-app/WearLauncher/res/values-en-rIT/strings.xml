@@ -10,8 +10,8 @@
     <string name="notification_wechat_red_envelop_title">Wechat notifiche urgenti</string>
     <string name="notification_alipay_red_envelop_title">Alipay notifiche urgenti</string>
     <string name="notification_qq_red_envelop_title">QQ notifiche urgenti</string>
-    <string name="notification_red_envelop_content">%s notifiche urgenti，controllare il cellulare!</string>
-    <string name="notification_red_envelop_default_content">Controllare il cellulare!</string>
+    <string name="notification_red_envelop_content">%s notifiche urgenti，controlla il cellulare!</string>
+    <string name="notification_red_envelop_default_content">Controlla il cellulare!</string>
     <string name="notification_alipay_default_group">Ritrovo</string>
     <string name="notification_red_bracket">[%s]</string>
     <string name="notitification_wechat_red_content_pattern_one">^\\[\\d{1,3}.*?articolo\\]</string>
@@ -23,7 +23,7 @@
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
     <string name="delete_all_notifications">Elimina tutto</string>
-    <string name="delete_all_notifications_confrim_content">La cancellazione non puo essere annullata,continuare？</string>
+    <string name="delete_all_notifications_confrim_content">L\'eliminazione non puo essere annullata, continuare?</string>
     <string name="quick_settings_airplane_mode">Modo aereo: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Silenzioso: %1$s</string>
     <string name="quick_settings_auto_light_mode">Luminosità: %1$s</string>
@@ -31,8 +31,8 @@
     <string name="quick_settings_switch_auto">Auto</string>
     <string name="quick_settings_switch_awake">Attivo</string>
     <string name="quick_settings_switch_always">Sempre</string>
-    <string name="quick_settings_switch_on">ON</string>
-    <string name="quick_settings_switch_off">OFF</string>
+    <string name="quick_settings_switch_on">On</string>
+    <string name="quick_settings_switch_off">Off</string>
     <string name="quick_settings_toast_on">Abilitato</string>
     <string name="quick_settings_toast_off">Disabilitato</string>
     <string name="quick_settings_status">Scollegato</string>
@@ -45,18 +45,17 @@
     <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">31/1/1900</string>
     <string name="quick_settings_date_yeareve">Vigilia di Capodanno</string>
-    <string name="seconed_confirm_nodisturb">Modalità Silenziosa attiva. 
+    <string name="seconed_confirm_nodisturb">Modalità silenziosa attiva. 
 Le nuove notifiche non saranno mostrate.</string>
     <string name="quick_settings_battery_charging_full">Ricarica completata</string>
     <string name="quick_settings_battery_is_charging">In carica...</string>
     <string name="quick_settings_battery_hasnot_charged">Non è stato caricato</string>
-    <string name="quick_settings_battery_charging_intervalDay">Caricato da: %1$d giorni %2$d ore</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">Caricato da: %d giorni</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">Caricato da: %d ore</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">Caricato da meno
- di 1 ora</string>
-    <string name="quick_settings_battery_sportString">"Durata della batteria
- in modalità GPS"</string>
+    <string name="quick_settings_battery_charging_intervalDay">Caricato %1$d giorni %2$d ore fa</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">Caricato %d giorni fa</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">Caricato %d ore fa</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">Caricato meno
+di 1 ora fa</string>
+    <string name="quick_settings_battery_sportString">"Batteria residua in modo corsa"</string>
     <string name="quick_settings_battery_sporttime_hour_unit">ora</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
@@ -64,7 +63,7 @@ Le nuove notifiche non saranno mostrate.</string>
     <string name="health_def_value" />
     <string name="health_def_hint" />
     <string name="health_title_def_value">Oggi hai camminato</string>
-    <string name="splash_hint">Inizializzazione...</string>
+    <string name="splash_hint">Inizializzo...</string>
     <string name="header_incomming_call_name" />
     <string name="header_incomming_call_hint">Chiamata in arrivo</string>
     <string name="header_incomming_call_mobilephone">Telefono</string>
@@ -83,7 +82,7 @@ Le nuove notifiche non saranno mostrate.</string>
     <string name="notification_block_cancel">Annulla blocco notifiche</string>
     <string name="notification_block_ok">Ok</string>
     <string name="notification_more_settings">Altre impostazioni</string>
-    <string name="notification_time_just">Proprio</string>
+    <string name="notification_time_just">Adesso</string>
     <string name="notification_time_yesterday">Ieri</string>
     <string name="notificaton_empty_message">Nessuna notifica</string>
     <string name="amazing_dialog_btn_confirm_text">Conferma</string>
@@ -109,22 +108,22 @@ Le nuove notifiche non saranno mostrate.</string>
     <string name="create_calendar_title">Crea evento del calendario</string>
     <string name="create_calendar_message">Permetti di creare un evento del calendario?</string>
     <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
-    <string name="common_google_play_services_notification_needs_installation_title">"Un\'applicazione richiede l\'installazione di Google Play Services."</string>
-    <string name="common_google_play_services_notification_needs_update_title">"Un\'applicazione richiede un aggiornamento per Google Play Services."</string>
-    <string name="common_android_wear_notification_needs_update_text">"Un\'applicazione richiede un aggiornamento dell\'app Android Wear."</string>
-    <string name="common_google_play_services_needs_enabling_title">"Un\'applicazione richiede Google Play Services per essere attivata."</string>
+    <string name="common_google_play_services_notification_needs_installation_title">"Un\'appl richiede l\'installazione di Google Play Services."</string>
+    <string name="common_google_play_services_notification_needs_update_title">"Un\'app richiede un aggiornamento per Google Play Services."</string>
+    <string name="common_android_wear_notification_needs_update_text">"Un\'app richiede un aggiornamento dell\'app Android Wear."</string>
+    <string name="common_google_play_services_needs_enabling_title">"Un\'app richiede Google Play Services per essere attivata."</string>
     <string name="common_google_play_services_error_notification_requested_by_msg">Richiesto da %1$s</string>
     <string name="common_google_play_services_install_title">Ottieni Google Play Services</string>
-    <string name="common_google_play_services_install_text_phone">Questa applicazione non funzionerà senza Google Play Services, che mancano dal telefono.</string>
-    <string name="common_google_play_services_install_text_tablet">Questa applicazione non funzionerà senza Google Play Services, che mancano dal vostro tablet.</string>
+    <string name="common_google_play_services_install_text_phone">Questa app non funzionerà senza Google Play Services, che mancano dal telefono.</string>
+    <string name="common_google_play_services_install_text_tablet">Questa app non funzionerà senza Google Play Services, che mancano dal vostro tablet.</string>
     <string name="common_google_play_services_install_button">Ottieni Google Play Services</string>
     <string name="common_google_play_services_enable_title">Attiva Google Play Services</string>
-    <string name="common_google_play_services_enable_text">Questa applicazione non funzionerà a meno che non si attivi Google Play Services.</string>
+    <string name="common_google_play_services_enable_text">Questa app non funzionerà a meno che non si attivi Google Play Services.</string>
     <string name="common_google_play_services_enable_button">Attiva Google Play Services</string>
     <string name="common_google_play_services_update_title">Aggiornamento di Google Play Services</string>
     <string name="common_android_wear_update_title">Aggiornamento Android Wear</string>
-    <string name="common_google_play_services_update_text">Questa applicazione non funzionerà a meno che non si aggiorni Google Play Services.</string>
-    <string name="common_android_wear_update_text">Questa applicazione non funzionerà a meno che non si aggiorni Android Wear.</string>
+    <string name="common_google_play_services_update_text">Questa app non funzionerà a meno che non si aggiorni Google Play Services.</string>
+    <string name="common_android_wear_update_text">Questa app non funzionerà a meno che non si aggiorni Android Wear.</string>
     <string name="common_google_play_services_network_error_title">Errore di rete...</string>
     <string name="common_google_play_services_network_error_text">Una connessione dati è necessaria per collegarsi ai Google Play Services.</string>
     <string name="common_google_play_services_invalid_account_title">Account non valido</string>
@@ -225,8 +224,9 @@ giorni</string>
     <string name="troubleshoot_use_android_wear">"Installare l\'applicazione Android Wear dal Play Store. Poi lanciare l\'app Android Wear per la connessione a orologio."</string>
     <string name="troubleshoot_internet">Assicurarsi che il telefono sia dotato di una connessione Internet.</string>
     <string name="troubleshoot_tethering">Prova ad attivare il tethering Bluetooth sul telefono.</string>
-    <string name="troubleshoot_online_help">"Per ottenere ulteriori informazioni, 
-visitare il %s"</string>
+    <string name="troubleshoot_online_help">"Per ulteriori info, visitare
+%s
+"</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Riprova</string>
     <string name="restart_action">Ricomincia</string>
@@ -240,13 +240,13 @@ visitare il %s"</string>
     <string name="clockwork_home_enable_notifications">"Attivare l\'accesso di notifica per Android Wear"</string>
     <string name="clockwork_home_no_notif_settings">Questo dispositivo non può inviare notifiche al tuo orologio</string>
     <string name="perm_label_provide_background">Quadrante personalizzato</string>
-    <string name="perm_description_provide_background">Questa applicazione può agire come un quadrante personalizzato.</string>
+    <string name="perm_description_provide_background">Questa app può agire come un quadrante personalizzato.</string>
     <string name="perm_label_secure_adb_confirmation">Confermare connessioni sicure ADB</string>
-    <string name="perm_description_secure_adb_confirmation">Questa applicazione può confermare le connessioni ADB sicure.</string>
+    <string name="perm_description_secure_adb_confirmation">Questa app può confermare le connessioni ADB sicure.</string>
     <string name="perm_label_install_wearable_packages">installare applicazioni</string>
-    <string name="perm_description_install_wearable_packages">Questa applicazione può installare applicazioni per dispositivi indossabili.</string>
+    <string name="perm_description_install_wearable_packages">Questa app può installare app per dispositivi indossabili.</string>
     <string name="perm_label_set_watch_face_privileged">Set quadrante, privilegiata</string>
-    <string name="perm_description_set_watch_face_privileged">Questa applicazione può impostare il quadrante senza conferma.</string>
+    <string name="perm_description_set_watch_face_privileged">Questa app può impostare il quadrante senza conferma.</string>
     <string name="open">Apri</string>
     <string name="open_on_phone">Aperto sul telefono</string>
     <string name="title_mute_app">Blocco app</string>
@@ -298,7 +298,7 @@ visitare il %s"</string>
     <string name="voice_action_save">Salva</string>
     <string name="voice_action_saving">Salvataggio in corso...</string>
     <string name="voice_action_navigate">Naviga</string>
-    <string name="voice_action_navigating">Navigazione ...</string>
+    <string name="voice_action_navigating">Navigazione...</string>
     <string name="voice_action_open">Apri</string>
     <string name="voice_action_opening">Apertura…</string>
     <string name="voice_action_contact_upload_needed">Per completare questa operazione, attivare il riconoscimento dei contatti sul telefono</string>
@@ -538,7 +538,7 @@ attiva"</string>
     <string name="power_overcounted">Over-counted</string>
     <string name="power_screen">Schermo</string>
     <string name="power_flashlight">Torcia</string>
-    <string name="power_wifi">Wi-Fi</string>
+    <string name="power_wifi">WiFi</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Cellulare in standby</string>
     <string name="power_phone">Chiamate vocali</string>
@@ -643,6 +643,7 @@ attiva"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sport Music</string>
+<!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centro dati</string>
     <string name="widget_currentstep_activities">Passi odierni</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -650,4 +651,5 @@ attiva"</string>
     <string name="widget_currentstep_sleep_title">Dormito la scorsa notte</string>
     <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
+<!--END of missed texts by Huami-->
 </resources>

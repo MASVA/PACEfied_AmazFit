@@ -6,7 +6,8 @@
     <string name="fahrenheit">℉</string>
     <string name="forecast_today">Aujourd\'hui</string>
     <string name="forecast_tomorrow">Demain</string>
-    <string name="temp_unit_centigrade">℃</string>
+    <string name="widget_title">Météo</string>
+    <string name="temp_unit_centigrade">°C</string>
     <string name="temp_unit_fahrenheit">°F</string>
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
@@ -30,7 +31,7 @@
     <string name="weather_warning_cold">Froid</string>
     <string name="weather_warning_gale">Vent</string>
     <string name="weather_warning_sandstorm">Tempête de sable</string>
-    <string name="weather_warning_temperature">Température haute</string>
+    <string name="weather_warning_temperature">Haute température</string>
     <string name="weather_warning_drought">Sécheresse</string>
     <string name="weather_warning_thunder">Tonnerre</string>
     <string name="weather_warning_hail">Grêle</string>
@@ -52,7 +53,7 @@
     <string name="wind_strength">Vent</string>
     <string name="moisture">Humidité</string>
     <string name="uv">Rayons UV</string>
-    <string name="forecast">Prévision Météo</string>
+    <string name="forecast">Prévisions Météo</string>
     <string name="fetching">Chargement</string>
     <string name="fetch_failed">Echoué</string>
     <string name="unknown">Inconnu</string>
@@ -64,5 +65,14 @@
     <string name="data_checkfail_temp">Température inconnue</string>
     <string name="data_checkfail_match">Les champs d\'enregistrements ne correspondent pas</string>
     <string name="data_checkfail_json">Erreur de format JSON</string>
-	<string name="detailed">Météo détaillée</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmer</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Cardio non détecté</string>
+    <string name="no_altitude_hint">Altitude non détecté</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="sport_music_settings">Musique Sports</string>	
+	<string name="detailed">Météo détaillée</string>	
 </resources>

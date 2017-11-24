@@ -188,9 +188,11 @@
     <public type="color" name="unlock_progress_bg" id="0x7f05005c" />
     <public type="color" name="altitude_start_color" id="0x7f05005d" />
     <public type="color" name="altitude_end_color" id="0x7f05005e" />
-    <public type="color" name="setting_bg" id="0x7f05005f" />
-    <public type="color" name="main_bg_color" id="0x7f050060" />
-    <public type="color" name="main_text_color" id="0x7f050061" />
+    <public type="color" name="indicator_black_color_normal" id="0x7f05005f" />
+    <public type="color" name="indicator_black_color_focused" id="0x7f050060" />
+    <public type="color" name="setting_bg" id="0x7f050061" />
+    <public type="color" name="main_bg_color" id="0x7f050062" />
+    <public type="color" name="main_text_color" id="0x7f050063" />
     <public type="dimen" name="bench_xaxis_text_size" id="0x7f060000" />
     <public type="dimen" name="xaxis_offset" id="0x7f060001" />
     <public type="dimen" name="average_line_width" id="0x7f060002" />
@@ -225,12 +227,14 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f06001f" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f060020" />
     <public type="dimen" name="pickview_unit_size" id="0x7f060021" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f060022" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f060023" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f060024" />
-    <public type="dimen" name="hmdialog_text_padding" id="0x7f060025" />
-    <public type="dimen" name="hmdialog_text_size" id="0x7f060026" />
-    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f060027" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f060022" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f060023" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f060024" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f060025" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f060026" />
+    <public type="dimen" name="hmdialog_text_padding" id="0x7f060027" />
+    <public type="dimen" name="hmdialog_text_size" id="0x7f060028" />
+    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f060029" />
     <public type="string" name="average_text" id="0x7f070000" />
     <public type="string" name="menu_item_high_light_scale_factor" id="0x7f070001" />
     <public type="string" name="picker_default_positive_text" id="0x7f070002" />

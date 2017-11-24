@@ -470,7 +470,7 @@
         </daytrainplan>
         <daytrainplan id="42">
             <desc>Odpočinkový den</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -481,7 +481,7 @@
         </daytrainplan>
         <daytrainplan id="43">
             <desc>Odpočinkový den</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -492,7 +492,7 @@
         </daytrainplan>
         <daytrainplan id="44">
             <desc>Intervaly (Krátké)8km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -503,7 +503,7 @@
         </daytrainplan>
         <daytrainplan id="45">
             <desc>Základní běh 3.2km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -514,7 +514,7 @@
         </daytrainplan>
         <daytrainplan id="46">
             <desc>Odpočinkový den</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -525,7 +525,7 @@
         </daytrainplan>
         <daytrainplan id="47">
             <desc>Stejné tempo 9.1km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>9.1</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -536,7 +536,7 @@
         </daytrainplan>
         <daytrainplan id="48">
             <desc>Lehký běh 4.8km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -547,7 +547,7 @@
         </daytrainplan>
         <daytrainplan id="49">
             <desc>Odpočinkový den</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -558,7 +558,7 @@
         </daytrainplan>
         <daytrainplan id="50">
             <desc>Základní běh 6.5km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -569,7 +569,7 @@
         </daytrainplan>
         <daytrainplan id="51">
             <desc>Odpočinkový den</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -580,7 +580,7 @@
         </daytrainplan>
         <daytrainplan id="52">
             <desc>Lehký běh 3.2km</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -591,7 +591,7 @@
         </daytrainplan>
         <daytrainplan id="53">
             <desc>Odpočinkový den</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -601,8 +601,8 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="54">
-            <desc>Race Day! 10km</desc>
-            <stageDesc>Taper</stageDesc>
+            <desc>Pretek! 10km</desc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>10.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>
@@ -613,7 +613,7 @@
         </daytrainplan>
         <daytrainplan id="55">
             <desc>Odpočinkový den</desc>
-            <stageDesc>Taper</stageDesc>
+            <stageDesc>Cvičení</stageDesc>
             <distance>0.0</distance>
             <offsetWeeks>0</offsetWeeks>
             <offsetDays>0</offsetDays>

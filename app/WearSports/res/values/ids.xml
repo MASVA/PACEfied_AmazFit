@@ -12,7 +12,16 @@
     <item type="id" name="start_outdoor_riding">8</item>
     <item type="id" name="start_indoor_riding">9</item>
     <item type="id" name="start_ellipticals">10</item>
+    <item type="id" name="start_mountaineer">11</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="node_rolling">false</item>
+    <item type="id" name="iv_loading">false</item>
+    <item type="id" name="tv_hint">false</item>
+    <item type="id" name="btn_cancel">false</item>
+    <item type="id" name="node_result">false</item>
+    <item type="id" name="title_result">false</item>
+    <item type="id" name="msg_result">false</item>
+    <item type="id" name="result_confirm">false</item>
     <item type="id" name="container">false</item>
     <item type="id" name="fragment_container">false</item>
     <item type="id" name="main_root">false</item>
@@ -50,6 +59,8 @@
     <item type="id" name="read">false</item>
     <item type="id" name="display">false</item>
     <item type="id" name="scrollView">false</item>
+    <item type="id" name="parent">false</item>
+    <item type="id" name="ok">false</item>
     <item type="id" name="dlg_container_id">false</item>
     <item type="id" name="dlg_container">false</item>
     <item type="id" name="opt_btn">false</item>
@@ -133,6 +144,7 @@
     <item type="id" name="history_detail_altitude">false</item>
     <item type="id" name="altitude_cache_view">false</item>
     <item type="id" name="delete_summary_container">false</item>
+    <item type="id" name="export_gpx">false</item>
     <item type="id" name="delete_summary">false</item>
     <item type="id" name="dialog_delete_sport_summary">false</item>
     <item type="id" name="list_view">false</item>
@@ -156,22 +168,22 @@
     <item type="id" name="info_container_two">false</item>
     <item type="id" name="info_container_three">false</item>
     <item type="id" name="item_container_three">false</item>
-    <item type="id" name="tips_container">false</item>
-    <item type="id" name="tips">false</item>
-    <item type="id" name="cancel">false</item>
-    <item type="id" name="confirm">false</item>
     <item type="id" name="history_detail_sport_pause_cost_time_desc">false</item>
     <item type="id" name="history_detail_sport_pause_cost_time">false</item>
     <item type="id" name="history_detail_sport_climb_disascend_desc">false</item>
     <item type="id" name="history_detail_sport_climb_up_disascend">false</item>
     <item type="id" name="history_detail_sport_climb_up_disascend_unit">false</item>
+    <item type="id" name="heart_rate_split_line_three">false</item>
+    <item type="id" name="graph_unit_second">false</item>
+    <item type="id" name="tips_container">false</item>
+    <item type="id" name="tips">false</item>
+    <item type="id" name="cancel">false</item>
+    <item type="id" name="confirm">false</item>
     <item type="id" name="speed_container">false</item>
     <item type="id" name="history_detail_speed_graph">false</item>
     <item type="id" name="history_detail_speed">false</item>
     <item type="id" name="speed_cache_view">false</item>
     <item type="id" name="graph_unit_first">false</item>
-    <item type="id" name="graph_unit_second">false</item>
-    <item type="id" name="heart_rate_split_line_three">false</item>
     <item type="id" name="graph_unit_third">false</item>
     <item type="id" name="rl_route_container">false</item>
     <item type="id" name="sport_info_trail_title">false</item>
@@ -325,12 +337,20 @@
     <item type="id" name="root_id">false</item>
     <item type="id" name="medal_bg">false</item>
     <item type="id" name="detail_container">false</item>
-    <item type="id" name="history_viewpager_container">false</item>
     <item type="id" name="sport_control_container">false</item>
     <item type="id" name="train_container">false</item>
     <item type="id" name="settings_item_icon">false</item>
     <item type="id" name="settings_item_title">false</item>
     <item type="id" name="settings_item_value">false</item>
+    <item type="id" name="history_detail_gps_sport_title">false</item>
+    <item type="id" name="output_container">false</item>
+    <item type="id" name="dis_container">false</item>
+    <item type="id" name="route_dis_title">false</item>
+    <item type="id" name="route_dis">false</item>
+    <item type="id" name="dis_unit">false</item>
+    <item type="id" name="route_dis_climb_title">false</item>
+    <item type="id" name="route_climb">false</item>
+    <item type="id" name="climb_unit">false</item>
     <item type="id" name="distance">false</item>
     <item type="id" name="ticker">false</item>
     <item type="id" name="medal_desc">false</item>

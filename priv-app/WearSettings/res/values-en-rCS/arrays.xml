@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="lab_item_android_settings">
         <item>[prim]Původní nastavení systému</item>
@@ -207,5 +207,16 @@
         <item>+13 Auckland</item>
         <item>+13 Fiji</item>
         <item>+13 Tongatapu</item>
+    </string-array>
+    <string-array name="light_mode_subtitle">
+        <item>Jas: vyp</item>
+        <item>Jas: auto</item>
+        <item>Jas: 2</item>
+        <item>Jas: 2</item>
+        <item>Jas: 1</item>
+        <item>Jas: 3</item>
+        <item>Jas: 4</item>
+        <item>Jas: 5</item>
+
     </string-array>
 </resources>
