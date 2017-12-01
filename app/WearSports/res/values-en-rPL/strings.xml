@@ -68,6 +68,9 @@
     <string name="gpx_no_find_route">Brak dostępnych ścieżek</string>
     <string name="gpx_no_route_guide">Podłącz zegarek do komputera i skopiuj plik GPX do folderu \"gpxdata\" i spróbuj ponownie</string>
     <string name="indoor_run_progressing">Bieganie</string>
+	<string name="bpm_to">bpm To</string>
+	<string name="sport_widget_title_moutaineer">Wspinaczka</string>
+    <string name="sport_widget_title_moutaineer_in_progress">Alpinizm...</string>
     <string name="music_title">Muzyka</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">Brak utworu do odtw.</string>
@@ -376,7 +379,7 @@
     <string name="km_imperial_remind_target_km_walking_title_format">Zakoń. %1$d mi</string>
     <string name="km_imperial_remind_target_riding_km_title_format">Zakoń. %1$d mi</string>
     <string name="km_imperial_remind_target_distance_training_title_format">Zakoń. %1s mi</string>
-    <string name="meter_imperial_crossing_vertical_velocity_unit">stóp/min</string>
+    <string name="meter_imperial_crossing_vertical_velocity_unit">st/min</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Wysokość(st)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Pręd.(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
@@ -403,4 +406,11 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
+	<string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
 </resources>
