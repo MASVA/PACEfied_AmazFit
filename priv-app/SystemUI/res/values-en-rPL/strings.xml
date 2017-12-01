@@ -5,7 +5,6 @@
     <string name="quick_settings_tiles">Domyślna</string>
     <string name="velocity_tracker_impl">Platforma</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-    <string name="system_ui_date_pattern">@android:string/config_customAdbPublicKeyConfirmationSecondaryUserComponent</string>
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
     <string name="status_bar_clear_all_button">Wyczyść</string>
@@ -17,8 +16,8 @@
     <string name="status_bar_ongoing_events_title">Trwające</string>
     <string name="status_bar_latest_events_title">Powiadomienia</string>
     <string name="battery_low_title">Niski poziom baterii</string>
-    <string name="battery_low_percent_format">%s pozostało</string>
-    <string name="battery_low_percent_format_saver_started">%s pozostało. Oszczędzanie baterii włączone.</string>
+    <string name="battery_low_percent_format">pozostało %s</string>
+    <string name="battery_low_percent_format_saver_started">pozostało %s . Oszczędzanie baterii włączone.</string>
     <string name="invalid_charger">"Ładowanie przez USB nie jest obsługiwane.
 Użyj tylko dołączonej ładowarki."</string>
     <string name="invalid_charger_title">Ładowanie przez USB nie jest obsługiwane.</string>
@@ -58,8 +57,8 @@ Użyj tylko dołączonej ładowarki."</string>
     <string name="screenshot_saving_text">Zrzut ekranu jest zapisywany.</string>
     <string name="screenshot_saved_title">Zrzut ekranu został przechwycony.</string>
     <string name="screenshot_saved_text">Dotknij, aby zobaczyć zrzut ekranu.</string>
-    <string name="screenshot_failed_title">"Nie udało się przechwycić zrzut ekranu."</string>
-    <string name="screenshot_failed_text">"Nie można robić zrzut ekranu z powodu ograniczonego miejsca, albo nie jest dozwolone przez aplikację lub organizację."</string>
+    <string name="screenshot_failed_title">Nie udało się przechwycić zrzut ekranu.</string>
+    <string name="screenshot_failed_text">Nie można robić zrzut ekranu z powodu ograniczonego miejsca, albo nie jest dozwolone przez aplikację lub organizację.</string>
     <string name="usb_preference_title">Opcje transferu plików USB</string>
     <string name="use_mtp_button_title">Zamontuj jako odtwarzacz multimedialny (MTP)</string>
     <string name="use_ptp_button_title">Zamontuj jako aparat (PTP)</string>
