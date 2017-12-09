@@ -522,8 +522,8 @@
     <string name="kg_login_password_hint">סיסמה</string>
     <string name="kg_login_submit_button">התחבר</string>
     <string name="kg_login_invalid_input">שם משתמש או סיסמה לא חוקיים.</string>
-    <string name="kg_login_account_recovery_hint">"שכחת את שם המשתמש או הסיסמה שלך??
-בקר "<b>google.com/accounts/recovery"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">"שכחת את שם המשתמש או הסיסמה שלך?
+בקר "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">בודק חשבון…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"הקלדת את מספר הזיהוי האישי שלך %d פעמים. 
 
