@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localapps">
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
+    </string-array>
+    <integer-array name="appcolors">
+        <item>0xFF4160F5</item>
+        <item>0xFFF76C00</item>
+    </integer-array>
+    <array name="appload_drawables">
+        <item>-1</item>
+        <item>@drawable/sport_start_loading</item>
+    </array>
+    <string-array name="chatlables">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.android.mms</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>א\'</item>
+        <item>ב\'</item>
+        <item>ג\'</item>
+        <item>ד\'</item>
+        <item>ה\'</item>
+        <item>ו\'</item>
+        <item>ש\'</item>
+        <item>היום</item>
+    </string-array>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>Great cold</item>
+        <item>The rains</item>
+        <item>Vernal Equinox</item>
+        <item>Grain rain</item>
+        <item>Grain buds</item>
+        <item>Summer solstice</item>
+        <item>Great heat</item>
+        <item>Stopping the heat</item>
+        <item>Autumn Equinox</item>
+        <item>Hoar-frost falls</item>
+        <item>Light snow</item>
+        <item>Winter Solstice</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>Slight cold</item>
+        <item>Spring begins</item>
+        <item>Insects awaken</item>
+        <item>Clear and bright</item>
+        <item>Summer begins</item>
+        <item>Grain in ear</item>
+        <item>Slight heat</item>
+        <item>Autumn begins</item>
+        <item>White dews</item>
+        <item>Cold dews</item>
+        <item>Winter begins</item>
+        <item>Heavy snow</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>Chu</item>
+        <item>Shi</item>
+        <item>Er</item>
+        <item>San</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>Yi</item>
+        <item>Er</item>
+        <item>San</item>
+        <item>Si</item>
+        <item>Wu</item>
+        <item>Liu</item>
+        <item>Qi</item>
+        <item>Ba</item>
+        <item>Jiu</item>
+        <item>Shi</item>
+        <item>ShiYi</item>
+        <item>ShiEr</item>
+    </string-array>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>אוויר מצוין</item>
+        <item>אוויר טוב</item>
+        <item>זיהום קל</item>
+        <item>זיהום מתון</item>
+        <item>זיהום כבד</item>
+        <item>זיהום חמור</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>מתאים לספורט</item>
+        <item>לא מתאים לספורט</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>בהיר</item>
+        <item>מעונן</item>
+        <item>מעונן</item>
+        <item>ערפל</item>
+        <item>ערפיח</item>
+        <item>ממטרים</item>
+        <item>רעמים</item>
+        <item>גשם קל</item>
+        <item>גשם מתון</item>
+        <item>גשם כבד</item>
+        <item>סופת גשמים</item>
+        <item>גשם זלעפות</item>
+        <item>גשם-שלג</item>
+        <item>גשם קפוא</item>
+        <item>ברד</item>
+        <item>שלג קל</item>
+        <item>שלג מתון</item>
+        <item>שלג כבד</item>
+        <item>סופת שלגים</item>
+        <item>ממטרי שלג</item>
+        <item>אבק</item>
+        <item>רוח חולית</item>
+        <item>סופת חול</item>
+        <item>סופת חול חזקה</item>
+        <item>אין מידע</item>
+    </string-array>
+</resources>
