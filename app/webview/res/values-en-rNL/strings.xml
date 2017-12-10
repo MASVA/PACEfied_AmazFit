@@ -54,6 +54,5 @@
     <string name="date_picker_dialog_other_button_label">Andere</string>
     <string name="date_picker_dialog_title">Selecteer datum</string>
     <string name="date_picker_dialog_clear">Leegmaken</string>
-    <string name="webviewchromium_private_browsing_warning">
-    <string name="private_browsing_warning">Deze functionaliteit wordt niet ondersteund in deze versie van Android.</string>
-</resources>
+    <string name="webviewchromium_private_browsing_warning"/>
+   </resources>

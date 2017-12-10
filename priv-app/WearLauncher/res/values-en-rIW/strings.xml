@@ -12,7 +12,7 @@
     <string name="notification_qq_red_envelop_title">תזכורת מעטפת QQ אדום</string>
     <string name="notification_red_envelop_content">%תזכורת של המעטפה האדומה, פתח במהירות את הטלפון כדי לקבל אותו!</string>
     <string name="notification_red_envelop_default_content">פתח במהירות את הטלפון כדי לקבל אותו!</string>
-    <string name="notification_alipay_default_group">צ'אט קבוצתי</string>
+    <string name="notification_alipay_default_group">צ\'אט קבוצתי</string>
     <string name="notification_red_bracket">[%s]</string>
     <string name="notitification_wechat_red_content_pattern_one">^\\[\\d{1,3}.*?סעיף\\]</string>
     <string name="notification_qq_red_title_pattern">\\(\\d{1,3}.*מה חדש\\)</string>
@@ -20,7 +20,7 @@
     <string name="notification_qq_group_content_red_pattern">: \\[מעטפה אדומה QQ\\]</string>
     <string name="notification_alipay_default_title">Alipay</string>
     <string name="notification_alipay_default_pattern">Alipay</string>
-    <string name="notification_alipay_group_red_pattern">$נשלח במעטפה האדומה בצ'אט הקבוצתי</string>
+    <string name="notification_alipay_group_red_pattern">$נשלח במעטפה האדומה בצ\'אט הקבוצתי</string>
     <string name="notification_alipay_red_pattern">$שלח מעטפה אדומה</string>
     <string name="delete_all_notifications">נקה את כל ההתראות</string>
     <string name="delete_all_notifications_confrim_content">לא ניתן לאחזר מאוחר יותר את ההתראות שנמחקו בשעון, להמשיך?</string>
@@ -60,11 +60,11 @@
     <string name="quick_settings_battery_sporttime_KM_unit">ק\"מ</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">מייל</string>
-    <string name="health_def_value" />
-    <string name="health_def_hint" />
+    <string name="health_def_value"/>
+    <string name="health_def_hint"/>
     <string name="health_title_def_value">היום הלכת</string>
     <string name="splash_hint">מאתחל ...</string>
-    <string name="header_incomming_call_name" />
+    <string name="header_incomming_call_name"/>
     <string name="header_incomming_call_hint">שיחה נכנסת</string>
     <string name="header_incomming_call_mobilephone">טלפון</string>
     <string name="header_incomming_call_landlinephone">טלפון נייח</string>
@@ -641,7 +641,7 @@
     <string name="weather_warning_sandstorm">סופת חול</string>
     <string name="weather_warning_temperature">טמפרטורה גבוהה</string>
     <string name="weather_warning_drought">יובש</string>
-    <string name="weather_warning_thunder">רעמים וברקים/string>
+    <string name="weather_warning_thunder">רעמים וברקים</string>
     <string name="weather_warning_hail">ברד</string>
     <string name="weather_warning_frost">קרה</string>
     <string name="weather_warning_fog">ערפל כבד</string>
