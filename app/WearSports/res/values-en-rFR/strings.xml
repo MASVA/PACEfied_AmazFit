@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">gpx-recorder</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="locale_title">Selectionner Langue</string>
     <string name="crossing_title">Course Trail</string>
@@ -130,7 +131,6 @@
     <string name="sport_widget_title_setting">Paramètres</string>
     <string name="sport_widget_title_music">Musique</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-    <string name="app_name">Sports</string>
     <string name="sport_item_running_title">Course</string>
     <string name="sport_item_walking_title">Marche</string>
     <string name="title_activity_main">Activité Principale</string>
@@ -207,6 +207,7 @@
     <string name="no_gps_button_text">Confirmer</string>
     <string name="settings_item_title_km_remind">Alerte Tour</string>
     <string name="settings_item_title_mi_remind">Alerte Tour</string>
+    <string name="settings_item_title_use_sogou">Utiliser Carte</string>
     <string name="settings_item_title_km_voice_remind">Alerte vocale</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Alerte RC Aérobique</string>
     <string name="settings_item_title_safe_heartrate_remind">Alerte RC</string>
@@ -346,6 +347,7 @@
 	<string name="real_time_route">Temps réel</string>
     <string name="real_time_output">Export</string>
     <string name="real_time_total_dis_title">Distance totale</string>
+<string name="sogou_map_trail_alert">La montre va lire la carte via le réseau de téléphonie mobile. Pour enregistrer le trafic, veuillez télécharger la carte hors ligne.</string>
     <string name="complete_training_project">Le programme d\'entraînement a été complété</string>
     <string name="reminder_speed_unit">/h</string>
 	<string name="remind_target_distance_training_title_format">Course%1sKm</string>

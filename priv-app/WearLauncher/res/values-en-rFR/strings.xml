@@ -97,6 +97,8 @@ Les notifications ne s\'afficheront pas."</string>
     <string name="action_failure">"Désolé, erreur..."</string>
     <string name="action_success">Succès !</string>
     <string name="action_working">En cours...</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_shield">Bloquer</string>
     <string name="activity_not_found">Un problème empêche de terminer l\'action demandée.</string>
     <string name="data_checkfail_match">Weather type fields do not match</string>
     <string name="data_checkfail_temp">Température météo hors de portée</string>
@@ -108,6 +110,13 @@ Les notifications ne s\'afficheront pas."</string>
     <string name="hm_generic_notification_iconified_content_line">Bonjour, je suis un fan de Huami.</string>
     <string name="notification_action_more">Suite</string>
     <string name="notitification_wechat_red_content_pattern_two">: \\[微信红包\\]</string>
+	<string name="notification_time_day">HH:mm</string>
+    <string name="notification_time_month">MM/dd HH:mm</string>
+    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="notification_none">Pas de message</string>
+    <string name="notification_allclear">Supprimer les notifications</string>
+    <string name="notification_allclear_confirm">Suppression des notifications. Continuer?</string>
+    <string name="notification_checking_bluetooth">Vérification du Bluetooth...</string>
     <string name="store_picture_title">Sauver image</string>
     <string name="store_picture_message">Autoriser l\'Ad à stocker l\'image dans la galerie photos?</string>
     <string name="decline">Annuler</string>

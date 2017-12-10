@@ -189,6 +189,13 @@
     <string name="weeklysports_outdoorriding_max">Vitesse moy vélo int</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+	<string name="weeklysports_swimerrate">Cadence natation</string>
+    <string name="weeklysports_innerswimrate">Vitesse moy piscine</string>
+    <string name="weeklysports_openswimrate">Vitesse moy eau libre</string>
+    <string name="weeklysports_triathlon">Cadence triathlon</string>
+    <string name="weeklysports_triathlon_totaltime">Total</string>
+    <string name="weeklysports_triathlon_hour">heures</string>
+    <string name="weeklysports_triathlon_min">minutes</string>
 	<string name="weeklysports_frequency" />
     <string name="weeklysports_day" />
     <string name="weeklysports_activity">Actif</string>
@@ -197,6 +204,7 @@
     <string name="weeklysports_riding">Vélo</string>
     <string name="weekly_step_attained_rate">Jours pour atteindre l\'objectif</string>
     <string name="weekly_sports_notification_content">Le résumé des activités de la semaine dernière est prête</string>
+    <string name="weekly_sports_notification_action">Plus</string>
     <string name="weeklysports_date_format">yyyy MM/dd</string>
     <string name="widget_currentstep_title">Centre d\'activité</string>
     <string name="widget_currentstep_activities">Nombre de pas aujourd\'hui</string>
@@ -209,6 +217,10 @@
     <string name="currentstep_detail_running">Course</string>
     <string name="currentstep_detail_walking">Marche</string>
     <string name="currentstep_detail_riding">Vélo</string>
+	<string name="currentstep_detail_swimming">Nage</string>
+    <string name="currentstep_detail_triathlon">Triathlon</string>
+    <string name="currentstep_detail_triathlon_short">Tri</string>
+    <string name="currentstep_detail_mountain">Escalade</string>
     <string name="currentstep_detail_calories">Calorie</string>
     <string name="currentstep_detail_sleep">Sommeil</string>
     <string name="currentstep_detail_sleep_deep">Sommeil profond</string>
@@ -219,6 +231,8 @@
     <string name="currentstep_detail_activity_run_rate_ma">Vitesse max</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Vitesse moy</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Vitesse max</string>
+    <string name="currentstep_detail_activity_mount_total_disacend">Escalade cumul.</string>
+    <string name="currentstep_detail_activity_mount_total_up">Augmentation cumul.</string>
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Au repos</string>
@@ -230,6 +244,13 @@
     <string name="currentstep_detail_walk_ridding_rate_unit_en">mi/h</string>
     <string name="currentstep_detail_distance_unit_zh">km</string>
     <string name="currentstep_detail_distance_unit_en">mi</string>
+	<string name="currentstep_detail_swim_distance_unit_zh">m</string>
+    <string name="currentstep_detail_swim_distance_unit_en">ft</string>
+    <string name="currentstep_detail_swim_rate_unit_zh">/hm</string>
+    <string name="currentstep_detail_swim_rate_unit_en">/m</string>
+    <string name="currentstep_distance">Distance</string>
+    <string name="currentstep_time">用时</string>
+    <string name="currentstep_history_title">Historique</string>
     <string name="step_value">%1$s / %2$s</string>
     <string name="detail_date">%1$s activité</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min(bpm)</string>
@@ -255,6 +276,8 @@
     <string name="date_format">MM/dd</string>	
 	<string name="widget_weeklyreports_nodata">Pas de données</string>
     <string name="app_list_title">Activité</string>
+	<string name="currentstep_detail_activities">Détail de la journée</string>
+    <string name="currentstep_detail_activities_title">Description:</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmer</string>

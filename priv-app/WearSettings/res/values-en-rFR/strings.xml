@@ -15,7 +15,7 @@
     <string name="dlg_cancel">Annuler</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="more">Paramètres</string>
-    <string name="find_phone">Trouver Mon Téléphone</string>
+    <string name="find_phone">Rechercher téléphone</string>
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
     <string name="check_for_update">Mise A Jour</string>
