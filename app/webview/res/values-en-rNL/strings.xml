@@ -15,7 +15,6 @@
     <string name="profiler_error_toast">Kan profiler niet starten</string>
     <string name="low_memory_error">Kan de vorige bewerking niet voltooien vanwege te weinig geheugen</string>
     <string name="opening_file_error">Het geselecteerde bestand kon niet worden geopend</string>
-    <string name="color_picker_buttonTint_more">Meer</string>
     <string name="color_picker_hue">Hue</string>
     <string name="color_picker_saturation">Saturatie</string>
     <string name="color_picker_value">Waarde</string>
