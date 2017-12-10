@@ -143,8 +143,8 @@
     <string name="heart_name">Tętno</string>
     <string name="step_name">Krok</string>
     <string name="sleep_name">Sen</string>
-    <string name="floor_description">Uwaga: "warstwa" około 3 metrów nad poziomem morza</string>
-    <string name="climbed_floors">Ilość pięter</string>
+    <string name="floor_description">Uwaga: Przewyższenie to około 3 metry</string>
+    <string name="climbed_floors">Ilość przewyż.</string>
     <string name="widget_label_step">Dzisiaj</string>
     <string name="widget_heart_analysis">Analizowanie</string>
     <string name="widget_step_target_txt">Cel: <liff>%d</liff></string>
@@ -189,6 +189,14 @@
     <string name="weeklysports_outdoorriding_max">Maks.pręd.jazdy na zew.</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
+    <string name="weeklysports_swimerrate">Wyniki prędkości pływania</string>
+    <string name="weeklysports_innerswimrate">Śr.prędk.pływ.w basenie</string>
+    <string name="weeklysports_openswimrate">r.prędk.pływ.w otwartej wodzie</string>
+    <string name="weeklysports_triathlon">Triathlon</string>
+    <string name="weeklysports_triathlon_totaltime">Zawsze używaj urządzenia</string>
+    <string name="weeklysports_triathlon_hour">godz.</string>
+    <string name="weeklysports_triathlon_min">min</string>
+    <string name="weeklysports_day" />
     <string name="weeklysports_activity">Aktyw.</string>
     <string name="weeklysports_running">Bieg.</string>
     <string name="weeklysports_walking">Chodz.</string>
@@ -278,4 +286,5 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
+    <string name="weeklysports_classify_frequency" />
 </resources>

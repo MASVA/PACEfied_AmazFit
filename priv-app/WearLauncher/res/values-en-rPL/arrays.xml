@@ -15,10 +15,10 @@
     <string-array name="quick_settings_status_week">
         <item>Nie</item>
         <item>Pon</item>
-        <item>Wt</item>
-        <item>Śr</item>
+        <item>Wto</item>
+        <item>Śro</item>
         <item>Czw</item>
-        <item>Pt</item>
+        <item>Pią</item>
         <item>Sob</item>
         <item>Dzisiaj</item>
     </string-array>

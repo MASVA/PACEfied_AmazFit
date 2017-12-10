@@ -3,10 +3,10 @@
     <string-array name="weekdays">
         <item>Nie</item>
         <item>Pon</item>
-        <item>Wt</item>
-        <item>Śr</item>
+        <item>Wto</item>
+        <item>Śro</item>
         <item>Czw</item>
-        <item>Pt</item>
+        <item>Pią</item>
         <item>Sob</item>
     </string-array>
 </resources>
