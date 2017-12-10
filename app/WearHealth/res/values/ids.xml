@@ -307,7 +307,6 @@
     <item type="id" name="sport_container">false</item>
     <item type="id" name="current_activities_notitle">false</item>
     <item type="id" name="current_activities">false</item>
-    <item type="id" name="current_sleep_notitle">false</item>
     <item type="id" name="current_sleep_container">false</item>
     <item type="id" name="last_sleep_hour">false</item>
     <item type="id" name="last_sleep_min">false</item>
