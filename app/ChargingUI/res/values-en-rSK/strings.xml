@@ -4,4 +4,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Nastavenia</string>
     <string name="unit">%</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
 </resources>

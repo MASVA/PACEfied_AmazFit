@@ -4,7 +4,7 @@
   <string name="action_settings">Nastavenia</string>
   <string name="add_wifi">Pridať Wi-Fi</string>
   <string name="app_name">otawatch</string>
-  <string name="btn_install_later">Pripomenúť neskôr</string>
+  <string name="btn_install_later">Neskôr</string>
   <string name="btn_install_now">Nainštalovať</string>
   <string name="btn_upgrade_now">Aktualizovať</string>
   <string name="cancel_download">Aktualizácia sa sťahuje,
@@ -23,7 +23,7 @@
  aktualizovať na verziu %1$s?</string>
   <string name="hasNewUpdateCheckContent">Verzia %1$s môže byť aktualizovaná, aktualizovať?</string>
   <string name="hasNewUpdateInstallContent">Verzia %1$s môže byť nainštalovaná, nainštalovať?</string>
-  <string name="hasNewUpdateTitle">Systémové aktualizácie</string>
+  <string name="hasNewUpdateTitle">Aktualizácia systému</string>
   <string name="checking_rom">Kontrolujem nové verzie</string>
   <string name="checking_rom_failed">Pripojenie k sieti vypršalo,
  pripojte sa znovu</string>
@@ -51,7 +51,7 @@
   <string name="toast_please_update_first">Najskôr aktualizujte systém</string>
   <string name="update_network_error">Kontrola aktualizácie zlyhala,
  skúste neskôr</string>
-  <string name="watch_ota">Aktualizácia</string>
+  <string name="watch_ota">Aktualizovať</string>
   <string name="wifi_add_item">Pripojte sa k aplikácii
  Amazfit watch pre pridanie
  nového Wi-Fi hotspotu</string>

@@ -11,7 +11,7 @@
     <string name="sport_music_settings">Sportovní hudba</string>
     <string name="app_name">WifiUploadData</string>
     <string name="notice_text_success_top">Nahrání dat úspěšné</string>
-    <string name="notice_text_success_bottom">Prosím podívejte se na mi sport</string>
+    <string name="notice_text_success_bottom">Data lze prohlížet v aplikaci Amazfit Watch</string>
     <string name="notice_text_failed_top">Nahrání dat neúspěšné</string>
     <string name="net_failed">Zkontroluj připojení a opakuj</string>
     <string name="date">Data:</string>

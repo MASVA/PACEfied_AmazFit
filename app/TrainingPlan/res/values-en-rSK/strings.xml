@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="app_list_title">Tréning</string>
@@ -33,7 +33,7 @@
     <string name="train_mileage">Vzdialenosť (km)</string>
     <string name="train_mileage_mils">Vzdialenosť (míle)</string>	
     <string name="train_days">Počet dní</string>
-    <string name="train_finish">Ukončiť tréning</string>
+    <string name="train_finish">Ukončiť</string>
     <string name="train_finished">Tréning dokončený</string>
     <string name="today">Dnes</string>
     <string name="train_complete_rate">Hotovo</string>

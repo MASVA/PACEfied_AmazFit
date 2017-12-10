@@ -60,14 +60,14 @@ Všechny vaše předchozí uživatelská data budou uložena. "."</string>
     <string name="uninstall_failed_device_policy_manager">"Nelze odinstalovat, protože tento balíček je aktivním správcem zařízení."</string>
     <string name="uninstall_blocked_profile_owner">"Tato aplikace je zapotřebí pro váš %1$s profil a nelze ji odinstalovat."</string>
     <string name="uninstall_blocked_device_owner">"Tato aplikace je vyžadována správcem zařízení a nemůže být odinstalována."</string>
-    <string name="manage_device_administrators">Nastavit správce nazíření</string>
+    <string name="manage_device_administrators">Nastavit správce zazíření</string>
     <string name="uninstall_failed_msg">"%1$s nelze odinstalovat."</string>
-    <string name="Parse_error_dlg_title">Parse error</string>
+    <string name="Parse_error_dlg_title">Chyba analýzy</string>
     <string name="Parse_error_dlg_text">Při analýze balíčku došlo k potížím.</string>
     <string name="newPerms">Nový</string>
     <string name="allPerms">Vše</string>
-    <string name="privacyPerms">Privacy</string>
+    <string name="privacyPerms">Soukromí</string>
     <string name="devicePerms">Přístup k zařízení</string>
     <string name="no_new_perms">Tato aktualizace nevyžaduje nová oprávnění.</string>
-    <string name="grant_confirm_question">Chcete udělit následující oprávnění? Ta bude mít přístup k:</string>
+    <string name="grant_confirm_question">Chcete udělit následující oprávnění? Aplikace bude mít přístup k:</string>
 </resources>
