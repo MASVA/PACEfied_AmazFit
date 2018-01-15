@@ -56,7 +56,7 @@ Neue Benachrichtigung wird nicht mehr angezeigt."</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Weniger als 1 Stunde
     nicht mehr aufgeladen."</string>
     <string name="quick_settings_battery_sportString">Akkudauer im Sport Modus</string>
-    <string name="quick_settings_battery_sporttime_hour_unit">Stunden</string>
+    <string name="quick_settings_battery_sporttime_hour_unit">Std</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
