@@ -220,7 +220,7 @@ Proszę wyczyścić i uruchomić ponownie"</string>
     <string name="status_none">Nie pobrano</string>
     <string name="status_paused">Wstrzymane</string>
     <string name="status_paused_network">Przerwanie sieci, zawieszone</string>
-    <string name="status_paused_storage_error">无法存储，已暂停</string>
+    <string name="status_paused_storage_error">Nie można zapisać, wstrzymano</string>
     <string name="status_paused_unknown">Nieznany błąd zawieszony</string>
     <string name="status_paused_wifi">Przerwanie sieci, zawieszone</string>
     <string name="status_preparing">Rozpocznij pobieranie</string>
