@@ -84,12 +84,21 @@
     <string name="notification_time_just">Nyní</string>
     <string name="notification_time_yesterday">včera</string>
     <string name="notificaton_empty_message">Žádné položky</string>
+    <string name="music">Hudba</string>
+    <string name="music_title">Neznámý název</string>
+    <string name="music_author">Neznámý umělec</string>
+    <string name="music_stop_status">Pozastaveno</string>
+    <string name="music_play_status">Přehrávání</string>
+    <string name="music_bulethooth_disconnect">Připojování k Bluetooth…</string>
+    <string name="music_peek_content">Váš telefon používá aplikaci %s na přehrávání hudby. Přehrávání hudby můžete ovládat pomocí upozornění na hodinkách.</string>
     <string name="amazing_dialog_btn_confirm_text">Potvrdit</string>
     <string name="amazing_dialog_btn_cancel_text">Zrušit</string>
     <string name="accept">Potvrdit</string>
     <string name="action_failure">Je nám líto, že nefungoval</string>
     <string name="action_success">Úspěch!</string>
     <string name="action_working">Pracuji…</string>
+    <string name="action_delete">Vymazat</string>
+    <string name="action_shield">Dále nezobrazovat</string>
     <string name="activity_not_found">Došlo k potížím při dokončení požadované akce.</string>
     <string name="data_checkfail_match">Počasí se neschoduje s daty v telefonu</string>
     <string name="data_checkfail_temp">Teplota mimo rozsah</string>
@@ -101,6 +110,13 @@
     <string name="hm_generic_notification_iconified_content_line">Dobrý den, já jsem fanoušek Huami:D</string>
     <string name="notification_action_more">Více</string>
     <string name="notitification_wechat_red_content_pattern_two">: \\[dopisní obálka\\]</string>
+    <string name="notification_time_day">HH:mm</string>
+    <string name="notification_time_month">dd/MM HH:mm</string>
+    <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
+    <string name="notification_none">Bez upozornění</string>
+    <string name="notification_allclear">Vymazat seznam upozornění</string>
+    <string name="notification_allclear_confirm">Upozornění které byli vymazány se později nebudou dát znovu zobrazit na hodinkách, pokračovat?</string>
+    <string name="notification_checking_bluetooth">Kontrolování Bluetooth připojení...</string>
     <string name="store_picture_title">Uložit obrázek</string>
     <string name="store_picture_message">Povolit uložení obrázku v galerii?</string>
     <string name="decline">Zamítnout</string>
@@ -192,9 +208,10 @@
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">Celý den</string>
-    <string name="cal_all_day_line_break">Celý den</string>
-    <string name="cal_multi_day_line_break">"Multi
-\u0009den"</string>
+    <string name="cal_all_day_line_break">Celý
+den</string>
+    <string name="cal_multi_day_line_break">"Více
+dní"</string>
     <string name="cal_mail_all">E-mail všem hostům</string>
     <string name="cal_navigate_to">Přejděte do %s</string>
     <string name="cal_navigate">Navigovat</string>
@@ -641,6 +658,7 @@ Zap"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavení</string>
     <string name="sport_music_settings">Sportovní hudba</string>
+<!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centrum dat</string>
     <string name="widget_currentstep_activities">Kroků dnes</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -648,4 +666,5 @@ Zap"</string>
     <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
     <string name="widget_currentstep_sleep_no">Bez dat o spánku</string>
     <string name="widget_currentstep_activity_no">Dnes bez cvičení?</string>
+<!--END of missed texts by Huami-->
 </resources>
