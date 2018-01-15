@@ -40,10 +40,10 @@
     <string name="wp_sel">wp_sel</string>
     <string name="storage">Speicher</string>
     <string name="locale">Lokal</string>
-    <string name="battery">Batterie</string>
-    <string name="quit">quit</string>
+    <string name="battery">Akku</string>
+    <string name="quit">Ausgang</string>
     <string name="start">start</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Löschen </string>
     <string name="desc_all_day">%s(All day)</string>
     <string name="desc_time_period">%1$s(%2$s - %3$s)</string>
     <string name="delete_successful">Ereignis gelöscht</string>
