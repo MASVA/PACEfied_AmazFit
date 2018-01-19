@@ -209,7 +209,7 @@
   <string name="weekly_step_attained_rate">Hedefe ulaşmak için kalan gün</string>
   <string name="weekly_sports_notification_content">Geçen haftanın aktivite özeti hazır. </string>
   <string name="weekly_sports_notification_action">Daha fazla</string>
-  <string name="weeklysports_date_format">yyyy AA/gg</string>
+  <string name="weeklysports_date_format">yyyy MM/dd</string>
   <string name="widget_currentstep_title">Günün Özeti</string>
   <string name="widget_currentstep_activities">Aktiviteler</string>
   <string name="widget_currentstep_sleep_hour">s</string>
@@ -278,7 +278,7 @@
   <string name="currentstep_detail_heart">Nabız oranı</string>
   <string name="currentstep_detail_activity_chart">Aktiviteler</string>
   <string name="currentstep_detail_activity_chart_unit">Birim:saat</string>
-  <string name="date_format">AA/gg</string>
+  <string name="date_format">MM/dd</string>
   <string name="widget_weeklyreports_nodata">Bilgi yok</string>
   <string name="app_list_title">Aktivite</string>
   <string name="currentstep_detail_activities">Aktif zaman dağılımı (dakika) </string>
