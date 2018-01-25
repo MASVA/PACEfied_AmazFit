@@ -6,20 +6,19 @@
     <string name="music_no_wifi_title">לא ניתן להוריד</string>
     <string name="music_download_fail_title">הורדת השיר נכשלה</string>
     <string name="music_download_not_complete_title">הורדת השיר לא הושלמה</string>
-    <string name="music_no_wifi_content">Wi-Fi לא מחובר, אין אפשרות להוריד שירים. אנא התחבר ל-Wi-Fi בהגדרות המערכת - Wi-Fi בשעון.</string>
+    <string name="music_no_wifi_content">"Wi-Fi לא מחובר, אין אפשרות להוריד שירים. אנא התחבר ל-Wi-Fi בהגדרות המערכת - Wi-Fi בשעון."</string>
     <string name="music_download_fail_content">שגיאת חיבור רשת. לא ניתן להוריד שירים. התחבר לרשת ונסה שוב.</string>
     <string name="music_download_not_complete_content">שגיאת חיבור לרשת, אין אפשרות לסיים הורדת שירים. כרגע ניתן לנגן שירים שהורדו. (כל השירים יורדו אוטומטית עם חיבור Wi-Fi)</string>
     <string name="music_download_success">עדכון השיר בוצע בהצלחה</string>
     <string name="music_downloading">הורדת שירים...</string>
     <string name="music_fetch_list">מקבל רשימת שירים...</string>
     <string name="music_downloading_noting">-/-</string>
-    <string name="check_network">בדוק את הרשת</string>
-    <string name="music_continue_downloading">הורדת השירים תימשך</string>
-    <string name="music_service_unavalible">שירות DouBan אינו זמין</string>
-    <string name="mode_singles">סינגלים</string>
+    <string name="check_network">בדוק חיבור לרשת</string>
+    <string name="music_continue_downloading">"הורדת השירים תימשך"</string>
+    <string name="music_service_unavalible">"שירות DouBan אינו זמין"</string>
+    <string name="mode_singles">רצועה בודדת</string>
     <string name="mode_loop">לולאה</string>
     <string name="mode_random">אקראי</string>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="music_list_title">הגדרות השמעה</string>
     <string name="music_volumn_control">עוצמת שמע</string>
     <string name="music_douban_offline">Watercress FM כבוי</string>
@@ -29,15 +28,15 @@
     <string name="music_source_local">שירים מקומיים</string>
     <string name="music_source_all">כל השירים</string>
     <string name="music_title">מוסיקה</string>
-    <string name="music_init_not_done">מתבצע אתחול מוסיקה...</string>
-    <string name="music_no_resource">אין שירים זמינים</string>
-    <string name="music_down_not_complete_title">רשימת השירים לא הורדה במלואה, יציאה?</string>
+    <string name="music_init_not_done">"מתבצע אתחול מוסיקה..."</string>
+    <string name="music_no_resource">אין מוזיקה זמינה</string>
+    <string name="music_down_not_complete_title">"רשימת השירים לא הורדה במלואה, יציאה?"</string>
     <string name="music_no_douban_resource">אין שירים מקומיים זמינים לניגון, להוריד עכשיו?</string>
     <string name="music_no_local_resource">אין שירים בנגן, חבר USB כדי לייבא.</string>
-    <string name="music_start_tips">צריך להתחבר לאוזניית Bluetooth עבור מוסיקה, להתחבר כעת?</string>
-    <string name="music_down_not_complete_content">לאחר יציאה מהמערכת, ניתן לעדכן שירים בהגדרות מוסיקה - כבוי Watercress FM.</string>
+    <string name="music_start_tips">"צריך להתחבר לאוזניית Bluetooth עבור מוסיקה, להתחבר כעת?"</string>
+    <string name="music_down_not_complete_content">"לאחר יציאה מהמערכת, ניתן לעדכן שירים בהגדרות מוסיקה - כבוי Watercress FM."</string>
     <string name="app_name">נגן מדיה HM</string>
-    <string name="favorite">מועדף</string>
+    <string name="favorite">מועדפים</string>
     <string name="error_no_metadata">אין אפשרות לאחזר מטה-נתונים.</string>
     <string name="browse_genres">ז\'אנרים</string>
     <string name="browse_genre_subtitle">שירים לפי ז\'אנר</string>
@@ -49,7 +48,7 @@
     <string name="currently_playing_song">שיר המושמע כעת</string>
     <string name="currently_playing_artist">אמן השיר שמתנגן כעת</string>
     <string name="currently_playing_extra_info">מידע נוסף על השיר המתנגן</string>
-    <string name="play_item">נגן פריט</string>
+    <string name="play_item">"נגן פריט"</string>
     <string name="play_pause">נגן או השהה</string>
     <string name="skip_next">דלג הבא</string>
     <string name="skip_prev">עבור אל הקודם</string>
@@ -58,16 +57,16 @@
     <string name="action_listen">נגן</string>
     <string name="open_content_drawer">פתח את התפריט הראשי</string>
     <string name="close_content_drawer">סגור את התפריט הראשי</string>
-    <string name="placeholder_message">זהו מציין מיקום עבור קוד היישום שלך.</string>
+    <string name="placeholder_message">"זהו מציין מיקום עבור קוד היישום שלך."</string>
     <string name="drawer_allmusic_title">כל המוסיקה</string>
     <string name="drawer_playlists_title">רשימות השמעה</string>
     <string name="now_playing">מנגן כעת</string>
-    <string name="background_image_str">תמונת רקע עבור עטיפת האלבום</string>
-    <string name="search_queue_title">תוצאות חיפוש</string>
+    <string name="background_image_str">"תמונת רקע עבור עטיפת האלבום"</string>
+    <string name="search_queue_title">"תוצאות חיפוש"</string>
     <string name="no_search_results">אין תוצאות חיפוש.</string>
     <string name="loading">טוען…</string>
     <string name="media_route_menu_title">הפעל ב...</string>
-    <string name="confirm_exit">מוריד רשימת השמעה, לעצור?</string>
+    <string name="confirm_exit">"מוריד רשימת השמעה, לעצור?"</string>
     <string name="music_download_cancel">הורדת השיר הופסקה</string>
     <string name="stop_casting">הפסק הזרמה</string>
     <string name="label_pause">השהה</string>
@@ -79,18 +78,9 @@
     <string name="picker_default_positive_text">אשר</string>
     <string name="picker_default_nagetive_text">כבוי</string>
     <string name="no_heartrate_data_hint">נתוני קצב הלב לא זוהו</string>
-    <string name="no_altitude_hint">נתוני גובה לא אותרו</string>
+    <string name="no_altitude_hint">"נתוני גובה לא אותרו"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">הגדרות</string>
     <string name="sport_music_settings">מוסיקת ספורט</string>
     <string name="locale_title">בחר שפה</string>
-<!--START of missed texts by Huami-->
-    <string name="widget_currentstep_title">מרכז הנתונים</string>
-    <string name="widget_currentstep_activities">Steps today</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">דקות</string>
-    <string name="widget_currentstep_sleep_title">שינה בלילה האחרון</string>
-    <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
-    <string name="widget_currentstep_activity_no">אין פעילות היום?</string>
-<!--END of missed texts by Huami-->
 </resources>

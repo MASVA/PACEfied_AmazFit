@@ -2,17 +2,16 @@
 <resources>
     <string name="app_name">אשף התקנה</string>
     <string name="locale_title">בחר שפה</string>
-    <string name="lang_zh_cn">中文(简体)</string>
-    <string name="lang_en_us">English(US)</string>
-    <string name="tip_install_wear_companion">אנא התקן אפליקציית \"Amazfit Watch\" בטלפון</string>
-    <string name="tip_low_battery">פחות מ-5% של סוללה, אנא חבר מטען כדי להמשיך</string>
-    <string name="pair_scan_qr">סרוק את הקוד QR עם האפליקציה \"Amazfit Watch\"</string>
+    <string name="lang_zh_cn">סינית (פשוטה)</string>
+    <string name="lang_en_us">אנגלית (ארה\"ב)</string>
+    <string name="tip_install_wear_companion">"נא להתקין את היישום \"Amazfit Watch\" בטלפון שלך"</string>
+    <string name="tip_low_battery">פחות מ 5% סוללה, נא לחבר לחשמל כדי להמשיך</string>
+    <string name="pair_scan_qr">"סרוק את קוד ה QR בעזרת היישום \"Amazfit Watch\""</string>
     <string name="pair_skip">דלג</string>
-    <string name="tip_pair_skip">תכונות מסוימות יושבתו, להמשיך?</string>
+    <string name="tip_pair_skip">חלק מהתכונות יושבתו, המשך?</string>
     <string name="tip_restoring">משחזר</string>
-    <string name="tip_binding_failed">התאמה נכשלה</string>
-    <string name="tip_binding_failed_restart">מנותק, אנא נסה שוב</string>
+    <string name="tip_binding_failed">ההתאמה נכשלה</string>
+    <string name="tip_binding_failed_restart">מנותק, אנא נסה שנית</string>
     <string name="tip_no_bluetooth_adapter">שגיאת Bluetooth</string>
-    <string name="tip_wear_hand">על איזו יד אתה לובש את השעון?</string>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="tip_wear_hand">"על איזו יד תרצו לענות את השעון?"</string>
 </resources>

@@ -9,6 +9,13 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">הגדרות</string>
     <string name="sport_music_settings">מוסיקת ספורט</string>
+    <string name="widget_currentstep_title">מרכז הנתונים</string>
+    <string name="widget_currentstep_activities">צעדים היום</string>
+    <string name="widget_currentstep_sleep_hour">ש\'</string>
+    <string name="widget_currentstep_sleep_min">דק\'</string>
+    <string name="widget_currentstep_sleep_title">שינה בלילה האחרון</string>
+    <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
+    <string name="widget_currentstep_activity_no">אין אימונים היום?</string>
     <string name="double_click_wakeup_open">מופעל</string>
     <string name="double_click_wakeup_close">כבוי</string>
     <string name="dlg_confirm">אשר</string>
@@ -20,28 +27,28 @@
     <string name="wifi_dev">Wi-Fi</string>
     <string name="check_for_update">עדכון</string>
     <string name="change_language">שפה</string>
-    <string name="reset_factory">איפוס המכשיר</string>
+    <string name="reset_factory">"איפוס המכשיר"</string>
     <string name="shut_down">כיבוי</string>
     <string name="about">אודות</string>
-    <string name="wear_habit">מכשיר לביש</string>
-    <string name="bugreport">דוח שגיאות</string>
+    <string name="wear_habit">השעון על יד</string>
+    <string name="bugreport">"דווח שגיאות"</string>
     <string name="light_change">תאורת מסך</string>
-    <string name="wrist_up">הפעל על כף היד</string>
-    <string name="auto_nodisturb">זמן שקט</string>
-    <string name="double_click_wakeup">הקש כדי להעיר</string>
+    <string name="wrist_up">הפעל בסיבוב</string>
+    <string name="auto_nodisturb">השתקה אוטומטית</string>
+    <string name="double_click_wakeup">הקש להדליק</string>
     <string name="vibration_intensity">רטט</string>
     <string name="flight_mode">מצב טיסה</string>
     <string name="hm_lab">מעבדת Huami</string>
     <string name="bind_app">הצמדה</string>
     <string name="amazfit_app">אפליקציית השעון Amazfit</string>
     <string name="personal_info">מידע אישי</string>
-    <string name="time_zone_clock">הגדרת זמן</string>
-    <string name="setting_time_format">פורמט זמן</string>
+    <string name="time_zone_clock">"הגדרת זמן"</string>
+    <string name="setting_time_format">"פורמט זמן"</string>
     <string name="connect">חיבורים</string>
     <string name="common">כללי</string>
-    <string name="device">התקן</string>
+    <string name="device">שעון</string>
     <string name="nodisturb">שקט</string>
-    <string name="auto_airplane">מצב טיסה אוטומטי</string>
+    <string name="auto_airplane">מצב טיסה אוט\'</string>
     <string name="wifi_upload">העלה</string>
     <string name="replace_watchface">סקינים לשעון</string>
     <string name="wifi_auto_upload_switch">העלאה אוטומטית</string>
@@ -62,17 +69,16 @@
     <string name="license">הצהרה משפטית</string>
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
-    <string name="legal">אנא בדוק ב-Amazfit</string>
+    <string name="legal">"אנא בדוק ב-Amazfit"</string>
     <string name="legal2">אפליקציות השעון</string>
     <string name="lab">מעבדה</string>
     <string name="opened">מופעל</string>
     <string name="closed">כבוי</string>
-    <string name="air_plane_mode_note">"מצב טיסה
-  מצב טיסה יכבה את ה-Bluetooth וה-Wi-Fi בשעון כדי לחסוך בחשמל. אם אתה צריך להשתמש בתכונות הדורשות BT/WiFi, כבה את מצב הטיסה בהגדרות המערכת."</string>
+    <string name="air_plane_mode_note">"מצב טיסה   מצב טיסה יכבה את ה-Bluetooth וה-Wi-Fi בשעון כדי לחסוך בחשמל. אם אתה צריך להשתמש בתכונות הדורשות BT/WiFi, כבה את מצב הטיסה בהגדרות המערכת."</string>
     <string name="nodisturb_open_string">מופעל</string>
     <string name="nodisturb_close_string">כבוי</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
-    <string name="auto_nodisturb_title_string">מצב לא להפריע באופן אוטומטי</string>
+    <string name="auto_nodisturb_title_string">מצב "לא להפריע" אוטומטי</string>
     <string name="auto_nodisturb_start_time_string">שעת התחלה</string>
     <string name="auto_nodisturb_end_time_string">שעת סיום</string>
     <string name="time_to">" to "</string>
@@ -86,28 +92,24 @@
     <string name="blt_bound_stat_bonding">מצמיד...</string>
     <string name="blt_bound_stat_none">זמין</string>
     <string name="blt_default_name">ללא שם</string>
-    <string name="blt_hint_disconnect">"%1s
-להתנתק?"</string>
-    <string name="blt_hint_connect">"%1s
-להתחבר?"</string>
+    <string name="blt_hint_disconnect">"%1s להתנתק?"</string>
+    <string name="blt_hint_connect">"%1s להתחבר?"</string>
     <string name="blt_hint_connect_fail">החיבור נכשל, התחבר מחדש</string>
     <string name="blt_type_ear">אוזניות</string>
     <string name="blt_speaker">שמע</string>
     <string name="blt_car_system">רכב</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[בדיקה]</string>
-    <string name="bluetooth_pair_tips">קוד התאמה</string>
+    <string name="bluetooth_pair_tips">"קוד התאמה"</string>
     <string name="button_enter">אישור</string>
     <string name="button_cancel">ביטול</string>
     <string name="blt_cancel_paring">הצמדה בוטלה</string>
     <string name="bluetooth_pairing_error_message">"לא ניתן היה לבצע התאמה %1$s."</string>
     <string name="bluetooth_connecting">מתחבר...</string>
     <string name="bluetooth_disconnecting">מתנתק...</string>
-    <string name="blt_hint_paring">"%1s
- להצמיד?"</string>
-    <string name="blt_paring_fail_hint">"ודא שההתקן מופעל
-והוא נמצא בקרבת מקום"</string>
-    <string name="blt_hint_disconnect_device">להתנתק</string>
+    <string name="blt_hint_paring">"%1s  להצמיד?"</string>
+    <string name="blt_paring_fail_hint">"ודא שההתקן מופעל והוא נמצא בקרבת מקום"</string>
+    <string name="blt_hint_disconnect_device">התנתק</string>
     <string name="blt_hint_ignore_device">התעלם</string>
     <string name="blt_hint_connect_device">התחבר</string>
     <string name="bluetooth_connected">מחובר</string>
@@ -144,8 +146,7 @@
     <string name="zh_cn">סינית (פשוטה)</string>
     <string name="en">אנגלית (ארה\"ב)</string>
     <string name="zh_tw">סינית (מסורתית)</string>
-    <string name="confirm_change_locale">"שנה שפה ל 
-%1$s?"</string>
+    <string name="confirm_change_locale">"שנה שפה ל %1$s?"</string>
     <string name="gender">מין</string>
     <string name="birth_year">שנת לידה</string>
     <string name="height">גובה</string>
@@ -153,13 +154,10 @@
     <string name="male">זכר</string>
     <string name="female">נקבה</string>
     <string name="centimeter">ס\"מ</string>
-    <string name="birth_year_unit">"שנת
-לידה"</string>
-    <string name="height_unit">"גובה
-ס\"מ"</string>
-    <string name="weight_unit">"משקל
-ק\"ג"</string>
-    <string name="reset_factory_hint">לאפס להגדרות היצרן?</string>
+    <string name="birth_year_unit">"שנת לידה"</string>
+    <string name="height_unit">"גובה ס\"מ"</string>
+    <string name="weight_unit">"משקל ק\"ג"</string>
+    <string name="reset_factory_hint">"לאפס להגדרות היצרן?"</string>
     <string name="time_zone">אזור זמן</string>
     <string name="date">תאריך</string>
     <string name="time">זמן</string>
@@ -180,22 +178,6 @@
     <string name="bind_tips_title">"אנא אגד
   כדי להגן על הנתונים שלך בצורה מאובטחת יותר"</string>
     <string name="upgrade_checking">מחפש עדכון...</string>
-    <string name="left_hand">שמאל</string>
-    <string name="right_hand">ימין</string>
-<!--START of missed texts by Huami-->
-    <string name="setting_item_application">אפליקציה</string>
-    <string name="app_item_phone_anti_lost">מניעת איבוד הטלפון</string>
-    <string name="app_item_anti_lost_remind">תזכורת מניעת איבוד הטלפון</string>
-    <string name="app_item_far_away_remind">תזכורת רחוקה מדי</string>
-    <string name="remind_aleary_open">התזכורת כבר מופעלת</string>
-    <string name="phone_far_away_remind_to_you">השעון יזכיר לך כאשר הוא רחוק מהטלפון。</string>
-    <string name="dialog_confire">Confirm</string>
-    <string name="widget_currentstep_title">מרכז הנתונים</string>
-    <string name="widget_currentstep_activities">צעדים היום</string>
-    <string name="widget_currentstep_sleep_hour">ש\'</string>
-    <string name="widget_currentstep_sleep_min">דק\'</string>
-    <string name="widget_currentstep_sleep_title">שינה בלילה האחרון</string>
-    <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
-    <string name="widget_currentstep_activity_no">אין אימונים היום?</string>
-<!--END of missed texts by Huami-->
+    <string name="left_hand">יד שמאל</string>
+    <string name="right_hand">יד ימין</string>
 </resources>

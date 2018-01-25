@@ -12,11 +12,6 @@
         <item>-1</item>
         <item>@drawable/sport_start_loading</item>
     </array>
-    <string-array name="chatlables">
-        <item>com.tencent.mm</item>
-        <item>com.tencent.mobileqq</item>
-        <item>com.android.mms</item>
-    </string-array>
     <string-array name="quick_settings_status_week">
         <item>א\'</item>
         <item>ב\'</item>
@@ -25,35 +20,35 @@
         <item>ה\'</item>
         <item>ו\'</item>
         <item>ש\'</item>
-        <item>היום</item>
+        <item>"היום"</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
-        <item>Great cold</item>
-        <item>The rains</item>
-        <item>Vernal Equinox</item>
-        <item>Grain rain</item>
-        <item>Grain buds</item>
-        <item>Summer solstice</item>
-        <item>Great heat</item>
-        <item>Stopping the heat</item>
-        <item>Autumn Equinox</item>
-        <item>Hoar-frost falls</item>
-        <item>Light snow</item>
-        <item>Winter Solstice</item>
+        <item>קור גדול</item>
+        <item>הגשמים</item>
+        <item>ורנל אקווינוקס</item>
+        <item>גרגרי גשם</item>
+        <item>ניצני ניצנים</item>
+        <item>"היפוך קיץ"</item>
+        <item>חום גדול</item>
+        <item>עצירת החום</item>
+        <item>"שוויון סתיו"</item>
+        <item>צניחה של כפור</item>
+        <item>שלג קל</item>
+        <item>"היום הקצר בשנה"</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
-        <item>Slight cold</item>
-        <item>Spring begins</item>
-        <item>Insects awaken</item>
-        <item>Clear and bright</item>
-        <item>Summer begins</item>
-        <item>Grain in ear</item>
-        <item>Slight heat</item>
-        <item>Autumn begins</item>
+        <item>קר במקצת</item>
+        <item>האביב מתחיל</item>
+        <item>החרקים התעוררו</item>
+        <item>נקי ובהיר</item>
+        <item>"הקיץ מתחיל"</item>
+        <item>"Grain in ear"</item>
+        <item>חום קל</item>
+        <item>"הסתיו מתחיל"</item>
         <item>White dews</item>
         <item>Cold dews</item>
-        <item>Winter begins</item>
-        <item>Heavy snow</item>
+        <item>"החורף מתחיל"</item>
+        <item>שלג כבד</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
         <item>Chu</item>
@@ -80,14 +75,14 @@
         <item>Tablet</item>
         <item>CubeIn</item>
         <item>CubeOut</item>
-        <item>FlipVertical</item>
-        <item>FlipHorizontal</item>
-        <item>Stack</item>
-        <item>ZoomIn</item>
-        <item>ZoomOut</item>
-        <item>RotateUp</item>
-        <item>RotateDown</item>
-        <item>Accordion</item>
+        <item>היפוך אנכי</item>
+        <item>היפוך אופקי</item>
+        <item>ערימה</item>
+        <item>התקרבות</item>
+        <item>התרחקות</item>
+        <item>סובב למעלה</item>
+        <item>סובב למטה</item>
+        <item>אקורדיון</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
         <item>אוויר מצוין</item>

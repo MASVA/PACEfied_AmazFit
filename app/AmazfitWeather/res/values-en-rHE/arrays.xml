@@ -4,14 +4,14 @@
         <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>ראשון</item>
-        <item>שני</item>
-        <item>שלישי</item>
-        <item>רביעי</item>
-        <item>חמישי</item>
-        <item>שישי</item>
-        <item>שבת</item>
-        <item>היום</item>
+      <item>א\'</item>
+      <item>ב\'</item>
+      <item>ג\'</item>
+      <item>ד\'</item>
+      <item>ה\'</item>
+      <item>ו\'</item>
+      <item>ש\'</item>
+      <item>היום</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
         <item>אוויר מצוין</item>
@@ -20,37 +20,35 @@
         <item>זיהום מתון</item>
         <item>זיהום כבד</item>
         <item>זיהום חמור</item>
-        <item></item>
     </string-array>
     <string-array name="weather_card_quality">
         <item>מתאים לפעילות גופנית</item>
         <item>לא מתאים לפעילות גופנית</item>
-        <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>בהיר</item>
         <item>מעונן</item>
         <item>מעונן</item>
         <item>ערפל</item>
-        <item>אובך</item>
+        <item>ערפיח</item>
         <item>ממטרים</item>
-        <item>סופות רעמים</item>
+        <item>ממטרים כבדים</item>
         <item>טפטוף</item>
         <item>גשם מתון</item>
         <item>גשם כבד</item>
-        <item>סופת גשם</item>
+        <item>סופת גשמים</item>
         <item>גשם זלעפות</item>
         <item>גשם שלג</item>
         <item>גשם קפוא</item>
         <item>ברד</item>
         <item>שלג קל</item>
-        <item>שלג</item>
+        <item>שלג מתון</item>
         <item>שלג כבד</item>
         <item>סופת שלג</item>
-        <item>סופת שלג</item>
+        <item>ממטרי שלג</item>
         <item>אבק</item>
-        <item>חול</item>
-        <item>סופת חול</item>
+        <item>רוח חולית</item>
+        <item>סופת חוך</item>
         <item>סופת חול חזקה</item>
         <item>אין מידע</item>
     </string-array>
