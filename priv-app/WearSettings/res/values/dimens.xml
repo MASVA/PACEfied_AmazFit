@@ -72,6 +72,10 @@
     <dimen name="blg_summary_margin">8.0dip</dimen>
     <dimen name="prim_txt_margin">53.0dip</dimen>
     <dimen name="settings_about_item_height">65.0dip</dimen>
+    <dimen name="venus_sub_text_size">14.0dip</dimen>
+    <dimen name="venus_text_margin_left">8.699982dip</dimen>
+    <dimen name="venus_icon_margin_left">12.699982dip</dimen>
+    <dimen name="label_text_size">19.0sp</dimen>
     <dimen name="find_phone_txt_size">20.0sp</dimen>
     <dimen name="find_phone_txt_margin_bottom">9.0dip</dimen>
     <dimen name="habit_text_size">20.0sp</dimen>

@@ -11,6 +11,7 @@
     <item type="id" name="running">false</item>
     <item type="id" name="ridding">false</item>
     <item type="id" name="triathlon">false</item>
+    <item type="id" name="others">false</item>
     <item type="id" name="detail_activity_classify_parent">false</item>
     <item type="id" name="data_detail_date_title">false</item>
     <item type="id" name="data_detail_date_activivties">false</item>
@@ -331,6 +332,7 @@
     <item type="id" name="heart_units">false</item>
     <item type="id" name="heart_description">false</item>
     <item type="id" name="heart_detail">false</item>
+    <item type="id" name="content">false</item>
     <item type="id" name="date_list_item">false</item>
     <item type="id" name="time_list_item">false</item>
     <item type="id" name="rate_list_item">false</item>
@@ -399,7 +401,6 @@
     <item type="id" name="health_longsit_error_title">false</item>
     <item type="id" name="health_longsit_error_content">false</item>
     <item type="id" name="health_longsit_error_button">false</item>
-    <item type="id" name="content">false</item>
     <item type="id" name="retry">false</item>
     <item type="id" name="picker1">false</item>
     <item type="id" name="picker2">false</item>

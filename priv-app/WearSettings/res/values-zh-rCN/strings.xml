@@ -16,6 +16,9 @@
     <string name="about">关 于</string>
     <string name="wear_habit">佩戴习惯</string>
     <string name="bugreport">报告错误</string>
+    <string name="applications">应用</string>
+    <string name="long_sit">久坐</string>
+    <string name="datacenter">数据中心</string>
     <string name="light_change">背 光</string>
     <string name="wrist_up">抬腕亮屏</string>
     <string name="auto_nodisturb">自动勿扰</string>
@@ -36,6 +39,7 @@
     <string name="wifi_upload">数据同步</string>
     <string name="replace_watchface">更换表盘</string>
     <string name="wifi_auto_upload_switch">数据自动同步</string>
+    <string name="auto_bg">定时抬腕亮屏</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -60,6 +64,12 @@
     <string name="closed">已关闭</string>
     <string name="air_plane_mode_note">"飞行模式
 飞行模式将禁用手表蓝牙、Wi-Fi和支付宝等功能。如需使用以上功能，请在【系统设置】中关闭飞行模式。"</string>
+    <string name="settings_long_sit_reminder">久坐提醒</string>
+    <string name="settings_off">已关闭</string>
+    <string name="settings_on">已开启</string>
+    <string name="settings_step_target">活动目标</string>
+    <string name="settings_step_unit">步</string>
+    <string name="settings_target_reach_reminder">达标提醒</string>
     <string name="nodisturb_open_string">已开启</string>
     <string name="nodisturb_close_string">已关闭</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -172,11 +182,12 @@
     <string name="upgrade_checking">正在检查升级...</string>
     <string name="left_hand">左手</string>
     <string name="right_hand">右手</string>
-    <string name="setting_item_application">应用</string>
     <string name="app_item_phone_anti_lost">手机防丢</string>
-    <string name="app_item_anti_lost_remind">防丢提醒</string>
+    <string name="app_item_anti_lost_remind">手机防丢提醒</string>
     <string name="app_item_far_away_remind">距离过远提醒</string>
     <string name="remind_aleary_open">提醒已经开启</string>
     <string name="phone_far_away_remind_to_you">手表将在距离手机较远时提醒你。</string>
     <string name="dialog_confire">确定</string>
+    <string name="auto_hint_title">定时关闭</string>
+    <string name="long_key_action">长按下键打开</string>
 </resources>

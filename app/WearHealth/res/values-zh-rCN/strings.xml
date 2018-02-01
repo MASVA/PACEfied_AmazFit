@@ -271,4 +271,5 @@
     <string name="app_list_title">数据中心</string>
     <string name="currentstep_detail_activities">活动时间分布图</string>
     <string name="currentstep_detail_activities_title">活动分布图例</string>
+    <string name="currentstep_detail_activities_others">其他</string>
 </resources>
