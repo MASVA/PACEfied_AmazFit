@@ -68,18 +68,18 @@
     <item>ShiEr</item>
   </string-array>
   <string-array name="jazzy_effects">
-    <item>Standart</item>
-    <item>Tablet</item>
-    <item>CubeIn</item>
-    <item>CubeOut</item>
-    <item>DikeyÇevir</item>
-    <item>YatayÇevir</item>
-    <item>Yığın</item>
-    <item>Yakınlaştır</item>
-    <item>Uzaklaştır</item>
-    <item>YukarıDöndür</item>
-    <item>AşağıDöndür</item>
-    <item>Akordion</item>
+    <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
   </string-array>
   <string-array name="weather_card_aqilevel">
     <item>Hava Mükemmel</item>
