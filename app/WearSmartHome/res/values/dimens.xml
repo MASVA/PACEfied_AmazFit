@@ -10,8 +10,8 @@
     <dimen name="min_max_margin">2.0dip</dimen>
     <dimen name="activity_horizontal_margin">16.0dip</dimen>
     <dimen name="activity_vertical_margin">16.0dip</dimen>
-    <dimen name="indicator_radius">2.0dip</dimen>
-    <dimen name="indicator_radius_focused">2.649994dip</dimen>
+    <dimen name="indicator_radius">4.0px</dimen>
+    <dimen name="indicator_radius_focused">5.0px</dimen>
     <dimen name="indicator_center_distance">14.0dip</dimen>
     <dimen name="arc_margin_right">6.6999817dip</dimen>
     <dimen name="menu_touch_area">25.0dip</dimen>
@@ -35,6 +35,9 @@
     <dimen name="size_linechart_point_padding_left">6.0dip</dimen>
     <dimen name="size_linechart_no_yaxis_padding_left">10.0dip</dimen>
     <dimen name="pickview_unit_size">10.0sp</dimen>
+    <dimen name="hmdialog_text_size">11.0sp</dimen>
+    <dimen name="hmdialog_text_lineSpacingExtra">6.0dip</dimen>
+    <dimen name="hmdiloag_text_padding">32.0dip</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800.0dip</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120.0dip</dimen>
     <dimen name="blt_info_margin_top">5.0dip</dimen>

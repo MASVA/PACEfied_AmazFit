@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:id="@id/root_view" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmEcgProgressBar android:id="@id/wait_gps_progress_view" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/main_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <com.huami.watch.common.widget.HmTextView android:textSize="18.699982sp" android:textColor="@android:color/white" android:gravity="center" android:id="@id/sport_type_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="25.0dip" android:text="@string/sport_target_remind_head_title" android:drawableRight="@drawable/ask_for_detail" android:drawablePadding="4.0dip" />
+    </RelativeLayout>
+    <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="38.0dip" android:layout_below="@id/main_container">
+        <com.huami.watch.common.widget.HmTextView android:textSize="10.699982sp" android:textStyle="bold" android:textColor="@color/default_font_color_white" android:id="@id/sport_target_status" android:paddingRight="30.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/main_container" />
+        <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="14.0dip" android:layout_below="@id/sport_target_status">
+            <RelativeLayout android:id="@id/te_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="24.0sp" android:id="@id/te_value" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/sport_num_text_style" />
+                <com.huami.watch.common.widget.HmTextView android:textSize="10.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sport_data_info_te_unit" android:layout_toRightOf="@id/te_value" android:layout_alignBaseline="@id/te_value" style="@style/sport_text_style" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/time_contanier" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_below="@id/te_container">
+                <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="24.0sp" android:id="@id/time_value" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/sport_num_text_style" />
+                <com.huami.watch.common.widget.HmTextView android:textSize="10.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sport_target_remind_time_min" android:layout_toRightOf="@id/time_value" android:layout_alignBaseline="@id/time_value" style="@style/sport_text_style" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/dis_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_below="@id/time_contanier">
+                <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="24.0sp" android:id="@id/dis_value" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/sport_num_text_style" />
+                <com.huami.watch.common.widget.HmTextView android:textSize="10.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/running_kilometers" android:layout_toRightOf="@id/dis_value" android:layout_alignBaseline="@id/dis_value" style="@style/sport_text_style" />
+            </RelativeLayout>
+            <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8.599976dip" android:layout_alignParentRight="true">
+                <com.huami.watch.common.widget.HmImageView android:id="@id/go_next_btn" android:background="@drawable/sport_star_btn_search_m" android:layout_width="85.0dip" android:layout_height="40.0dip" />
+                <com.huami.watch.common.widget.HmTextView android:textSize="10.669983sp" android:id="@id/gps_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_below="@id/go_next_btn" android:layout_centerHorizontal="true" style="@style/sport_text_style" />
+            </com.huami.watch.common.widget.HmRelativeLayout>
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </com.huami.watch.common.widget.HmRelativeLayout>
+</com.huami.watch.common.widget.HmRelativeLayout>

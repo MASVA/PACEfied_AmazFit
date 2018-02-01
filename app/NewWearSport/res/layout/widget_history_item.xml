@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="10.0sp" android:gravity="center" android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" style="@style/sport_text_style" />
+    <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="28.0sp" android:gravity="center" android:id="@id/item_value" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" style="@style/sport_history_item_value" />
+</LinearLayout>

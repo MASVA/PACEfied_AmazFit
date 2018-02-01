@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmKeyEventScrollView android:id="@id/history_detail_root" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fadeScrollbars="true" style="@style/sport_history_root_style"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/swipe_view" android:paddingTop="20.0dip" android:paddingBottom="6.0dip" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.huami.watch.common.widget.HmTextView android:textSize="19.0sp" android:textColor="@color/default_font_color_white" android:layout_gravity="center_horizontal" android:id="@id/history_detail_sport_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/history_detail_running_title" android:layout_centerHorizontal="true" style="@style/sport_text_style" />
+        <TextView android:textSize="10.0sp" android:textColor="@color/default_font_color_white" android:layout_gravity="center_horizontal" android:id="@id/history_detail_sport_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:layout_below="@id/history_detail_sport_title" android:layout_centerHorizontal="true" style="@style/sport_num_text_style" />
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmKeyEventScrollView>

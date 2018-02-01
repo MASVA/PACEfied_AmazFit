@@ -10,5 +10,12 @@
     <string name="tip_binding_failed_restart">连接已断开，请重新开始</string>
     <string name="tip_no_bluetooth_adapter">本机没有找到蓝牙硬件或驱动</string>
     <string name="tip_wear_hand">你习惯将手表佩戴在哪只手腕？</string>
+    <string name="bond_scan">扫码绑定</string>
+    <string name="skip_scan">跳过绑定</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="skip_scan_tips">跳过绑定后运动健康数据将无法安全备份到云端并在Amazfit手表App里查看详情。 进入后也可在系统设置里点击绑定Amazfit手表App来绑定。</string>
+    <string name="left_hand">左手</string>
+    <string name="right_hand">右手</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
 </resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:orientation="vertical" android:id="@id/main_container" android:background="@drawable/sport_data_bg_0" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/time_contanier" android:layout_width="fill_parent" android:layout_height="@dimen/sport_main_triathlon_title_height" layout="@layout/merge_mixed_time" />
+    <com.huami.watch.common.widget.HmRelativeLayout android:id="@id/img_container" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_below="@id/time_contanier">
+        <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:id="@id/exchange_two" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/exchange_anim_title" android:layout_centerInParent="true" style="@style/sport_text_style" />
+        <com.huami.watch.common.widget.HmImageView android:id="@id/sport_img" android:layout_width="40.0dip" android:layout_height="40.0dip" android:layout_marginRight="31.0dip" android:layout_alignParentRight="true" />
+        <com.huami.watch.common.widget.HmImageView android:id="@id/exchange_icon" android:background="@drawable/slpt" android:layout_width="16.0dip" android:layout_height="16.0dip" android:layout_marginRight="16.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </com.huami.watch.common.widget.HmRelativeLayout>
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="horizontal" android:id="@id/total_time_linear" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/img_container" android:layout_centerHorizontal="true" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="10.699982sp" android:id="@id/exchange_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="1.0dip" android:text="@string/exchange_time_cost" android:layout_below="@id/total_time_linear" style="@style/sport_text_style" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="18.699982sp" android:id="@id/sport_type_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_below="@id/exchange_title" android:layout_centerHorizontal="true" style="@style/sport_text_style" />
+</com.huami.watch.common.widget.HmRelativeLayout>

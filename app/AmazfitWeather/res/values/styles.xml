@@ -24,6 +24,14 @@
         <item name="android:wallpaperIntraCloseEnterAnimation">@anim/no_anim_in</item>
         <item name="android:wallpaperIntraCloseExitAnimation">@null</item>
     </style>
+    <style name="HmDialogText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="WeatherDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
     <style name="PromptDialog">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
@@ -42,5 +50,9 @@
     </style>
     <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
         <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
+    </style>
+    <style name="HmDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>

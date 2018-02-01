@@ -19,7 +19,8 @@
     <public type="layout" name="activity_initial_pair" id="0x7f030003" />
     <public type="layout" name="activity_initial_unpair_tip" id="0x7f030004" />
     <public type="layout" name="activity_main" id="0x7f030005" />
-    <public type="layout" name="voice_rec_test" id="0x7f030006" />
+    <public type="layout" name="activity_show_qr" id="0x7f030006" />
+    <public type="layout" name="voice_rec_test" id="0x7f030007" />
     <public type="color" name="battery_saver_mode_color" id="0x7f040000" />
     <public type="dimen" name="activity_horizontal_margin" id="0x7f050000" />
     <public type="string" name="app_name" id="0x7f060000" />
@@ -97,5 +98,6 @@
     <public type="id" name="get_locale_button" id="0x7f080004" />
     <public type="id" name="get_battery_level_button" id="0x7f080005" />
     <public type="id" name="quit" id="0x7f080006" />
-    <public type="id" name="file_start" id="0x7f080007" />
+    <public type="id" name="qr_image" id="0x7f080007" />
+    <public type="id" name="file_start" id="0x7f080008" />
 </resources>

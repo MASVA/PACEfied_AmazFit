@@ -102,6 +102,8 @@
     <color name="altitude_end_color">#ff00ff19</color>
     <color name="indicator_black_color_normal">#33000000</color>
     <color name="indicator_black_color_focused">#ff000000</color>
+    <color name="key_list_selector_normal">#ff333539</color>
+    <color name="key_list_selector_check">#ff4d4e53</color>
     <color name="setting_bg">#ff000000</color>
     <color name="main_bg_color">#ffffffff</color>
     <color name="main_text_color">#ffffffff</color>

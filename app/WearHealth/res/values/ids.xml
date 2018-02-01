@@ -11,6 +11,7 @@
     <item type="id" name="running">false</item>
     <item type="id" name="ridding">false</item>
     <item type="id" name="triathlon">false</item>
+    <item type="id" name="others">false</item>
     <item type="id" name="detail_activity_classify_parent">false</item>
     <item type="id" name="data_detail_date_title">false</item>
     <item type="id" name="data_detail_date_activivties">false</item>
@@ -18,6 +19,8 @@
     <item type="id" name="detail_activities_classifyChart">false</item>
     <item type="id" name="weeklyreports_container">false</item>
     <item type="id" name="activity_heart_rate_full_day">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="vic_label">false</item>
     <item type="id" name="recent_rate">false</item>
     <item type="id" name="reset_rate">false</item>
     <item type="id" name="chart">false</item>
@@ -331,6 +334,7 @@
     <item type="id" name="heart_units">false</item>
     <item type="id" name="heart_description">false</item>
     <item type="id" name="heart_detail">false</item>
+    <item type="id" name="content">false</item>
     <item type="id" name="date_list_item">false</item>
     <item type="id" name="time_list_item">false</item>
     <item type="id" name="rate_list_item">false</item>
@@ -351,6 +355,9 @@
     <item type="id" name="sleep_history_detail_list">false</item>
     <item type="id" name="history_detail_container">false</item>
     <item type="id" name="activities_distribution">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
     <item type="id" name="subjectnfreq">false</item>
     <item type="id" name="quantity">false</item>
     <item type="id" name="ratio_normal">false</item>
@@ -399,8 +406,13 @@
     <item type="id" name="health_longsit_error_title">false</item>
     <item type="id" name="health_longsit_error_content">false</item>
     <item type="id" name="health_longsit_error_button">false</item>
-    <item type="id" name="content">false</item>
     <item type="id" name="retry">false</item>
+    <item type="id" name="title_empty">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="button_empty">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="negativeButton">false</item>
     <item type="id" name="picker1">false</item>
     <item type="id" name="picker2">false</item>
+    <item type="id" name="picker_ampm">false</item>
 </resources>

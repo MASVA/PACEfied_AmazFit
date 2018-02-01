@@ -13,9 +13,13 @@
     <string name="change_language">系统语言</string>
     <string name="reset_factory">恢复出厂</string>
     <string name="shut_down">关 机</string>
+    <string name="reboot">重新启动</string>
     <string name="about">关 于</string>
     <string name="wear_habit">佩戴习惯</string>
     <string name="bugreport">报告错误</string>
+    <string name="applications">应用</string>
+    <string name="long_sit">久坐</string>
+    <string name="datacenter">数据中心</string>
     <string name="light_change">背 光</string>
     <string name="wrist_up">抬腕亮屏</string>
     <string name="auto_nodisturb">自动勿扰</string>
@@ -23,7 +27,7 @@
     <string name="vibration_intensity">震动强度</string>
     <string name="flight_mode">飞行模式</string>
     <string name="hm_lab">华米实验室</string>
-    <string name="bind_app">绑定手机</string>
+    <string name="bind_app">绑定</string>
     <string name="amazfit_app">Amazfit手表App</string>
     <string name="personal_info">个人信息</string>
     <string name="time_zone_clock">时间设置</string>
@@ -32,10 +36,12 @@
     <string name="common">通用</string>
     <string name="device">设备</string>
     <string name="nodisturb">勿扰</string>
+    <string name="units_set">单位设置</string>
     <string name="auto_airplane">自动飞行</string>
     <string name="wifi_upload">数据同步</string>
-    <string name="replace_watchface">更换表盘</string>
+    <string name="watchface">表盘</string>
     <string name="wifi_auto_upload_switch">数据自动同步</string>
+    <string name="auto_bg">定时抬腕亮屏</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -51,6 +57,7 @@
     <string name="serial_no">序列号</string>
     <string name="cmiit_id">CMIIT ID</string>
     <string name="license">法律声明</string>
+    <string name="unlock">已解锁</string>
     <string name="build_time">[DEBUG]编译时间</string>
     <string name="build_desc">[DEBUG]版本描述</string>
     <string name="legal">请在Amazfit手表</string>
@@ -58,8 +65,16 @@
     <string name="lab">实验室</string>
     <string name="opened">已开启</string>
     <string name="closed">已关闭</string>
-    <string name="air_plane_mode_note">"飞行模式
-飞行模式将禁用手表蓝牙、Wi-Fi和支付宝等功能。如需使用以上功能，请在【系统设置】中关闭飞行模式。"</string>
+    <string name="air_plane">飞行模式</string>
+    <string name="air_plane_mode_note">飞行模式将禁用手表蓝牙、Wi-Fi和支付宝等功能。如需使用以上功能，请在【系统设置】中关闭飞行模式。</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="settings_long_sit_reminder">久坐提醒</string>
+    <string name="settings_off">已关闭</string>
+    <string name="settings_on">已开启</string>
+    <string name="settings_step_target">活动目标</string>
+    <string name="settings_step_unit">步</string>
+    <string name="settings_target_reach_reminder">达标提醒</string>
     <string name="nodisturb_open_string">已开启</string>
     <string name="nodisturb_close_string">已关闭</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -112,6 +127,8 @@
     <string name="bluetooth_enabled">蓝牙已开启</string>
     <string name="bluetooth_disabled">蓝牙已关闭</string>
     <string name="bluetooth_unknown">未知状态</string>
+    <string name="bluetooth_disconnect_title">断开连接吗?</string>
+    <string name="bluetooth_connect_title">进行连接吗?</string>
     <string name="blt_confirm_ignore">确定忽略此设备吗？</string>
     <string name="phone_finding">手机查找中...</string>
     <string name="phone_found">已找到</string>
@@ -160,10 +177,17 @@
     <string name="hour_system">%s小时制</string>
     <string name="am">上午</string>
     <string name="pm">下午</string>
+    <string name="unit_metric">公制</string>
+    <string name="unit_english">英制</string>
     <string name="strong">较强</string>
     <string name="mid">适中</string>
     <string name="weak">较弱</string>
+    <string name="replace_watchface">更换表盘</string>
+    <string name="screen_refresh">锁屏秒刷</string>
+    <string name="screen_refresh_on_string">显示秒针</string>
+    <string name="screen_refresh_off_string">不显示秒针</string>
     <string name="confirm_shutdown">确定关机吗?</string>
+    <string name="confirm_reboot">确定重启吗?</string>
     <string name="app_name">手表设置</string>
     <string name="lab_desc">集合部分调试工具等</string>
     <string name="unknown">未知设备</string>
@@ -172,11 +196,5 @@
     <string name="upgrade_checking">正在检查升级...</string>
     <string name="left_hand">左手</string>
     <string name="right_hand">右手</string>
-    <string name="setting_item_application">应用</string>
-    <string name="app_item_phone_anti_lost">手机防丢</string>
-    <string name="app_item_anti_lost_remind">防丢提醒</string>
-    <string name="app_item_far_away_remind">距离过远提醒</string>
-    <string name="remind_aleary_open">提醒已经开启</string>
-    <string name="phone_far_away_remind_to_you">手表将在距离手机较远时提醒你。</string>
-    <string name="dialog_confire">确定</string>
+    <string name="auto_hint_title">定时开启</string>
 </resources>

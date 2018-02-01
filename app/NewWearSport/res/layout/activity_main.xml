@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/start_mix" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/start_mix_sport" />
+        <Button android:id="@id/start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/start_single_sport" />
+        <Button android:id="@id/pause" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pause_sport" />
+        <Button android:id="@id/continu" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/continue_sport" />
+        <Button android:id="@id/stop" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/stop_sport" />
+    </LinearLayout>
+</ScrollView>

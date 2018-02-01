@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.setupwizard" platformBuildVersionCode="22" platformBuildVersionName="5.1-136">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.setupwizard" platformBuildVersionCode="22" platformBuildVersionName="5.1-81">
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
     <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
@@ -20,6 +20,7 @@
         <activity android:name=".InitialCompanionTipActivity"/>
         <activity android:name=".InitialLowBatteryTipActivity"/>
         <activity android:name=".InitialUnpairTipActivity"/>
-        <activity android:name=".InitialWearHandActivity"/>
+        <activity android:exported="true" android:name=".InitialWearHandActivity"/>
+        <activity android:exported="true" android:name=".InitPairQRActivity"/>
     </application>
 </manifest>

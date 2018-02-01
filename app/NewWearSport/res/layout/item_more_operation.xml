@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmHaloButton android:textColor="@color/white" android:id="@id/item_view" android:background="@drawable/sport_export_bg" android:layout_marginBottom="10.699982dip" android:text="@string/export_route_trail" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/sport_main_btn_bg_style" />
+</LinearLayout>

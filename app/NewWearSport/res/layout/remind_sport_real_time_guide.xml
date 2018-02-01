@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/real_guide_container" android:background="@drawable/sport_running_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmImageView android:id="@id/remind_icon" android:layout_width="@dimen/reminder_image_size" android:layout_height="@dimen/reminder_image_size" android:layout_marginTop="@dimen/reminder_heart_region_img_margin_top" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/reminder_title_text_size" android:gravity="center" android:id="@id/real_time_guide_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" style="@style/sport_main_text_style" />
+    <com.huami.watch.common.widget.HmTextView android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/real_time_guide_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="20.0dip" />
+</LinearLayout>

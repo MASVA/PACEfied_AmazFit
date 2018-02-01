@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmKeyEventScrollView android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:id="@id/help_content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip">
+        <com.huami.watch.common.widget.HmTextView android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/title_content" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmKeyEventScrollView>

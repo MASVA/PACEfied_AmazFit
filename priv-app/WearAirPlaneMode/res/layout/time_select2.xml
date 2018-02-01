@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.NumberTwoSelector android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.NumberView android:id="@id/picker1" android:layout_width="120.0px" android:layout_height="fill_parent" />
+    <com.huami.watch.common.widget.NumberView android:id="@id/picker2" android:layout_width="120.0px" android:layout_height="fill_parent" />
+</com.huami.watch.common.widget.NumberTwoSelector>

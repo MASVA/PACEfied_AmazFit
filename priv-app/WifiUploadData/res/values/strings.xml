@@ -32,4 +32,6 @@
     <string name="init_app">Connecting to Amazfit Watch app</string>
     <string name="init_update_user">Refreshing access token</string>
     <string name="zero">0</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
 </resources>

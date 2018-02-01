@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@color/remind_heart_color" android:layout_width="fill_parent" android:layout_height="70.0dip">
+        <com.huami.watch.common.widget.HmTextView android:textSize="@dimen/reminder_title_text_size" android:textColor="@color/default_font_color_white" android:gravity="center" android:id="@id/remind_type_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" />
+        <com.huami.watch.common.widget.HmTextView android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/currnet_heart_rate" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" />
+    </LinearLayout>
+</com.huami.watch.common.widget.HmRelativeLayout>

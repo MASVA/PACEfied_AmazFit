@@ -22,8 +22,20 @@
     <style name="AppTheme" parent="@android:style/Theme.DeviceDefault">
         <item name="android:buttonStyle">@style/button_style</item>
     </style>
+    <style name="HmDialogText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="HmDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
     <style name="button_style">
         <item name="android:minWidth">0.0dip</item>
         <item name="android:minHeight">0.0dip</item>
+    </style>
+    <style name="XimaDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>

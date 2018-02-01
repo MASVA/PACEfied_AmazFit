@@ -17,4 +17,5 @@
     <string name="mihome_activity_info_disconnected">请先连接手机米家App</string>
     <string name="mihome_activity_btn_disconnected">请先连接手机米家App</string>
     <string name="mihome_device_card_2_offline">[离线]</string>
+    <string name="dialog_yes">yes</string>
 </resources>

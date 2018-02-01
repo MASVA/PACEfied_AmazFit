@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_horizontal" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmEcgProgressBar android:id="@id/wait_gps_progress_view" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.huami.watch.common.widget.HmWearableListView android:id="@id/sport_wear_list_view" android:paddingTop="42.0dip" android:paddingBottom="15.0dip" android:layoutAnimation="@anim/anim_listview_item" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/main_container" android:background="@drawable/sport_menu_top_bg" android:layout_width="wrap_content" android:layout_height="65.0dip" android:layout_marginLeft="50.0dip" android:layout_marginTop="29.0dip" android:layout_marginRight="50.0dip">
+        <com.huami.watch.common.widget.HmTextView android:textSize="18.699982sp" android:textColor="@android:color/white" android:gravity="center" android:id="@id/sport_type_title" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <com.huami.watch.common.widget.HmRelativeLayout android:gravity="center_horizontal" android:id="@id/waiting_gps_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/sport_type_title">
+            <ImageView android:id="@id/waiting_gps_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:textColor="@android:color/white" android:id="@id/waiting_gps" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_toRightOf="@id/waiting_gps_icon" android:layout_alignBaseline="@id/waiting_gps_icon" android:layout_centerInParent="true" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </RelativeLayout>
+    <ImageView android:id="@id/down_flag" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:src="@drawable/sport_menu_list_icon_up" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@drawable/sport_running_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:id="@id/item_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" />
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="horizontal" android:id="@id/item_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/item_unit" android:layout_alignParentLeft="true" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="10.699982sp" android:gravity="center" android:id="@id/item_unit_desc" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/item_value" style="@style/sport_text_style" />
+</RelativeLayout>

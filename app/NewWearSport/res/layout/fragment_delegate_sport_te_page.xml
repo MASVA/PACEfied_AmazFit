@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmKeyEventScrollView android:background="@color/default_background_black" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fadeScrollbars="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.huami.watch.common.widget.HmTextView android:textSize="12.0sp" android:textStyle="bold" android:textColor="@color/default_font_color" android:gravity="left" android:id="@id/text_te_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="47.0dip" android:layout_marginTop="30.149994dip" android:text="@string/sport_te_title" android:drawableRight="@drawable/ask_for_detail" android:drawablePadding="4.019989dip" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+        <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.039978dip">
+            <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="40.19998sp" android:textColor="@color/default_font_color_white" android:gravity="left" android:id="@id/te_number_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="47.0dip" android:layout_alignParentLeft="true" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="12.0sp" android:textColor="@color/default_font_color_white" android:id="@id/te_value_percent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignBaseline="@id/te_number_value" android:layout_marginStart="2.0dip" android:layout_toEndOf="@id/te_number_value" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+        <com.huami.watch.newsport.ui.view.TrainingEffectView android:layout_gravity="center_horizontal" android:id="@id/te_chart" android:layout_width="fill_parent" android:layout_height="20.0dip" android:layout_marginLeft="46.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="46.0dip" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="12.0sp" android:textColor="@color/default_font_color_white" android:gravity="left" android:layout_gravity="left" android:id="@id/text_te_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="46.0dip" android:layout_marginTop="10.049988dip" android:layout_marginRight="20.0dip" android:text="@string/sport_te_desc_level_01" />
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmKeyEventScrollView>

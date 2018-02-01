@@ -19,24 +19,24 @@
     <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
         <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
     </style>
-    <style name="AppBaseTheme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
     <style name="AppTheme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
         <item name="android:windowIsTranslucent">false</item>
         <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="HmDialogText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="HmDialog">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
     </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Black.NoTitleBar.Fullscreen" />
     <style name="HmDialogTopHalfBackground">
         <item name="android:background">#ff137dca</item>
     </style>
     <style name="HmDialogBottomHalfBackground">
         <item name="android:background">#ffffffff</item>
-    </style>
-    <style name="HmDialogText">
-        <item name="android:textSize">16.0sp</item>
-        <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="NoSwipeDismissDialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
         <item name="android:windowSwipeToDismiss">true</item>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="18.669983sp" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="26.599976dip" android:text="@string/sport_app_name" style="@style/sport_text_style" />
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="19.0dip" android:src="@drawable/sport_menu_img_btn" />
+    <com.huami.watch.common.widget.HmRelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="10.0dip">
+        <com.huami.watch.common.widget.HmLinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/recovery_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_alignParentBottom="true">
+            <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:textColor="#ffff4c00" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hitory_rest_command" style="@style/sport_text_style" />
+            <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="21.329987dip" android:id="@id/recovery_time_value" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/sport_num_text_style" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:textColor="#ffff4c00" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hitory_rest_command_time" style="@style/sport_text_style" />
+        </com.huami.watch.common.widget.HmLinearLayout>
+        <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/history_start_sport_tips" android:layout_above="@id/recovery_container" android:layout_centerHorizontal="true" style="@style/sport_text_style" />
+    </com.huami.watch.common.widget.HmRelativeLayout>
+</LinearLayout>

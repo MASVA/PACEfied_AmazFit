@@ -2,8 +2,11 @@
 <resources>
     <string name="opened">已开启</string>
     <string name="closed">已关闭</string>
+    <string name="connect_failed">连接失败</string>
     <string name="air_plane_mode_note">"连接失败
 请关闭飞行模式后重新尝试连接."</string>
+    <string name="yes">知道了</string>
     <string name="app_name">飞行模式提示</string>
     <string name="action_settings">设置</string>
+    <string name="air_plane_mode_note_everest">请关闭飞行模式后重新尝试连接.</string>
 </resources>

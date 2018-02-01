@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.newsport.ui.view.HmSportLayout android:id="@id/parentPanel" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:id="@id/header" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/title" android:paddingLeft="@dimen/hmdiloag_text_padding" android:paddingRight="@dimen/hmdiloag_text_padding" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="23.0dip" style="@style/HmDialogText" />
+            <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/title_empty" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" style="@style/HmDialogText" />
+            <TextView android:textSize="16.0sp" android:gravity="center" android:id="@id/message" android:paddingLeft="@dimen/hmdiloag_text_padding" android:paddingRight="@dimen/hmdiloag_text_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/sport_main_stop_this_sport" android:lineSpacingMultiplier="1.5" style="@style/HmDialogText" />
+        </LinearLayout>
+        <RelativeLayout android:gravity="center_horizontal" android:id="@id/footer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="7.0dip" android:layout_marginBottom="12.0dip" android:layout_below="@id/header" android:layout_alignParentBottom="true">
+            <RelativeLayout android:id="@id/button2" android:background="@drawable/system_dialog_button_bg_negative" android:layout_marginTop="6.6999817dip" android:layout_alignParentBottom="true" style="@style/sport_main_btn_bg_style">
+                <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sport_confirm_not_stop_sport" android:layout_centerInParent="true" style="@style/sport_text_style" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/button1" android:background="@drawable/system_dialog_button_bg_positive" android:layout_above="@id/button2" style="@style/sport_main_btn_bg_style">
+                <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sport_confirm_stop_sport" android:layout_centerInParent="true" style="@style/sport_text_style" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    <ImageView android:id="@id/buttonAnim" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="106.69998dip" android:layout_marginTop="106.0dip" android:src="@drawable/alter_dialog_button1" />
+</com.huami.watch.newsport.ui.view.HmSportLayout>

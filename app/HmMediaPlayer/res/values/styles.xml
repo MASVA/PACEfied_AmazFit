@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
     <style name="NoSwipeDismissDialog" parent="@android:style/Theme.DeviceDefault.Dialog.Alert">
         <item name="android:windowSwipeToDismiss">true</item>
+    </style>
+    <style name="MusicDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    <style name="HmDialogText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
     </style>
     <style name="PromptDialog">
         <item name="android:windowBackground">@android:color/transparent</item>
@@ -22,5 +30,9 @@
     </style>
     <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
         <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
+    </style>
+    <style name="HmDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>

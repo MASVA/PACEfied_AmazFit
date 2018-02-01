@@ -53,6 +53,7 @@
     <string name="confirm_exit">"歌单未完全下载,
 是否退出?"</string>
     <string name="music_download_cancel">歌曲下载已被停止</string>
+    <string name="enter">确定</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>

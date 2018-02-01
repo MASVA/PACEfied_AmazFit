@@ -4,6 +4,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="unit">%</string>
-    <string name="am">上午</string>
-    <string name="pm">下午</string>
+    <string name="am">上午 %1$s</string>
+    <string name="pm">下午 %1$s</string>
 </resources>

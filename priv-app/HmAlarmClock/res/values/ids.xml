@@ -18,6 +18,7 @@
     <item type="id" name="anchor">false</item>
     <item type="id" name="snooze_button">false</item>
     <item type="id" name="dimiss_button">false</item>
+    <item type="id" name="alarm_default_lable">false</item>
     <item type="id" name="desk_clock_edit_container">false</item>
     <item type="id" name="desk_clock_list_container">false</item>
     <item type="id" name="desk_clock_list_repeat">false</item>
@@ -64,6 +65,10 @@
     <item type="id" name="recent_alarmclock">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
     <item type="id" name="lap_number">false</item>
     <item type="id" name="lap_time">false</item>
     <item type="id" name="lap_total">false</item>
@@ -86,9 +91,13 @@
     <item type="id" name="stop_watch_bottom_left_button_layout">false</item>
     <item type="id" name="stop_watch_bottom_right_button_layout">false</item>
     <item type="id" name="stopwatch_lap_list_view">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="title_empty">false</item>
+    <item type="id" name="button_empty">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="negativeButton">false</item>
     <item type="id" name="picker_ampm">false</item>
     <item type="id" name="picker1">false</item>
     <item type="id" name="picker2">false</item>
-    <item type="id" name="title">false</item>
     <item type="id" name="text">false</item>
 </resources>

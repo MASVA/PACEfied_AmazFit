@@ -455,6 +455,8 @@
     <item type="id" name="dataup_one">false</item>
     <item type="id" name="log_one">false</item>
     <item type="id" name="datadown_one">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
     <item type="id" name="llToast">false</item>
     <item type="id" name="strame_layout">false</item>
     <item type="id" name="message_list">false</item>
@@ -539,6 +541,13 @@
     <item type="id" name="wearable_list">false</item>
     <item type="id" name="media_status_icon">false</item>
     <item type="id" name="blt_ear_pod_connect_state_icon">false</item>
+    <item type="id" name="title_empty">false</item>
+    <item type="id" name="button_empty">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="picker1">false</item>
+    <item type="id" name="picker2">false</item>
+    <item type="id" name="picker_ampm">false</item>
     <item type="id" name="settings">false</item>
     <item type="id" name="parentPanel">false</item>
     <item type="id" name="buttonPanel">false</item>

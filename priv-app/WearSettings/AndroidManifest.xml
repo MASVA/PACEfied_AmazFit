@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.huami.mobile.watchsettings" platformBuildVersionCode="22" platformBuildVersionName="5.1-136">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.huami.mobile.watchsettings" platformBuildVersionCode="22" platformBuildVersionName="5.1-81">
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.READ_USER_DICTIONARY"/>
@@ -65,6 +65,13 @@
                 <action android:name="com.huami.watch.Launcher.BOOT_NOW"/>
             </intent-filter>
         </receiver>
+        <receiver android:enabled="true" android:exported="true" android:name=".BindTipsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.huami.mobile.watchsettings.action.showbindtips"/>
+                <action android:name="com.huami.mobile.watchsettings.action.enter.experiencemode"/>
+            </intent-filter>
+        </receiver>
         <receiver android:exported="true" android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneBroadcastReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
@@ -72,13 +79,6 @@
                 <action android:name="com.huami.moblie.watchsettings.action.autoairplane.end"/>
                 <action android:name="android.intent.action.TIME_SET"/>
                 <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
-            </intent-filter>
-        </receiver>
-        <receiver android:enabled="true" android:exported="true" android:name=".BindTipsReceiver">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-                <action android:name="com.huami.mobile.watchsettings.action.showbindtips"/>
-                <action android:name="com.huami.mobile.watchsettings.action.enter.experiencemode"/>
             </intent-filter>
         </receiver>
         <activity android:launchMode="singleTask" android:name="com.huami.moblie.watchsettings.actions.bluetooth.DevicePickerActivity">
@@ -93,8 +93,8 @@
         <activity android:name="com.huami.moblie.watchsettings.actions.timezone.InitialSettingTimeZoneActivity"/>
         <activity android:name="com.huami.moblie.watchsettings.actions.timezone.InitialSettingDateActivity"/>
         <activity android:name="com.huami.moblie.watchsettings.actions.timezone.InitialSettingTimeActivity"/>
-        <activity android:name="com.huami.moblie.watchsettings.actions.personal.PickPersonalInfoActivity"/>
         <activity android:exported="true" android:name="com.huami.moblie.watchsettings.actions.timezone.InitSettingTimeZoneClockActivity" android:theme="@style/NoSwipeActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.personal.PickPersonalInfoActivity"/>
         <activity android:exported="true" android:name="com.huami.moblie.watchsettings.actions.personal.InitPersonalInfoActivity" android:theme="@style/NoSwipeActivity">
             <intent-filter>
                 <action android:name="com.huami.mobile.watchsettings.action.init.personalinfo"/>
@@ -103,5 +103,18 @@
         </activity>
         <activity android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneActivity"/>
         <activity android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneTimePickerActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.app.DataCenterSettingsActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.app.SettingStepTargetActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autowrisp.AutoWrispActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autowrisp.AutoWrispTimePickerActivity"/>
+        <receiver android:exported="true" android:name="com.huami.moblie.watchsettings.actions.autowrisp.AutoWrispBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.huami.moblie.watchsettings.action.autoairplane.start"/>
+                <action android:name="com.huami.moblie.watchsettings.action.autoairplane.end"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
     </application>
 </manifest>

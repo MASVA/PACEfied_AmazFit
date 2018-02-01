@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:id="@id/alert_main_container" android:background="@color/alert_time_bg" android:layout_width="fill_parent" android:layout_height="@dimen/reminder_height">
+        <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:textColor="@color/default_font_color_black" android:layout_gravity="center_horizontal" android:id="@id/remind_type_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.699982dip" android:text="@string/currnet_daily_performance_staus" style="@style/sport_text_style" />
+        <com.huami.watch.common.widget.HmLinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.huami.watch.common.widget.HmTextView android:textSize="28.0sp" android:textColor="@color/default_font_color_black" android:gravity="right" android:id="@id/stamina_level" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="1.0dip" android:layout_weight="2.0" android:layout_centerVertical="true" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="28.0sp" android:textColor="@color/default_font_color_black" android:gravity="left" android:id="@id/stamina_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="1.0dip" android:layout_weight="3.0" android:layout_toRightOf="@id/line_separate" android:layout_centerVertical="true" />
+        </com.huami.watch.common.widget.HmLinearLayout>
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmRelativeLayout>

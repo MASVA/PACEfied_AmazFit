@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:background="@drawable/sport_running_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="40.0dip" android:text="@string/sport_main_recovery_title" style="@style/sport_text_style" />
+    <com.huami.watch.common.widget.HmLinearLayout android:id="@id/recovery_time_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/battery_continue_time_unit" android:layout_toRightOf="@id/recovery_time_container" android:layout_alignBottom="@id/recovery_time_container" style="@style/sport_text_style" />
+    <com.huami.watch.common.widget.HmRelativeLayout android:gravity="center" android:id="@id/recovery_confirm_container" android:background="@drawable/system_dialog_button_bg_positive" android:layout_marginBottom="24.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/sport_main_btn_bg_style">
+        <com.huami.watch.common.widget.HmTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/confirm" android:layout_centerInParent="true" style="@style/sport_text_style" />
+    </com.huami.watch.common.widget.HmRelativeLayout>
+</com.huami.watch.common.widget.HmRelativeLayout>

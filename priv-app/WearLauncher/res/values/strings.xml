@@ -24,6 +24,15 @@
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
     <string name="delete_all_notifications">Clear all notifications</string>
     <string name="delete_all_notifications_confrim_content">Deleted notifications can’t be retrieved later on the watch, continue?</string>
+    <string name="notification_time_day">HH:mm</string>
+    <string name="notification_time_month">MM/dd HH:mm</string>
+    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_shield">Block</string>
+    <string name="notification_none">All caught up</string>
+    <string name="notification_allclear">Clear all</string>
+    <string name="notification_allclear_confirm">Cleared notifications will no longer be available to read later, continue?</string>
+    <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
     <string name="quick_settings_airplane_mode">Airplane: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Silent: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
@@ -42,6 +51,7 @@
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Connected</string>
     <string name="quick_settings_disconnect">Disconnected</string>
+    <string name="quick_settings_unbound">Please pair first</string>
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">New Year Eve</string>
@@ -76,6 +86,8 @@ since charge"</string>
     <string name="header_incomming_call_service_hotline">Service hotline</string>
     <string name="header_incomming_call_localcall">Local call</string>
     <string name="header_incomming_call_unknowncall">Unknown call</string>
+    <string name="call_phone_off">Ring off</string>
+    <string name="call_sound_off">Silence</string>
     <string name="wathc_disconnection_title">Disconnected</string>
     <string name="wathc_disconnection_content">Disconnected from phone</string>
     <string name="notification_block">Block</string>
@@ -98,8 +110,6 @@ since charge"</string>
     <string name="action_failure">"Sorry, that didn't work"</string>
     <string name="action_success">Success!</string>
     <string name="action_working">On the way...</string>
-    <string name="action_delete">删除</string>
-    <string name="action_shield">不再通知</string>
     <string name="activity_not_found">There was a problem completing the requested action.</string>
     <string name="data_checkfail_match">Weather type fields do not match</string>
     <string name="data_checkfail_temp">Weather temperature out of range</string>
@@ -111,13 +121,6 @@ since charge"</string>
     <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
     <string name="notification_action_more">More</string>
     <string name="notitification_wechat_red_content_pattern_two">: \\[微信红包\\]</string>
-    <string name="notification_time_day">HH:mm</string>
-    <string name="notification_time_month">MM/dd HH:mm</string>
-    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
-    <string name="notification_none">暂无通知</string>
-    <string name="notification_allclear">清空消息列表</string>
-    <string name="notification_allclear_confirm">消息清空后将不能恢复,确定清空所有消息么?</string>
-    <string name="notification_checking_bluetooth">正在检查蓝牙连接...</string>
     <string name="store_picture_title">Save image</string>
     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
     <string name="decline">Decline</string>
@@ -589,7 +592,6 @@ On"</string>
     <string name="theater_mode_toast_button">To turn screen back on, press side button</string>
     <string name="theater_mode_toast_no_button">To turn screen back on, double-tap the screen</string>
     <string name="more_on_weather_domain">More on %s</string>
-    <string name="quick_settings_unbound">Please pair first</string>
     <string name="batteryLevelUnit">%</string>
     <string name="watchface_custom_btn_title">Settings</string>
     <string name="temp_unit_centigrade">℃</string>

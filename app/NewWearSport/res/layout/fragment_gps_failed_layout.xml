@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.newsport.ui.view.HmSportLayout android:id="@id/root_view" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmImageView android:layout_gravity="center_horizontal" android:id="@id/failed_img" android:layout_width="62.0px" android:layout_height="62.0px" android:layout_marginTop="20.0dip" android:layout_marginBottom="8.0dip" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:gravity="center" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/gps_search_failed_title" style="@style/sport_text_style" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:id="@id/content" android:paddingLeft="35.299988dip" android:paddingRight="35.299988dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:lineSpacingExtra="4.0dip" style="@style/sport_text_style" />
+        <com.huami.watch.common.widget.HmRelativeLayout android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.huami.watch.common.widget.HmHaloButton android:textSize="16.0sp" android:textColor="@color/white" android:layout_gravity="center_horizontal" android:id="@id/click_btn" android:background="@drawable/system_dialog_button_bg_positive_normal" android:layout_marginBottom="24.0dip" android:text="@string/wait_gps_search_retry" android:layout_alignParentBottom="true" style="@style/sport_main_btn_bg_style" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.newsport.ui.view.HmSportLayout>

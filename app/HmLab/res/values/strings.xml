@@ -3,6 +3,7 @@
     <string name="app_name">Huami Lab</string>
     <string name="main_title">Huami Lab</string>
     <string name="agreement_title">24/7 PPG capturing</string>
+    <string name="orig_data_collect">Sensor Capturing</string>
     <string name="message">In order to improve your experience, we’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. Turn on this feature will adversely impact the battery life.</string>
     <string name="allow">Allow</string>
     <string name="exit">Cancel</string>

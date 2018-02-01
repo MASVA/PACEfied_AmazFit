@@ -10,14 +10,14 @@ packageInfo:
   forcedPackageId: '127'
   renameManifestPackage: null
 sdkInfo:
-  minSdkVersion: '21'
+  minSdkVersion: '22'
   targetSdkVersion: '23'
 sharedLibrary: false
 unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: 1.2.48h
+  tag: 2.0.4.0
 version: 2.3.0
 versionInfo:
   versionCode: '16777298'

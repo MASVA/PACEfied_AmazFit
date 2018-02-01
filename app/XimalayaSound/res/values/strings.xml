@@ -101,6 +101,7 @@
     <string name="storage_space_mb">手表剩余容量%sMB</string>
     <string name="cancel">取消</string>
     <string name="delete">删除</string>
+    <string name="enter">确定</string>
     <string name="stop_casting">Stop Casting</string>
     <string name="label_pause">Pause</string>
     <string name="label_play">Play</string>

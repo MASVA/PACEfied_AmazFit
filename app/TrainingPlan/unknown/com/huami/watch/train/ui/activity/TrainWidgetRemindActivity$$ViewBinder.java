@@ -12,7 +12,8 @@ public class TrainWidgetRemindActivity$$ViewBinder<T extends com.huami.watch.tra
     target.train_record_title = finder.castView(view, 2131492884, "field 'train_record_title'");
     view = finder.findRequiredView(source, 2131492885, "field 'train_plan_remind'");
     target.train_plan_remind = finder.castView(view, 2131492885, "field 'train_plan_remind'");
-    view = finder.findRequiredView(source, 2131492886, "method 'clickToAssignPlan'");
+    view = finder.findRequiredView(source, 2131492886, "field 'startLayout' and method 'clickToAssignPlan'");
+    target.startLayout = finder.castView(view, 2131492886, "field 'startLayout'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -26,5 +27,6 @@ public class TrainWidgetRemindActivity$$ViewBinder<T extends com.huami.watch.tra
   @Override public void unbind(T target) {
     target.train_record_title = null;
     target.train_plan_remind = null;
+    target.startLayout = null;
   }
 }

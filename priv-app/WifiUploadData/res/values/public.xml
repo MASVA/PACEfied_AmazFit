@@ -3,83 +3,95 @@
     <public type="attr" name="centerItemInPage" id="0x7f010000" />
     <public type="attr" name="itemCountPerPage" id="0x7f010001" />
     <public type="attr" name="hm_layout_box" id="0x7f010002" />
-    <public type="drawable" name="loading_progress" id="0x7f020002" />
-    <public type="drawable" name="progress_large_material" id="0x7f02003d" />
-    <public type="drawable" name="progress_medium_material" id="0x7f02003e" />
-    <public type="drawable" name="progress_small_material" id="0x7f02003f" />
-    <public type="drawable" name="time_picker_ok_vector" id="0x7f020048" />
-    <public type="drawable" name="vector_drawable_progress_bar_large" id="0x7f020049" />
-    <public type="drawable" name="vector_drawable_progress_bar_medium" id="0x7f02004a" />
-    <public type="drawable" name="vector_drawable_progress_bar_small" id="0x7f02004b" />
-    <public type="drawable" name="ybar" id="0x7f02004c" />
-    <public type="drawable" name="health_all_heart_date_line" id="0x7f020000" />
-    <public type="drawable" name="ic_ui_lib_lock_screen" id="0x7f020001" />
-    <public type="drawable" name="loading_progress_animate001" id="0x7f020003" />
-    <public type="drawable" name="loading_progress_animate002" id="0x7f020004" />
-    <public type="drawable" name="loading_progress_animate003" id="0x7f020005" />
-    <public type="drawable" name="loading_progress_animate004" id="0x7f020006" />
-    <public type="drawable" name="loading_progress_animate005" id="0x7f020007" />
-    <public type="drawable" name="loading_progress_animate006" id="0x7f020008" />
-    <public type="drawable" name="loading_progress_animate007" id="0x7f020009" />
-    <public type="drawable" name="loading_progress_animate008" id="0x7f02000a" />
-    <public type="drawable" name="loading_progress_animate009" id="0x7f02000b" />
-    <public type="drawable" name="loading_progress_animate010" id="0x7f02000c" />
-    <public type="drawable" name="loading_progress_animate011" id="0x7f02000d" />
-    <public type="drawable" name="loading_progress_animate012" id="0x7f02000e" />
-    <public type="drawable" name="loading_progress_animate013" id="0x7f02000f" />
-    <public type="drawable" name="loading_progress_animate014" id="0x7f020010" />
-    <public type="drawable" name="loading_progress_animate015" id="0x7f020011" />
-    <public type="drawable" name="loading_progress_animate016" id="0x7f020012" />
-    <public type="drawable" name="loading_progress_animate017" id="0x7f020013" />
-    <public type="drawable" name="loading_progress_animate018" id="0x7f020014" />
-    <public type="drawable" name="loading_progress_animate019" id="0x7f020015" />
-    <public type="drawable" name="loading_progress_animate020" id="0x7f020016" />
-    <public type="drawable" name="loading_progress_animate021" id="0x7f020017" />
-    <public type="drawable" name="loading_progress_animate022" id="0x7f020018" />
-    <public type="drawable" name="loading_progress_animate023" id="0x7f020019" />
-    <public type="drawable" name="loading_progress_animate024" id="0x7f02001a" />
-    <public type="drawable" name="loading_progress_animate025" id="0x7f02001b" />
-    <public type="drawable" name="loading_progress_animate026" id="0x7f02001c" />
-    <public type="drawable" name="loading_progress_animate027" id="0x7f02001d" />
-    <public type="drawable" name="loading_progress_animate028" id="0x7f02001e" />
-    <public type="drawable" name="loading_progress_animate029" id="0x7f02001f" />
-    <public type="drawable" name="loading_progress_animate030" id="0x7f020020" />
-    <public type="drawable" name="loading_progress_animate031" id="0x7f020021" />
-    <public type="drawable" name="loading_progress_animate032" id="0x7f020022" />
-    <public type="drawable" name="loading_progress_animate033" id="0x7f020023" />
-    <public type="drawable" name="loading_progress_animate034" id="0x7f020024" />
-    <public type="drawable" name="loading_progress_animate035" id="0x7f020025" />
-    <public type="drawable" name="loading_progress_animate036" id="0x7f020026" />
-    <public type="drawable" name="loading_progress_animate037" id="0x7f020027" />
-    <public type="drawable" name="loading_progress_animate038" id="0x7f020028" />
-    <public type="drawable" name="loading_progress_animate039" id="0x7f020029" />
-    <public type="drawable" name="loading_progress_animate040" id="0x7f02002a" />
-    <public type="drawable" name="loading_progress_animate041" id="0x7f02002b" />
-    <public type="drawable" name="loading_progress_animate042" id="0x7f02002c" />
-    <public type="drawable" name="loading_progress_animate043" id="0x7f02002d" />
-    <public type="drawable" name="loading_progress_animate044" id="0x7f02002e" />
-    <public type="drawable" name="loading_progress_animate045" id="0x7f02002f" />
-    <public type="drawable" name="loading_progress_animate046" id="0x7f020030" />
-    <public type="drawable" name="loading_progress_animate047" id="0x7f020031" />
-    <public type="drawable" name="loading_progress_animate048" id="0x7f020032" />
-    <public type="drawable" name="loading_progress_animate049" id="0x7f020033" />
-    <public type="drawable" name="loading_progress_animate050" id="0x7f020034" />
-    <public type="drawable" name="loading_progress_animate051" id="0x7f020035" />
-    <public type="drawable" name="loading_progress_animate052" id="0x7f020036" />
-    <public type="drawable" name="loading_progress_animate053" id="0x7f020037" />
-    <public type="drawable" name="loading_progress_animate054" id="0x7f020038" />
-    <public type="drawable" name="loading_progress_animate055" id="0x7f020039" />
-    <public type="drawable" name="loading_progress_animate056" id="0x7f02003a" />
-    <public type="drawable" name="loading_progress_animate057" id="0x7f02003b" />
-    <public type="drawable" name="loading_progress_animate058" id="0x7f02003c" />
-    <public type="drawable" name="settings_common_buttom_cancel_96" id="0x7f020040" />
-    <public type="drawable" name="settings_common_buttom_confirm_96" id="0x7f020041" />
-    <public type="drawable" name="settings_common_buttom_continue_96" id="0x7f020042" />
-    <public type="drawable" name="settings_common_buttom_pause_96" id="0x7f020043" />
-    <public type="drawable" name="settings_common_buttom_phone_off_96" id="0x7f020044" />
-    <public type="drawable" name="sport_heart_max" id="0x7f020045" />
-    <public type="drawable" name="sport_heart_min" id="0x7f020046" />
-    <public type="drawable" name="swipe_menu_bg" id="0x7f020047" />
+    <public type="drawable" name="icon_dialog_button_bg_negative" id="0x7f020005" />
+    <public type="drawable" name="icon_dialog_button_bg_positive" id="0x7f020006" />
+    <public type="drawable" name="list_view_item_focus_back" id="0x7f02000b" />
+    <public type="drawable" name="loading_progress" id="0x7f02000c" />
+    <public type="drawable" name="progress_large_material" id="0x7f020047" />
+    <public type="drawable" name="progress_medium_material" id="0x7f020048" />
+    <public type="drawable" name="progress_small_material" id="0x7f020049" />
+    <public type="drawable" name="system_dialog_button_bg_negative" id="0x7f020052" />
+    <public type="drawable" name="system_dialog_button_bg_positive" id="0x7f020053" />
+    <public type="drawable" name="time_picker_ok_vector" id="0x7f020054" />
+    <public type="drawable" name="vector_drawable_progress_bar_large" id="0x7f020055" />
+    <public type="drawable" name="vector_drawable_progress_bar_medium" id="0x7f020056" />
+    <public type="drawable" name="vector_drawable_progress_bar_small" id="0x7f020057" />
+    <public type="drawable" name="ybar" id="0x7f020058" />
+    <public type="drawable" name="bg_dialog" id="0x7f020000" />
+    <public type="drawable" name="health_all_heart_date_line" id="0x7f020001" />
+    <public type="drawable" name="ic_cancel" id="0x7f020002" />
+    <public type="drawable" name="ic_ok" id="0x7f020003" />
+    <public type="drawable" name="ic_ui_lib_lock_screen" id="0x7f020004" />
+    <public type="drawable" name="lan_clicklist_bg" id="0x7f020007" />
+    <public type="drawable" name="lan_dialog_btn_48_f" id="0x7f020008" />
+    <public type="drawable" name="lan_dialog_btn_48_n" id="0x7f020009" />
+    <public type="drawable" name="lan_dialog_btn_48_p" id="0x7f02000a" />
+    <public type="drawable" name="loading_progress_animate001" id="0x7f02000d" />
+    <public type="drawable" name="loading_progress_animate002" id="0x7f02000e" />
+    <public type="drawable" name="loading_progress_animate003" id="0x7f02000f" />
+    <public type="drawable" name="loading_progress_animate004" id="0x7f020010" />
+    <public type="drawable" name="loading_progress_animate005" id="0x7f020011" />
+    <public type="drawable" name="loading_progress_animate006" id="0x7f020012" />
+    <public type="drawable" name="loading_progress_animate007" id="0x7f020013" />
+    <public type="drawable" name="loading_progress_animate008" id="0x7f020014" />
+    <public type="drawable" name="loading_progress_animate009" id="0x7f020015" />
+    <public type="drawable" name="loading_progress_animate010" id="0x7f020016" />
+    <public type="drawable" name="loading_progress_animate011" id="0x7f020017" />
+    <public type="drawable" name="loading_progress_animate012" id="0x7f020018" />
+    <public type="drawable" name="loading_progress_animate013" id="0x7f020019" />
+    <public type="drawable" name="loading_progress_animate014" id="0x7f02001a" />
+    <public type="drawable" name="loading_progress_animate015" id="0x7f02001b" />
+    <public type="drawable" name="loading_progress_animate016" id="0x7f02001c" />
+    <public type="drawable" name="loading_progress_animate017" id="0x7f02001d" />
+    <public type="drawable" name="loading_progress_animate018" id="0x7f02001e" />
+    <public type="drawable" name="loading_progress_animate019" id="0x7f02001f" />
+    <public type="drawable" name="loading_progress_animate020" id="0x7f020020" />
+    <public type="drawable" name="loading_progress_animate021" id="0x7f020021" />
+    <public type="drawable" name="loading_progress_animate022" id="0x7f020022" />
+    <public type="drawable" name="loading_progress_animate023" id="0x7f020023" />
+    <public type="drawable" name="loading_progress_animate024" id="0x7f020024" />
+    <public type="drawable" name="loading_progress_animate025" id="0x7f020025" />
+    <public type="drawable" name="loading_progress_animate026" id="0x7f020026" />
+    <public type="drawable" name="loading_progress_animate027" id="0x7f020027" />
+    <public type="drawable" name="loading_progress_animate028" id="0x7f020028" />
+    <public type="drawable" name="loading_progress_animate029" id="0x7f020029" />
+    <public type="drawable" name="loading_progress_animate030" id="0x7f02002a" />
+    <public type="drawable" name="loading_progress_animate031" id="0x7f02002b" />
+    <public type="drawable" name="loading_progress_animate032" id="0x7f02002c" />
+    <public type="drawable" name="loading_progress_animate033" id="0x7f02002d" />
+    <public type="drawable" name="loading_progress_animate034" id="0x7f02002e" />
+    <public type="drawable" name="loading_progress_animate035" id="0x7f02002f" />
+    <public type="drawable" name="loading_progress_animate036" id="0x7f020030" />
+    <public type="drawable" name="loading_progress_animate037" id="0x7f020031" />
+    <public type="drawable" name="loading_progress_animate038" id="0x7f020032" />
+    <public type="drawable" name="loading_progress_animate039" id="0x7f020033" />
+    <public type="drawable" name="loading_progress_animate040" id="0x7f020034" />
+    <public type="drawable" name="loading_progress_animate041" id="0x7f020035" />
+    <public type="drawable" name="loading_progress_animate042" id="0x7f020036" />
+    <public type="drawable" name="loading_progress_animate043" id="0x7f020037" />
+    <public type="drawable" name="loading_progress_animate044" id="0x7f020038" />
+    <public type="drawable" name="loading_progress_animate045" id="0x7f020039" />
+    <public type="drawable" name="loading_progress_animate046" id="0x7f02003a" />
+    <public type="drawable" name="loading_progress_animate047" id="0x7f02003b" />
+    <public type="drawable" name="loading_progress_animate048" id="0x7f02003c" />
+    <public type="drawable" name="loading_progress_animate049" id="0x7f02003d" />
+    <public type="drawable" name="loading_progress_animate050" id="0x7f02003e" />
+    <public type="drawable" name="loading_progress_animate051" id="0x7f02003f" />
+    <public type="drawable" name="loading_progress_animate052" id="0x7f020040" />
+    <public type="drawable" name="loading_progress_animate053" id="0x7f020041" />
+    <public type="drawable" name="loading_progress_animate054" id="0x7f020042" />
+    <public type="drawable" name="loading_progress_animate055" id="0x7f020043" />
+    <public type="drawable" name="loading_progress_animate056" id="0x7f020044" />
+    <public type="drawable" name="loading_progress_animate057" id="0x7f020045" />
+    <public type="drawable" name="loading_progress_animate058" id="0x7f020046" />
+    <public type="drawable" name="settings_common_buttom_cancel_96" id="0x7f02004a" />
+    <public type="drawable" name="settings_common_buttom_confirm_96" id="0x7f02004b" />
+    <public type="drawable" name="settings_common_buttom_continue_96" id="0x7f02004c" />
+    <public type="drawable" name="settings_common_buttom_pause_96" id="0x7f02004d" />
+    <public type="drawable" name="settings_common_buttom_phone_off_96" id="0x7f02004e" />
+    <public type="drawable" name="sport_heart_max" id="0x7f02004f" />
+    <public type="drawable" name="sport_heart_min" id="0x7f020050" />
+    <public type="drawable" name="swipe_menu_bg" id="0x7f020051" />
     <public type="mipmap" name="ic_launcher" id="0x7f030003" />
     <public type="mipmap" name="alter_dialog_button1" id="0x7f030000" />
     <public type="mipmap" name="alter_dialog_button3" id="0x7f030001" />
@@ -95,10 +107,15 @@
     <public type="layout" name="activity_main" id="0x7f040000" />
     <public type="layout" name="air_plane_dialog" id="0x7f040001" />
     <public type="layout" name="air_plane_dialog_one" id="0x7f040002" />
-    <public type="layout" name="img_dialog" id="0x7f040003" />
-    <public type="layout" name="layout_upload" id="0x7f040004" />
-    <public type="layout" name="picker_column" id="0x7f040005" />
-    <public type="layout" name="picker_positive_button" id="0x7f040006" />
+    <public type="layout" name="icon_item_dialog" id="0x7f040003" />
+    <public type="layout" name="img_dialog" id="0x7f040004" />
+    <public type="layout" name="layout_upload" id="0x7f040005" />
+    <public type="layout" name="picker_column" id="0x7f040006" />
+    <public type="layout" name="picker_positive_button" id="0x7f040007" />
+    <public type="layout" name="system_dialog" id="0x7f040008" />
+    <public type="layout" name="time_select1" id="0x7f040009" />
+    <public type="layout" name="time_select2" id="0x7f04000a" />
+    <public type="layout" name="time_select3" id="0x7f04000b" />
     <public type="animator" name="progress_indeterminate_scale_material" id="0x7f050000" />
     <public type="animator" name="time_picker_ok_vector_alpha" id="0x7f050001" />
     <public type="animator" name="time_picker_ok_vector_path" id="0x7f050002" />
@@ -201,12 +218,14 @@
     <public type="color" name="altitude_end_color" id="0x7f06005e" />
     <public type="color" name="indicator_black_color_normal" id="0x7f06005f" />
     <public type="color" name="indicator_black_color_focused" id="0x7f060060" />
-    <public type="color" name="setting_bg" id="0x7f060061" />
-    <public type="color" name="main_bg_color" id="0x7f060062" />
-    <public type="color" name="main_text_color" id="0x7f060063" />
-    <public type="color" name="colorPrimary" id="0x7f060064" />
-    <public type="color" name="colorPrimaryDark" id="0x7f060065" />
-    <public type="color" name="colorAccent" id="0x7f060066" />
+    <public type="color" name="key_list_selector_normal" id="0x7f060061" />
+    <public type="color" name="key_list_selector_check" id="0x7f060062" />
+    <public type="color" name="setting_bg" id="0x7f060063" />
+    <public type="color" name="main_bg_color" id="0x7f060064" />
+    <public type="color" name="main_text_color" id="0x7f060065" />
+    <public type="color" name="colorPrimary" id="0x7f060066" />
+    <public type="color" name="colorPrimaryDark" id="0x7f060067" />
+    <public type="color" name="colorAccent" id="0x7f060068" />
     <public type="dimen" name="bench_xaxis_text_size" id="0x7f070000" />
     <public type="dimen" name="xaxis_offset" id="0x7f070001" />
     <public type="dimen" name="average_line_width" id="0x7f070002" />
@@ -241,21 +260,22 @@
     <public type="dimen" name="size_linechart_point_padding_left" id="0x7f07001f" />
     <public type="dimen" name="size_linechart_no_yaxis_padding_left" id="0x7f070020" />
     <public type="dimen" name="pickview_unit_size" id="0x7f070021" />
-    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f070022" />
-    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f070023" />
-    <public type="dimen" name="blt_info_margin_top" id="0x7f070024" />
-    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070025" />
-    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070026" />
-    <public type="dimen" name="button_width" id="0x7f070027" />
-    <public type="dimen" name="hmdialog_text_padding" id="0x7f070028" />
-    <public type="dimen" name="hmdialog_text_padding_bottme" id="0x7f070029" />
-    <public type="dimen" name="hmdialog_text_size" id="0x7f07002a" />
-    <public type="dimen" name="hmdialog_text_size_time" id="0x7f07002b" />
-    <public type="dimen" name="hmdialog_text_size_small" id="0x7f07002c" />
-    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f07002d" />
-    <public type="dimen" name="please_keep_wifi_dimen" id="0x7f07002e" />
-    <public type="dimen" name="wifi_connect_notice" id="0x7f07002f" />
-    <public type="dimen" name="hmdialog_title_marge_top" id="0x7f070030" />
+    <public type="dimen" name="hmdialog_text_size" id="0x7f070022" />
+    <public type="dimen" name="hmdialog_text_lineSpacingExtra" id="0x7f070023" />
+    <public type="dimen" name="hmdiloag_text_padding" id="0x7f070024" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_max_velocity" id="0x7f070025" />
+    <public type="dimen" name="item_touch_helper_swipe_escape_velocity" id="0x7f070026" />
+    <public type="dimen" name="blt_info_margin_top" id="0x7f070027" />
+    <public type="dimen" name="blt_searching_gif_view_x" id="0x7f070028" />
+    <public type="dimen" name="blt_searching_gif_view_y" id="0x7f070029" />
+    <public type="dimen" name="button_width" id="0x7f07002a" />
+    <public type="dimen" name="hmdialog_text_padding" id="0x7f07002b" />
+    <public type="dimen" name="hmdialog_text_padding_bottme" id="0x7f07002c" />
+    <public type="dimen" name="hmdialog_text_size_time" id="0x7f07002d" />
+    <public type="dimen" name="hmdialog_text_size_small" id="0x7f07002e" />
+    <public type="dimen" name="please_keep_wifi_dimen" id="0x7f07002f" />
+    <public type="dimen" name="wifi_connect_notice" id="0x7f070030" />
+    <public type="dimen" name="hmdialog_title_marge_top" id="0x7f070031" />
     <public type="string" name="average_text" id="0x7f080000" />
     <public type="string" name="menu_item_high_light_scale_factor" id="0x7f080001" />
     <public type="string" name="picker_default_positive_text" id="0x7f080002" />
@@ -288,6 +308,8 @@
     <public type="string" name="init_app" id="0x7f080024" />
     <public type="string" name="init_update_user" id="0x7f080025" />
     <public type="string" name="zero" id="0x7f080026" />
+    <public type="string" name="yes" id="0x7f080027" />
+    <public type="string" name="no" id="0x7f080028" />
     <public type="string" name="widget_currentstep_title" id="0x7f080009" />
     <public type="string" name="widget_currentstep_activities" id="0x7f08000a" />
     <public type="string" name="widget_currentstep_sleep_hour" id="0x7f08000b" />
@@ -299,11 +321,14 @@
     <public type="style" name="HMProgressBar" id="0x7f090001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f090002" />
     <public type="style" name="HMProgressBar.Small" id="0x7f090003" />
-    <public type="style" name="Apm_HmDialog" id="0x7f090004" />
-    <public type="style" name="Apm_HmDialogTopHalfBackground" id="0x7f090005" />
-    <public type="style" name="Apm_HmDialogBottomHalfBackground" id="0x7f090006" />
-    <public type="style" name="Apm_HmDialogText" id="0x7f090007" />
-    <public type="style" name="Apm_NoSwipeDialog" id="0x7f090008" />
+    <public type="style" name="AppTheme" id="0x7f090004" />
+    <public type="style" name="HmDialogText" id="0x7f090005" />
+    <public type="style" name="HmDialog" id="0x7f090006" />
+    <public type="style" name="Apm_HmDialog" id="0x7f090007" />
+    <public type="style" name="Apm_HmDialogTopHalfBackground" id="0x7f090008" />
+    <public type="style" name="Apm_HmDialogBottomHalfBackground" id="0x7f090009" />
+    <public type="style" name="Apm_HmDialogText" id="0x7f09000a" />
+    <public type="style" name="Apm_NoSwipeDialog" id="0x7f09000b" />
     <public type="id" name="one" id="0x7f0a0000" />
     <public type="id" name="three" id="0x7f0a0001" />
     <public type="id" name="two" id="0x7f0a0002" />
@@ -321,18 +346,26 @@
     <public type="id" name="footer" id="0x7f0a000e" />
     <public type="id" name="negativeButton" id="0x7f0a000f" />
     <public type="id" name="positiveButton" id="0x7f0a0010" />
-    <public type="id" name="success_layout" id="0x7f0a0011" />
-    <public type="id" name="img" id="0x7f0a0012" />
-    <public type="id" name="message_top" id="0x7f0a0013" />
-    <public type="id" name="message_time" id="0x7f0a0014" />
-    <public type="id" name="message_bottom" id="0x7f0a0015" />
-    <public type="id" name="upload_layout" id="0x7f0a0016" />
-    <public type="id" name="progress_bar" id="0x7f0a0017" />
-    <public type="id" name="upload_percent" id="0x7f0a0018" />
-    <public type="id" name="percent_sign" id="0x7f0a0019" />
-    <public type="id" name="wifi_icon" id="0x7f0a001a" />
-    <public type="id" name="please_keep_wifi" id="0x7f0a001b" />
-    <public type="id" name="anchor_view" id="0x7f0a001c" />
-    <public type="id" name="picker_listview" id="0x7f0a001d" />
-    <public type="id" name="picker_unit" id="0x7f0a001e" />
+    <public type="id" name="button_1" id="0x7f0a0011" />
+    <public type="id" name="button_2" id="0x7f0a0012" />
+    <public type="id" name="success_layout" id="0x7f0a0013" />
+    <public type="id" name="img" id="0x7f0a0014" />
+    <public type="id" name="message_top" id="0x7f0a0015" />
+    <public type="id" name="message_time" id="0x7f0a0016" />
+    <public type="id" name="message_bottom" id="0x7f0a0017" />
+    <public type="id" name="upload_layout" id="0x7f0a0018" />
+    <public type="id" name="progress_bar" id="0x7f0a0019" />
+    <public type="id" name="upload_percent" id="0x7f0a001a" />
+    <public type="id" name="percent_sign" id="0x7f0a001b" />
+    <public type="id" name="wifi_icon" id="0x7f0a001c" />
+    <public type="id" name="please_keep_wifi" id="0x7f0a001d" />
+    <public type="id" name="anchor_view" id="0x7f0a001e" />
+    <public type="id" name="picker_listview" id="0x7f0a001f" />
+    <public type="id" name="picker_unit" id="0x7f0a0020" />
+    <public type="id" name="title" id="0x7f0a0021" />
+    <public type="id" name="title_empty" id="0x7f0a0022" />
+    <public type="id" name="button_empty" id="0x7f0a0023" />
+    <public type="id" name="picker1" id="0x7f0a0024" />
+    <public type="id" name="picker2" id="0x7f0a0025" />
+    <public type="id" name="picker_ampm" id="0x7f0a0026" />
 </resources>

@@ -145,7 +145,7 @@
         </LinearLayout>
     </FrameLayout>
     <FrameLayout android:background="@color/black" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <LinearLayout android:layout_gravity="center_horizontal" android:id="@id/weekly_performance_triathlon" android:layout_width="wrap_content" style="@style/weeklysportslinearlayout">
+        <LinearLayout android:layout_gravity="center_horizontal" android:id="@id/weekly_performance_triathlon" android:visibility="gone" android:layout_width="wrap_content" style="@style/weeklysportslinearlayout">
             <TextView android:text="@string/weeklysports_triathlon" style="@style/weeklysportstitle" />
             <TextView android:id="@id/weekly_triathlon_cons_tx" android:layout_marginTop="12.699982dip" android:text="@string/weeklysports_triathlon_totaltime" style="@style/weeklysports_text10sp" />
             <LinearLayout android:orientation="horizontal" android:id="@id/weekly_triathlon_li" android:layout_width="wrap_content" android:layout_height="wrap_content">

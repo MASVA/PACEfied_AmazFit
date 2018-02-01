@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.ble.core" platformBuildVersionCode="22" platformBuildVersionName="5.1-81">
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <application android:allowBackup="true" android:name="com.huami.ble.core.BleCoreApplication" android:persistent="true">
+        <service android:exported="true" android:name="com.huami.ble.core.HmBleCoreService">
+            <intent-filter>
+                <action android:name="com.huami.ble.core.aidl.IBleCoreService"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.ble.core.heartrate.HeartRateService">
+            <intent-filter>
+                <action android:name="com.huami.ble.core.aidl.IHeartRate"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.huami.ble.core.peripheral.advManager.AdvService">
+            <intent-filter>
+                <action android:name="com.huami.ble.core.peripheral.advManager.AdvService"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.huami.ble.core.peripheral.interval.ConnectionPriorityService">
+            <intent-filter>
+                <action android:name="com.huami.ble.core.peripheral.interval.ConnectionPriorityService"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.huami.ble.core.peripheral.miui.UnlockMIUIService">
+            <intent-filter>
+                <action android:name="com.huami.ble.core.peripheral.miui.UnlockMIUIService"/>
+            </intent-filter>
+        </service>
+    </application>
+</manifest>

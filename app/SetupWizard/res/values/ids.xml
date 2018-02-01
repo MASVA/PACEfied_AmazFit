@@ -4,8 +4,12 @@
     <item type="id" name="touch">false</item>
     <item type="id" name="layout_qr_code">false</item>
     <item type="id" name="qr_code">false</item>
+    <item type="id" name="layout_skip_scan">false</item>
     <item type="id" name="dark_background">false</item>
     <item type="id" name="loading_view">false</item>
+    <item type="id" name="bond_scan">false</item>
+    <item type="id" name="skip_scan">false</item>
+    <item type="id" name="hand_layout">false</item>
     <item type="id" name="dlg_container_id">false</item>
     <item type="id" name="dlg_container">false</item>
     <item type="id" name="opt_btn">false</item>
@@ -16,4 +20,20 @@
     <item type="id" name="dlg_hint">false</item>
     <item type="id" name="dlg_note">false</item>
     <item type="id" name="btn_return">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
+    <item type="id" name="anchor_view">false</item>
+    <item type="id" name="picker_listview">false</item>
+    <item type="id" name="picker_unit">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="title_empty">false</item>
+    <item type="id" name="button_empty">false</item>
+    <item type="id" name="picker1">false</item>
+    <item type="id" name="picker2">false</item>
+    <item type="id" name="picker_ampm">false</item>
 </resources>

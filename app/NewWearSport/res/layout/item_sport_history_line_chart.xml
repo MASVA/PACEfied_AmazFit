@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:id="@id/heart_container" android:paddingBottom="8.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="12.0sp" android:textStyle="bold" android:textColor="@color/sport_lap_title_color" android:id="@id/history_detail_heartrate_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/curve_title_margin_left" android:text="@string/history_heart_rate_graph_desc" android:layout_alignParentLeft="true" style="@style/sport_text_style" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/summary_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/curve_title_margin_left" android:layout_marginTop="12.0dip" android:layout_marginRight="15.0dip" android:layout_below="@id/history_detail_heartrate_title">
+        <com.huami.watch.common.widget.HmFrameLayout android:id="@id/left_item" android:layout_width="0.0dip" android:layout_height="35.0dip" android:layout_weight="1.0">
+            <include layout="@layout/fragment_graph_item" />
+        </com.huami.watch.common.widget.HmFrameLayout>
+        <com.huami.watch.common.widget.HmFrameLayout android:id="@id/middle_item" android:layout_width="0.0dip" android:layout_height="35.0dip" android:layout_weight="1.0">
+            <include layout="@layout/fragment_graph_item" />
+        </com.huami.watch.common.widget.HmFrameLayout>
+        <com.huami.watch.common.widget.HmFrameLayout android:id="@id/right_item" android:layout_width="0.0dip" android:layout_height="35.0dip" android:layout_weight="1.0">
+            <include layout="@layout/fragment_graph_item" />
+        </com.huami.watch.common.widget.HmFrameLayout>
+    </LinearLayout>
+    <com.huami.watch.newsport.ui.view.NewSportChart android:id="@id/history_detail_heartrate" android:layout_below="@id/summary_container" style="@style/sport_history_detail_heart_rate_graph" />
+    <View android:id="@id/cache_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="90.0dip" android:layout_below="@id/summary_container" android:layout_centerHorizontal="true" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="8.0sp" android:textColor="@color/default_font_color_white" android:id="@id/sport_history_detail_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/curve_title_margin_left" android:layout_marginTop="92.0dip" android:text="@string/sport_history_detail_heart_unit" android:layout_below="@id/summary_container" android:layout_alignParentLeft="true" style="@style/sport_text_style" />
+</com.huami.watch.common.widget.HmRelativeLayout>

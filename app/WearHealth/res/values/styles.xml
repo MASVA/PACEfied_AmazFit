@@ -70,7 +70,7 @@
         <item name="android:includeFontPadding">false</item>
     </style>
     <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light" />
-    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
     <style name="PromptDialog">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
@@ -89,5 +89,13 @@
     </style>
     <style name="HMProgressBar.Small" parent="@android:style/Widget.ProgressBar.Small">
         <item name="android:indeterminateDrawable">@drawable/progress_small_material</item>
+    </style>
+    <style name="HmDialogText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="HmDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
 </resources>

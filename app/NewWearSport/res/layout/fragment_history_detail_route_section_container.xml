@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmKeyEventScrollView android:id="@id/scroll_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <include android:id="@id/detail_route_container" android:layout_width="320.0px" android:layout_height="300.0px" layout="@layout/fragment_history_detail_route" />
+        <LinearLayout android:orientation="vertical" android:id="@id/auto_lap_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.huami.watch.common.widget.HmTextView android:textSize="18.75998sp" android:id="@id/lap_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="10.0dip" android:text="@string/detail_route_detail_auto_lap_title" style="@style/sport_text_style" />
+            <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:id="@id/lap_list_view" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmKeyEventScrollView>

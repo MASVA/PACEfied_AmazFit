@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmRelativeLayout android:gravity="center" android:layout_width="120.0dip" android:layout_height="40.0dip">
+        <ImageView android:id="@id/start_btn" android:background="@drawable/sport_star_btn_search" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.huami.watch.common.widget.HmRelativeLayout android:gravity="center" android:id="@id/heart_container" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="19.0dip">
+            <com.huami.watch.common.widget.HmImageView android:id="@id/heart_img" android:background="@drawable/sport_star_icon_hr_red" android:layout_width="13.399994dip" android:layout_height="12.199982dip" android:layout_marginTop="5.0dip" android:layout_centerHorizontal="true" />
+            <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:id="@id/heart_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-5.0dip" android:text="@string/sport_pause_heart_shown" android:layout_below="@id/heart_img" android:layout_centerHorizontal="true" style="@style/sport_text_style" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </com.huami.watch.common.widget.HmRelativeLayout>
+</LinearLayout>

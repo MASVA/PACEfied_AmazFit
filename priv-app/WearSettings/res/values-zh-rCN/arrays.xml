@@ -38,6 +38,11 @@
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
+    <string-array name="lab_item_pointer_location">
+        <item>[prim]指针位置</item>
+        <item>[sum]打开或关闭指针</item>
+        <item>[sid]pointer_location</item>
+    </string-array>
     <string-array name="time_zone_item">
         <item>-11 中途岛</item>
         <item>-10 檀香山</item>

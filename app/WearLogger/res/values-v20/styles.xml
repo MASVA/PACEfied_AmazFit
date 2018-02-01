@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="AppTheme">
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar.Fullscreen">
         <item name="android:windowSwipeToDismiss">true</item>
     </style>
     <style name="confirmDialogStyle">
@@ -16,5 +16,15 @@
     </style>
     <style name="DisableSwipeToDismiss">
         <item name="android:windowSwipeToDismiss">false</item>
+    </style>
+    <style name="PromptDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowMinWidthMajor">100.0%</item>
+        <item name="android:windowMinWidthMinor">100.0%</item>
+        <item name="android:windowSwipeToDismiss">true</item>
     </style>
 </resources>

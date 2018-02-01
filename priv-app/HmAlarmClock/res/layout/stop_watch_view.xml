@@ -15,7 +15,7 @@
                 <Button android:textSize="14.0sp" android:textColor="@color/stop_watch_left_button_font_color_positive" android:id="@id/left_button" android:background="@drawable/stop_watch_left_button_style" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/stop_watch_left_button_positive" android:layout_alignParentTop="true" android:layout_alignParentBottom="true" />
             </RelativeLayout>
             <LinearLayout android:id="@id/stop_watch_bottom_right_button_layout" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="32.0dip" android:layout_toEndOf="@id/stop_watch_bottom_left_button_layout">
-                <Button android:textSize="14.0sp" android:id="@id/right_button" android:background="@drawable/stop_watch_stop_button_bg" android:clickable="false" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/stop_watch_right_button_negative" />
+                <Button android:textSize="14.0sp" android:id="@id/right_button" android:background="@drawable/stop_watch_right_button_style" android:clickable="false" android:layout_width="wrap_content" android:layout_height="32.0dip" android:text="@string/stop_watch_right_button_negative" />
             </LinearLayout>
         </RelativeLayout>
     </LinearLayout>

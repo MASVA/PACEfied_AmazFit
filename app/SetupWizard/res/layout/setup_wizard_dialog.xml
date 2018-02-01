@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/content" android:background="@drawable/bg_dialog" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/title" android:paddingLeft="@dimen/hmdiloag_text_padding" android:paddingRight="@dimen/hmdiloag_text_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="26.0dip" style="@style/HmDialogText" />
+        <TextView android:textSize="16.0sp" android:gravity="center|left" android:id="@id/message" android:paddingLeft="@dimen/hmdiloag_text_padding" android:paddingRight="@dimen/hmdiloag_text_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="20.0dip" android:lineSpacingMultiplier="1.5" style="@style/HmDialogText" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/footer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="12.0dip">
+            <com.huami.watch.common.widget.HmHaloButton android:id="@id/negativeButton" android:background="@drawable/ic_cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="15.0dip" />
+            <com.huami.watch.common.widget.HmHaloButton android:id="@id/positiveButton" android:background="@drawable/ic_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -127,6 +127,11 @@
     <string name="high_strength_heart_rate">Anaerobic</string>
     <string name="non_movement_heart_rate">Non-Workout</string>
     <string name="sleep_heart_rate">Sleep</string>
+    <string name="anaerobic_limit_heart_rate">无氧极限</string>
+    <string name="power_strength_heart_rate">力量强化</string>
+    <string name="cardiopulmonary_enhancement">心肺强化</string>
+    <string name="burning_fat__heart_rate">脂肪燃烧</string>
+    <string name="warm_up_relax_heart_rate">热身放松</string>
     <string name="stretch_dialog_title">Time to stretch</string>
     <string name="stretch_dialog_subtitle">Sitting too much today</string>
     <string name="stretch_dialog_content">Stretch exercises help loosen stiff muscles from sitting too much, follow the instructions in the video to strech!</string>
@@ -139,6 +144,7 @@
     <string name="stretch_connection_failed_content">"Please make sure the watch is connected to your phone and the Amazfit Watch app is launched
 "</string>
     <string name="stretch_connection_failed_button">Retry</string>
+    <string name="stretch_dialog_button_retry">Retry</string>
     <string name="open_xiaomi_app_failed_title">"Cannot open MiFit app
 "</string>
     <string name="open_xiaom_app_failed_content">Retry after installing MiFit app</string>
@@ -283,6 +289,7 @@
     <string name="app_list_title">Activity</string>
     <string name="currentstep_detail_activities">活动时间分布图 (分)</string>
     <string name="currentstep_detail_activities_title">活动分布图例</string>
+    <string name="currentstep_detail_activities_others">其他</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>

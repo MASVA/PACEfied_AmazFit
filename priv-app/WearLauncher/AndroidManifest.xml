@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.launcher" platformBuildVersionCode="22" platformBuildVersionName="5.1-136">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.launcher" platformBuildVersionCode="22" platformBuildVersionName="5.1-81">
     <uses-permission android:name="android.permission.BATTERY_STATS"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
@@ -91,7 +91,7 @@
                 <action android:name="android.intent.action.WallReceiver"/>
             </intent-filter>
         </receiver>
-        <service android:exported="true" android:name="com.huami.watch.launcher.springboard.DataExchangeService">
+0. <service android:exported="true" android:name="com.huami.watch.launcher.springboard.DataExchangeService">
             <intent-filter>
                 <action android:name="com.huami.watch.launcher.springboard.SPRING_BOARD_HOST"/>
             </intent-filter>
@@ -115,10 +115,5 @@
             </intent-filter>
         </receiver>
         <service android:name=".faces.leftlayer.watchfacepicker.WatchFaceScannerService"/>
-        <service android:name="com.huami.watch.performance.FileMonitorService">
-            <intent-filter>
-                <action android:name="file.monitor.on"/>
-            </intent-filter>
-        </service>
     </application>
 </manifest>

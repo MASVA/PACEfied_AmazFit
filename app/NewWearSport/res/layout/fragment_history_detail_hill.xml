@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:hill="http://schemas.android.com/apk/res-auto">
+    <com.huami.watch.common.widget.HmTextView android:textSize="12.0sp" android:textColor="@color/sport_lap_title_color" android:id="@id/history_detail_heartrate_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/curve_title_margin_left" android:text="@string/hill_title" android:layout_alignParentLeft="true" style="@style/sport_text_style" />
+    <com.huami.watch.newsport.ui.view.HillView android:layout_gravity="center_horizontal" android:id="@id/hill_view" android:paddingBottom="10.0dip" android:layout_width="200.0px" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" hill:radius="62.0px" hill:rect_length="16.0px" hill:hill_even_color="@color/hill_even_color" hill:hill_up_color="@color/hill_up_color" hill:hill_down_color="@color/hill_down_color" />
+</LinearLayout>

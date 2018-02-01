@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="286.0px" android:width="128.0px"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="demopath" />
+    <group android:name="rightgroup" android:pivotX="128.0" android:pivotY="143.0">
+        <path android:name="rightpath" />
+    </group>
+</vector>

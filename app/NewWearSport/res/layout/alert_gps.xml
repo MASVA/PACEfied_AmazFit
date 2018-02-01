@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@color/alert_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:id="@id/alert_main_container" android:background="@color/default_font_color" android:layout_width="fill_parent" android:layout_height="@dimen/reminder_height">
+        <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="@color/black" android:layout_gravity="center_horizontal" android:id="@id/remind_type_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.699982dip" android:text="@string/gps_notify_success" style="@style/sport_text_style" />
+        <com.huami.watch.common.widget.HmRelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.huami.watch.common.widget.HmImageView android:id="@id/remind_icon" android:background="@drawable/sport_notify_process_good" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_centerVertical="true" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </com.huami.watch.common.widget.HmLinearLayout>
+</FrameLayout>

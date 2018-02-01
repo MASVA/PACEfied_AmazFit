@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.watchface.analogyellow" platformBuildVersionCode="22" platformBuildVersionName="5.1-81">
+    <uses-permission android:name="com.google.android.permission.PROVIDE_BACKGROUND"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_SURFACE_FLINGER"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER_COMPONENT"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <application android:allowBackup="true" android:label="@string/app_name" android:name="com.huami.watch.watchface.WatchfaceApplication" android:theme="@android:style/Theme.DeviceDefault">
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.huami.watch.watchface.custom.ui.WatchFaceSettingsActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity android:launchMode="singleTask" android:name="com.huami.watch.watchface.custom.ui.WatchFaceCustomActivity"/>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.RunService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.SportWatchService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.WalkService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.WalkWatchService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.CrossContryService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.CrossContryWatchService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.IndoorRunService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.IndoorRunService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.EppiticalService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.EppiticalService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.IndoorRidingService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.IndoorRidingService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.OutdoorRidingService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.OutdoorRidingWatchService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.IndoorSwimService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.IndoorSwimService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.OutdoorSwimService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.OutdoorSwimService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.SportChangePauseService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.SportChangePauseService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.SlptSportStopService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.SlptSportStopService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.SportGpsStatusService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.SportGpsStatusService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.Lock.SlptLockScreenService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.SlptLockScreenService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.SportLoadingService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.SportLoadingService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.MountainWatchService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.MountainWatchService"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="com.huami.watch.watchface.slpt.Lock.SlptLockScreenService$ClearSportReceiver"/>
+        <receiver android:enabled="true" android:name="com.huami.watch.watchface.receiver.LocalChangedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="com.huami.intent.action.FILE_ARRIVED"/>
+                <action android:name="com.huami.intent.action.WATCHFACE_CONFIG_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <service android:label="@string/watch_label_sport_one" android:name="com.huami.watch.watchface.DigitalWatchFaceSportOne" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview" android:resource="@drawable/preview_digital_sport_one"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview_circular" android:resource="@drawable/preview_digital_sport_one"/>
+            <meta-data android:name="com.huami.watch.watchface.hasslpt" android:value="false"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportOneSlpt"/>
+        <service android:label="@string/watch_label_sport_two" android:name="com.huami.watch.watchface.DigitalWatchFaceSportTwo" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview" android:resource="@drawable/preview_sport_watch_two"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview_circular" android:resource="@drawable/preview_sport_watch_two"/>
+            <meta-data android:name="com.huami.watch.watchface.hasslpt" android:value="false"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportTwoSlpt"/>
+        <service android:label="@string/watch_label_seventeen" android:name="com.huami.watch.watchface.DigitalWatchFaceSportSeventeen" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview" android:resource="@drawable/preview_digital_sport_seventeen"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview_circular" android:resource="@drawable/preview_digital_sport_seventeen"/>
+            <meta-data android:name="com.huami.watch.watchface.hasslpt" android:value="false"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportSeventeenSlpt"/>
+        <service android:label="@string/watch_label_eighteen" android:name="com.huami.watch.watchface.DigitalWatchFaceSportEighteen" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview" android:resource="@drawable/preview_digital_sport_eighteen"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview_circular" android:resource="@drawable/preview_digital_sport_eighteen"/>
+            <meta-data android:name="com.huami.watch.watchface.hasslpt" android:value="false"/>
+            <meta-data android:name="com.huami.watch.watchface.watch_bg" android:resource="@drawable/watchface_bg_digital_sport_eighteen"/>
+            <meta-data android:name="com.huami.watch.watchface.watch_hour" android:resource="@drawable/watchface_default_eighteen_hour"/>
+            <meta-data android:name="com.huami.watch.watchface.watch_minute" android:resource="@drawable/watchface_default_eighteen_minute"/>
+            <meta-data android:name="com.huami.watch.watchface.watch_second" android:resource="@drawable/watchface_default_eighteen_seconds"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportEighteenSlpt"/>
+        <service android:label="@string/watch_label_sixteen" android:name="com.huami.watch.watchface.AnalogWatchFaceSixteen" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview" android:resource="@drawable/preview_analog_sixteen"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview_circular" android:resource="@drawable/preview_analog_sixteen"/>
+            <meta-data android:name="com.huami.watch.watchface.hasslpt" android:value="false"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.AnalogWatchFaceSixteenSlpt"/>
+        <service android:label="@string/watch_label_nineteen" android:name="com.huami.watch.watchface.DigitalWatchFaceSportNineteen" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview" android:resource="@drawable/preview_digital_sport_nineteen"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview_circular" android:resource="@drawable/preview_digital_sport_nineteen"/>
+            <meta-data android:name="com.huami.watch.watchface.hasslpt" android:value="false"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportNineteenSlpt"/>
+        <service android:label="@string/watch_label_twenty" android:name="com.huami.watch.watchface.DigitalWatchFaceSportTwenty" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview" android:resource="@drawable/preview_digital_sport_twenty"/>
+            <meta-data android:name="com.google.android.wearable.watchface.preview_circular" android:resource="@drawable/preview_digital_sport_twenty"/>
+            <meta-data android:name="com.huami.watch.watchface.hasslpt" android:value="false"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportTwentySlpt"/>
+        <service android:name="com.huami.watch.watchface.ExternalWatchFace" android:permission="android.permission.BIND_WALLPAPER">
+            <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService"/>
+                <category android:name="com.google.android.wearable.watchface.category.WATCH_FACE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.huami.watch.watchface.ExternalWatchFaceSlpt"/>
+    </application>
+</manifest>

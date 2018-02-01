@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:paddingTop="11.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="65.0dip" android:paddingStart="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmImageView android:id="@id/item_img" android:background="@drawable/sport_history_icon_running" android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <com.huami.watch.common.widget.HmTextView android:textSize="14.0sp" android:layout_gravity="center_vertical" android:id="@id/item_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3.0dip" android:layout_marginTop="3.0dip" android:layout_toRightOf="@id/item_img" style="@style/sport_text_style" />
+    <com.huami.watch.common.widget.HmTextView android:textColor="@color/default_font_color_white" android:id="@id/item_target" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3.0dip" android:layout_below="@id/item_img" android:layout_alignParentLeft="true" />
+    <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="44.19998dip" android:layout_height="44.19998dip" android:layout_marginRight="10.0dip" android:layout_alignParentRight="true">
+        <com.huami.watch.newsport.ui.view.CircleProgressView android:id="@id/circle_progress_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+        <com.huami.watch.newsport.ui.view.NumberTextView android:textColor="@color/default_font_color_white" android:gravity="center" android:id="@id/number_text_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    </com.huami.watch.common.widget.HmRelativeLayout>
+</com.huami.watch.common.widget.HmRelativeLayout>

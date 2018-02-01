@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmFrameLayout android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmTextView android:textSize="20.0sp" android:textColor="@color/white" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:text="@string/running_realtime_trail_desc" style="@style/sport_text_style" />
+        <com.huami.watch.common.widget.HmRelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.huami.watch.common.widget.HmImageView android:id="@id/route_bg" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+            <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+                <com.huami.watch.common.widget.HmTextView android:textSize="9.0sp" android:textColor="@color/white" android:id="@id/route_dis_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="18.599976dip" android:text="@string/detail_route_total_dis" android:shadowColor="@color/white" android:shadowDy="1.0" android:layout_centerVertical="true" style="@style/sport_text_style" />
+                <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/route_dis_title" android:layout_alignLeft="@id/route_dis_title">
+                    <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="16.0sp" android:textColor="@color/white" android:id="@id/route_dis" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sport_pause_heart_shown" android:shadowColor="@color/white" android:shadowDy="1.0" style="@style/sport_num_text_style" />
+                    <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:textColor="@color/white" android:id="@id/total_distance_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/km_metric" android:shadowColor="@color/white" android:shadowDy="1.0" android:layout_toRightOf="@id/route_dis" android:layout_alignBaseline="@id/route_dis" style="@style/sport_text_style" />
+                </com.huami.watch.common.widget.HmRelativeLayout>
+            </com.huami.watch.common.widget.HmRelativeLayout>
+            <com.huami.watch.common.widget.HmHaloButton android:textColor="@color/white" android:id="@id/export_btn" android:background="@drawable/sport_export_bg" android:layout_marginBottom="10.699982dip" android:text="@string/export_route_trail" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/sport_main_btn_bg_style" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmFrameLayout>

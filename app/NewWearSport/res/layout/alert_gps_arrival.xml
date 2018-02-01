@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmRelativeLayout android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:background="@color/default_font_color_orange" android:paddingTop="@dimen/alert_padding_top" android:layout_width="fill_parent" android:layout_height="@dimen/alert_height">
+        <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:gravity="center" android:id="@id/alert_target_time" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/waiting_gps_gps_available" />
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmRelativeLayout>

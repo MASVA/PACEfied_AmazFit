@@ -17,14 +17,21 @@ unknownFiles:
   com/huami/watch/train/ui/adapter/TrainFinishReasonAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/adapter/TrainPlanAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/adapter/TrainRecordDetailAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainRecordDetailListViewAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/adapter/TrainSelectDetailAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainSelectDetailHeaderAdapter$HeadHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainSelectDetailHeaderAdapter$ItemHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainSelectDetailListViewAdapter$ItemHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/adapter/TrainWeeklyRecordDetailAdapter$ViewHolder$$ViewBinder.java: '8'
-  com/huami/watch/train/ui/fragment/TrainPlanInitSelectFragment$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/adapter/TrainWeeklyRecordDetailWearableAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/fragment/TrainPlanSelectDetailFragment$$ViewBinder.java: '8'
   com/huami/watch/train/ui/fragment/TrainRecordDetailFragment$$ViewBinder.java: '8'
   com/huami/watch/train/ui/fragment/TrainWeeklyRecordDetailFragment$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/listviewadapter/ListTitleRecycleBaseAdapter$HeaderViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/listviewadapter/TrainFinishReasonListAdapter$ViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/listviewadapter/TrainPlanListAdapter$ViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/listviewadapter/TrainPlanListRecycleAdapter$ItemViewHolder$$ViewBinder.java: '8'
+  com/huami/watch/train/ui/listviewadapter/TrainPlanRecycleAdapter$ItemViewHolder$$ViewBinder.java: '8'
   com/huami/watch/train/ui/test/TestProvider$$ViewBinder.java: '8'
   com/ingenic/iwds/DeviceDescriptor.aidl: '8'
   com/ingenic/iwds/app/INotificationProxyService.aidl: '8'
@@ -55,8 +62,8 @@ unknownFiles:
 usesFramework:
   ids:
   - 1
-  tag: 1.2.48h
+  tag: 2.0.4.0
 version: 2.3.0
 versionInfo:
   versionCode: '22'
-  versionName: 5.1-136
+  versionName: 5.1-81

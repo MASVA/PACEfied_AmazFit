@@ -9,6 +9,8 @@
     <item type="id" name="footer">false</item>
     <item type="id" name="negativeButton">false</item>
     <item type="id" name="positiveButton">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
     <item type="id" name="success_layout">false</item>
     <item type="id" name="img">false</item>
     <item type="id" name="message_top">false</item>
@@ -23,4 +25,10 @@
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="title_empty">false</item>
+    <item type="id" name="button_empty">false</item>
+    <item type="id" name="picker1">false</item>
+    <item type="id" name="picker2">false</item>
+    <item type="id" name="picker_ampm">false</item>
 </resources>

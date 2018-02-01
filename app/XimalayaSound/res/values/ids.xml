@@ -74,6 +74,9 @@
     <item type="id" name="err_content">false</item>
     <item type="id" name="success_content">false</item>
     <item type="id" name="err_confirm">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
     <item type="id" name="main_list">false</item>
     <item type="id" name="parentPanel">false</item>
     <item type="id" name="buttonPanel">false</item>
@@ -90,6 +93,13 @@
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
+    <item type="id" name="title_empty">false</item>
+    <item type="id" name="button_empty">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="picker1">false</item>
+    <item type="id" name="picker2">false</item>
+    <item type="id" name="picker_ampm">false</item>
     <item type="id" name="volumn_title">false</item>
     <item type="id" name="volumn_progress">false</item>
     <item type="id" name="volumn_reduce">false</item>

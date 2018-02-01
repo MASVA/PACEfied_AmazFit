@@ -15,6 +15,7 @@
     <string name="mihome_activity_info_disconnected">请先连接手机米家App</string>
     <string name="mihome_activity_btn_disconnected">请先连接手机米家App</string>
     <string name="mihome_device_card_2_offline">[离线]</string>
+    <string name="dialog_yes">是</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>

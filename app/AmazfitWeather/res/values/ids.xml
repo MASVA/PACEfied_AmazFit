@@ -26,9 +26,22 @@
     <item type="id" name="uv_icon">false</item>
     <item type="id" name="uv_tip">false</item>
     <item type="id" name="detailed_uv">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="button_1">false</item>
+    <item type="id" name="button_2">false</item>
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="title_empty">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="button_empty">false</item>
+    <item type="id" name="positiveButton">false</item>
+    <item type="id" name="negativeButton">false</item>
+    <item type="id" name="picker1">false</item>
+    <item type="id" name="picker2">false</item>
+    <item type="id" name="picker_ampm">false</item>
     <item type="id" name="date_one">false</item>
     <item type="id" name="img_one">false</item>
     <item type="id" name="dataup_one">false</item>
@@ -39,7 +52,6 @@
     <item type="id" name="button1">false</item>
     <item type="id" name="contentPanel">false</item>
     <item type="id" name="message_title">false</item>
-    <item type="id" name="message">false</item>
     <item type="id" name="forecast_container">false</item>
     <item type="id" name="weatherlayout1">false</item>
     <item type="id" name="weatherlayout2">false</item>

@@ -4,16 +4,12 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Settings</string>
     <string name="watch_ota">Watch Update</string>
-    <string name="wifi_disconnect">"请连接Amazfit手表App,
-帮助手表检查升级"</string>
-    <string name="connect_phone_wifi">"请检查手机网络,
-以帮助手表检查升级"</string>
-    <string name="connect_phone_input_wifi">"请连接Amazfit手表App,
-帮助手表输入Wi-Fi密码"</string>
-    <string name="wifi_add_item">"请打开Amazfit手表App
-输入Wi-Fi名称等内容"</string>
-    <string name="input_passwor_on_mobile">"请在Amazfit手表App上
-输入Wi-Fi密码"</string>
+    <string name="wifi_disconnect">请连接Amazfit手表App,帮助手表检查升级</string>
+    <string name="connect_phone_wifi">请检查手机网络,以帮助手表检查升级</string>
+    <string name="connect_phone_input_wifi">请连接Amazfit手表App,帮助手表输入Wi-Fi密码</string>
+    <string name="wifi_add_item">请打开Amazfit手表App输入Wi-Fi名称等内容</string>
+    <string name="input_passwor_on_mobile">"请在Amazfit手表App
+上输入Wi-Fi密码"</string>
     <string name="add_wifi">添加Wi-Fi</string>
     <string name="please_update_rom">"系统有新版本
 请升级"</string>
@@ -21,8 +17,7 @@
     <string name="checking_rom_failed">网络连接超时,请重试</string>
     <string name="current_is_new">已是最新版本</string>
     <string name="has_new_rom_all">"发现新版本 
-由于你的版本较旧,升级
-时间可能较长,请耐心等待?"</string>
+由于你的版本较旧,升级时间可能较长,请耐心等待?"</string>
     <string name="has_new_rom">"发现新版本,是否
 升级到%1$s版本?"</string>
     <string name="processbar_downloading_rom">下载中</string>
@@ -63,11 +58,8 @@
     <string name="wifi_turnon_going">正在打开Wi-Fi</string>
     <string name="system_update_title">升级成功</string>
     <string name="system_update_content">系统已升级到%1$s版本</string>
-    <string name="password_error">"Wi-Fi连接失败
-密码不正确,请重新输入"</string>
-    <string name="wifi_connect_fail">"Wi-Fi连接失败
-当前Wi-Fi无法连接,请尝试
-其他Wi-Fi"</string>
+    <string name="password_error">Wi-Fi连接失败密码不正确,请重新输入</string>
+    <string name="wifi_connect_fail">Wi-Fi连接失败当前无法连接,请尝试其他Wi-Fi</string>
     <string name="searching">正在搜索...</string>
     <string name="hasNewUpdateTitle">系统有更新</string>
     <string name="hasNewUpdateInstallContent">%1$s版本已可以安装,是否现在安装？</string>
@@ -76,14 +68,10 @@
     <string name="update_online">在线升级</string>
     <string name="update_local">本地升级</string>
     <string name="local_update_confirm_1_title">注意事项</string>
-    <string name="local_update_invalid_zip">"该卡刷包系统版本过低,
-建议使用最新版本升级"</string>
-    <string name="local_update_confirm_1_msg">"为确保本地升级后的版
-本兼容性问题,我们将清空所
-有数据后安装升级包,安装
-前请务必同步重要数据."</string>
-    <string name="local_update_confirm_2_msg">"请再次确保重要数据
-都已经同步.开始安装后未
-同步的数据将被清空不可恢
-复,是否继续安装?"</string>
+    <string name="local_update_confirm_1_msg">为确保本地升级后的版本兼容性问题,我们将清空所有数据后安装升级包,安装前请务必同步重要数据.</string>
+    <string name="local_update_confirm_2_msg">请再次确保重要数据都已经同步.开始安装后未同步的数据将被清空不可恢复,是否继续安装?</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="enter">确定</string>
+    <string name="cancel">取消</string>
 </resources>

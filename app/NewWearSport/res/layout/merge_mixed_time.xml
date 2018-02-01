@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/mixed_title_container" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.huami.watch.common.widget.HmTextView android:textSize="10.699982sp" android:id="@id/time_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/history_detail_cost_time" style="@style/sport_text_style" />
+        <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="5.0dip" android:layout_below="@id/time_title">
+            <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="20.0sp" android:id="@id/sport_bar_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/sport_num_text_style" />
+        </com.huami.watch.common.widget.HmRelativeLayout>
+        <com.huami.watch.common.widget.HmImageView android:id="@id/battery_view" android:layout_width="16.0dip" android:layout_height="16.0dip" android:layout_marginRight="83.0px" android:layout_marginBottom="4.299988dip" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <View android:background="@color/red" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_alignParentBottom="true" />
+</RelativeLayout>

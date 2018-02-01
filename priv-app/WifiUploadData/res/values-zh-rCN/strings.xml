@@ -23,4 +23,6 @@
     <string name="init_app">正在连接Amazfit手表App</string>
     <string name="init_update_user">正在更新</string>
     <string name="zero">0</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
 </resources>
