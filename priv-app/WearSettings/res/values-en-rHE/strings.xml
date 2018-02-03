@@ -32,6 +32,9 @@
     <string name="about">אודות</string>
     <string name="wear_habit">השעון על יד</string>
     <string name="bugreport">"דווח שגיאות"</string>
+    <string name="applications">אפליקציות</string>
+    <string name="long_sit">תזכורת לקום</string>
+    <string name="datacenter">סקירה יומית</string>
     <string name="light_change">תאורת מסך</string>
     <string name="wrist_up">הפעל בסיבוב</string>
     <string name="auto_nodisturb">השתקה אוטומטית</string>
@@ -52,6 +55,7 @@
     <string name="wifi_upload">העלה</string>
     <string name="replace_watchface">סקינים לשעון</string>
     <string name="wifi_auto_upload_switch">העלאה אוטומטית</string>
+    <string name="auto_bg">תאורה אוטומטית</string>
     <string name="nothing">ריק</string>
     <string name="about_title">אודות</string>
     <string name="model">דגם</string>
@@ -75,6 +79,12 @@
     <string name="opened">מופעל</string>
     <string name="closed">כבוי</string>
     <string name="air_plane_mode_note">"מצב טיסה   מצב טיסה יכבה את ה-Bluetooth וה-Wi-Fi בשעון כדי לחסוך בחשמל. אם אתה צריך להשתמש בתכונות הדורשות BT/WiFi, כבה את מצב הטיסה בהגדרות המערכת."</string>
+    <string name="settings_long_sit_reminder">תזכורת תזוזה</string>
+    <string name="settings_off">כבוי</string>
+    <string name="settings_on">מופעל</string>
+    <string name="settings_step_target">יעד צעדים</string>
+    <string name="settings_step_unit">צעדים</string>
+    <string name="settings_target_reach_reminder">התראת יעד</string>
     <string name="nodisturb_open_string">מופעל</string>
     <string name="nodisturb_close_string">כבוי</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
