@@ -188,6 +188,6 @@
     <string name="remind_aleary_open">提醒已经开启</string>
     <string name="phone_far_away_remind_to_you">手表将在距离手机较远时提醒你。</string>
     <string name="dialog_confire">确定</string>
-    <string name="auto_hint_title">定时关闭</string>
+    <string name="auto_hint_title">定时抬腕亮屏</string>
     <string name="long_key_action">长按下键打开</string>
 </resources>
