@@ -31,7 +31,7 @@
     <string name="weeklysports_riding">Radfahren</string>
     <string name="weekly_step_attained_rate">Tage bis zum Erreichen des Abschnittziels</string>
     <string name="weekly_sports_notification_content">Die Aktivitätszusammenfassung der letzten Woche ist fertig.</string>
-    <string name="weeklysports_date_format">DD/MM/YYYY</string>
+    <string name="weeklysports_date_format">dd/MM/yyyy</string>
     <string name="widget_currentstep_title">Datencenter</string>
     <string name="widget_currentstep_activities">Sport heute</string>
     <string name="widget_currentstep_sleep_hour">Std.</string>
