@@ -24,7 +24,7 @@
     <dimen name="common_txt_size">17.699982sp</dimen>
     <dimen name="common_txt_l_size">15.0sp</dimen>
     <dimen name="txt_icon_margin">16.0dip</dimen>
-    <dimen name="smaller_txt_size">14.0dip</dimen>
+    <dimen name="smaller_txt_size">12.0dip</dimen>
     <dimen name="setting_icon_txt_margin">8.699982dip</dimen>
     <dimen name="settings_item_height">70.0dip</dimen>
     <dimen name="settings_item_padding_left_right">38.0dip</dimen>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg00" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg01" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg02" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg03" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg04" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg05" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg06" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg07" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg08" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg09" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg10" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg11" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg12" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg13" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg14" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg15" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg16" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg17" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg18" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg19" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg20" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg21" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg22" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg23" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg24" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg25" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg26" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg27" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg28" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg29" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg30" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg31" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg32" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg33" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg34" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg35" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg36" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg37" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg38" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg39" />
+    <item android:duration="66" android:drawable="@drawable/fireworks_bg40" />
+</animation-list>

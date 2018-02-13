@@ -40,6 +40,7 @@
     <color name="weeklyPurple">#ffa14cff</color>
     <color name="weeklyDarkBule">#ff4c71ff</color>
     <color name="weeklyDataGreen">#ff09ff00</color>
+    <color name="weeklyDataDarkWhite">#b0ffffff</color>
     <color name="calory_color">#fff68d00</color>
     <color name="weeklypink">#ffff00c8</color>
     <color name="widget_color_shadow">#5c000000</color>

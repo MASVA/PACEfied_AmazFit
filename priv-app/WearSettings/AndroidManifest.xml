@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.huami.mobile.watchsettings" platformBuildVersionCode="22" platformBuildVersionName="5.1-136">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.huami.mobile.watchsettings" platformBuildVersionCode="22" platformBuildVersionName="5.1-305">
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.READ_USER_DICTIONARY"/>
@@ -103,5 +103,21 @@
         </activity>
         <activity android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneActivity"/>
         <activity android:name="com.huami.moblie.watchsettings.actions.autoairplane.AutoAirplaneTimePickerActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.app.DataCenterSettingsActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.app.SettingStepTargetActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autowrisp.AutoWrispActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.autowrisp.AutoWrispTimePickerActivity"/>
+        <activity android:name="com.huami.moblie.watchsettings.actions.longkeystart.LongKeyItemActivity"/>
+        <receiver android:exported="true" android:name="com.huami.moblie.watchsettings.actions.autowrisp.AutoWrispBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="com.huami.moblie.watchsettings.action.autoairplane.start"/>
+                <action android:name="com.huami.moblie.watchsettings.action.autoairplane.end"/>
+                <action android:name="com.huami.moblie.watchsettings.action.wrisphand.start"/>
+                <action android:name="com.huami.moblie.watchsettings.action.wrisphand.end"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+        </receiver>
     </application>
 </manifest>

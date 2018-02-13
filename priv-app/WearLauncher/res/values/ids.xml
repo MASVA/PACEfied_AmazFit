@@ -398,6 +398,7 @@
     <item type="id" name="status_weather_view">false</item>
     <item type="id" name="status_text_date">false</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="fog">false</item>
     <item type="id" name="watchface_content">false</item>
     <item type="id" name="gallery">false</item>
     <item type="id" name="watchface_title">false</item>

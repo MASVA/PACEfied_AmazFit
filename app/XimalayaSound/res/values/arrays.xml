@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="spring_depend">
-        <item>com.huami.watch.ximalayasound/com.huami.watch.ximalayasound.XimalayaLauncherView/ard</item>
+        <item>com.huami.watch.ximalayasound/com.huami.watch.ximalayasound.XimalayaLauncherView</item>
     </string-array>
 </resources>

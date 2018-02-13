@@ -11,6 +11,7 @@
     <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
     <string name="notification_qq_red_envelop_title">QQ红包提醒</string>
     <string name="notification_red_envelop_content">%s的红包，快打开手机领取吧!</string>
+    <string name="notification_ios_envelop_content">收到QQ红包，快打开手机领取吧!</string>
     <string name="notification_red_envelop_default_content">快打开手机领取吧!</string>
     <string name="notification_alipay_default_group">群聊</string>
     <string name="notification_red_bracket">[%s]</string>
@@ -22,8 +23,17 @@
     <string name="notification_alipay_default_pattern">支付宝</string>
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
-    <string name="delete_all_notifications">Delete all notifications</string>
+    <string name="delete_all_notifications">Clear all notifications</string>
     <string name="delete_all_notifications_confrim_content">Deleted notifications can’t be retrieved later on the watch, continue?</string>
+    <string name="notification_time_day">HH:mm</string>
+    <string name="notification_time_month">MM/dd HH:mm</string>
+    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_shield">Block</string>
+    <string name="notification_none">All caught up</string>
+    <string name="notification_allclear">Clear all</string>
+    <string name="notification_allclear_confirm">Cleared notifications will no longer be available to read later, continue?</string>
+    <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
     <string name="quick_settings_airplane_mode">Airplane: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Silent: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
@@ -110,6 +120,7 @@ since charge"</string>
     <string name="hm_watch_sports_notification_sports">Sports</string>
     <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
     <string name="notification_action_more">More</string>
+    <string name="notification_red_envelop">[红包]</string>
     <string name="notitification_wechat_red_content_pattern_two">: \\[微信红包\\]</string>
     <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">MM/dd HH:mm</string>

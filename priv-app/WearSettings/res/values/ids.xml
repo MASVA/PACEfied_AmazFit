@@ -18,6 +18,7 @@
     <item type="id" name="double_clk_wk">13</item>
     <item type="id" name="vibration_intensity">14</item>
     <item type="id" name="flight_mode">15</item>
+    <item type="id" name="bg_mode">1001</item>
     <item type="id" name="hm_lab">16</item>
     <item type="id" name="personal_info">17</item>
     <item type="id" name="time_zone_clock">18</item>
@@ -28,6 +29,7 @@
     <item type="id" name="device">23</item>
     <item type="id" name="nodisturb">24</item>
     <item type="id" name="auto_plane">25</item>
+    <item type="id" name="auto_bg">1000</item>
     <item type="id" name="wifi_upload">21</item>
     <item type="id" name="replace_watchface">26</item>
     <item type="id" name="units_set">27</item>
@@ -36,9 +38,11 @@
     <item type="id" name="reboot">30</item>
     <item type="id" name="refresh_screen_switch">31</item>
     <item type="id" name="watchface">32</item>
-    <item type="id" name="setting_item_application">33</item>
     <item type="id" name="anti_lost_remind">34</item>
     <item type="id" name="far_away_remind">35</item>
+    <item type="id" name="applications">36</item>
+    <item type="id" name="long_sit">37</item>
+    <item type="id" name="datacenter">38</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="view_pager">false</item>
@@ -66,6 +70,7 @@
     <item type="id" name="error_message">false</item>
     <item type="id" name="action_success">false</item>
     <item type="id" name="animation">false</item>
+    <item type="id" name="datacenter_list_setting">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
     <item type="id" name="btn_panel">false</item>

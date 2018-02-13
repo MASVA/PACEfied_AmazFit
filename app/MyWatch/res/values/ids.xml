@@ -7,5 +7,6 @@
     <item type="id" name="get_locale_button">false</item>
     <item type="id" name="get_battery_level_button">false</item>
     <item type="id" name="quit">false</item>
+    <item type="id" name="qr_image">false</item>
     <item type="id" name="file_start">false</item>
 </resources>
