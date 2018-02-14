@@ -207,5 +207,7 @@ kg"</string>
     <string name="widget_currentstep_sleep_title">Sleep last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No exercise today?</string>
+    <string name="auto_hint_title">Timing wrist bright screen</string>
+    <string name="long_key_action">Press and hold to open</string>
 <!--END of missed texts by Huami-->
 </resources>
