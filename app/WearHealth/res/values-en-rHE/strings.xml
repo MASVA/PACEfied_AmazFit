@@ -190,6 +190,13 @@
     <string name="weeklysports_outdoorriding_unit_zh">"ק\"מ/שעה"</string>
 	<string name="weeklysports_outdoorriding_unit_he">"ק\"מ/שעה"</string>
     <string name="weeklysports_outdoorriding_unit_en">"מייל/שעה"</string>
+    <string name="weeklysports_swimerrate">שחייה</string>
+    <string name="weeklysports_innerswimrate">שחייה בבריכה</string>
+    <string name="weeklysports_openswimrate">מים פתוחים</string>
+    <string name="weeklysports_triathlon">טריאטלון</string>
+    <string name="weeklysports_triathlon_totaltime">זמן מצטבר</string>
+    <string name="weeklysports_triathlon_hour">שעות</string>
+    <string name="weeklysports_triathlon_min">דקות</string>
     <string name="weeklysports_activity">"פעילות"</string>
     <string name="weeklysports_running">"ריצה"</string>
     <string name="weeklysports_walking">"הליכה"</string>
@@ -286,4 +293,5 @@
     <string name="currentstep_history_title">נתונים היסטוריים</string>
     <string name="currentstep_detail_activities">חלוקת זמן פעילות (דקות)</string>
     <string name="currentstep_detail_activities_title">חלוקת מקרא פעילות</string>
+    <string name="currentstep_detail_activities_others">אחרים</string>
 </resources>
