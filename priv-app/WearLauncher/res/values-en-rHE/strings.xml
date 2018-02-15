@@ -92,6 +92,8 @@
     <string name="action_failure">"מצטער, זה לא עבד"</string>
     <string name="action_success">"הצלחת!"</string>
     <string name="action_working">"בדרך..."</string>
+    <string name="action_delete">"מחק"</string>
+    <string name="action_shield">אל תתריא</string>
     <string name="activity_not_found">"היתה בעיה בהשלמת הפעולה המבוקשת."</string>
     <string name="data_checkfail_match">"שדות סוג מזג האוויר אינם תואמים"</string>
     <string name="data_checkfail_temp">"טמפרטורת מזג האוויר מחוץ לטווח"</string>
