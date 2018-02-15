@@ -271,14 +271,6 @@
     <string name="ui_lib_name">"Hm_UILib"</string>
     <string name="title_settings">"הגדרות"</string>
     <string name="sport_music_settings">"מוסיקת ספורט"</string>
-    <string name="weeklysports_swimerrate">מהירות שחייה עם תוצאות</string>
-    <string name="weeklysports_innerswimrate">מהירות שחייה ממוצעת</string>
-    <string name="weeklysports_openswimrate">ממוצע מהירות שחייה בים</string>
-    <string name="weeklysports_triathlon">טריאתלון</string>
-    <string name="weeklysports_triathlon_totaltime">סה\"כ זמן</string>
-    <string name="weeklysports_triathlon_hour">שעה</string>
-    <string name="weeklysports_triathlon_min">דקה</string>
-    <string name="weekly_sports_notification_action">עוד</string>
     <string name="currentstep_detail_triathlon">טריאתלון</string>
     <string name="currentstep_detail_triathlon_short">טריא</string>
     <string name="currentstep_detail_mountain">טיפוס הרים</string>
