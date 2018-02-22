@@ -144,7 +144,7 @@
     <string name="step_name">Krok</string>
     <string name="sleep_name">Spánok</string>
     <string name="floor_description">Poznámka: 1 poschodie = 3 metre</string>
-    <string name="climbed_floors">"Výjdených "</string>
+    <string name="climbed_floors">"Nastúpané "</string>
     <string name="widget_label_step">Dnes</string>
     <string name="widget_heart_analysis">Analyzovať</string>
     <string name="widget_step_target_txt">Cieľ:  <liff>%d</liff></string>
@@ -221,7 +221,7 @@
     <string name="currentstep_detail_triathlon">Triatlon</string>
     <string name="currentstep_detail_triathlon_short">Tri</string>
     <string name="currentstep_detail_mountain">Turistika</string>
-    <string name="currentstep_detail_calories">Kalórií</string>
+    <string name="currentstep_detail_calories">Kalórie</string>
     <string name="currentstep_detail_sleep">Spánok</string>
     <string name="currentstep_detail_sleep_deep">Hlboký spánok</string>
     <string name="currentstep_detail_title">Detaily</string>
@@ -258,7 +258,7 @@
     <string name="widget_weeklyreports_heart_rate_title">Tepová frek.</string>
     <string name="widget_weeklyreports_average_title">Priemer</string>
     <string name="widget_weeklyreports_totalcalory_front">Celkom kalorií</string>
-    <string name="widget_weeklyreports_totalcalory_title">Kalórií</string>
+    <string name="widget_weeklyreports_totalcalory_title">Kalórie</string>
     <string name="widget_weeklyreports_sports_title">Šport</string>
     <string name="widget_weeklyreports_reports_title">Týždenná správa</string>
     <string name="widget_weeklyreports_reports_review">Vyb.týždeň</string>
@@ -275,8 +275,8 @@
     <string name="currentstep_detail_activity_chart_unit">Jednotka: hodina</string>
     <string name="date_format">dd.MM.</string>
     <string name="widget_weeklyreports_nodata">Nie sú dáta za posledný týždeň</string>
-    <string name="currentstep_detail_activities">Aktívne rozloženie času (minúty)</string>
-    <string name="currentstep_detail_activities_title">Legenda distribúcie aktivity</string>
+    <string name="currentstep_detail_activities">Aktivita v čase (minúty)</string>
+    <string name="currentstep_detail_activities_title">Distribúcia aktivít</string>
     <string name="average_text">Priemer</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdiť</string>
