@@ -32,6 +32,9 @@
     <string name="about">O hodinkách</string>
     <string name="wear_habit">Hodinky na</string>
     <string name="bugreport">Nahlásiť chybu</string>
+    <string name="applications">Aplikácie</string>
+    <string name="long_sit">Pripomenúť prechádzku</string>
+    <string name="datacenter">Denný prehľad</string>
     <string name="light_change">Podsvietenie</string>
     <string name="wrist_up">Prebuď otočením</string>
     <string name="auto_nodisturb">Auto nerušiť</string>
@@ -44,7 +47,7 @@
     <string name="personal_info">Osobné údaje</string>
     <string name="time_zone_clock">Nastavenie času</string>
     <string name="setting_time_format">Formát času</string>
-    <string name="connect">Spojenie</string>
+    <string name="connect">Pripojenie</string>
     <string name="common">Iné nastavenia</string>
     <string name="device">Zariadenie</string>
     <string name="nodisturb">Nerušiť</string>
@@ -76,6 +79,12 @@
     <string name="closed">Vypnuté</string>
     <string name="air_plane_mode_note">"Režim Lietadlo 
 Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ potrebujete používať funkcie, ktoré vyžadujú BT/WiFi, vypnite režim Lietadlo v Nastaveniach systému."</string>
+    <string name="settings_long_sit_reminder">Výstraha nečinnosti</string>
+    <string name="settings_off">Vypnuté</string>
+    <string name="settings_on">Zapnuté</string>
+    <string name="settings_step_target">Cieľ krokov</string>
+    <string name="settings_step_unit">Krokov</string>
+    <string name="settings_target_reach_reminder">Notifikácia splnenia</string>
     <string name="nodisturb_open_string">Zapnuté</string>
     <string name="nodisturb_close_string">Vypnuté</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
