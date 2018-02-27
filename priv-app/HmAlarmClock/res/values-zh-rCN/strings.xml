@@ -3,7 +3,6 @@
     <string name="app_name">HmDeskClock</string>
     <string name="every_day">每天</string>
     <string name="never">永不</string>
-    <string name="day_concat">/</string>
     <string name="default_label">闹钟</string>
     <string name="day">1天</string>
     <string name="days">%s天</string>
