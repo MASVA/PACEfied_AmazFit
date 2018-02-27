@@ -1,2 +1,2 @@
 #!/system/bin/sh
-/system/xbin/daemonsu --auto-daemon &
+if [ -e /data/property/PACEfied_su ]; then ( /system/xbin/daemonsu --auto-daemon & ); fi

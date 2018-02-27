@@ -1,0 +1,36 @@
+#!/system/bin/sh
+echo "============= PACEfied SU installer ==============="
+if [ `busybox id -u` -ne 0 ]; then echo "Must be root!"; exit 1; fi
+echo "Please choose one of the options:"
+echo "1. enable su (root the watch)"
+echo "2. disable su (unroot the watch)"
+echo "anything else will exit"
+read answer
+if [ "x$answer" == "x1" ]
+then
+	echo "Yo
+u have chosen to enable su on this watch."
+	echo "BE AWARE: THIS WILL ALLOW EVERY APP TO GAIN ROOT PRIVILEGES"
+	echo "          AND DO EVERYTHING ON YOUR WATCH!"
+	echo "THIS IS VERY DANGEROUS!"
+	echo
+	echo "Are you sure that you want to proceed? if yes, then type 'YES, I KNOW WHAT I DO.'"
+	read answer
+	if [ "x$answer" == "xYES, I KNOW WHAT I DO." ];
+	then
+		echo "OK, enabling su now"
+		touch /data/property/PACEfied_su
+		settings put secure install_non_market_apps 1
+		echo "Finished, will reboot now"
+		reboot
+	else
+		echo "OK, will not enable su then."
+	fi
+elif [ "x$answer" == "x2" ]
+then
+	echo "OK, removing su now"
+	rm /data/property/PACEfied_su
+	settings put secure install_non_market_apps 0
+	echo "Removed su, will reboot now"
+	reboot
+fi
