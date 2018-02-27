@@ -178,7 +178,7 @@
     <string name="sport_history_item_distance_desc">Vzdialenosť (km)</string>
     <string name="sport_history_item_cost_time_desc">Čas</string>
     <string name="sport_history_total_distance_desc">Celková vzdialenosť</string>
-    <string name="sport_history_header_total_count_desc">Aktivít celkom (krát)</string>
+    <string name="sport_history_header_total_count_desc">Aktivít celkom (počet)</string>
     <string name="sport_history_header_calorie_desc">Kalórie</string>
     <string name="running_realtime_trail_desc">GPS trasa</string>
     <string name="title_activity_sport_history">História športových aktivít</string>
@@ -212,7 +212,7 @@
     <string name="settings_item_title_safe_heartrate_remind">Upoz. tepovej frekv.</string>
     <string name="settings_item_title_auto_pause">Auto pauza</string>
     <string name="settings_item_title_running_auto_pause">Beh auto. pauza</string>
-    <string name="settings_item_title_riding_auto_pause">Bycikel auto.pauza</string>	
+    <string name="settings_item_title_riding_auto_pause">Bicykel auto.pauza</string>	
     <string name="settings_item_title_target_use_time_remind">Cieľový čas</string>
     <string name="settings_item_title_target_distance_remind">Cieľová vzdial.</string>
     <string name="settings_item_title_pace_remind">Upozor. tempa</string>
