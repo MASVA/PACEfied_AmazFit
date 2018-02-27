@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">天气</string>
+    <string name="app_name">AmazfitWeather</string>
     <string name="action_settings">Settings</string>
     <string name="celsius">℃</string>
     <string name="fahrenheit">℉</string>
@@ -66,6 +66,7 @@
     <string name="data_checkfail_temp">Temperature out of range</string>
     <string name="data_checkfail_match">Weather type field does not match</string>
     <string name="data_checkfail_json">JSON format error</string>
+    <string name="detailed">Weather details</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>
