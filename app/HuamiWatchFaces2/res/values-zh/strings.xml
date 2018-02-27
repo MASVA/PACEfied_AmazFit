@@ -55,8 +55,12 @@
     <string name="mountain">登山</string>
     <string name="riding">骑行</string>
     <string name="swimming">游泳</string>
+    <string name="skiing">滑雪</string>
+    <string name="tennis">网球</string>
+    <string name="soccer">足球</string>
+    <string name="golf">高尔夫</string>
     <string name="sport_total_time">总用时</string>
-    <string name="altitude">当前海拔</string>
+    <string name="current_altitude">当前海拔</string>
     <string name="speed">速度</string>
     <string name="stroke_speed">划水速率</string>
     <string name="pace">配速</string>
@@ -64,6 +68,9 @@
     <string name="sport_has_paused">运动已暂停</string>
     <string name="sport_paused_time">暂停时间</string>
     <string name="sport_distance">运动里程</string>
+    <string name="sport_downhill_total_distance">累计滑降里程</string>
+    <string name="sport_change">换项</string>
+    <string name="sport_change_time">换项用时</string>
     <string name="please_get_ready_for_runnning">请准备跑步运动</string>
     <string name="please_get_ready_for_riding">请准备骑行运动</string>
     <string name="gps_ready">GPS已找到</string>
@@ -78,6 +85,7 @@
     <string name="heartlung">心肺强化</string>
     <string name="strength">力量强化</string>
     <string name="anaerobic">无氧极限</string>
+    <string name="enter_sport_lock_status">正在进入运动锁屏状态</string>
     <string name="press_any_key_wakeup">按任意键解锁</string>
     <string name="meter">米</string>
     <string name="kilometre">公里</string>
@@ -93,6 +101,15 @@
     <string name="feet">英尺</string>
     <string name="per_100feet">/100英尺</string>
     <string name="yard">码</string>
+    <string name="minute">分</string>
+    <string name="minute_clock">分钟</string>
+    <string name="second">秒</string>
+    <string name="altitude">海拔</string>
+    <string name="longitude_and_latitude">经纬度</string>
+    <string name="press_key_finish_train">单击下键完成本段</string>
+    <string name="need_run_kilometer">本次需跑</string>
+    <string name="low_battery_protect">低电保护</string>
+    <string name="low_battery_please_charging">手表电量低，请充电。</string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">马拉松人生</string>
     <string name="watch_label_sport_two">I’m Runner</string>

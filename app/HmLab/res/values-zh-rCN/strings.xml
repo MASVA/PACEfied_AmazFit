@@ -8,6 +8,7 @@
 持续采集您的心率数据。
 数据将只作为研究使用。
 采集开启后将会有一定的电量消耗。"</string>
+    <string name="message_everest">为了改善我们的服务，我们将持续采集您的心率数据。数据将只作为研究使用。采集开启后将会有一定的电量消耗。</string>
     <string name="allow">允许</string>
     <string name="exit">退出</string>
     <string name="heart_rate_collection_on">已开启</string>
@@ -18,7 +19,6 @@
     <string name="upload_failed">上传失败，请重试</string>
     <string name="air_mode_alert_title">连接失败</string>
     <string name="air_mode_alert_message">请关闭飞行模式后重新尝试连接</string>
-    <string name="message_everest">为了改善我们的服务，我们将持续采集您的心率数据。数据将只作为研究使用。采集开启后将会有一定的电量消耗。</string>
     <string name="hbeacon_on">已启用</string>
     <string name="hbeacon_off">未启用</string>
     <string name="hbeacon_on_confirm_message">点击确认启用HBeacon功能将略微降低手表续航时长，手表自动重启后您的手机可能需要重新配对手表。</string>

@@ -26,6 +26,8 @@
     <dimen name="reminder_first_title_margin">12.0dip</dimen>
     <dimen name="reminder_second_title_margin">4.5dip</dimen>
     <dimen name="reminder_height">96.0dip</dimen>
+    <dimen name="interval_run_font_value">80.0sp</dimen>
+    <dimen name="interval_run_font_px">100.0px</dimen>
     <dimen name="remind_cross_icon_width">74.79999dip</dimen>
     <dimen name="remind_cross_icon_height">74.79999dip</dimen>
     <dimen name="remind_cross_icon_margin_top">13.5dip</dimen>
@@ -191,8 +193,8 @@
     <dimen name="widget_header_txt_dimen">19.0sp</dimen>
     <dimen name="widget_header_title_height">58.0dip</dimen>
     <dimen name="widget_header_height_scaled">54.0dip</dimen>
-    <dimen name="widget_settings_icon_rx">38.0dip</dimen>
-    <dimen name="widget_settings_label_rx">106.0dip</dimen>
+    <dimen name="widget_settings_icon_rx">22.0dip</dimen>
+    <dimen name="widget_settings_label_rx">90.0dip</dimen>
     <dimen name="widget_common_txt_size">18.699982sp</dimen>
     <dimen name="widget_line_chart_offset">21.0dip</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20.0dip</dimen>

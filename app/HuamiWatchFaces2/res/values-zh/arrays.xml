@@ -88,6 +88,20 @@
         <item>距离</item>
         <item>TE</item>
         <item>垂直速度</item>
+        <item>平均速度</item>
+        <item>最大速度</item>
+        <item>滑降次数</item>
+        <item>本次滑降</item>
+        <item>累计滑降</item>
+        <item>滑降落差</item>
+        <item>挥拍次数</item>
+    </string-array>
+    <string-array name="sport_train_item">
+        <item>本次剩余里程</item>
+        <item>训练总里程</item>
+        <item>训练总用时</item>
+        <item>本次剩余用时</item>
+        <item>里程</item>
     </string-array>
     <string-array name="weekdays">
         <item>星期日</item>

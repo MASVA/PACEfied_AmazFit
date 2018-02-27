@@ -15,8 +15,8 @@ unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: 2.0.4.0
+  tag: 2.0.8.0
 version: 2.3.0
 versionInfo:
   versionCode: '5'
-  versionName: 5.1-81
+  versionName: 5.1-96

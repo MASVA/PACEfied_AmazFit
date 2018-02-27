@@ -20,7 +20,7 @@
     <string name="train_detail_number_weekly">Week %1$d</string>
     <string name="day_train_status_done">(Completed)</string>
     <string name="train_record_complete_percent">Completed</string>
-    <string name="day_train_record_status_finish">Completed</string>
+    <string name="day_train_record_status_finish">Done</string>
     <string name="day_train_record_statis_un_finish">Incomplete</string>
     <string name="dialog_day_train_plan_is_complete">"Mark today's progress as completed?"</string>
     <string name="dialog_delete_history_record">Whether to delete this record, delete will not be restored.</string>

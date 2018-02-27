@@ -708,6 +708,8 @@
     <public type="id" name="music_settings" id="0x7f0a0082" />
     <public type="id" name="dialog_no_music_and_connect_ble_container" id="0x7f0a0083" />
     <public type="id" name="dialog_not_complete_music_container" id="0x7f0a0084" />
+    <public type="id" name="loading_bg" id="0x7f0a0085" />
+    <public type="id" name="loading_view" id="0x7f0a0086" />
     <public type="string" name="average_text" id="0x7f0b0000" />
     <public type="string" name="menu_item_high_light_scale_factor" id="0x7f0b0001" />
     <public type="string" name="picker_default_positive_text" id="0x7f0b0002" />

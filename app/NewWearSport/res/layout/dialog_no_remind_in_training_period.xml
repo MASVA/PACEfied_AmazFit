@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.079987sp" android:textColor="@color/default_font_color_white" android:gravity="left" android:id="@id/dialog_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="32.159973dip" android:layout_marginTop="35.50998dip" android:layout_marginRight="32.159973dip" android:text="@string/interval_train_tips_title" android:lineSpacingExtra="10.0dip" />
+    <TextView android:textSize="12.059998sp" android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:id="@id/dialog_remind" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="32.159973dip" android:layout_marginRight="32.159973dip" android:text="@string/interval_train_tips_content" />
+    <com.huami.watch.common.widget.HmHaloButton android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:layout_gravity="center" android:id="@id/positiveButton" android:background="@drawable/button_ground_green" android:paddingTop="5.0dip" android:layout_width="120.599976dip" android:layout_height="32.159973dip" android:layout_marginTop="20.099976dip" android:text="@string/interval_confirm" />
+</LinearLayout>

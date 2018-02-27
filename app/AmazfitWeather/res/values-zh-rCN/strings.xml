@@ -57,5 +57,6 @@
     <string name="fetch_failed_msg">请连接Amazfit手表App同步天气信息, 并确保已在App端添加地区.</string>
     <string name="date_time_format">MM月dd日</string>
     <string name="fetch_failed_help">请先同步天气信息</string>
+    <string name="cancel">关闭</string>
     <string name="detailed">天气详情</string>
 </resources>

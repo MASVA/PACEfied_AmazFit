@@ -7,12 +7,13 @@
     <item type="id" name="start_indoor_run">8</item>
     <item type="id" name="start_outdoor_riding">9</item>
     <item type="id" name="start_indoor_riding">10</item>
-    <item type="id" name="start_sport_history_record">11</item>
+    <item type="id" name="start_skiing">11</item>
     <item type="id" name="start_ellipticals">12</item>
     <item type="id" name="start_mountaineer">13</item>
     <item type="id" name="start_indoor_swim">14</item>
     <item type="id" name="start_open_water_swim">15</item>
     <item type="id" name="start_triathlon">16</item>
+    <item type="id" name="start_tennis">17</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
     <item type="id" name="node_rolling">false</item>
     <item type="id" name="iv_loading">false</item>
@@ -27,6 +28,17 @@
     <item type="id" name="help_content">false</item>
     <item type="id" name="fragment_container">false</item>
     <item type="id" name="alert_main_container">false</item>
+    <item type="id" name="root_view">false</item>
+    <item type="id" name="top_container">false</item>
+    <item type="id" name="interval_run_title">false</item>
+    <item type="id" name="waiting_gps_container">false</item>
+    <item type="id" name="waiting_gps_icon">false</item>
+    <item type="id" name="gps_status">false</item>
+    <item type="id" name="interval_run_data_container">false</item>
+    <item type="id" name="go_container">false</item>
+    <item type="id" name="go_next_btn">false</item>
+    <item type="id" name="interval_sport_list">false</item>
+    <item type="id" name="no_data_contrainer">false</item>
     <item type="id" name="main_list">false</item>
     <item type="id" name="linearLayout">false</item>
     <item type="id" name="battery_icon_container">false</item>
@@ -97,6 +109,9 @@
     <item type="id" name="train_plan_markd_desc">false</item>
     <item type="id" name="txt_confirm">false</item>
     <item type="id" name="title_img">false</item>
+    <item type="id" name="dialog_title">false</item>
+    <item type="id" name="dialog_remind">false</item>
+    <item type="id" name="positiveButton">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
     <item type="id" name="running_container">false</item>
@@ -124,15 +139,12 @@
     <item type="id" name="total_time_linear">false</item>
     <item type="id" name="exchange_title">false</item>
     <item type="id" name="sport_type_txt">false</item>
-    <item type="id" name="root_view">false</item>
     <item type="id" name="failed_img">false</item>
     <item type="id" name="content">false</item>
     <item type="id" name="click_btn">false</item>
     <item type="id" name="wait_gps_progress_view">false</item>
     <item type="id" name="sport_wear_list_view">false</item>
     <item type="id" name="sport_type_title">false</item>
-    <item type="id" name="waiting_gps_container">false</item>
-    <item type="id" name="waiting_gps_icon">false</item>
     <item type="id" name="waiting_gps">false</item>
     <item type="id" name="down_flag">false</item>
     <item type="id" name="item_value">false</item>
@@ -204,6 +216,9 @@
     <item type="id" name="param_container">false</item>
     <item type="id" name="cur_altitude_title">false</item>
     <item type="id" name="climb_up_title">false</item>
+    <item type="id" name="lnglat">false</item>
+    <item type="id" name="latvalue">false</item>
+    <item type="id" name="lngvalue">false</item>
     <item type="id" name="narrow">false</item>
     <item type="id" name="img_narrow">false</item>
     <item type="id" name="enlarge">false</item>
@@ -213,6 +228,7 @@
     <item type="id" name="vo2_max_level_status">false</item>
     <item type="id" name="ll_vo2_max_title">false</item>
     <item type="id" name="base_title">false</item>
+    <item type="id" name="vo2_max_simple">false</item>
     <item type="id" name="history_detail_sport_distance_desc">false</item>
     <item type="id" name="history_detail_sport_distance">false</item>
     <item type="id" name="history_detail_sport_cost_time_desc">false</item>
@@ -270,8 +286,7 @@
     <item type="id" name="te_value">false</item>
     <item type="id" name="time_value">false</item>
     <item type="id" name="dis_value">false</item>
-    <item type="id" name="go_next_btn">false</item>
-    <item type="id" name="gps_status">false</item>
+    <item type="id" name="distance_unit">false</item>
     <item type="id" name="second_page">false</item>
     <item type="id" name="vo2max_help_click_container">false</item>
     <item type="id" name="sport_result_up_and_down">false</item>
@@ -291,6 +306,8 @@
     <item type="id" name="start_btn">false</item>
     <item type="id" name="heart_img">false</item>
     <item type="id" name="heart_value">false</item>
+    <item type="id" name="interval_run_unit">false</item>
+    <item type="id" name="interval_run_value">false</item>
     <item type="id" name="lap_num">false</item>
     <item type="id" name="lap_time">false</item>
     <item type="id" name="lap_dis">false</item>
@@ -332,6 +349,13 @@
     <item type="id" name="sport_head_value">false</item>
     <item type="id" name="sport_head_unit">false</item>
     <item type="id" name="sport_cost_time">false</item>
+    <item type="id" name="item_top_container">false</item>
+    <item type="id" name="start_toggle_item">false</item>
+    <item type="id" name="item_need_do">false</item>
+    <item type="id" name="rl_number_container">false</item>
+    <item type="id" name="item_unit_container">false</item>
+    <item type="id" name="center_container">false</item>
+    <item type="id" name="item_top_value">false</item>
     <item type="id" name="item_unit_desc">false</item>
     <item type="id" name="mixed_title_container">false</item>
     <item type="id" name="time_title">false</item>
@@ -339,8 +363,7 @@
     <item type="id" name="battery_view">false</item>
     <item type="id" name="pager">false</item>
     <item type="id" name="am_pm_img">false</item>
-    <item type="id" name="item_top_value">false</item>
-    <item type="id" name="item_unit_container">false</item>
+    <item type="id" name="item_value_right_remind">false</item>
     <item type="id" name="exchange_container">false</item>
     <item type="id" name="exchange_view">false</item>
     <item type="id" name="anchor_view">false</item>
@@ -372,7 +395,6 @@
     <item type="id" name="plug">false</item>
     <item type="id" name="confirm">false</item>
     <item type="id" name="button_empty">false</item>
-    <item type="id" name="positiveButton">false</item>
     <item type="id" name="negativeButton">false</item>
     <item type="id" name="select_btn">false</item>
     <item type="id" name="test_text">false</item>

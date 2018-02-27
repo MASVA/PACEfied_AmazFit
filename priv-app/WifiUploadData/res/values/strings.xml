@@ -13,7 +13,7 @@
     <string name="notice_text_success_top">data upload completed</string>
     <string name="notice_text_success_bottom">Data can be viewed in Amazfit Watch app</string>
     <string name="notice_text_failed_top">Data upload failed</string>
-    <string name="net_failed">Please make sure Pace is connected to Wifi</string>
+    <string name="net_failed">Please make sure watch is connected to Wifi</string>
     <string name="date">Timestamp:</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
@@ -26,7 +26,7 @@
     <string name="did_not_connect_assist">Please connect to Amazfit Watch app to refresh access token in order to upload data to the server</string>
     <string name="upload_failed_full">Data upload did not complete, exit now?</string>
     <string name="percent_sign">%</string>
-    <string name="please_keep_wifi_connected">Please keep Pace connected to Wi-Fi</string>
+    <string name="please_keep_wifi_connected">Please maintain Wi-Fi connection</string>
     <string name="init_wifi">Connecting to Wi-Fi</string>
     <string name="init_user">Verifying access token</string>
     <string name="init_app">Connecting to Amazfit Watch app</string>

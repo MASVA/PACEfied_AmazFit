@@ -16,10 +16,16 @@
     <dimen name="settings_item_layout_drawing_top">-70.0dip</dimen>
     <dimen name="hmdialog_text_size">17.0sp</dimen>
     <dimen name="hmdialog_text_lineSpacingExtra">4.0dip</dimen>
+    <dimen name="hmdialog_text_pading_left">15.0dip</dimen>
+    <dimen name="hmdialog_text_pading_right">15.0dip</dimen>
     <dimen name="confirm_dialog_1_text_size">14.599976sp</dimen>
     <dimen name="confirm_dialog_1_text_linesize">2.0dip</dimen>
+    <dimen name="confirm_dialog_1_pading_left">20.0dip</dimen>
+    <dimen name="confirm_dialog_1_pading_right">20.0dip</dimen>
     <dimen name="confirm_dialog_2_text_size">15.599976sp</dimen>
     <dimen name="confirm_dialog_2_text_linesize">2.0dip</dimen>
+    <dimen name="confirm_dialog_2_pading_left">23.0dip</dimen>
+    <dimen name="confirm_dialog_2_pading_right">23.0dip</dimen>
     <dimen name="header_txt_size">21.299988sp</dimen>
     <dimen name="common_txt_size">18.699982sp</dimen>
     <dimen name="common_txt_l_size">16.0sp</dimen>

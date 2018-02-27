@@ -13,7 +13,7 @@
                 </RelativeLayout>
                 <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@id/climbed_floor_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip">
                     <TextView android:textSize="12.0sp" android:layout_gravity="center_vertical" android:id="@id/climbing_floor" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/climbed_floors" />
-                    <com.huami.watch.health.widget.DataTextView android:textSize="12.0sp" android:layout_gravity="center_vertical" android:id="@id/floor_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" />
+                    <com.huami.watch.health.widget.DataTextView android:textSize="20.0sp" android:layout_gravity="center_vertical" android:id="@id/floor_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginRight="2.0dip" />
                     <TextView android:textSize="12.0sp" android:layout_gravity="center_vertical" android:id="@id/floor_unit" android:layout_width="wrap_content" android:layout_height="wrap_content" />
                 </LinearLayout>
             </LinearLayout>

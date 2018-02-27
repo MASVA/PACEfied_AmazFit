@@ -122,4 +122,6 @@
     <item type="id" name="music_settings">false</item>
     <item type="id" name="dialog_no_music_and_connect_ble_container">false</item>
     <item type="id" name="dialog_not_complete_music_container">false</item>
+    <item type="id" name="loading_bg">false</item>
+    <item type="id" name="loading_view">false</item>
 </resources>

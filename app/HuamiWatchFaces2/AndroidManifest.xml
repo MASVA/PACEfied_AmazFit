@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.watchface.analogyellow" platformBuildVersionCode="22" platformBuildVersionName="5.1-81">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.huami.watch.watchface.analogyellow" platformBuildVersionCode="22" platformBuildVersionName="5.1-96">
     <uses-permission android:name="com.google.android.permission.PROVIDE_BACKGROUND"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
     <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
@@ -83,6 +83,21 @@
         <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.MountainWatchService">
             <intent-filter>
                 <action android:name="com.huami.watch.watchface.sportface.MountainWatchService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.SkiingService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.SkiingService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.RunTrainModeService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.RunTrainModeService"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:exported="true" android:name="com.huami.watch.watchface.slpt.sport.TennisService">
+            <intent-filter>
+                <action android:name="com.huami.watch.watchface.sportface.TennisService"/>
             </intent-filter>
         </service>
         <receiver android:name="com.huami.watch.watchface.slpt.Lock.SlptLockScreenService$ClearSportReceiver"/>
@@ -174,6 +189,7 @@
             </intent-filter>
         </service>
         <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportTwentySlpt"/>
+        <service android:name="com.huami.watch.watchface.DigitalWatchFaceSportTwentyOneSlpt"/>
         <service android:name="com.huami.watch.watchface.ExternalWatchFace" android:permission="android.permission.BIND_WALLPAPER">
             <meta-data android:name="android.service.wallpaper" android:resource="@xml/watch_face"/>
             <intent-filter>

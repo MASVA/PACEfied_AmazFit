@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-81">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.huami.watch.wearservices" platformBuildVersionCode="22" platformBuildVersionName="5.1-96">
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.BLUETOOTH"/>
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -32,6 +32,11 @@
         <service android:enabled="true" android:exported="true" android:name="com.huami.watch.wifitrans.control.server.WifiTransServer">
             <intent-filter>
                 <action android:name="com.huami.watch.wearservices.WIFI_TRANS_SERVICE"/>
+            </intent-filter>
+        </service>
+        <service android:enabled="true" android:name="com.huami.watch.transdata.DataService" android:process="com.huami.watch.wearservices">
+            <intent-filter>
+                <action android:name="com.huami.watch.wearservices.DATA_SERVICE"/>
             </intent-filter>
         </service>
         <service android:enabled="true" android:name="com.huami.watchface.SlptWatchService"/>

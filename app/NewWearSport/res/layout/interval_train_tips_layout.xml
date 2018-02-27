@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="21.299988sp" android:textColor="#ff00ff00" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="66.66998dip" android:text="@string/skiing_remind_next_interval_train" style="@style/sport_text_style" />
+    <RelativeLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <com.huami.watch.newsport.ui.view.NumberTextView android:textSize="53.299988sp" android:id="@id/interval_run_value" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/sport_num_text_style" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="30.669983sp" android:id="@id/interval_run_unit" android:paddingTop="2.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/interval_run_value" android:layout_alignBottom="@id/interval_run_value" style="@style/sport_text_style" />
+    </RelativeLayout>
+</LinearLayout>

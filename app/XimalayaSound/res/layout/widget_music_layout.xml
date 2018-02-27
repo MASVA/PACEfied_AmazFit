@@ -32,4 +32,7 @@
     </RelativeLayout>
     <include android:id="@id/dialog_no_music_and_connect_ble_container" android:visibility="gone" layout="@layout/music_not_connect_ble_alert_dialog" />
     <include android:id="@id/dialog_not_complete_music_container" android:visibility="gone" layout="@layout/music_not_found_alert_dialog" />
+    <FrameLayout android:id="@id/loading_bg" android:background="@android:color/black" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:layout_gravity="center" android:id="@id/loading_view" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
 </RelativeLayout>

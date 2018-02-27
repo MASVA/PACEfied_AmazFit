@@ -304,16 +304,17 @@
     <public type="string" name="agreement_title" id="0x7f0a0002" />
     <public type="string" name="orig_data_collect" id="0x7f0a0003" />
     <public type="string" name="message" id="0x7f0a0004" />
-    <public type="string" name="allow" id="0x7f0a0005" />
-    <public type="string" name="exit" id="0x7f0a0006" />
-    <public type="string" name="heart_rate_collection_on" id="0x7f0a0007" />
-    <public type="string" name="heart_rate_collection_off" id="0x7f0a0008" />
-    <public type="string" name="saving_data" id="0x7f0a0009" />
-    <public type="string" name="upload_data" id="0x7f0a000a" />
-    <public type="string" name="upload_success" id="0x7f0a000b" />
-    <public type="string" name="upload_failed" id="0x7f0a000c" />
-    <public type="string" name="air_mode_alert_title" id="0x7f0a000d" />
-    <public type="string" name="air_mode_alert_message" id="0x7f0a000e" />
+    <public type="string" name="message_everest" id="0x7f0a0005" />
+    <public type="string" name="allow" id="0x7f0a0006" />
+    <public type="string" name="exit" id="0x7f0a0007" />
+    <public type="string" name="heart_rate_collection_on" id="0x7f0a0008" />
+    <public type="string" name="heart_rate_collection_off" id="0x7f0a0009" />
+    <public type="string" name="saving_data" id="0x7f0a000a" />
+    <public type="string" name="upload_data" id="0x7f0a000b" />
+    <public type="string" name="upload_success" id="0x7f0a000c" />
+    <public type="string" name="upload_failed" id="0x7f0a000d" />
+    <public type="string" name="air_mode_alert_title" id="0x7f0a000e" />
+    <public type="string" name="air_mode_alert_message" id="0x7f0a000f" />
     <public type="string" name="average_text" id="0x7f0a0014" />
     <public type="string" name="menu_item_high_light_scale_factor" id="0x7f0a0015" />
     <public type="string" name="picker_default_positive_text" id="0x7f0a0016" />
@@ -332,7 +333,6 @@
     <public type="string" name="widget_currentstep_sleep_title" id="0x7f0a0021" />
     <public type="string" name="widget_currentstep_sleep_no" id="0x7f0a0022" />
     <public type="string" name="widget_currentstep_activity_no" id="0x7f0a0023" />
-    <public type="string" name="message_everest" id="0x7f0a000f" />
     <public type="string" name="hbeacon_on" id="0x7f0a0010" />
     <public type="string" name="hbeacon_off" id="0x7f0a0011" />
     <public type="string" name="hbeacon_on_confirm_message" id="0x7f0a0012" />

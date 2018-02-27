@@ -142,6 +142,7 @@
     <string name="settings_item_title_target_calorie_remind">目标消耗</string>
     <string name="settings_item_value_target_calorie">%1$dkCal</string>
     <string name="settings_item_value_swim_length">%1$s米</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
     <string name="settings_cal_unit">千卡</string>
     <string name="setting_auto_pause_speed">小于%1$s公里/时</string>
     <string name="setting_auto_pause_pace">慢于%1$s时</string>
@@ -222,7 +223,9 @@
     <string name="sport_pause_swim_dis_unit">运动距离</string>
     <string name="sport_pause_normal_dis_type">运动里程 </string>
     <string name="sport_pause_normal_dis_unit">运动里程</string>
+    <string name="sport_pause_normal_stroke_unit">击打次数</string>
     <string name="sport_auto_lap_dis">%1$s公里用时</string>
+    <string name="sport_auto_lap_dis_imperial">%1$s英里用时</string>
     <string name="sport_graph_title_ave">平均</string>
     <string name="sport_graph_title_max">最高</string>
     <string name="sport_graph_title_min">最低</string>
@@ -245,6 +248,7 @@
     <string name="sport_remind_pace_unit">/km</string>
     <string name="sport_lap_manual_current">当前</string>
     <string name="sport_lap_swim_length_time">%1$s米用时</string>
+    <string name="sport_lap_swim_length_time_imperial">%1$s英尺用时</string>
     <string name="sport_swim_style">泳姿</string>
     <string name="swim_free_style">自由泳</string>
     <string name="swim_medlyrelay">混合</string>
@@ -264,6 +268,7 @@
     <string name="history_riding_exchange_title">骑行换项用时</string>
     <string name="sport_pause_time_tips">暂停时间</string>
     <string name="sport_stride_unit">厘米</string>
+    <string name="sport_stride_unit_imperial">英寸</string>
     <string name="end_last_sport_tips">请先结束%1$s运动</string>
     <string name="export_route_trail">轨迹导出</string>
     <string name="sport_dlg_msg_hint_cancel">"是否取消本次轨迹导出?
@@ -287,6 +292,8 @@
     <string name="sport_month_settings">设置</string>
     <string name="sport_month_target">每月运动目标</string>
     <string name="sport_month_sport_title">选择运动</string>
+    <string name="sport_widget_title_tennis">网球</string>
+    <string name="sport_widget_title_tennising">网球中</string>
     <string name="start_mix_sport">开始混合运动</string>
     <string name="start_single_sport">开始单次运动</string>
     <string name="pause_sport">暂停运动</string>
@@ -330,6 +337,7 @@
     <string name="gps_close_notification_content">由于长时间未开始运动,手表将在1分钟后关闭GPS以节省电量。</string>
     <string name="sport_te_desc"><Data>本运动效果&lt;font color=#FFFF00>适中&lt;/font>,心肺能力得到了锻炼和提升!</Data></string>
     <string name="last_kilo_meters_times">上公里用时</string>
+    <string name="last_mi_times">上英里用时</string>
     <string name="setting_sport_title_exteed_region_tips">超出%1$s区间提醒</string>
     <string name="sport_history_bottom_remind">"更多记录请到Amazfit
 手表app查看"</string>
@@ -337,6 +345,50 @@
     <string name="per_correspond_km">每%1$d公里</string>
     <string name="per_correspond_mi">每%1$d英里</string>
     <string name="more_operation">更多操作</string>
+    <string name="detail_route_detail_train_lap_title">间歇分段详情</string>
+    <string name="this_time_need_run_mileage">本次需跑%1$s公里</string>
+    <string name="this_time_need_run_mileage_mile">本次需跑%1$s英里</string>
+    <string name="this_time_need_run_total_time">本次需跑%1$s</string>
+    <string name="data_item_train_total_mileage">训练总里程</string>
+    <string name="data_item_train_total_times">训练总用时</string>
+    <string name="data_item_surplus_distance">本次剩余里程</string>
+    <string name="data_item_surplus_time">本次剩余时间</string>
+    <string name="start_change_item">即将换项</string>
+    <string name="near_to_finish_item">即将完成</string>
+    <string name="click_finsh_this_train_unit">单击下键完成本段</string>
+    <string name="has_no_train_unit_remind">请先在Amazfit手表App中添加间歇训练，并同步到手表</string>
+    <string name="interval_segment_details">间歇分段详情</string>
+    <string name="interval_train_tips_title">训练期间运动目标及提醒等设置将不再生效。</string>
+    <string name="interval_train_tips_content">(安全心率提醒除外)</string>
+    <string name="interval_confirm">我知道了</string>
+    <string name="test_html_txt" formatted="false">%1s分%2s秒/ %3s分钟</string>
+    <string name="detail_lap_serial_number">序号</string>
+    <string name="sport_widget_title_skiing">滑雪</string>
+    <string name="sport_widget_title_in_skiing">滑雪中</string>
+    <string name="skiing_history_downhill_title">滑降</string>
+    <string name="skiing_downhill_num">滑降次数</string>
+    <string name="skiing_downhill_single_descend">本次滑降</string>
+    <string name="skiing_downhill_max_speed">最大速度</string>
+    <string name="skiing_downhill_elev_loss">滑降落差</string>
+    <string name="skiing_downhill_max_elev_loss">最大滑降落差</string>
+    <string name="skiing_downhill_total_elev_loss">累计滑降落差</string>
+    <string name="skiing_rt_downhill_desecnd">累计滑降</string>
+    <string name="skiing_downhill_desecnd">累计滑降里程</string>
+    <string name="skiing_cur_lat_lng_title">经纬度</string>
+    <string name="speed_remind_title">高速度预警</string>
+    <string name="speed_too_low_remind_title">速度过快</string>
+    <string name="skiing_lap_title">滑雪分段详情</string>
+    <string name="skiing_remind_next_interval_train">下一间歇</string>
+    <string name="skiing_remind_click_finsh_this_train_unit">单击下键时</string>
+    <string name="skiing_interval_train_complete">间歇已完成</string>
+    <string name="skiing_interval_train_complete_pause_tip">运动即将暂停</string>
+    <string name="skiing_above_skiing_spped">高于%1$s提醒</string>
+    <string name="skiing_lap_downhill_dis_title">滑降里程</string>
+    <string name="sport_tennis_strokes">挥拍次数</string>
+    <string name="sport_tennis_forehand">正手次数</string>
+    <string name="sport_tennis_backhand">反手次数</string>
+    <string name="sport_tennis_serve">发球次数</string>
+    <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">滑降次数过少，无法保存，确定结束吗？</string>
     <string name="experience_title">请先设置个人信息否则数据会有较大偏差</string>
     <string name="recovery_time_hour">小时</string>
     <string name="sport_vo2_max">VO2max</string>
@@ -356,11 +408,11 @@
     <string name="train_load_suggess_status_recovery">"运动强度过高，
 请避免运动过度。"</string>
     <string name="train_load_suggess_status_over">注意!运动过度!</string>
-    <string name="real_time_perpormance_level_very_good">极佳</string>
+    <string name="real_time_perpormance_level_very_good">良好</string>
     <string name="real_time_perpormance_level_good">良好</string>
-    <string name="real_time_perpormance_level_average">一般</string>
+    <string name="real_time_perpormance_level_average">正常</string>
     <string name="real_time_perpormance_level_fatigued">疲劳</string>
-    <string name="real_time_perpormance_level_very_fatigued">过度疲劳</string>
+    <string name="real_time_perpormance_level_very_fatigued">疲劳</string>
     <string name="sport_target_remind_head_title">目标推荐</string>
     <string name="sport_target_remind_status_rest_or_light">跑后恢复</string>
     <string name="sport_target_remind_status_maintaining">保持运动体能</string>
@@ -369,6 +421,7 @@
     <string name="sport_target_remind_title_01">3.5TE|30-25分钟|5公里</string>
     <string name="sport_target_remind_title_01_normal">%1$sTE|%2$s分钟|%3$s公里</string>
     <string name="sport_target_remind_time_min">分钟</string>
+    <string name="sport_run_train_title">跑步训练</string>
     <string name="sport_tartget_tips">本次目标: %1$s</string>
     <string name="sport_target_remind_desc_01">手表会结合你过去的运动表现为你推荐最适合的运动方法。</string>
     <string name="sport_te_desc_level_01">本次运动对有氧运动能力提升无效果。</string>
@@ -379,7 +432,7 @@
     <string name="sport_te_desc_level_06">运动强度超出身体负荷，非专业选手请做好运动后的恢复。</string>
     <string name="first_beat_remind_txt_01">This is a good pace。</string>
     <string name="first_beat_remind_txt_02">This is a good pace.more minutes to keep you fit。</string>
-    <string name="sport_history_recovery_remind">在完全恢复之前,可以进行些恢复跑来缓解对身体的伤害</string>
+    <string name="sport_history_recovery_remind">在完全恢复之前,可以进行些恢复运动来缓解对身体的伤害</string>
     <string name="daily_propermance_has_no_data">未检测到数据</string>
     <string name="first_beat_help_title_vo2_max">最大摄氧量</string>
     <string name="first_beat_help_title_train_efffect">运动效果TE</string>
@@ -469,6 +522,25 @@
     <string name="real_time_every_good">非常好</string>
     <string name="real_time_run_slower">放慢速度</string>
     <string name="real_time_target_finish">目标已完成</string>
+    <string name="real_time_guide_title_1">保持速度</string>
+    <string name="real_time_guide_title_2">保持速度</string>
+    <string name="real_time_guide_title_3">跑快些</string>
+    <string name="real_time_guide_title_6">保持速度</string>
+    <string name="real_time_guide_title_7">跑快些</string>
+    <string name="real_time_guide_title_10">保持速度</string>
+    <string name="real_time_guide_title_11">跑快些</string>
+    <string name="real_time_guide_title_14">保持速度</string>
+    <string name="real_time_guide_title_22">保持速度</string>
+    <string name="real_time_guide_title_25">跑快些</string>
+    <string name="real_time_guide_title_26">跑快些</string>
+    <string name="real_time_guide_title_27">目标已完成</string>
+    <string name="real_time_guide_title_28">非常好</string>
+    <string name="real_time_guide_title_30">非常好</string>
+    <string name="real_time_guide_title_31">非常好</string>
+    <string name="real_time_guide_title_32">非常好</string>
+    <string name="real_time_guide_title_33">放慢速度</string>
+    <string name="real_time_guide_title_34">放慢速度</string>
+    <string name="real_time_guide_title_35">放慢速度</string>
     <string name="real_time_guide_desc_1">加油！非常好！</string>
     <string name="real_time_guide_desc_2">再跑%1$s分钟！可以帮助维持你的有氧运动能力。</string>
     <string name="real_time_guide_desc_3">加速！争取达到更好的运动效果！</string>
@@ -505,6 +577,7 @@
     <string name="sport_widget_title_setting">运动设置</string>
     <string name="sport_widget_title_music">运动音乐</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
+    <string name="sport_widget_title_interval_run">跑步 (间歇)</string>
     <string name="sport_app_name">运动</string>
     <string name="sport_item_running_title">路 跑</string>
     <string name="sport_item_walking_title">健 走</string>
@@ -530,7 +603,9 @@
     <string name="running_distance_desc">里程</string>
     <string name="running_heartrate_desc">心率</string>
     <string name="running_avg_pace_desc">平均配速</string>
+    <string name="running_avg_pace_desc_simple">平均配速</string>
     <string name="running_avg_speed_desc">平均速度</string>
+    <string name="running_avg_speed_desc_simple">平均速度</string>
     <string name="running_avg_step_freq_desc">平均步频</string>
     <string name="running_pace_unit">/公里</string>
     <string name="running_calorie_unit">千卡</string>
@@ -602,6 +677,7 @@
     <string name="remind_heart_rate_value_after">次/分</string>
     <string name="remind_heart_rate_suggestion">请逐渐降低速度调整</string>
     <string name="remind_pace_too_low">配速过慢</string>
+    <string name="remind_pace_too_fast">配速过快</string>
     <string name="remind_pace_current">当前</string>
     <string name="remind_pace_target">目标</string>
     <string name="remind_pace_pace_unit">/公里</string>
@@ -753,6 +829,7 @@
     <string name="picker_default_nagetive_text">关闭</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="sport_history_total_stokes">总击打次数</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>

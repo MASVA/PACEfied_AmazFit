@@ -38,9 +38,15 @@
     <item type="id" name="reboot">30</item>
     <item type="id" name="refresh_screen_switch">31</item>
     <item type="id" name="watchface">32</item>
+    <item type="id" name="anti_lost_remind">34</item>
+    <item type="id" name="far_away_remind">35</item>
     <item type="id" name="applications">36</item>
     <item type="id" name="long_sit">37</item>
     <item type="id" name="datacenter">38</item>
+    <item type="id" name="long_key_start">39</item>
+    <item type="id" name="long_key_sport">40</item>
+    <item type="id" name="long_key_plugins">41</item>
+    <item type="id" name="phone_lost_remind">42</item>
     <item type="id" name="textView1">false</item>
     <item type="id" name="textView2">false</item>
     <item type="id" name="view_pager">false</item>
@@ -76,6 +82,7 @@
     <item type="id" name="right_btn">false</item>
     <item type="id" name="leftTextView">false</item>
     <item type="id" name="rightTextView">false</item>
+    <item type="id" name="list_pick">false</item>
     <item type="id" name="button_1">false</item>
     <item type="id" name="button_2">false</item>
     <item type="id" name="anchor_view">false</item>

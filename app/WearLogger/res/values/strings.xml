@@ -15,19 +15,18 @@
     <string name="collecting">Report generating...</string>
     <string name="uploading">Uploading...</string>
     <string name="compressing">Report generating...</string>
-    <string name="upload_finish">Log uploading completed</string>
-    <string name="upload_failed">"Uploading failed,
-please retry"</string>
+    <string name="upload_finish">Uploading completed</string>
+    <string name="upload_failed">Uploading failed</string>
     <string name="open_wifi_hint">Opening Wi-Fi...</string>
-    <string name="please_keep_wifi_connected">"Please keep the watch 
-connected to WiFi"</string>
+    <string name="please_keep_wifi_connected">"Please maintain
+Wi-Fi connection"</string>
     <string name="percent_sign">%</string>
     <string name="zero">0</string>
     <string name="has_log_file_message">There are unuploaded error reports, continue to upload?</string>
     <string name="upload_failed_token_title">Uploading failed</string>
     <string name="upload_failed_token_message">Cannot upload error reports. Please connect with the Amazfit Watch App and try again</string>
     <string name="re_collecting">Re-generate</string>
-    <string name="continue_upload">Continue Upload</string>
+    <string name="continue_upload">Continue</string>
     <string name="alllog">抓取全部log</string>
     <string name="moreoptions">更多选项</string>
     <string name="allupload">全部上传</string>

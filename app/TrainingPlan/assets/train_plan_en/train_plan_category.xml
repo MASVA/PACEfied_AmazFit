@@ -25,7 +25,7 @@
             <copyWrite>Suitable for advanced runners. This training helps to improve your aerobic fitness and muscle strength.</copyWrite>
         </trainplan>
         <trainplan id="4">
-            <title>Half marathon</title>
+            <title>HalfMarathon</title>
             <type>4</type>
             <orderId>4</orderId>
             <totalLength>307.4</totalLength>

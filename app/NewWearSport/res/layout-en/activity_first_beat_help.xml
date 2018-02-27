@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmKeyEventScrollView android:id="@id/scroll_view" android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip">
+        <com.huami.watch.common.widget.HmTextView android:textSize="18.699982sp" android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/help_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:layout_marginTop="30.149994dip" android:layout_marginRight="15.0dip" android:text="@string/first_beat_help_title_vo2_max" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="16.0sp" android:textColor="@color/default_font_color_white" android:id="@id/help_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="13.969971dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="30.0dip" android:lineSpacingExtra="5.0dip" />
+    </com.huami.watch.common.widget.HmLinearLayout>
+</com.huami.watch.common.widget.HmKeyEventScrollView>

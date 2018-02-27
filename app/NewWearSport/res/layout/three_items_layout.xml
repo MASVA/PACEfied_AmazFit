@@ -3,14 +3,14 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <include android:id="@id/time_battery_contanier" android:layout_width="fill_parent" android:layout_height="@dimen/sport_main_item_title_height" layout="@layout/merge_time_battery" />
     <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/time_battery_contanier">
-        <com.huami.watch.common.widget.HmRelativeLayout android:id="@id/first_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.huami.watch.common.widget.HmLinearLayout android:id="@id/first_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
             <include android:id="@id/first_item" layout="@layout/merge_vertical_item" />
-        </com.huami.watch.common.widget.HmRelativeLayout>
-        <com.huami.watch.common.widget.HmRelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/sport_main_item_line_width" android:layout_weight="1.0">
+        </com.huami.watch.common.widget.HmLinearLayout>
+        <com.huami.watch.common.widget.HmLinearLayout android:id="@id/second_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/sport_main_item_line_width" android:layout_weight="1.0">
             <include android:id="@id/sec_item" layout="@layout/merge_vertical_item" />
-        </com.huami.watch.common.widget.HmRelativeLayout>
-        <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/sport_main_item_line_width" android:layout_weight="1.0">
+        </com.huami.watch.common.widget.HmLinearLayout>
+        <com.huami.watch.common.widget.HmLinearLayout android:id="@id/third_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="@dimen/sport_main_item_line_width" android:layout_weight="1.0">
             <include android:id="@id/third_item" layout="@layout/merge_vertical_item" />
-        </RelativeLayout>
+        </com.huami.watch.common.widget.HmLinearLayout>
     </LinearLayout>
 </RelativeLayout>
