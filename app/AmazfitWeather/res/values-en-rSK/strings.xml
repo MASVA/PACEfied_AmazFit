@@ -47,7 +47,7 @@
     <string name="air_moderate_polluted">Stredne znečistené</string>
     <string name="air_heavily_polluted">Silne znečistené</string>
     <string name="air_severely_polluted">Výrazne znečistené</string>
-    <string name="no_outdoor_info">Index pohybu nedostupný</string>
+    <string name="no_outdoor_info">Nedostupné</string>
     <string name="outdoor_info_notsuit">Nevhodné na vonkajšie športy</string>
     <string name="outdoor_info_suit">Vhodné na vonkajšie športy</string>
     <string name="wind_strength">Sila vetra</string>
