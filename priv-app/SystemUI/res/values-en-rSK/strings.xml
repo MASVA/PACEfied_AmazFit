@@ -13,7 +13,7 @@
     <string name="status_bar_recent_inspect_item_title">App info</string>
     <string name="status_bar_no_recent_apps">Vaša posledné obrazovky zobrazíte tu</string>
     <string name="status_bar_accessibility_dismiss_recents">Zrušiť nedávne aplikácie</string>
-    <string name="status_bar_no_notifications_title">Bez upozornení</string>
+    <string name="status_bar_no_notifications_title">Žiadne upozornenia</string>
     <string name="status_bar_ongoing_events_title">Prebiehajúce</string>
     <string name="status_bar_latest_events_title">Upozornenia</string>
     <string name="battery_low_title">Baterie je temer vybitá</string>
