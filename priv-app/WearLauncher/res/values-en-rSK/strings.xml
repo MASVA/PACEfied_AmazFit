@@ -113,7 +113,7 @@ Nové notifikácie sa viac nebudú zobrazovať."</string>
     <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">dd/MM HH:mm</string>
     <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
-    <string name="notification_none">Bez upozornení</string>
+    <string name="notification_none">Žiadne upozornenia</string>
     <string name="notification_allclear">Vymazať zoznam upozornení</string>
     <string name="notification_allclear_confirm">Vymazané upozornenia sa neskôr nebudú dať znovu zobraziť na hodinkách, pokračovať?</string>
     <string name="notification_checking_bluetooth">Kontrolovanie Bluetooth pripojenia...</string>
