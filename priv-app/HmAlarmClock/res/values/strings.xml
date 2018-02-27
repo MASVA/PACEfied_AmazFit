@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="day_concat">/</string>
     <string name="app_name">HmDeskClock</string>
     <string name="every_day">Every day</string>
     <string name="never">Never</string>
-    <string name="day_concat">/</string>
     <string name="default_label">Alarm</string>
     <string name="day">1 day</string>
     <string name="days">%s days</string>

@@ -606,7 +606,6 @@
     <public type="id" name="text" id="0x7f0a007b" />
     <public type="id" name="info" id="0x7f0a007c" />
     <public type="id" name="end_padder" id="0x7f0a007d" />
-    <public type="id" name="action_settings" id="0x7f0a007e" />
     <public type="string" name="abc_action_mode_done" id="0x7f0b0000" />
     <public type="string" name="abc_action_bar_home_description" id="0x7f0b0001" />
     <public type="string" name="abc_action_bar_up_description" id="0x7f0b0002" />
@@ -626,20 +625,43 @@
     <public type="string" name="abc_shareactionprovider_share_with" id="0x7f0b0010" />
     <public type="string" name="status_bar_notification_info_overflow" id="0x7f0b0011" />
     <public type="string" name="app_name" id="0x7f0b0012" />
-    <public type="string" name="action_settings" id="0x7f0b0013" />
-    <public type="string" name="section_format" id="0x7f0b0014" />
-    <public type="string" name="btn_cancel" id="0x7f0b0015" />
-    <public type="string" name="btn_ok" id="0x7f0b0016" />
-    <public type="string" name="prev_item" id="0x7f0b0017" />
-    <public type="string" name="next_item" id="0x7f0b0018" />
-    <public type="string" name="retest" id="0x7f0b0019" />
-    <public type="string" name="start_ppg" id="0x7f0b001a" />
-    <public type="string" name="start_all" id="0x7f0b001b" />
-    <public type="string" name="mic" id="0x7f0b001c" />
-    <public type="string" name="start" id="0x7f0b001d" />
-    <public type="string" name="start_gps_test" id="0x7f0b001e" />
-    <public type="string" name="test_vibrator" id="0x7f0b001f" />
-    <public type="string" name="test_tp" id="0x7f0b0020" />
+    <public type="string" name="btn_cancel" id="0x7f0b0013" />
+    <public type="string" name="btn_ok" id="0x7f0b0014" />
+    <public type="string" name="prev_item" id="0x7f0b0015" />
+    <public type="string" name="next_item" id="0x7f0b0016" />
+    <public type="string" name="retest" id="0x7f0b0017" />
+    <public type="string" name="start_ppg" id="0x7f0b0018" />
+    <public type="string" name="start_all" id="0x7f0b0019" />
+    <public type="string" name="mic" id="0x7f0b001a" />
+    <public type="string" name="start" id="0x7f0b001b" />
+    <public type="string" name="start_gps_test" id="0x7f0b001c" />
+    <public type="string" name="hardware_vibrator_tip" id="0x7f0b001d" />
+    <public type="string" name="test_tp" id="0x7f0b001e" />
+    <public type="string" name="test_battery_consumption" id="0x7f0b001f" />
+    <public type="string" name="test_battery_adc_voltage" id="0x7f0b0020" />
+    <public type="string" name="test_battery_adc_version" id="0x7f0b0021" />
+    <public type="string" name="test_battery_level" id="0x7f0b0022" />
+    <public type="string" name="test_battery_charging" id="0x7f0b0023" />
+    <public type="string" name="battery_charging" id="0x7f0b0024" />
+    <public type="string" name="battery_uncharged" id="0x7f0b0025" />
+    <public type="string" name="test_sensor_light" id="0x7f0b0026" />
+    <public type="string" name="test_sensor_light_calibration" id="0x7f0b0027" />
+    <public type="string" name="test_vibrator_lcd_backlight" id="0x7f0b0028" />
+    <public type="string" name="test_vibrator" id="0x7f0b0029" />
+    <public type="string" name="test_sensor_magnetic" id="0x7f0b002a" />
+    <public type="string" name="test_sensor_acc" id="0x7f0b002b" />
+    <public type="string" name="test_sensor_gyroscope" id="0x7f0b002c" />
+    <public type="string" name="test_sensor_barometer" id="0x7f0b002d" />
+    <public type="string" name="test_sensor_barometer_new" id="0x7f0b002e" />
+    <public type="string" name="test_sensor_ppg" id="0x7f0b002f" />
+    <public type="string" name="start_complete_machine_test_conform_tip" id="0x7f0b0030" />
+    <public type="string" name="start_all_test_confirm_tip" id="0x7f0b0031" />
+    <public type="string" name="need_pass_tip" id="0x7f0b0032" />
+    <public type="string" name="need_power_off_tip" id="0x7f0b0033" />
+    <public type="string" name="confirm_yes" id="0x7f0b0034" />
+    <public type="string" name="confirm_no" id="0x7f0b0035" />
+    <public type="string" name="test_complete_tip" id="0x7f0b0036" />
+    <public type="string" name="test_gps_complete_tip" id="0x7f0b0037" />
     <public type="style" name="Widget.AppCompat.ActionBar" id="0x7f0c0000" />
     <public type="style" name="Widget.AppCompat.Light.ActionBar" id="0x7f0c0001" />
     <public type="style" name="Widget.AppCompat.ActionBar.Solid" id="0x7f0c0002" />
@@ -938,5 +960,4 @@
     <public type="style" name="Base.V21.Theme.AppCompat.Dialog" id="0x7f0c0122" />
     <public type="style" name="Base.V21.Theme.AppCompat.Light.Dialog" id="0x7f0c0123" />
     <public type="style" name="AppTheme.NoActionBar.SwipeToDismiss" id="0x7f0c0129" />
-    <public type="menu" name="menu_main" id="0x7f0d0000" />
 </resources>

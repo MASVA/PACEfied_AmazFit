@@ -44,7 +44,6 @@
     <string name="music_down_not_complete_content">退出后可在“音乐设置-豆瓣FM离线”更新歌曲。</string>
     <string name="sound_title">声音标题</string>
     <string name="announcer">主播</string>
-    <string name="remain_duration">-28:00</string>
     <string name="play_mode_single_loop">单曲循环</string>
     <string name="play_mode_ordered">顺序播放</string>
     <string name="play_mode_random">随机播放</string>
@@ -53,6 +52,11 @@
     <string name="confirm_exit">"歌单未完全下载,
 是否退出?"</string>
     <string name="music_download_cancel">歌曲下载已被停止</string>
+    <string name="stop_casting">Stop Casting</string>
+    <string name="label_pause">Pause</string>
+    <string name="label_play">Play</string>
+    <string name="label_previous">Previous</string>
+    <string name="label_next">Next</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>

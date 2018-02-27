@@ -12,7 +12,6 @@
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="locale_title">Select Language</string>
     <string name="music_name">Watercress FM</string>
-    <string name="music_download" formatted="false">%1d/%2d</string>
     <string name="music_download_in_progress">Song downloading...</string>
     <string name="music_no_wifi_title">Unable to download</string>
     <string name="music_download_fail_title">Song downloading failed</string>
@@ -23,7 +22,6 @@
     <string name="music_download_success">Song update successful</string>
     <string name="music_downloading">Downloading</string>
     <string name="music_fetch_list">Obtaining song list...</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Check the network</string>
     <string name="music_continue_downloading">Songs will continue to be downloaded</string>
     <string name="music_service_unavalible">DouBan service is Unavailable</string>
@@ -58,11 +56,13 @@
     <string name="music_down_not_complete_content">After logging out, songs can be updated in the Music settings - Watercress FM offline.</string>
     <string name="sound_title">Song title</string>
     <string name="announcer">Announcer</string>
-    <string name="remain_duration">-28:00</string>
     <string name="play_mode_single_loop">No repeat</string>
     <string name="play_mode_ordered">Play sequence</string>
     <string name="play_mode_random">Random play</string>
     <string name="play_mode_album_loop">Repeat album</string>
+    <string name="music_download" formatted="false">%1d/%2d</string>
+    <string name="music_downloading_noting">-/-</string>
+    <string name="remain_duration">-28:00</string>
     <string name="app_name">XimalayaSound</string>
     <string name="hello">Hello</string>
     <string name="favorite">Favorite</string>
