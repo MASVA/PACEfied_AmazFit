@@ -25,6 +25,9 @@
     <string name="about">A Propos</string>
     <string name="wear_habit">Poignée</string>
     <string name="bugreport">Report d\'Erreur</string>
+	<string name="applications">Apps</string>
+	<string name="long_sit">Alerte debout</string>
+	<string name="datacenter">Objectif jour</string>
     <string name="light_change">Rétro-Eclairage</string>
     <string name="wrist_up">Mouvement poignet</string>	
     <string name="auto_nodisturb">Période Silence</string>
@@ -45,6 +48,7 @@
     <string name="wifi_upload">Envoi</string>
     <string name="replace_watchface">Cadran</string>
     <string name="wifi_auto_upload_switch">Envoi Auto</string>
+	<string name="auto_bg">Rétroéclairage auto</string>
     <string name="nothing">Vide</string>
     <string name="about_title">A Propos</string>
     <string name="model">Modèle</string>
@@ -69,7 +73,13 @@
     <string name="closed">Off</string>
     <string name="air_plane_mode_note">"Mode Avion
  Le mode Avion met le Bluetooth et Wi-Fi en veille pour économiser de l\'énergie. Si vous devez utiliser des fonctions nécessitant BT / WiFi, désactivez le mode avion dans les paramètres système."</string>
-    <string name="nodisturb_open_string">On</string>
+    <string name="settings_long_sit_reminder">Alerte mouvement</string>
+    <string name="settings_off">Off</string>
+    <string name="settings_on">On</string>
+    <string name="settings_step_target">Objectif</string>
+    <string name="settings_step_unit">pas</string>
+    <string name="settings_target_reach_reminder">Alerte objectif</string>
+	<string name="nodisturb_open_string">On</string>
     <string name="nodisturb_close_string">Off</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Auto ne pas déranger</string>
@@ -153,7 +163,7 @@ Et à proximité"</string>
     <string name="male">Homme</string>
     <string name="female">Femme</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Année de Naissance"</string>
+	<string name="birth_year_unit">"Année de Naissance"</string>
     <string name="height_unit">"Taille 
 cm"</string>
     <string name="weight_unit">"Poids 
@@ -182,6 +192,13 @@ kg"</string>
     <string name="left_hand">Gauche</string>
     <string name="right_hand">Droit</string>
 <!--START of missed texts by Huami-->
+    <string name="setting_item_application">Application</string>
+    <string name="app_item_phone_anti_lost">Anti-perte iphone</string>
+    <string name="app_item_anti_lost_remind">Rappel anti-perte</string>
+    <string name="app_item_far_away_remind">Rappel éloignement</string>
+    <string name="remind_aleary_open">Rappel </string>
+    <string name="phone_far_away_remind_to_you">La montre vous rappellera quand elle sera éloignée du téléphone。</string>
+    <string name="dialog_confire">Confirmer</string>
     <string name="widget_currentstep_title">Centre d\'activité</string>
     <string name="widget_currentstep_activities">Pas Aujourd\'hui</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -189,5 +206,7 @@ kg"</string>
     <string name="widget_currentstep_sleep_title">Sommeil la nuit dernière</string>
     <string name="widget_currentstep_sleep_no">Pas de données de sommeil</string>
     <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\'hui?</string>
-<!--END of missed texts by Huami-->
+    <string name="auto_hint_title">Chronomètre</string>
+    <string name="long_key_action">Maintenez enfoncé pour ouvrir</string>
+	<!--END of missed texts by Huami-->
 </resources>
