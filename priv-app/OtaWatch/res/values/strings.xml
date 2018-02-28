@@ -4,11 +4,20 @@
   <string name="app_name">otawatch</string>
   <string name="action_settings">Settings</string>
   <string name="watch_ota">Watch Update</string>
-  <string name="wifi_disconnect">Please connect the Amazfit Watch APP to help the watch check for update</string>
-  <string name="connect_phone_wifi">Please check the phone network to help the watch check for update</string>
-  <string name="connect_phone_input_wifi">Please connect the Amazfit Watch APP to input Wi-Fi password for the watch</string>
-  <string name="wifi_add_item">Please connect the Amazfit Watch App to add new Wi-Fi hotspot for the watch</string>
-  <string name="input_passwor_on_mobile">Please input Wi-Fi password in the Amazfit Watch APP</string>
+  <string name="wifi_disconnect">"Please connect the
+Amazfit watch App to help 
+the watch check for update"</string>
+  <string name="connect_phone_wifi">"Please check the phone
+network to help the 
+watch check for update"</string>
+  <string name="connect_phone_input_wifi">"Please connect the
+Amazfit watch App to input
+Wi-Fi password for the watch"</string>
+  <string name="wifi_add_item">"Please connect the
+Amazfit watch App to add
+new Wi-Fi hotspot for the watch"</string>
+  <string name="input_passwor_on_mobile">"Please input Wi-Fi password 
+in the Amazfit watch App"</string>
   <string name="add_wifi">Add Wi-Fi</string>
   <string name="please_update_rom">New system version found, please update</string>
   <string name="checking_rom">Checking for new versions</string>
@@ -71,7 +80,7 @@ another Wi-Fi hotspot"</string>
   <string name="local_update_confirm_1_msg">"To ensure the new version 
 works properly, we'll erase all 
 user data after update. Please connect 
-to the Amazfit Watch APP and back up all data before update."</string>
+to the Amazfit Watch app and back up all data before update."</string>
   <string name="local_update_confirm_2_msg">"Please make sure all user
 data are backed up. Installing 
 the update will erase all user 

@@ -13,7 +13,7 @@
   <string name="notice_text_success_top">data upload completed</string>
   <string name="notice_text_success_bottom">Data can be viewed in Amazfit Watch app</string>
   <string name="notice_text_failed_top">Data upload failed</string>
-  <string name="net_failed">Please make sure watch is connected to Wifi</string>
+  <string name="net_failed">Please make sure Pace is connected to Wifi</string>
   <string name="date">Timestamp:</string>
   <string name="am">AM</string>
   <string name="pm">PM</string>
@@ -26,7 +26,7 @@
   <string name="did_not_connect_assist">Please connect to Amazfit Watch app to refresh access token in order to upload data to the server</string>
   <string name="upload_failed_full">Data upload did not complete, exit now?</string>
   <string name="percent_sign">%</string>
-  <string name="please_keep_wifi_connected">Please maintain Wi-Fi connection</string>
+  <string name="please_keep_wifi_connected">Please keep Pace connected to Wi-Fi</string>
   <string name="init_wifi">Connecting to Wi-Fi</string>
   <string name="init_user">Verifying access token</string>
   <string name="init_app">Connecting to Amazfit Watch app</string>
@@ -34,11 +34,11 @@
   <string name="zero">0</string>
   <string name="yes">yes</string>
   <string name="no">no</string>
-  <string name="widget_currentstep_title">数据中心</string>
-  <string name="widget_currentstep_activities">今日运动</string>
+  <string name="widget_currentstep_title">Data Center</string>
+  <string name="widget_currentstep_activities">Steps today</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
-  <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
-  <string name="widget_currentstep_activity_no">今日不运动吗?</string>
+  <string name="widget_currentstep_sleep_title">Sleep last night</string>
+  <string name="widget_currentstep_sleep_no">No sleep data</string>
+  <string name="widget_currentstep_activity_no">No exercise today?</string>
 </resources>

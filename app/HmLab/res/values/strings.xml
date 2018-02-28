@@ -4,7 +4,7 @@
   <string name="main_title">Huami Lab</string>
   <string name="agreement_title">24/7 PPG capturing</string>
   <string name="orig_data_collect">Sensor Capturing</string>
-  <string name="message">We’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. This feature will adversely impact the battery life.</string>
+  <string name="message">In order to improve your experience, we’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. Turn on this feature will adversely impact the battery life.</string>
   <string name="message_everest">We’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. This feature will adversely impact the battery life.</string>
   <string name="allow">Allow</string>
   <string name="exit">Cancel</string>
@@ -27,11 +27,11 @@
   <string name="sport_music_settings">Sports music</string>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
   <string name="locale_title">Select Language</string>
-  <string name="widget_currentstep_title">数据中心</string>
-  <string name="widget_currentstep_activities">今日运动</string>
+  <string name="widget_currentstep_title">Data Center</string>
+  <string name="widget_currentstep_activities">Steps today</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
-  <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
-  <string name="widget_currentstep_activity_no">今日不运动吗?</string>
+  <string name="widget_currentstep_sleep_title">Sleep last night</string>
+  <string name="widget_currentstep_sleep_no">No sleep data</string>
+  <string name="widget_currentstep_activity_no">No exercise today?</string>
 </resources>

@@ -34,7 +34,7 @@
   <string name="long_sit">Standup Alert</string>
   <string name="datacenter">Daily Overview</string>
   <string name="light_change">Backlight</string>
-  <string name="wrist_up">Activate on raise</string>
+  <string name="wrist_up">Activate on Wrist Raise</string>
   <string name="auto_nodisturb">Silent Time</string>
   <string name="double_click_wakeup">Tap to Wake</string>
   <string name="vibration_intensity">Vibration</string>
@@ -93,13 +93,14 @@
   <string name="unlock">Unlocked</string>
   <string name="build_time">[DEBUG]Build time</string>
   <string name="build_desc">[DEBUG]Build description</string>
-  <string name="legal">Please check in the</string>
-  <string name="legal2">Amazfit Watch App</string>
+  <string name="legal">Please check in the Amazfit</string>
+  <string name="legal2">Watch App</string>
   <string name="lab">Lab</string>
   <string name="opened">On</string>
   <string name="closed">Off</string>
   <string name="air_plane">Airplane Mode</string>
-  <string name="air_plane_mode_note">Airplane mode will turn off Bluetooth and Wi-Fi on the watch to save power. If you need to use features that require BT/WiFi, please turn off airplane mode in system Settings.</string>
+  <string name="air_plane_mode_note">"Airplane Mode
+ Airplane mode will turn off Bluetooth and Wi-Fi on the watch to save power. If you need to use features that require BT/WiFi, please turn off airplane mode in system Settings."</string>
   <string name="yes">Yes</string>
   <string name="no">No</string>
   <string name="settings_long_sit_reminder">Move Alert</string>
@@ -139,7 +140,7 @@ Connect?"</string>
   <string name="button_enter">OK</string>
   <string name="button_cancel">Cancel</string>
   <string name="blt_cancel_paring">Paring canceled</string>
-  <string name="bluetooth_pairing_error_message">Pairing failed</string>
+  <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
   <string name="bluetooth_connecting">Connecting...</string>
   <string name="bluetooth_disconnecting">Disconnecting...</string>
   <string name="blt_hint_paring">"%1s
@@ -212,9 +213,9 @@ kg"</string>
   <string name="pm">PM</string>
   <string name="unit_metric">Metric</string>
   <string name="unit_english">Imperial</string>
-  <string name="strong">Strong</string>
-  <string name="mid">Mid</string>
-  <string name="weak">Weak</string>
+  <string name="strong">strong</string>
+  <string name="mid">mid</string>
+  <string name="weak">weak</string>
   <string name="replace_watchface">WatchFace</string>
   <string name="screen_refresh">Secondhand</string>
   <string name="screen_refresh_on_string">On</string>
@@ -230,11 +231,11 @@ kg"</string>
   <string name="upgrade_checking">Checking for update...</string>
   <string name="left_hand">Left</string>
   <string name="right_hand">Right</string>
-  <string name="widget_currentstep_title">数据中心</string>
-  <string name="widget_currentstep_activities">今日运动</string>
+  <string name="widget_currentstep_title">Data Center</string>
+  <string name="widget_currentstep_activities">Steps today</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
-  <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
-  <string name="widget_currentstep_activity_no">今日不运动吗?</string>
+  <string name="widget_currentstep_sleep_title">Sleep last night</string>
+  <string name="widget_currentstep_sleep_no">No sleep data</string>
+  <string name="widget_currentstep_activity_no">No exercise today?</string>
 </resources>
