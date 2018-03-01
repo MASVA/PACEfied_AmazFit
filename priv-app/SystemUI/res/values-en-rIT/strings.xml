@@ -38,7 +38,7 @@ Usa il caricatore fornito."</string>
     <string name="bluetooth_tethered">Bluetooth collegato</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodo inserimento</string>
     <string name="status_bar_use_physical_keyboard">Tastiera fisica</string>
-    <string name="usb_device_permission_prompt">Consentire all\'app %1$s di accedere all'\USB del dispositivo?</string>
+    <string name="usb_device_permission_prompt">Consentire all\'app %1$s di accedere all\'USB del dispositivo?</string>
     <string name="usb_accessory_permission_prompt">Consentire all\'app %1$s di accedere all\'accessorio USB?</string>
     <string name="usb_device_confirm_prompt">Aprire %1$s quando questo dispositivo USB è connesso?</string>
     <string name="usb_accessory_confirm_prompt">Aprire %1$s quando questo accessorio USB è connesso?</string>
