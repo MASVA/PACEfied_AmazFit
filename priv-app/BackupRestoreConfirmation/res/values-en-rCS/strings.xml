@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="backup_confirm_title">Plná záloha</string>
-    <string name="restore_confirm_title">Plné obnovení</string>
-    <string name="backup_confirm_text">"Úplné zálohování všech dat na pøipojeném poèítaèi bylo poádáno. Pøejete si, aby se tak stalo?
+    <string name="backup_confirm_title">PlnÃ¡ zÃ¡loha</string>
+    <string name="restore_confirm_title">PlnÃ© obnovenÃ­</string>
+    <string name="backup_confirm_text">"ÃšplnÃ© zÃ¡lohovÃ¡nÃ­ vÅ¡ech dat na pÅ™ipojenÃ©m poÄÃ­taÄi bylo poÅ¾Ã¡dÃ¡no. PÅ™ejete si, aby se tak stalo?
 
-Pokud jste nepoádali nebude vytvoøena záloha, neumoòuje v operaci pokraèovat."</string>
-    <string name="allow_backup_button_label">Záloha mojích dat</string>
-    <string name="deny_backup_button_label">Nezálohovat</string>
-    <string name="restore_confirm_text">"Kompletní obnovení všech dat z pøipojeného stolního poèítaèe bylo poádáno. Pøejete si, aby se tak stalo?
+Pokud jste nepoÅ¾Ã¡dali nebude vytvoÅ™ena zÃ¡loha, neumoÅ¾Åˆuje v operaci pokraÄovat."</string>
+    <string name="allow_backup_button_label">ZÃ¡loha mojÃ­ch dat</string>
+    <string name="deny_backup_button_label">NezÃ¡lohovat</string>
+    <string name="restore_confirm_text">"KompletnÃ­ obnovenÃ­ vÅ¡ech dat z pÅ™ipojenÃ©ho stolnÃ­ho poÄÃ­taÄe bylo poÅ¾Ã¡dÃ¡no. PÅ™ejete si, aby se tak stalo?
 
-Pokud jste nepoádali o obnovení, neumoòuje v operaci pokraèovat.  Nahradí to všechna data aktuálnì na vašem pøístroji!"</string>
+Pokud jste nepoÅ¾Ã¡dali o obnovenÃ­, neumoÅ¾Åˆuje v operaci pokraÄovat.  NahradÃ­ to vÅ¡echna data aktuÃ¡lnÄ› na vaÅ¡em pÅ™Ã­stroji!"</string>
     <string name="allow_restore_button_label">Obnovit svoje data</string>
     <string name="deny_restore_button_label">Neobnovit</string>
-    <string name="current_password_text">Prosím, zadejte svoje aktuální záloní heslo:</string>
-    <string name="device_encryption_restore_text">Zadejte heslo pro šifrování vašeho zaøízení.</string>
-    <string name="device_encryption_backup_text">Zadejte heslo pro šifrování vašeho zaøízení. To bude také pouito k zašifrování zálohy.</string>
-    <string name="backup_enc_password_text">Prosím zadejte heslo pro šifrování pro úplnou zálohu dat. Je-li toto prázdné, bude vaše aktuální heslo pro zálohy pouít:</string>
-    <string name="backup_enc_password_optional">Chcete-li šifrovat úplné zálohování dat, zadejte následující heslo:</string>
-    <string name="backup_enc_password_required">Vzhledem k tomu, e vaše zaøízení je šifrováno, jste povinni zašifrovat zálohu. Prosím, zadejte níe heslo:</string>
-    <string name="restore_enc_password_text">Je-li potøeba obnovit data šifrována, zadejte následující heslo:</string>
-    <string name="toast_backup_started">Zalohování zaèalo...</string>
-    <string name="toast_backup_ended">Zalohování dokonèeno</string>
-    <string name="toast_restore_started">Obnovit zálohu...</string>
-    <string name="toast_restore_ended">Obnovení dokonèeno</string>
-    <string name="toast_timeout">Operace vypršela</string>
+    <string name="current_password_text">ProsÃ­m, zadejte svoje aktuÃ¡lnÃ­ zÃ¡loÅ¾nÃ­ heslo:</string>
+    <string name="device_encryption_restore_text">Zadejte heslo pro Å¡ifrovÃ¡nÃ­ vaÅ¡eho zaÅ™Ã­zenÃ­.</string>
+    <string name="device_encryption_backup_text">Zadejte heslo pro Å¡ifrovÃ¡nÃ­ vaÅ¡eho zaÅ™Ã­zenÃ­. To bude takÃ© pouÅ¾ito k zaÅ¡ifrovÃ¡nÃ­ zÃ¡lohy.</string>
+    <string name="backup_enc_password_text">ProsÃ­m zadejte heslo pro Å¡ifrovÃ¡nÃ­ pro Ãºplnou zÃ¡lohu dat. Je-li toto prÃ¡zdnÃ©, bude vaÅ¡e aktuÃ¡lnÃ­ heslo pro zÃ¡lohy pouÅ¾Ã­t:</string>
+    <string name="backup_enc_password_optional">Chcete-li Å¡ifrovat ÃºplnÃ© zÃ¡lohovÃ¡nÃ­ dat, zadejte nÃ¡sledujÃ­cÃ­ heslo:</string>
+    <string name="backup_enc_password_required">Vzhledem k tomu, Å¾e vaÅ¡e zaÅ™Ã­zenÃ­ je Å¡ifrovÃ¡no, jste povinni zaÅ¡ifrovat zÃ¡lohu. ProsÃ­m, zadejte nÃ­Å¾e heslo:</string>
+    <string name="restore_enc_password_text">Je-li potÅ™eba obnovit data Å¡ifrovÃ¡na, zadejte nÃ¡sledujÃ­cÃ­ heslo:</string>
+    <string name="toast_backup_started">ZalohovÃ¡nÃ­ zaÄalo...</string>
+    <string name="toast_backup_ended">ZalohovÃ¡nÃ­ dokonÄeno</string>
+    <string name="toast_restore_started">Obnovit zÃ¡lohu...</string>
+    <string name="toast_restore_ended">ObnovenÃ­ dokonÄeno</string>
+    <string name="toast_timeout">Operace vyprÅ¡ela</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Externí uloištì</string>
-    <string name="root_internal_storage">Vnitøní uloištì</string>
+    <string name="app_label">ExternÃ­ uloÅ¾iÅ¡tÄ›</string>
+    <string name="root_internal_storage">VnitÅ™nÃ­ uloÅ¾iÅ¡tÄ›</string>
     <string name="root_documents">Dokument</string>
 </resources>
