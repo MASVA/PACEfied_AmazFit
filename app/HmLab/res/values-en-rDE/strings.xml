@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Huami Lab</string>
+  <string name="main_title">Huami Lab</string>
+  <string name="agreement_title">24/7 PPG capturing</string>
+  <string name="orig_data_collect">Sensor Capturing</string>
+  <string name="message">In order to improve your experience, we’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. Turn on this feature will adversely impact the battery life.</string>
+  <string name="message_everest">We’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. This feature will adversely impact the battery life.</string>
+  <string name="allow">Erlauben</string>
+  <string name="exit">Abbruch</string>
+  <string name="heart_rate_collection_on">An</string>
+  <string name="heart_rate_collection_off">Aus</string>
+  <string name="saving_data">Speichere Daten</string>
+  <string name="upload_data">Uploading</string>
+  <string name="upload_success">Komplett</string>
+  <string name="upload_failed">Upload fehlgeschlagen, bitte erneut versuchen</string>
+  <string name="air_mode_alert_title">Verbindung nicht möglich</string>
+  <string name="air_mode_alert_message">Bitte schalte den Flugzeug-Modus aus und versuche es erneut</string>
+  <string name="average_text">Durchschnitt</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="picker_default_positive_text">Bestätige</string>
+  <string name="picker_default_nagetive_text">Aus</string>
+  <string name="no_heartrate_data_hint">Pulswerte nicht gefunden</string>
+  <string name="no_altitude_hint">Höhenwerte nicht gefunden</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="title_settings">Einstellungen</string>
+  <string name="sport_music_settings">Sport Musik</string>
+  <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+  <string name="locale_title">Sprache wählen</string>
+  <string name="widget_currentstep_title">Data Center</string>
+  <string name="widget_currentstep_activities">Steps today</string>
+  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Sleep last night</string>
+  <string name="widget_currentstep_sleep_no">No sleep data</string>
+  <string name="widget_currentstep_activity_no">No exercise today?</string>
+  <string name="hbeacon_on">已启用</string>
+  <string name="hbeacon_off">未启用</string>
+  <string name="hbeacon_on_confirm_message">点击确认启用HBeacon功能将略微降低手表续航时长，手表自动重启后您的手机可能需要重新配对手表。</string>
+  <string name="hbeacon_off_confirm_message">点击确认将关闭Hbeacon功能，手表自动重启后您的手机可能需要重新配对手表。</string>
+</resources>
