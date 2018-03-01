@@ -126,9 +126,9 @@ since charge"</string>
   <string name="notification_red_envelop">[Red envelope]</string>
   <string name="notitification_wechat_red_content_pattern_two">: \\[WeChat red envelope\\]</string>
   <string name="notitification_ios_wechat_red_content_pattern">: \\[Red envelope\\]</string>
-  <string name="notification_ios_qq_red_content_pattern">:\\[QQ红包\\]</string>
-  <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?条\\]</string>
-  <string name="notification_ios_alipay_group_red_pattern">^\\[群消息\\]</string>
+  <string name="notification_ios_qq_red_content_pattern">:\\[QQ red envelope\\]</string>
+  <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?Article\\]</string>
+  <string name="notification_ios_alipay_group_red_pattern">^\\[Group news\\]</string>
   <string name="store_picture_title">Save image</string>
   <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
   <string name="decline">Decline</string>

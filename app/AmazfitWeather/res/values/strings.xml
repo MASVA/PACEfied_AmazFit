@@ -62,7 +62,7 @@
   <string name="date_time_format">MM-dd</string>
   <string name="fetch_failed_help">Please synchronize weather information first</string>
   <string name="cancel">close</string>
-  <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+  <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
   <string name="data_checkfail_type">Weather type not recognized</string>
   <string name="data_checkfail_temp">Temperature out of range</string>
   <string name="data_checkfail_match">Weather type field does not match</string>
@@ -83,4 +83,5 @@
   <string name="widget_currentstep_sleep_title">Sleep last night</string>
   <string name="widget_currentstep_sleep_no">No sleep data</string>
   <string name="widget_currentstep_activity_no">No exercise today?</string>
+  <string name="detailed">Weather details</string>
 </resources>

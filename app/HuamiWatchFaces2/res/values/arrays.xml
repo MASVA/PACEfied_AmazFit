@@ -78,7 +78,7 @@
         <item>Cadence</item>
         <item>Dist. Gain</item>
         <item>Steps</item>
-        <item>踏频</item>
+        <item>Cadence</item>
         <item>Lengths</item>
         <item>DPS</item>
         <item>Stroke rate</item>
@@ -88,20 +88,20 @@
         <item>Distance</item>
         <item>TE</item>
         <item>Vertical Speed</item>
-        <item>平均速度</item>
-        <item>最大速度</item>
-        <item>滑降次数</item>
-        <item>本次滑降</item>
-        <item>累计滑降</item>
-        <item>滑降落差</item>
-        <item>挥拍次数</item>
+        <item>Average speed</item>
+        <item>Maximum speed</item>
+        <item>Slide times</item>
+        <item>Primary downhill</item>
+        <item>Cumulative slide</item>
+        <item>Slide down difference</item>
+        <item>Swing times</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>本次剩余里程</item>
-        <item>训练总里程</item>
-        <item>训练总用时</item>
-        <item>本次剩余用时</item>
-        <item>里程</item>
+        <item>Remaining mileage</item>
+        <item>Train the total mileage</item>
+        <item>Training time</item>
+        <item>Remaining time</item>
+        <item>Mileage</item>
     </string-array>
     <string-array name="weekdays">
         <item>Sun</item>

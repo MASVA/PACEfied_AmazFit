@@ -35,7 +35,7 @@ ro.board.platform=M200
 ro.build.product=watch
 # Do not try to parse description, fingerprint, or thumbprint
 ro.build.description=everest-user 5.1 LMY47D 96 release-keys
-ro.build.fingerprint=Huami/everest/watch:5.1/LMY47D/96:user/release-keys
+ro.build.fingerprint=Huami/everest/watch:5.1/STRATOSfied/1:user/release-keys
 ro.build.characteristics=tablet
 # end build properties
 
@@ -55,16 +55,16 @@ dalvik.vm.heapminfree=512k
 dalvik.vm.heapmaxfree=2m
 ro.config.low_ram=true
 ro.build.oversea=0
-ro.build.huami.model=A1609
+ro.build.huami.model=A1619
 ro.build.huami.number=00
 ro.com.android.dateformat=MM-dd-yyyy
 ro.config.ringtone=Ring_Synth_04.ogg
 ro.config.notification_sound=pixiedust.ogg
 ro.config.alarm_alert=Alarm_Classic.ogg
-persist.sys.timezone=Asia/Shanghai
+persist.sys.timezone=Europe/Berlin
 ro.sf.lcd_density=238
-ro.product.locale.language=zh
-ro.product.locale.region=CN
+ro.product.locale.language=en
+ro.product.locale.region=US
 ro.config.auto_brightness=decrease
 sys.fastboot.enable=false
 persist.sys.dalvik.vm.lib.2=libart.so

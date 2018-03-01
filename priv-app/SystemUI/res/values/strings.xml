@@ -576,4 +576,6 @@ Try again in %d seconds."</string>
   <item type="string" name="APKTOOL_DUMMY_1f5">false</item>
   <item type="string" name="APKTOOL_DUMMY_1f6">false</item>
   <item type="string" name="APKTOOL_DUMMY_1f7">false</item>
+  <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
 </resources>
