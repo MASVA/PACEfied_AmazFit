@@ -31,4 +31,4 @@
     <string name="sdcard_not_present">"Brak karty SD."</string>
     <string name="only_primary_user_allowed">Tylko właściciel tego urządzenia może zainstalować certyfikaty.</string>
     <string name="credential_usage_label">Użyte poświadczenia:</string>
-</resources>.
+</resources>
