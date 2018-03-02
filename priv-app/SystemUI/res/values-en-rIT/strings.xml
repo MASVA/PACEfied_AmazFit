@@ -5,7 +5,6 @@
   <string name="quick_settings_tiles">default</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/config_customAdbPublicKeyConfirmationSecondaryUserComponent</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Pulisci</string>
@@ -38,7 +37,7 @@ Usa il caricatore fornito."</string>
   <string name="bluetooth_tethered">Bluetooth collegato</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Imposta metodo inserimento</string>
   <string name="status_bar_use_physical_keyboard">Tastiera fisica</string>
-  <string name="usb_device_permission_prompt">Consentire all\'app %1$s di accedere all'\USB del dispositivo?</string>
+  <string name="usb_device_permission_prompt">Consentire all\'app %1$s di accedere all\'USB del dispositivo?</string>
   <string name="usb_accessory_permission_prompt">Consentire all\'app %1$s di accedere all\'accessorio USB?</string>
   <string name="usb_device_confirm_prompt">Aprire %1$s quando questo dispositivo USB è connesso?</string>
   <string name="usb_accessory_confirm_prompt">Aprire %1$s quando questo accessorio USB è connesso?</string>

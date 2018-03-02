@@ -5,7 +5,7 @@
   <string name="quick_settings_tiles">predvolené</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/config_customAdbPublicKeyConfirmationSecondaryUserComponent</string>
+  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Vyčistiť</string>
