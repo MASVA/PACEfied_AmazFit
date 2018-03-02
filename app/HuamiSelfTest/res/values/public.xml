@@ -475,6 +475,7 @@
     <public type="dimen" name="appbar_padding_top" id="0x7f080048" />
     <public type="dimen" name="activity_padding" id="0x7f080049" />
     <public type="dimen" name="list_item_padding" id="0x7f08004a" />
+    <public type="dimen" name="start_test_category_txt_size" id="0x7f08004b" />
     <public type="integer" name="abc_config_activityShortDur" id="0x7f090000" />
     <public type="integer" name="abc_config_activityDefaultDur" id="0x7f090001" />
     <public type="integer" name="status_bar_notification_info_maxnum" id="0x7f090002" />
@@ -561,59 +562,60 @@
     <public type="id" name="select_dialog_listview" id="0x7f0a004e" />
     <public type="id" name="start_ppg" id="0x7f0a004f" />
     <public type="id" name="start_all" id="0x7f0a0050" />
-    <public type="id" name="visualizerView" id="0x7f0a0051" />
-    <public type="id" name="extra_info" id="0x7f0a0052" />
-    <public type="id" name="start" id="0x7f0a0053" />
-    <public type="id" name="test_container" id="0x7f0a0054" />
-    <public type="id" name="test_title" id="0x7f0a0055" />
-    <public type="id" name="test_value" id="0x7f0a0056" />
-    <public type="id" name="test_next" id="0x7f0a0057" />
-    <public type="id" name="test_manual" id="0x7f0a0058" />
-    <public type="id" name="test_op_5" id="0x7f0a0059" />
-    <public type="id" name="test_op_6" id="0x7f0a005a" />
-    <public type="id" name="test_key_press" id="0x7f0a005b" />
-    <public type="id" name="key_down_1" id="0x7f0a005c" />
-    <public type="id" name="key_down_2" id="0x7f0a005d" />
-    <public type="id" name="key_down_3" id="0x7f0a005e" />
-    <public type="id" name="key_up_1" id="0x7f0a005f" />
-    <public type="id" name="key_up_2" id="0x7f0a0060" />
-    <public type="id" name="key_up_3" id="0x7f0a0061" />
-    <public type="id" name="test_op_1" id="0x7f0a0062" />
-    <public type="id" name="test_op_2" id="0x7f0a0063" />
-    <public type="id" name="test_op_3" id="0x7f0a0064" />
-    <public type="id" name="test_op_4" id="0x7f0a0065" />
-    <public type="id" name="device_info_model_num" id="0x7f0a0066" />
-    <public type="id" name="device_info_build_num" id="0x7f0a0067" />
-    <public type="id" name="device_info_battery" id="0x7f0a0068" />
-    <public type="id" name="device_info_sensor_light" id="0x7f0a0069" />
-    <public type="id" name="device_info_sensor_pressure" id="0x7f0a006a" />
-    <public type="id" name="device_info_sensor_acc" id="0x7f0a006b" />
-    <public type="id" name="device_info_sensor_linear_acc" id="0x7f0a006c" />
-    <public type="id" name="on_off" id="0x7f0a006d" />
-    <public type="id" name="gps_status" id="0x7f0a006e" />
-    <public type="id" name="gps_status_satellites" id="0x7f0a006f" />
-    <public type="id" name="gps_location" id="0x7f0a0070" />
-    <public type="id" name="vibrator_test" id="0x7f0a0071" />
-    <public type="id" name="tp_test" id="0x7f0a0072" />
-    <public type="id" name="section_label" id="0x7f0a0073" />
-    <public type="id" name="visualizer" id="0x7f0a0074" />
-    <public type="id" name="brightness" id="0x7f0a0075" />
-    <public type="id" name="brightness_progress" id="0x7f0a0076" />
-    <public type="id" name="startButton" id="0x7f0a0077" />
-    <public type="id" name="infoTextView" id="0x7f0a0078" />
-    <public type="id" name="action0" id="0x7f0a0079" />
-    <public type="id" name="cancel_action" id="0x7f0a007a" />
-    <public type="id" name="status_bar_latest_event_content" id="0x7f0a007b" />
-    <public type="id" name="media_actions" id="0x7f0a007c" />
-    <public type="id" name="action_divider" id="0x7f0a007d" />
-    <public type="id" name="line1" id="0x7f0a007e" />
-    <public type="id" name="time" id="0x7f0a007f" />
-    <public type="id" name="chronometer" id="0x7f0a0080" />
-    <public type="id" name="text2" id="0x7f0a0081" />
-    <public type="id" name="line3" id="0x7f0a0082" />
-    <public type="id" name="text" id="0x7f0a0083" />
-    <public type="id" name="info" id="0x7f0a0084" />
-    <public type="id" name="end_padder" id="0x7f0a0085" />
+    <public type="id" name="start_after_sales" id="0x7f0a0051" />
+    <public type="id" name="visualizerView" id="0x7f0a0052" />
+    <public type="id" name="extra_info" id="0x7f0a0053" />
+    <public type="id" name="start" id="0x7f0a0054" />
+    <public type="id" name="test_container" id="0x7f0a0055" />
+    <public type="id" name="test_title" id="0x7f0a0056" />
+    <public type="id" name="test_value" id="0x7f0a0057" />
+    <public type="id" name="test_next" id="0x7f0a0058" />
+    <public type="id" name="test_manual" id="0x7f0a0059" />
+    <public type="id" name="test_op_5" id="0x7f0a005a" />
+    <public type="id" name="test_op_6" id="0x7f0a005b" />
+    <public type="id" name="test_key_press" id="0x7f0a005c" />
+    <public type="id" name="key_down_1" id="0x7f0a005d" />
+    <public type="id" name="key_down_2" id="0x7f0a005e" />
+    <public type="id" name="key_down_3" id="0x7f0a005f" />
+    <public type="id" name="key_up_1" id="0x7f0a0060" />
+    <public type="id" name="key_up_2" id="0x7f0a0061" />
+    <public type="id" name="key_up_3" id="0x7f0a0062" />
+    <public type="id" name="test_op_1" id="0x7f0a0063" />
+    <public type="id" name="test_op_2" id="0x7f0a0064" />
+    <public type="id" name="test_op_3" id="0x7f0a0065" />
+    <public type="id" name="test_op_4" id="0x7f0a0066" />
+    <public type="id" name="device_info_model_num" id="0x7f0a0067" />
+    <public type="id" name="device_info_build_num" id="0x7f0a0068" />
+    <public type="id" name="device_info_battery" id="0x7f0a0069" />
+    <public type="id" name="device_info_sensor_light" id="0x7f0a006a" />
+    <public type="id" name="device_info_sensor_pressure" id="0x7f0a006b" />
+    <public type="id" name="device_info_sensor_acc" id="0x7f0a006c" />
+    <public type="id" name="device_info_sensor_linear_acc" id="0x7f0a006d" />
+    <public type="id" name="on_off" id="0x7f0a006e" />
+    <public type="id" name="gps_status" id="0x7f0a006f" />
+    <public type="id" name="gps_status_satellites" id="0x7f0a0070" />
+    <public type="id" name="gps_location" id="0x7f0a0071" />
+    <public type="id" name="vibrator_test" id="0x7f0a0072" />
+    <public type="id" name="tp_test" id="0x7f0a0073" />
+    <public type="id" name="section_label" id="0x7f0a0074" />
+    <public type="id" name="visualizer" id="0x7f0a0075" />
+    <public type="id" name="brightness" id="0x7f0a0076" />
+    <public type="id" name="brightness_progress" id="0x7f0a0077" />
+    <public type="id" name="startButton" id="0x7f0a0078" />
+    <public type="id" name="infoTextView" id="0x7f0a0079" />
+    <public type="id" name="action0" id="0x7f0a007a" />
+    <public type="id" name="cancel_action" id="0x7f0a007b" />
+    <public type="id" name="status_bar_latest_event_content" id="0x7f0a007c" />
+    <public type="id" name="media_actions" id="0x7f0a007d" />
+    <public type="id" name="action_divider" id="0x7f0a007e" />
+    <public type="id" name="line1" id="0x7f0a007f" />
+    <public type="id" name="time" id="0x7f0a0080" />
+    <public type="id" name="chronometer" id="0x7f0a0081" />
+    <public type="id" name="text2" id="0x7f0a0082" />
+    <public type="id" name="line3" id="0x7f0a0083" />
+    <public type="id" name="text" id="0x7f0a0084" />
+    <public type="id" name="info" id="0x7f0a0085" />
+    <public type="id" name="end_padder" id="0x7f0a0086" />
     <public type="string" name="abc_action_mode_done" id="0x7f0b0000" />
     <public type="string" name="abc_action_bar_home_description" id="0x7f0b0001" />
     <public type="string" name="abc_action_bar_up_description" id="0x7f0b0002" />
@@ -640,38 +642,40 @@
     <public type="string" name="retest" id="0x7f0b0017" />
     <public type="string" name="start_ppg" id="0x7f0b0018" />
     <public type="string" name="start_all" id="0x7f0b0019" />
-    <public type="string" name="mic" id="0x7f0b001a" />
-    <public type="string" name="start" id="0x7f0b001b" />
-    <public type="string" name="start_gps_test" id="0x7f0b001c" />
-    <public type="string" name="hardware_vibrator_tip" id="0x7f0b001d" />
-    <public type="string" name="test_tp" id="0x7f0b001e" />
-    <public type="string" name="key_down" id="0x7f0b001f" />
-    <public type="string" name="key_up" id="0x7f0b0020" />
-    <public type="string" name="test_battery_consumption" id="0x7f0b0021" />
-    <public type="string" name="test_battery_adc_voltage" id="0x7f0b0022" />
-    <public type="string" name="test_battery_adc_version" id="0x7f0b0023" />
-    <public type="string" name="test_battery_level" id="0x7f0b0024" />
-    <public type="string" name="test_battery_charging" id="0x7f0b0025" />
-    <public type="string" name="battery_charging" id="0x7f0b0026" />
-    <public type="string" name="battery_uncharged" id="0x7f0b0027" />
-    <public type="string" name="test_sensor_light" id="0x7f0b0028" />
-    <public type="string" name="test_sensor_light_calibration" id="0x7f0b0029" />
-    <public type="string" name="test_vibrator_lcd_backlight" id="0x7f0b002a" />
-    <public type="string" name="test_vibrator" id="0x7f0b002b" />
-    <public type="string" name="test_sensor_magnetic" id="0x7f0b002c" />
-    <public type="string" name="test_sensor_acc" id="0x7f0b002d" />
-    <public type="string" name="test_sensor_gyroscope" id="0x7f0b002e" />
-    <public type="string" name="test_sensor_barometer" id="0x7f0b002f" />
-    <public type="string" name="test_sensor_barometer_new" id="0x7f0b0030" />
-    <public type="string" name="test_sensor_ppg" id="0x7f0b0031" />
-    <public type="string" name="start_complete_machine_test_conform_tip" id="0x7f0b0032" />
-    <public type="string" name="start_all_test_confirm_tip" id="0x7f0b0033" />
-    <public type="string" name="need_pass_tip" id="0x7f0b0034" />
-    <public type="string" name="need_power_off_tip" id="0x7f0b0035" />
-    <public type="string" name="confirm_yes" id="0x7f0b0036" />
-    <public type="string" name="confirm_no" id="0x7f0b0037" />
-    <public type="string" name="test_complete_tip" id="0x7f0b0038" />
-    <public type="string" name="test_gps_complete_tip" id="0x7f0b0039" />
+    <public type="string" name="start_after_sales" id="0x7f0b001a" />
+    <public type="string" name="mic" id="0x7f0b001b" />
+    <public type="string" name="start" id="0x7f0b001c" />
+    <public type="string" name="start_gps_test" id="0x7f0b001d" />
+    <public type="string" name="hardware_vibrator_tip" id="0x7f0b001e" />
+    <public type="string" name="test_tp" id="0x7f0b001f" />
+    <public type="string" name="key_down" id="0x7f0b0020" />
+    <public type="string" name="key_up" id="0x7f0b0021" />
+    <public type="string" name="test_battery_consumption" id="0x7f0b0022" />
+    <public type="string" name="test_battery_adc_voltage" id="0x7f0b0023" />
+    <public type="string" name="test_battery_adc_version" id="0x7f0b0024" />
+    <public type="string" name="test_battery_level" id="0x7f0b0025" />
+    <public type="string" name="test_battery_charging" id="0x7f0b0026" />
+    <public type="string" name="battery_charging" id="0x7f0b0027" />
+    <public type="string" name="battery_uncharged" id="0x7f0b0028" />
+    <public type="string" name="test_sensor_light" id="0x7f0b0029" />
+    <public type="string" name="test_sensor_light_calibration" id="0x7f0b002a" />
+    <public type="string" name="test_vibrator_lcd_backlight" id="0x7f0b002b" />
+    <public type="string" name="test_vibrator" id="0x7f0b002c" />
+    <public type="string" name="test_sensor_magnetic" id="0x7f0b002d" />
+    <public type="string" name="test_sensor_acc" id="0x7f0b002e" />
+    <public type="string" name="test_sensor_gyroscope" id="0x7f0b002f" />
+    <public type="string" name="test_sensor_barometer" id="0x7f0b0030" />
+    <public type="string" name="test_sensor_barometer_new" id="0x7f0b0031" />
+    <public type="string" name="test_sensor_ppg" id="0x7f0b0032" />
+    <public type="string" name="start_complete_machine_test_conform_tip" id="0x7f0b0033" />
+    <public type="string" name="start_all_test_confirm_tip" id="0x7f0b0034" />
+    <public type="string" name="start_after_sales_test_confirm_tip" id="0x7f0b0035" />
+    <public type="string" name="need_pass_tip" id="0x7f0b0036" />
+    <public type="string" name="need_power_off_tip" id="0x7f0b0037" />
+    <public type="string" name="confirm_yes" id="0x7f0b0038" />
+    <public type="string" name="confirm_no" id="0x7f0b0039" />
+    <public type="string" name="test_complete_tip" id="0x7f0b003a" />
+    <public type="string" name="test_gps_complete_tip" id="0x7f0b003b" />
     <public type="style" name="Widget.AppCompat.ActionBar" id="0x7f0c0000" />
     <public type="style" name="Widget.AppCompat.Light.ActionBar" id="0x7f0c0001" />
     <public type="style" name="Widget.AppCompat.ActionBar.Solid" id="0x7f0c0002" />

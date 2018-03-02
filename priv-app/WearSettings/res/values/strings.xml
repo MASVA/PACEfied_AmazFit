@@ -66,10 +66,11 @@
     <string name="dengshan">登 山</string>
     <string name="tierensan">铁人三项</string>
     <string name="shineiqi">室内骑行</string>
+    <string name="skiing">滑雪</string>
     <string name="yundongjilu">运动记录</string>
     <string name="celiangxinlv">测量心率</string>
     <string name="shujuzhongxin">数据中心</string>
-    <string name="xiaoxizhongxin">消息中心</string>
+    <string name="xiaoxizhongxin">通知</string>
     <string name="zhifubao">支付宝</string>
     <string name="jishiqi">计时器</string>
     <string name="mijia">米家</string>

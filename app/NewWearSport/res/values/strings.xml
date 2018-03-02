@@ -190,6 +190,7 @@
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Heart-rate</string>
+    <string name="sport_main_beyond_heart_info_title">超出安全心率</string>
     <string name="sport_main_pace_info_title">Pace</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Lap %1$d</string>
@@ -252,6 +253,7 @@
     <string name="sport_lap_swim_length_time">time/%1$s meters</string>
     <string name="sport_lap_swim_length_time_imperial">time/%1$s feet</string>
     <string name="sport_swim_style">Stroke Type</string>
+    <string name="sport_swim_style_main">Main Style</string>
     <string name="swim_free_style">Freestyle</string>
     <string name="swim_medlyrelay">Mixed</string>
     <string name="swim_breaststroke">Breaststroke</string>
@@ -296,6 +298,8 @@
     <string name="sport_month_sport_title">Choose an activity</string>
     <string name="sport_widget_title_tennis">Tennis</string>
     <string name="sport_widget_title_tennising">Tennising</string>
+    <string name="sport_widget_title_soccer">Soccer</string>
+    <string name="sport_widget_title_soccering">Soccering</string>
     <string name="start_mix_sport">Start multisport activity</string>
     <string name="start_single_sport">Start Activity</string>
     <string name="pause_sport">Pause Activity</string>
@@ -390,6 +394,7 @@
     <string name="sport_tennis_backhand">Backhand</string>
     <string name="sport_tennis_serve">Serve</string>
     <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">滑降次数过少，无法保存，确定结束吗？</string>
+    <string name="sport_soccer_sec_half">开始下半场</string>
     <string name="experience_title">Please set up personal information, or data will have a large deviation</string>
     <string name="recovery_time_hour">Hours</string>
     <string name="sport_vo2_max">VO2max</string>

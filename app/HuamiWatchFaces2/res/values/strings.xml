@@ -72,6 +72,7 @@
     <string name="sport_paused_time">Pause Time</string>
     <string name="sport_distance">Total Distance</string>
     <string name="sport_downhill_total_distance">累计滑降里程</string>
+    <string name="sport_tennis_strokes">挥拍次数</string>
     <string name="sport_change">Switch activity</string>
     <string name="sport_change_time">Transition time</string>
     <string name="please_get_ready_for_runnning">Next: running</string>

@@ -75,4 +75,5 @@
     <dimen name="appbar_padding_top">8.0dip</dimen>
     <dimen name="activity_padding">16.0dip</dimen>
     <dimen name="list_item_padding">3.0dip</dimen>
+    <dimen name="start_test_category_txt_size">23.0sp</dimen>
 </resources>
