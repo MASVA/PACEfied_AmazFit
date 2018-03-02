@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
   <string name="locale_title">Select Language</string>
@@ -531,11 +531,11 @@
   <string name="real_time_guide_title_2">Keep the pace!</string>
   <string name="real_time_guide_title_3">"Increase the pace 
  for effective exercise!"</string>
-  <string name="real_time_guide_title_6">Good pace！</string>
-  <string name="real_time_guide_title_7">"Increase the pace 
+    <string name="real_time_guide_title_6">Good pace！</string>
+    <string name="real_time_guide_title_7">"Increase the pace 
  for more effective exercise!"</string>
-  <string name="real_time_guide_title_10">Good pace！</string>
-  <string name="real_time_guide_title_11">"Increase the pace
+    <string name="real_time_guide_title_10">Good pace！</string>
+    <string name="real_time_guide_title_11">"Increase the pace
  for more effective exercise!"</string>
   <string name="real_time_guide_title_14">Well done!</string>
   <string name="real_time_guide_title_22">Good pace！</string>

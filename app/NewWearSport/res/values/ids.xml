@@ -14,6 +14,7 @@
     <item type="id" name="start_open_water_swim">15</item>
     <item type="id" name="start_triathlon">16</item>
     <item type="id" name="start_tennis">17</item>
+    <item type="id" name="start_soccer">18</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
     <item type="id" name="node_rolling">false</item>
     <item type="id" name="iv_loading">false</item>

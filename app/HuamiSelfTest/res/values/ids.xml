@@ -55,6 +55,7 @@
     <item type="id" name="select_dialog_listview">false</item>
     <item type="id" name="start_ppg">false</item>
     <item type="id" name="start_all">false</item>
+    <item type="id" name="start_after_sales">false</item>
     <item type="id" name="visualizerView">false</item>
     <item type="id" name="extra_info">false</item>
     <item type="id" name="start">false</item>
