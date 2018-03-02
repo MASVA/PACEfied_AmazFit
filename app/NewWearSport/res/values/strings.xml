@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <resources>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
   <string name="locale_title">Select Language</string>
@@ -531,11 +531,11 @@
   <string name="real_time_guide_title_2">Keep the pace!</string>
   <string name="real_time_guide_title_3">"Increase the pace 
  for effective exercise!"</string>
-    <string name="real_time_guide_title_6">Good pace！</string>
-    <string name="real_time_guide_title_7">"Increase the pace 
+  <string name="real_time_guide_title_6">Good pace！</string>
+  <string name="real_time_guide_title_7">"Increase the pace 
  for more effective exercise!"</string>
-    <string name="real_time_guide_title_10">Good pace！</string>
-    <string name="real_time_guide_title_11">"Increase the pace
+  <string name="real_time_guide_title_10">Good pace！</string>
+  <string name="real_time_guide_title_11">"Increase the pace
  for more effective exercise!"</string>
   <string name="real_time_guide_title_14">Well done!</string>
   <string name="real_time_guide_title_22">Good pace！</string>
@@ -874,4 +874,14 @@
   <string name="widget_currentstep_sleep_title">Sleep last night</string>
   <string name="widget_currentstep_sleep_no">No sleep data</string>
   <string name="widget_currentstep_activity_no">No exercise today?</string>
+  <string name="sport_main_beyond_heart_info_title">Out of safe heart rate</string>
+  <string name="sport_swim_style_main">Main swimming</string>
+  <string name="sport_widget_title_soccer">Football</string>
+  <string name="sport_widget_title_soccering">In football</string>
+  <string name="sport_soccer_sec_half">Start the second half</string>
+  <string name="sport_setting_clap_the_hands">Clap your hands</string>
+  <string name="sport_setting_left_hand">Left hand</string>
+  <string name="sport_setting_right_hand">Right hand</string>
+  <string name="sport_please_select_clap_hand">Please choose clap hand</string>
+  <string name="tennic_strokes_times_too_short">Swing too few times, can not save. OK to close?</string>
 </resources>
