@@ -2,7 +2,7 @@
 <resources>
     <string-array name="support_category">
         <item>CODZIENNY</item>
-        <item>COTYGODNIOWY</item>
+        <item>COTYGODN.</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.health/com.huami.watch.health.widget.HeartLauncherView</item>
@@ -18,10 +18,10 @@
     </string-array>
     <string-array name="weekday_names">
         <item>Pon</item>
-        <item>Wt</item>
-        <item>Śr</item>
+        <item>Wto</item>
+        <item>Śro</item>
         <item>Czw</item>
-        <item>Pt</item>
+        <item>Pią</item>
         <item>Sob</item>
         <item>Nie</item>
     </string-array>
@@ -32,13 +32,13 @@
         <item>Ten Tydz.</item>
     </string-array>
     <string-array name="chart_x_titles">
-        <item>Pon</item>
-        <item>Wt</item>
-        <item>Śr</item>
-        <item>Czw</item>
-        <item>Pt</item>
-        <item>Sob</item>
-        <item>Nie</item>
+        <item>P</item>
+        <item>W</item>
+        <item>Ś</item>
+        <item>C</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
     </string-array>
     <string-array name="chart_x_titles2">
         <item>0</item>
