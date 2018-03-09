@@ -3,7 +3,7 @@
     <string name="app_name">华米实验室</string>
     <string name="main_title">华米实验室</string>
     <string name="agreement_title">全时心率采集</string>
-    <string name="orig_data_collect">数据采集</string>
+    <string name="orig_data_collect">运动数据采集</string>
     <string name="message">"为了改善我们的服务，我们将
 持续采集您的心率数据。
 数据将只作为研究使用。

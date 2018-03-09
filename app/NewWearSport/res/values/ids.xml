@@ -56,6 +56,9 @@
     <item type="id" name="stop">false</item>
     <item type="id" name="container">false</item>
     <item type="id" name="picker_container">false</item>
+    <item type="id" name="bg_img">false</item>
+    <item type="id" name="hand_img">false</item>
+    <item type="id" name="tennic_handle_remind">false</item>
     <item type="id" name="remind_type_text">false</item>
     <item type="id" name="alert_value">false</item>
     <item type="id" name="alert_unit">false</item>
@@ -113,6 +116,9 @@
     <item type="id" name="dialog_title">false</item>
     <item type="id" name="dialog_remind">false</item>
     <item type="id" name="positiveButton">false</item>
+    <item type="id" name="center_separtor">false</item>
+    <item type="id" name="ll_left_hand">false</item>
+    <item type="id" name="ll_right_hand">false</item>
     <item type="id" name="dismiss_overlay_explain">false</item>
     <item type="id" name="dismiss_overlay_button">false</item>
     <item type="id" name="running_container">false</item>

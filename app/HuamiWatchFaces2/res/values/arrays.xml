@@ -69,12 +69,12 @@
         <item>Pace</item>
         <item>AVG. Pace</item>
         <item>HR</item>
-        <item>kCal</item>
+        <item>Calorie</item>
         <item>Altitude</item>
         <item>Elev. Gain</item>
         <item>Elev. Loss</item>
         <item>Speed</item>
-        <item>AVG.Speed</item>
+        <item>AVG. Speed</item>
         <item>Cadence</item>
         <item>Dist. Gain</item>
         <item>Steps</item>
@@ -88,20 +88,20 @@
         <item>Distance</item>
         <item>TE</item>
         <item>Vertical Speed</item>
-        <item>平均速度</item>
-        <item>最大速度</item>
-        <item>滑降次数</item>
-        <item>本次滑降</item>
-        <item>累计滑降</item>
-        <item>滑降落差</item>
-        <item>挥拍次数</item>
+        <item>AVG. Speed</item>
+        <item>MAX. Speed</item>
+        <item>Run(s)</item>
+        <item>Run</item>
+        <item>Total Distance</item>
+        <item>Descent</item>
+        <item>Swing</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>本次剩余里程</item>
-        <item>训练总里程</item>
-        <item>训练总用时</item>
-        <item>本次剩余用时</item>
-        <item>里程</item>
+        <item>Remaining Distance</item>
+        <item>Total Distance</item>
+        <item>Elapsed Time</item>
+        <item>Remaining Time</item>
+        <item>Mileage</item>
     </string-array>
     <string-array name="weekdays">
         <item>Sun</item>

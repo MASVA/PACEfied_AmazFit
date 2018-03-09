@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/bg_img" android:background="@drawable/sport_tennis_animate_left_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+        <ImageView android:id="@id/hand_img" android:background="@drawable/sport_tennis_animate_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+        <com.huami.watch.common.widget.HmTextView android:textSize="13.299988sp" android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:id="@id/tennic_handle_remind" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" android:layout_marginRight="25.0dip" android:layout_marginBottom="23.299988dip" android:text="@string/tennic_wear_hand_guide" android:layout_alignParentBottom="true" android:lineSpacingExtra="5.299988sp" />
+    </RelativeLayout>
+</LinearLayout>
