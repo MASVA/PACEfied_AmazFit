@@ -44,6 +44,13 @@
     <string name="watchface">表盘</string>
     <string name="wifi_auto_upload_switch">数据自动同步</string>
     <string name="auto_bg">定时抬腕亮屏</string>
+    <string name="auto_hint_title">定时抬腕亮屏</string>
+    <string name="app_item_phone_anti_lost">手机防丢</string>
+    <string name="app_item_anti_lost_remind">防丢提醒</string>
+    <string name="app_item_far_away_remind">距离过远提醒</string>
+    <string name="remind_aleary_open">提醒已经开启</string>
+    <string name="phone_far_away_remind_to_you">手表将在距离手机较远时提醒你。</string>
+    <string name="dialog_confire">确定</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -198,12 +205,5 @@
     <string name="upgrade_checking">正在检查升级...</string>
     <string name="left_hand">左手</string>
     <string name="right_hand">右手</string>
-    <string name="app_item_phone_anti_lost">手机防丢</string>
-    <string name="app_item_anti_lost_remind">防丢提醒</string>
-    <string name="app_item_far_away_remind">距离过远提醒</string>
-    <string name="remind_aleary_open">提醒已经开启</string>
-    <string name="phone_far_away_remind_to_you">手表将在距离手机较远时提醒你。</string>
-    <string name="dialog_confire">确定</string>
-    <string name="auto_hint_title">定时抬腕亮屏</string>
     <string name="long_key_action">长按下键打开</string>
 </resources>

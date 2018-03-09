@@ -759,6 +759,13 @@
     <public type="string" name="watchface" id="0x7f0a003b" />
     <public type="string" name="wifi_auto_upload_switch" id="0x7f0a003c" />
     <public type="string" name="auto_bg" id="0x7f0a003d" />
+    <public type="string" name="auto_hint_title" id="0x7f0a003e" />
+    <public type="string" name="app_item_phone_anti_lost" id="0x7f0a003f" />
+    <public type="string" name="app_item_anti_lost_remind" id="0x7f0a0040" />
+    <public type="string" name="app_item_far_away_remind" id="0x7f0a0041" />
+    <public type="string" name="remind_aleary_open" id="0x7f0a0042" />
+    <public type="string" name="phone_far_away_remind_to_you" id="0x7f0a0043" />
+    <public type="string" name="dialog_confire" id="0x7f0a0044" />
     <public type="string" name="paobu" id="0x7f0a0046" />
     <public type="string" name="jianzou" id="0x7f0a0047" />
     <public type="string" name="yueye" id="0x7f0a0048" />
@@ -933,13 +940,6 @@
     <public type="string" name="widget_currentstep_sleep_title" id="0x7f0a000d" />
     <public type="string" name="widget_currentstep_sleep_no" id="0x7f0a000e" />
     <public type="string" name="widget_currentstep_activity_no" id="0x7f0a000f" />
-    <public type="string" name="app_item_phone_anti_lost" id="0x7f0a003e" />
-    <public type="string" name="app_item_anti_lost_remind" id="0x7f0a003f" />
-    <public type="string" name="app_item_far_away_remind" id="0x7f0a0040" />
-    <public type="string" name="remind_aleary_open" id="0x7f0a0041" />
-    <public type="string" name="phone_far_away_remind_to_you" id="0x7f0a0042" />
-    <public type="string" name="dialog_confire" id="0x7f0a0043" />
-    <public type="string" name="auto_hint_title" id="0x7f0a0044" />
     <public type="string" name="long_key_action" id="0x7f0a0045" />
     <public type="style" name="PromptDialog" id="0x7f0b0000" />
     <public type="style" name="HMProgressBar" id="0x7f0b0001" />

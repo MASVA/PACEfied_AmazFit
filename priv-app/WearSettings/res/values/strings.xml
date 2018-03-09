@@ -55,6 +55,13 @@
     <string name="watchface">WatchFace</string>
     <string name="wifi_auto_upload_switch">Auto Upload</string>
     <string name="auto_bg">Auto Backlight</string>
+    <string name="auto_hint_title">Auto Backlight</string>
+    <string name="app_item_phone_anti_lost">Disconnect Alert</string>
+    <string name="app_item_anti_lost_remind">Disconnect Alert</string>
+    <string name="app_item_far_away_remind">Away Alert</string>
+    <string name="remind_aleary_open">Alert is on already</string>
+    <string name="phone_far_away_remind_to_you">"The watch will alert you when it's far away from your phone."</string>
+    <string name="dialog_confire">Confirm</string>
     <string name="paobu">跑 步</string>
     <string name="jianzou">健 走</string>
     <string name="yueye">越野跑</string>

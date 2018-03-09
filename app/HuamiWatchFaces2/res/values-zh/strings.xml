@@ -108,6 +108,7 @@
     <string name="altitude">海拔</string>
     <string name="longitude_and_latitude">经纬度</string>
     <string name="press_key_finish_train">单击下键完成本段</string>
+    <string name="press_up_key_wake_up">按上键解锁</string>
     <string name="need_run_kilometer">本次需跑</string>
     <string name="low_battery_protect">低电保护</string>
     <string name="low_battery_please_charging">手表电量低，请充电。</string>

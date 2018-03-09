@@ -2,4 +2,5 @@
 <resources>
     <integer name="train_total_distance_null_pading_right">48</integer>
     <integer name="train_total_time_null_pading_right">24</integer>
+    <integer name="unlock_watchface_title_hight">48</integer>
 </resources>
