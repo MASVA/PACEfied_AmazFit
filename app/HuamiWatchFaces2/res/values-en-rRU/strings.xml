@@ -10,8 +10,8 @@
   <string name="custom_none_selected">Сделайте выбор</string>
   <string name="custom_selected_confirm">Да</string>
   <string name="custom_exit_delete">Выход-удаление</string>
-  <string name="custom_none_custom_background_title">No image</string>
-  <string name="custom_none_custom_background_content">Please add background images from the Amazfit Watch app.</string>
+  <string name="custom_none_custom_background_title">Нет изображения</string>
+  <string name="custom_none_custom_background_content">Пожалуйста добавьте фоновое изображение с приложения Amazfit Watch.</string>
   <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string>
   <string name="custom_title_bg">Фон</string>
   <string name="custom_title_graduation">Градация</string>
@@ -51,7 +51,7 @@
   <string name="outdoor_riding">Велопробег</string>
   <string name="indoor_riding">Велопробег в помещении</string>
   <string name="cross_contry">Трейлраннинг</string>
-  <string name="eppitical">Эллиптический тренерr</string>
+  <string name="eppitical">Эллиптический тренер</string>
   <string name="indoor_swimming">Плавательный бассейн</string>
   <string name="outdoor_swimming">Открытая вода</string>
   <string name="triathlon">Триатлон</string>
@@ -151,11 +151,11 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Настройки</string>
   <string name="sport_music_settings">Спортивная музыка</string>
-  <string name="widget_currentstep_title">Дата центр</string>
-  <string name="widget_currentstep_activities">Шаги з сегодня</string>
+  <string name="widget_currentstep_title">Центр данных</string>
+  <string name="widget_currentstep_activities">Шаги за сегодня</string>
   <string name="widget_currentstep_sleep_hour">ч</string>
   <string name="widget_currentstep_sleep_min">мин</string>
   <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
-  <string name="widget_currentstep_activity_no">Сегодн нет тренировок?</string>
+  <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
 </resources>
