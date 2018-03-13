@@ -26,7 +26,7 @@
   <string name="appid_itunesu">iTunes U</string>
   <string name="appid_ibooks">iBooks</string>
   <string name="appid_stocks">Stocks</string>
-  <string name="appid_weather"Погода</string>
+  <string name="appid_weather">Погода</string>
   <string name="appid_reminders">Напоминания</string>
   <string name="appid_news">Новости</string>
   <string name="appid_gamecenter">Игровой центр</string>
