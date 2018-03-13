@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Умный дом</string>
+  <string name="average_text">Avg</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="picker_default_positive_text">Подтвердить</string>
+  <string name="picker_default_nagetive_text">Выкл</string>
+  <string name="no_heartrate_data_hint">Данные о пульсе не найдены</string>
+  <string name="no_altitude_hint">Данные о высоте не найдены</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="title_settings">Настройки</string>
+  <string name="sport_music_settings">Спортивная музыка</string>
+  <string name="mihome_widget_title">Mi Home</string>
+  <string name="mihome_widget_info_unbind">Сопряжение с приложением Mi Home, Данные часы могут управлять совместимыми Mi устройствами; не выходите пока сопряжены</string>
+  <string name="mihome_widget_info_no_devices">В приложении Mi home, добавьте Mi устроства, которыми вы хотите управлять при помощи часов </string>
+  <string name="mihome_activity_title_disconnected">Не подключено</string>
+  <string name="mihome_activity_info_disconnected">Подключитесь к приложению Mi Home на вашем телефоне по Bluetooth</string>
+  <string name="mihome_activity_btn_disconnected">Подключитесь к приложению Mi Home на вашем телефоне по Bluetooth</string>
+  <string name="mihome_device_card_2_offline">[Офлайн]</string>
+  <string name="dialog_yes">да</string>
+  <string name="widget_currentstep_title">Центр данных</string>
+  <string name="widget_currentstep_activities">Шаги за сегодня</string>
+  <string name="widget_currentstep_sleep_hour">ч</string>
+  <string name="widget_currentstep_sleep_min">мин</string>
+  <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
+  <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
+  <string name="widget_currentstep_activity_no">Нет тренировок сегодня?</string>
+</resources>
