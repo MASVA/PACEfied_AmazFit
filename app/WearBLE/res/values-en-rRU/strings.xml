@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">BLE Соединение</string>
+  <string name="action_settings">Настройки</string>
+  <string name="heart_rate">Пульс</string>
+  <string name="hello_world">Симулятор пульса.</string>
+  <string name="install_companion_tip">Сначала установите приложение Amazfit на свой смартфон</string>
+  <string name="simplified_chinese">中文(简体)</string>
+  <string name="english_usa">English(US)</string>
+  <string name="low_battery">Если заряд батареи ниже 5%，пожалуйста подключите адаптер питания для продолжения.</string>
+  <string name="battery_low_title">Низкий уровень заряда!</string>
+  <string name="battery_low_plz_charge">Низкий заряд батареи, пожалуйста подключите адаптер питания.</string>
+  <string name="scan_to_bind">QR-код для соединения</string>
+  <string name="function_unavailable_tip">Некоторые функции не доступны, продолжить?</string>
+  <string name="cancel_bind">Отменить</string>
+  <string name="skip_bind">Пропустить</string>
+  <string name="permission_read_user_info">permission_read_user_info</string>
+  <string name="permission_write_user_info">permission_read_user_info</string>
+</resources>
