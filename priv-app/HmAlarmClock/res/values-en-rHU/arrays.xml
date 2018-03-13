@@ -15,14 +15,14 @@
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>A riasztás 1 percnél rövidebb időre van beállítva.</item>
-        <item>Riasztás beállítva mostantól %1$s.</item>
-        <item>Riasztás beállítva mostantól %2$s.</item>
-        <item>Riasztás beállítva %1$s és mostantól %2$s.</item>
-        <item>Riasztás beállítva mostantól %3$s.</item>
-        <item>Riasztás beállítva %1$s és mostantól %3$s.</item>
-        <item>Riasztás beállítva %2$s és mostantól %3$s.</item>
-        <item>Riasztás beállítva %1$s, %2$s, és mostantól %3$s.</item>
+        <item>A jelzés 1 percnél rövidebb időre van beállítva.</item>
+        <item>Jelzés beállítva mostantól %1$s.</item>
+        <item>Jelzés beállítva mostantól %2$s.</item>
+        <item>Jelzés beállítva %1$s és mostantól %2$s.</item>
+        <item>Jelzés beállítva mostantól %3$s.</item>
+        <item>Jelzés beállítva %1$s és mostantól %3$s.</item>
+        <item>Jelzés beállítva %2$s és mostantól %3$s.</item>
+        <item>Jelzés beállítva %1$s, %2$s, és mostantól %3$s.</item>
     </string-array>
     <string-array name="repeat_description">
         <item>Csak egyszer</item>
