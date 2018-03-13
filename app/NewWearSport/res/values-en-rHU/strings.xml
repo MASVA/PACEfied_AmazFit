@@ -402,7 +402,6 @@
     <string name="sport_setting_right_hand">Jobb kéz</string>
     <string name="sport_please_select_clap_hand">Válassz tapsoló kezet</string>
     <string name="tennic_strokes_times_too_short">Túl kevés alkalom, nem menthető. OK a bezárás?</string>
-    <string name="experience_title">Állítsd be a személyes adataid, vagy az adatok nagy eltérést mutathatnak</string>
     <string name="recovery_time_hour">Óra</string>
     <string name="sport_vo2_max">VO2max</string>
     <string name="sport_ability">VO2Max Fitness szint</string>

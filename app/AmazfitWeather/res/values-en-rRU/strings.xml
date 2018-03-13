@@ -9,7 +9,6 @@
   <string name="air_perfect">Воздух идеальный</string>
   <string name="air_quality">Качество воздуха</string>
   <string name="air_severely_polluted">Серьезные загрязнения</string>
-  <string name="app_name">Погода</string>
   <string name="celsius">℃</string>
   <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Неверные данные о погоде! $s▉█▇▆▅▄▃▂+------------------------+</string>
   <string name="data_checkfail_json">Ошибка JSON</string>

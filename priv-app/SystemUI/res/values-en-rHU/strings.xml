@@ -5,7 +5,6 @@
     <string name="quick_settings_tiles">alapért.</string>
     <string name="velocity_tracker_impl">platform</string>
     <string name="doze_pulse_schedule">1mp,10mp,30mp,60mp</string>
-    <string name="system_ui_date_pattern">@android:string/aerr_wait</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
     <string name="lland">L Land</string>
