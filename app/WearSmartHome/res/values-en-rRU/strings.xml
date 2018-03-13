@@ -12,7 +12,7 @@
   <string name="sport_music_settings">Спортивная музыка</string>
   <string name="mihome_widget_title">Mi Home</string>
   <string name="mihome_widget_info_unbind">Сопряжение с приложением Mi Home, Данные часы могут управлять совместимыми Mi устройствами; не выходите пока сопряжены</string>
-  <string name="mihome_widget_info_no_devices">В приложении Mi home, добавьте Mi устроства, которыми вы хотите управлять при помощи часов </string>
+  <string name="mihome_widget_info_no_devices">В приложении Mi home, добавьте Mi устройства, которыми вы хотите управлять при помощи часов </string>
   <string name="mihome_activity_title_disconnected">Не подключено</string>
   <string name="mihome_activity_info_disconnected">Подключитесь к приложению Mi Home на вашем телефоне по Bluetooth</string>
   <string name="mihome_activity_btn_disconnected">Подключитесь к приложению Mi Home на вашем телефоне по Bluetooth</string>
