@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Данные сенсоров</string>
+  <string name="hello_world">Выбран:ACC PPG</string>
+  <string name="action_settings">Настройки</string>
+  <string name="title_activity_sensor_list">Лист активности сенсоров</string>
+  <string name="title_activity_view_list">Просмотр листа активности</string>
+  <string name="title_activity_graph_list">Графический лист активности</string>
+  <string name="completed">Завершено %1$s</string>
+  <string name="upload_failed">загрузка прервана!</string>
+  <string name="upload_success">загрузка завершена!</string>
+  <string name="uploading">загрузка!</string>
+  <string name="no_uploaded_files">нет загруженных файлов!</string>
+  <string name="open_wifi_failed">включение wifi прервано!</string>
+  <string name="connect_APP">Пожалуйста подключите приложение!</string>
+</resources>
