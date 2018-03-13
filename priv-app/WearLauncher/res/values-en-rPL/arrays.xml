@@ -13,16 +13,16 @@
     <string-array name="quick_settings_status_principleTerm">
         <item>Mroźno</item>
         <item>Deszcz</item>
-        <item>Przesilenie wiosenne</item>
+        <item>Przesil.wiosenne</item>
         <item>Opady deszczu</item>
         <item>Zakwitają pąki</item>
         <item>Przesilenie letnie</item>
         <item>Upały</item>
         <item>Ochłodzenie</item>
-        <item>Przesilenie jesienne</item>
+        <item>Przesil.jesienne</item>
         <item>Szadź</item>
         <item>Lekkie opady śniegu</item>
-        <item>Przesilenie zimowe</item>
+        <item>Przesil.zimowe</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
         <item>Chłodno</item>
@@ -31,12 +31,52 @@
         <item>Jasne Słońce</item>
         <item>Zaczyna się Lato</item>
         <item>Grain in Ear</item>
-        <item>Nieznaczne ocieplenie</item>
+        <item>Nieznaczne ociepl.</item>
         <item>Zaczyna się Jesień</item>
         <item>Rosa</item>
         <item>Przymrozek</item>
         <item>Początek Zimy</item>
         <item>Duże opady śniegu</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>Chu</item>
+        <item>Shi</item>
+        <item>Er</item>
+        <item>San</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>Yi</item>
+        <item>Er</item>
+        <item>San</item>
+        <item>Si</item>
+        <item>Wu</item>
+        <item>Liu</item>
+        <item>Qi</item>
+        <item>Ba</item>
+        <item>Jiu</item>
+        <item>Shi</item>
+        <item>ShiYi</item>
+        <item>ShiEr</item>
+    </string-array>
+    <string-array name="sort_a1602">
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
+        <item>wfzeacf94.wfz</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
         <item>Doskonałe powiet.</item>
@@ -78,5 +118,21 @@
         <item>Burza pias.</item>
         <item>Sil.burza pias.</item>
         <item>Brak danych</item>
+    </string-array>
+    <string-array name="sort_a1609">
+        <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
+        <item>wfzd0b8cb.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>wfz03c6c7.wfz</item>
+        <item>wfzeacf94.wfz</item>
+        <item>wfzb33179.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
+        <item>wfz58ac65.wfz</item>
+        <item>wfz95a54c.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>wfz3897e9.wfz</item>
     </string-array>
 </resources>
