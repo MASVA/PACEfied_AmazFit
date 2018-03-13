@@ -13,10 +13,10 @@
     <string-array name="simple_weekdays">
         <item>Nie</item>
         <item>Pon</item>
-        <item>Wt</item>
-        <item>Śr</item>
+        <item>Wto</item>
+        <item>Śro</item>
         <item>Czw</item>
-        <item>Pt</item>
+        <item>Pią</item>
         <item>Sob</item>
     </string-array>
     <string-array name="train_finish_reason_strs">
