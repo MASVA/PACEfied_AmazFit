@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_label">Оболочка</string>
+  <string name="bugreport_finished_title">Сообщение об ошибке создано</string>
+  <string name="bugreport_finished_text">Нажмите, чтобы сформировать сообщение об ошибке</string>
+  <string name="bugreport_confirm">"Сообщения об ошибках содержат данные из различных файлов журнала системы. Они также включают личную и частную информацию. Обмениваться сообщениями об ошибках только с приложениями и людьми, которым вы довярете."</string>
+  <string name="bugreport_confirm_repeat">Сформировать сообщение об ошибке в следующий раз</string>
+</resources>
