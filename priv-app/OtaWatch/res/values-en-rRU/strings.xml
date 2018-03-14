@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
   <string name="settings_item_high_light_scale_factor">0.5</string>
-  <string name="app_name">ОТАh</string>
+  <string name="app_name">ОТА</string>
   <string name="action_settings">Настройки</string>
   <string name="watch_ota">Обновление часов</string>
   <string name="wifi_disconnect">Пожалуйста подключитесь к\nприложению Amazfit watch \nдля проверки обновления</string>
