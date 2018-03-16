@@ -223,9 +223,9 @@
     <string name="exchange_in_progress">In transition</string>
     <string name="exchange_anim_title">Switch Activity</string>
     <string name="sport_pause_swim_type">Swim Distance </string>
-    <string name="sport_pause_swim_dis_unit">Total Distance</string>
+    <string name="sport_pause_swim_dis_unit">Mileage</string>
     <string name="sport_pause_normal_dis_type">Total Distance </string>
-    <string name="sport_pause_normal_dis_unit">Total distance</string>
+    <string name="sport_pause_normal_dis_unit">Mileage</string>
     <string name="sport_pause_normal_stroke_unit">Strokes</string>
     <string name="sport_auto_lap_dis">%1$s km in</string>
     <string name="sport_auto_lap_dis_imperial">%1$s mi in</string>
@@ -359,7 +359,7 @@
     <string name="data_item_surplus_distance">Distance to run</string>
     <string name="data_item_surplus_time">Time to run</string>
     <string name="start_change_item">Starting next interval</string>
-    <string name="near_to_finish_item">即将完成</string>
+    <string name="near_to_finish_item">Almost Complete</string>
     <string name="click_finsh_this_train_unit">Lap key press internal</string>
     <string name="has_no_train_unit_remind">Please add interval workouts in Amazfit Watch app and sync to this watch</string>
     <string name="interval_segment_details">Interval details</string>
@@ -389,8 +389,8 @@
     <string name="skiing_interval_train_complete_pause_tip">Pausing the Activity</string>
     <string name="skiing_above_skiing_spped">Alert when speed > %1$s</string>
     <string name="skiing_lap_downhill_dis_title">Distance</string>
-    <string name="sport_history_total_stokes">Total Swing</string>
-    <string name="sport_tennis_strokes">Swing</string>
+    <string name="sport_history_total_stokes">Total Strokes</string>
+    <string name="sport_tennis_strokes">Strokes</string>
     <string name="sport_tennis_forehand">Forehand</string>
     <string name="sport_tennis_backhand">Backhand</string>
     <string name="sport_tennis_serve">Serve</string>
@@ -400,12 +400,12 @@
     <string name="sport_please_select_clap_hand">Please choose racket hand</string>
     <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Activity with too few runs cannot be saved. Continue?</string>
     <string name="sport_soccer_sec_half">Start Second-half</string>
-    <string name="tennic_strokes_times_too_short">A game with too few swings can’t be saved, continue?</string>
+    <string name="tennic_strokes_times_too_short">A game with too few strokes can’t be saved, continue?</string>
     <string name="dialog_tennic_select_hand_title">Please choose racket hand</string>
     <string name="sport_widget_title_compound">复合运动</string>
     <string name="sport_widget_title_compounding">复合运动中</string>
     <string name="sport_select_compound">运动选择</string>
-    <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">游泳不足一趟，无法保存，确定结束吗？</string>
+    <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Fewer than one trip can not be saved, continue?</string>
     <string name="experience_title">Please set up personal information, or data will have a large deviation</string>
     <string name="recovery_time_hour">Hours</string>
     <string name="sport_vo2_max">VO2max</string>
@@ -517,7 +517,7 @@
     <string name="music_init_not_done">Music is initializing...</string>
     <string name="music_no_douban_resource">No songs to play, download now?</string>
     <string name="sport_widget_title_outdoor_riding">Cycling</string>
-    <string name="sport_widget_title_indoor_riding">Cycling Indoor</string>
+    <string name="sport_widget_title_indoor_riding">Indoor Cycling</string>
     <string name="outdoor_riding_progressing">Cycling</string>
     <string name="indoor_riding_progressing">Cycling</string>
     <string name="outdoor_climb_distance">Ground Speed Distance</string>
@@ -622,7 +622,7 @@
     <string name="running_kilometers">km</string>
     <string name="running_cost_time_desc">Time</string>
     <string name="running_pace_desc">Pace</string>
-    <string name="running_calorie_desc">kCal</string>
+    <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Cadence</string>
     <string name="running_speed_desc">Speed</string>
     <string name="running_distance_desc">Mileage</string>

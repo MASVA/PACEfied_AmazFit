@@ -94,7 +94,7 @@
         <item>Run</item>
         <item>Total Distance</item>
         <item>Descent</item>
-        <item>Swing</item>
+        <item>Strokes</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining Distance</item>

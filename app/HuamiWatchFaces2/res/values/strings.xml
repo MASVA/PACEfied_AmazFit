@@ -72,7 +72,7 @@
     <string name="sport_paused_time">Pause Time</string>
     <string name="sport_distance">Total Distance</string>
     <string name="sport_downhill_total_distance">Total Distance</string>
-    <string name="sport_tennis_strokes">Swing</string>
+    <string name="sport_tennis_strokes">Strokes</string>
     <string name="sport_change">Switch activity</string>
     <string name="sport_change_time">Transition time</string>
     <string name="please_get_ready_for_runnning">Next: running</string>
@@ -108,10 +108,10 @@
     <string name="minute">minute</string>
     <string name="minute_clock">minute</string>
     <string name="second">second</string>
-    <string name="altitude">altitude</string>
+    <string name="altitude">Altitude</string>
     <string name="longitude_and_latitude">Lat Long</string>
     <string name="press_key_finish_train">Press lap key to complete this interval</string>
-    <string name="press_up_key_wake_up">Press power key to unlock</string>
+    <string name="press_up_key_wake_up">Press power key</string>
     <string name="need_run_kilometer">Interval Distance</string>
     <string name="low_battery_protect">Low battery</string>
     <string name="low_battery_please_charging">Battery is low. Please charge.</string>
