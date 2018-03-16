@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Курс</runType>
+            <trainContent>Маршрут</trainContent>
+            <copyWrite>Маршрут 800м + интервалы 200м. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Курс</runType>
+            <trainContent>Спокойный бег</trainContent>
+            <copyWrite>Спокойный маршрут. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Курс</runType>
+            <trainContent>Курсовой бег</trainContent>
+            <copyWrite>Бег с повышенной интенсивностью.  Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Курс</runType>
+            <trainContent>Техничный бег</trainContent>
+            <copyWrite>Начинайте медленно и постепенно увеличивайте темп. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Курс</runType>
+            <trainContent>Свободный бег</trainContent>
+            <copyWrite>Ручное изменение интенсивности тренировки. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Курс</runType>
+            <trainContent>Бег в гору</trainContent>
+            <copyWrite>Бег в гору в стабильном темпе. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Курс</runType>
+            <trainContent>Бег с постоянной скоростью</trainContent>
+            <copyWrite>Бегите с постоянной скоростью. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Курс</runType>
+            <trainContent>Интервальный бег</trainContent>
+            <copyWrite>Быстрый бег 800м/интервал 800м. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Курс</runType>
+            <trainContent>Длительный забег</trainContent>
+            <copyWrite>Быстрый бег 2.4км/интервал 800м. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Отдых</runType>
+            <trainContent></trainContent>
+            <copyWrite>Отдохните сегодня, не тренируйтесь. %1$d дней с начала тренировок</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Плавание</runType>
+            <trainContent></trainContent>
+            <copyWrite>Плавание ускоряет отдых. Не забывайте делать отметку после завершения упражнения.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Езда на велосипеде</runType>
+            <trainContent></trainContent>
+            <copyWrite>Скорость отдыха. Пульс %1$d-%2$dуд/м</copyWrite>
+        </runremind>
+</runreminds>
