@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
   <string name="locale_title">Vyberte jazyk</string>
@@ -75,7 +75,7 @@
   <string name="settings_off">Vypnuté</string>
   <string name="settings_on">Zapnuté</string>
   <string name="settings_step_target">Cieľ počtu krokov</string>
-  <string name="settings_step_unit">Krok</string>
+  <string name="settings_step_unit">Krokov</string>
   <string name="settings_target_reach_reminder">Upoz. na Cieľ</string>
   <string name="no_sleep_info">Nebol zistený žiadny spánok</string>
   <string name="today_sleep_info">Spánok</string>
@@ -93,7 +93,7 @@
   <string name="sleep_unit_minute">min</string>
   <string name="sleep_uniti_hour">hod</string>
   <string name="sleep_duration">%1$s h %2$s min</string>
-  <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;Hod&lt;/font&gt; %2$s Min</string>
+  <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">Hod&lt;/font> %2$s Min</string>
   <string name="date_m_d">%1$s.%2$s.</string>
   <string name="date_today">Dnes</string>
   <string name="sleep_detail_title">História</string>
@@ -137,12 +137,16 @@
   <string name="stretch_dialog_content">Rozumné aktivity môžu pomôcť na stuhnutý chrbát, urobte niekoľko sérií strečingových cvikov!</string>
   <string name="stretch_dialog_cancel">Zrušiť</string>
   <string name="stretch_dialog_start">Štart</string>
-  <string name="stretch_dialog_button">Začať stretčing</string>
-  <string name="stretch_connection_failed_title">Nedá sa spojiť s telefónom</string>
-  <string name="stretch_connection_failed_content">Uistite sa, že je aktívne spojenie Bluetooth, nechajte spustenú aplikáciu Amazfit a skúste znovu.</string>
+  <string name="stretch_dialog_button">"Začnite strečové cvičenie so mnou
+"</string>
+  <string name="stretch_connection_failed_title">"Nedá sa spojiť s telefónom
+"</string>
+  <string name="stretch_connection_failed_content">"Uistite sa, že hodinky sú pripojené k telefónu a aplikácia Amazfit Watch je spustená
+"</string>
   <string name="stretch_connection_failed_button">Opakovať</string>
   <string name="stretch_dialog_button_retry">Retry</string>
-  <string name="open_xiaomi_app_failed_title">Otvorenie MiFit sa nepodarilo</string>
+  <string name="open_xiaomi_app_failed_title">"Spustenie MiFit sa nepodarilo
+"</string>
   <string name="open_xiaom_app_failed_content">Prosím nainštalujte MiFit znovu.</string>
   <string name="stretch_notification_subtitle">Sedíte veľmi dlho</string>
   <string name="stretch_notification_content">Rozumné aktivity môžu odstrániť sedavé zatuhnutie chrbta</string>
@@ -155,12 +159,12 @@
   <string name="widget_heart_analysis">Analyzovať</string>
   <string name="widget_step_target_txt">Cieľ:  <liff>%d</liff></string>
   <string name="widget_step_target_complete">Cieľ dosiahnutý</string>
-  <string name="widget_step_target_second_tips">pred <liff>%d</liff> seconds ago</string>
-  <string name="widget_step_target_min_tips">pred <liff>%d</liff> minutes ago</string>
-  <string name="widget_step_target_hour_tips">pred <liff>%d</liff> hours ago</string>
-  <string name="widget_step_target_day_tips">pred <liff>%d</liff> days ago</string>
-  <string name="widget_step_target_month_tips">pred <liff>%d</liff> months ago</string>
-  <string name="widget_step_target_year_tips">pred <liff>%d</liff> years ago</string>
+  <string name="widget_step_target_second_tips">pred <liff>%d</liff> sekundami</string>
+  <string name="widget_step_target_min_tips">pred <liff>%d</liff>minútami</string>
+  <string name="widget_step_target_hour_tips">pred <liff>%d</liff> hodinami</string>
+  <string name="widget_step_target_day_tips">pred <liff>%d</liff> dňami</string>
+  <string name="widget_step_target_month_tips">pred <liff>%d</liff>mesiacmi</string>
+  <string name="widget_step_target_year_tips">pred <liff>%d</liff> rokmi</string>
   <string name="widget_label_step_unit">krokov</string>
   <string name="widget_label_heartrate">Tepová frekvencia</string>
   <string name="widget_label_heartrate_unit">Úderov/min</string>
@@ -264,7 +268,8 @@
   <string name="widget_weeklyreports_heart_rate_title">Tepová frek.</string>
   <string name="widget_weeklyreports_average_title">Priemer</string>
   <string name="widget_weeklyreports_totalcalory_front">Celkom kalorií</string>
-  <string name="widget_weeklyreports_totalcalory_title">Kalórie</string>
+  <string name="widget_weeklyreports_totalcalory_title">"Kalórií
+"</string>
   <string name="widget_weeklyreports_sports_title">Šport</string>
   <string name="widget_weeklyreports_reports_title">Týždenná správa</string>
   <string name="widget_weeklyreports_reports_review">Vyb.týždeň</string>
@@ -281,10 +286,10 @@
   <string name="currentstep_detail_activity_chart_unit">Jednotka: hodina</string>
   <string name="date_format">dd.MM.</string>
   <string name="widget_weeklyreports_nodata">Nie sú dáta za posledný týždeň</string>
-  <string name="app_list_title">Prehľad</string>
-  <string name="currentstep_detail_activities">Aktivita v čase (minúty)</string>
-  <string name="currentstep_detail_activities_title">Distribúcia aktivít</string>
-  <string name="currentstep_detail_activities_others">Other</string>
+  <string name="app_list_title">Pohyb</string>
+  <string name="currentstep_detail_activities">Aktivita v čase (min.)</string>
+  <string name="currentstep_detail_activities_title">Legenda</string>
+  <string name="currentstep_detail_activities_others">Ostatné</string>
   <string name="average_text">Priemer</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Potvrdiť</string>
