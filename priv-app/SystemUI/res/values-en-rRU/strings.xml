@@ -133,7 +133,7 @@
   <string name="accessibility_no_sim">Нет SIM.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth сопряжение.</string>
   <string name="accessibility_airplane_mode">Режим полета.</string>
-  <string name="accessibility_battery_level">Аккумулятор %d %.</string>
+  <string name="accessibility_battery_level">Аккумулятор %d .</string>
   <string name="accessibility_settings_button">Системные настройки.</string>
   <string name="accessibility_notifications_button">Уведомления.</string>
   <string name="accessibility_remove_notification">Очистить уведомления.</string>

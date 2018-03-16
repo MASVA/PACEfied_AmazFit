@@ -504,7 +504,7 @@
   <string name="tutorial_keep_swiping">Продолжайте листать…</string>
   <string name="tutorial_dismiss">Вы можете удалить карты когда вы закончили работать с ними.</string>
   <string name="tutorial_swipe_dismiss">Проведите пальцем для удаления.</string>
-  <string name="tutorial_dont_worry"Не беспокойтесь – карты снова показываются, когда они вам необходимы.</string>
+  <string name="tutorial_dont_worry">Не беспокойтесь – карты снова показываются, когда они вам необходимы.</string>
   <string name="tutorial_swipe_left">Проведите пальцем влево для деталей:</string>
   <string name="tutorial_swipe_left_again">И снова для действий:</string>
   <string name="tutorial_got_it">Ок, понял</string>

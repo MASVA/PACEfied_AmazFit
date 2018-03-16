@@ -216,7 +216,6 @@ kg"</string>
   <string name="strong">Silné</string>
   <string name="mid">Střední</string>
   <string name="weak">Slabé</string>
-  <string name="replace_watchface">Jiný ciferník</string>
   <string name="screen_refresh">Secondhand</string>
   <string name="screen_refresh_on_string">On</string>
   <string name="screen_refresh_off_string">Off</string>
@@ -238,7 +237,6 @@ kg"</string>
   <string name="remind_aleary_open">Upozornění je již zapnuté</string>
   <string name="phone_far_away_remind_to_you">Hodinky Vás upozorní, když je telefon příliš daleko.</string>
   <string name="dialog_confire">Potvrdit</string>
-  <string name="sport_music_settings">Sportovní hudba</string>
   <string name="widget_currentstep_title">Centrum dat</string>
   <string name="widget_currentstep_activities">Kroky dnes</string>
   <string name="widget_currentstep_sleep_hour">h</string>
@@ -246,12 +244,6 @@ kg"</string>
   <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
   <string name="widget_currentstep_sleep_no">Nejsou data o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes bez cvičení?</string>
-  <string name="app_item_phone_anti_lost">Anti-lost mobile phone</string>
-  <string name="app_item_anti_lost_remind">Anti-lost reminder</string>
-  <string name="app_item_far_away_remind">Too far remind</string>
-  <string name="remind_aleary_open">Reminder already on</string>
-  <string name="phone_far_away_remind_to_you">The watch will remind you when it is far away from the phone。</string>
-  <string name="dialog_confire">Confirm</string>
   <string name="auto_hint_title">Časovač auto.podsv.obrazovky</string>
   <string name="long_key_action">Podržte pro otevření</string>
 <!--END of missed texts by Huami-->
