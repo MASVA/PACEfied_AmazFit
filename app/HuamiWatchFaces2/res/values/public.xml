@@ -1026,6 +1026,9 @@
     <public type="integer" name="train_total_distance_null_pading_right" id="0x7f0c0000" />
     <public type="integer" name="train_total_time_null_pading_right" id="0x7f0c0001" />
     <public type="integer" name="unlock_watchface_title_hight" id="0x7f0c0002" />
+    <public type="integer" name="skill_diagram_altitude_left" id="0x7f0c0003" />
+    <public type="integer" name="skill_diagram_longtitude_left" id="0x7f0c0004" />
+    <public type="integer" name="skill_diagram_content_rect_width" id="0x7f0c0005" />
     <public type="id" name="item_touch_helper_previous_elevation" id="0x7f0d0000" />
     <public type="id" name="one" id="0x7f0d0001" />
     <public type="id" name="three" id="0x7f0d0002" />

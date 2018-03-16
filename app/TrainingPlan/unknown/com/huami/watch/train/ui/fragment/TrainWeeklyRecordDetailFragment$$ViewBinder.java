@@ -8,8 +8,8 @@ import butterknife.ButterKnife.ViewBinder;
 public class TrainWeeklyRecordDetailFragment$$ViewBinder<T extends com.huami.watch.train.ui.fragment.TrainWeeklyRecordDetailFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492930, "field 'recyclearView'");
-    target.recyclearView = finder.castView(view, 2131492930, "field 'recyclearView'");
+    view = finder.findRequiredView(source, 2131558466, "field 'recyclearView'");
+    target.recyclearView = finder.castView(view, 2131558466, "field 'recyclearView'");
   }
 
   @Override public void unbind(T target) {

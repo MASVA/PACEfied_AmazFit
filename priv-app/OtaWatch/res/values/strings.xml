@@ -76,9 +76,10 @@ to the Amazfit Watch APP and back up all data before update."</string>
 data are backed up. Installing 
 the update will erase all user 
 data on the watch, Continue?"</string>
+    <string name="OK">OK</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
-    <string name="enter">Enter</string>
+    <string name="enter">OK</string>
     <string name="cancel">Cancel</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

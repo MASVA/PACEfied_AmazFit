@@ -70,6 +70,7 @@
     <string name="local_update_confirm_1_title">注意事项</string>
     <string name="local_update_confirm_1_msg">为确保本地升级后的版本兼容性问题,我们将清空所有数据后安装升级包,安装前请务必同步重要数据.</string>
     <string name="local_update_confirm_2_msg">请再次确保重要数据都已经同步.开始安装后未同步的数据将被清空不可恢复,是否继续安装?</string>
+    <string name="OK">确定</string>
     <string name="yes">是</string>
     <string name="no">否</string>
     <string name="enter">确定</string>
