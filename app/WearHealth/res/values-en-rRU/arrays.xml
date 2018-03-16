@@ -20,6 +20,10 @@
           Android Localizer (aiLocalizer)
         -->
 <resources>
+  <string-array name="support_category">
+    <item>ЕЖЕДНЕВНО</item>
+    <item>ЕЖЕНЕДЕЛЬНО</item>
+  </string-array>
   <string-array name="hour_select_labels">
     <item>0</item>
     <item>6</item>
@@ -38,6 +42,15 @@
     <item>Калории сегодня</item>
     <item>Калории за неделю</item>
   </string-array>
+  <string-array name="chart_x_titles">
+    <item>Пн</item>
+    <item>Вт</item>
+    <item>Ср</item>
+    <item>Чт</item>
+    <item>Пт</item>
+    <item>Сб</item>
+    <item>Вс</item>
+  </string-array>
   <string-array name="weekday_names">
     <item>Пн</item>
     <item>Вт</item>
@@ -47,4 +60,14 @@
     <item>Сб</item>
     <item>Вс</item>
   </string-array>
+  <string-array name="chart_x_titles2">
+    <item>0</item>
+    <item>4</item>
+    <item>8</item>
+    <item>12</item>
+    <item>16</item>
+    <item>20</item>
+    <item>24</item>
+  </string-array>
+  
 </resources>
