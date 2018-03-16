@@ -54,8 +54,8 @@
   <string name="count_down_del_time">Удалить данный таймер？</string>
   <string name="title_unit">Единица(час/минута)</string>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
-  <string name="locale_title">Выбрать язык</string>
-  <string name="average_text">Avg</string>
+  <string name="locale_title">Выберите язык</string>
+  <string name="average_text">Средн.</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Да</string>
   <string name="picker_default_nagetive_text">Нет</string>
