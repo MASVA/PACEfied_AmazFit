@@ -8,11 +8,12 @@
   <string name="please_select_train_plan">Выберите план</string>
   <string name="start_new_train">Новая тренировка</string>
   <string name="train_center">Центр тренировок</string>
-  <string name="train_detail">Детали</string>
+  <string name="train_detail">Войти</string>
   <string name="day_train_record_stag">%1$s - %2$d нед %3$d дн</string>
   <string name="day_train_record_stag_simple">%1$d нед %2$d дн</string>
   <string name="day_train_record_train_stage">%1$s дн</string>
-  <string name="remind_train_first_text">Тренировки могут улучшить ваше состояние\nНачать!</string>
+  <string name="remind_train_first_text">Тренировки улучшают вашу производительность,
+  начнем!</string>
   <string name="train_start">Начать</string>
   <string name="hidtory_train_start_date">Начало %1$s</string>
   <string name="hidtory_train_end_date">Конец %1$s</string>
@@ -22,12 +23,12 @@
   <string name="day_train_record_status_finish">Завершено</string>
   <string name="day_train_record_statis_un_finish">Не завершено</string>
   <string name="dialog_day_train_plan_is_complete">Отметить или нет сегодняшний план тренировки как завершенный?</string>
-  <string name="dialog_delete_history_record">Whether to delete this record, delete will not be restored.</string>
+  <string name="dialog_delete_history_record">Удалить текущую запись, её нельзя будет восстановить.</string>
   <string name="dialog_train_plan_is_complete">Заранее закончить данный план тренировок? Больше не делать записи о прогрессе данной тренировки?</string>
   <string name="last_day_rest_remind">Тренировка заканчивается, отдохните один день, чтобы уменьшить усталость тела</string>
   <string name="cancel">Отмена</string>
-  <string name="enter">Enter</string>
-  <string name="dialog_delete">Delete</string>
+  <string name="enter">Вход</string>
+  <string name="dialog_delete">Удалить</string>
   <string name="day_train_plan_record_marked">отметка</string>
   <string name="train_plan_recode_finished">Завершено</string>
   <string name="train_mileage">Процесс тренировки (км)</string>
@@ -59,8 +60,8 @@
   <string name="sport_music_settings">Спортивная музыка</string>
   <string name="widget_currentstep_title">Центр данных</string>
   <string name="widget_currentstep_activities">Шаги за сегодня</string>
-  <string name="widget_currentstep_sleep_hour">h</string>
-  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_hour">ч</string>
+  <string name="widget_currentstep_sleep_min">мин</string>
   <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
   <string name="widget_currentstep_activity_no">Нет тренировок сегодня?</string>
