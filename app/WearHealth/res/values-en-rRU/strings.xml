@@ -6,7 +6,7 @@
   <string name="all_day_deep_sleep">Всего неподвижно</string>
   <string name="all_day_hearte_rate_button_close">Остановить измерение пульса</string>
   <string name="all_day_hearte_rate_button_open">Включить измерение пульса</string>
-  <string name="all_day_light_sleep">Всего чутко</string>
+  <string name="all_day_light_sleep">Легкий сон за день</string>
   <string name="app_name">Здоровье</string>
   <string name="average_text">Среднее</string>
   <string name="awake_duration">Бодрствование</string>
@@ -15,10 +15,10 @@
   <string name="date_today">Сегодня</string>
   <string name="heart_rate_distribution">Распределение</string>
   <string name="heart_rate_history">Статистика</string>
-  <string name="heart_rate_no_data">Нет данных</string>
+  <string name="heart_rate_no_data">Нет данных о пульсе</string>
 <!--  <string name="heartrate_gauge_failure">Пожалуйста, держите часы ближе к руке, чтобы измерить пульс.</string>
   <string name="heartrate_gauging">Измеряем...</string>-->
-  <string name="heartrate_wear_before_gauging">Пожалуйста, наденьте часы на руку перед измерениеями.</string>
+  <string name="heartrate_wear_before_gauging">Пожалуйста, наденьте часы на руку перед измерениями.</string>
   <string name="high_strength_heart_rate">Высокая нагр.</string>
   <string name="label_active_fast">Высокая нагр.</string>
   <string name="label_active_fast_sick_any">Интенсивность занятий необходимо уменьшить при болезни. А при более серьезных симптомах таких, как лихорадка, необходимо прекратить упражнения.</string>
@@ -64,7 +64,7 @@
   <string name="label_condition_well">Расслаблен</string>
   <string name="label_heart_rate_bmps">уд/м</string>
   <string name="label_heart_rate_text">Пульс</string>
-  <string name="label_heartrate">Сердечный ритм</string>
+  <string name="label_heartrate">Пульс</string>
   <string name="label_heartrate_today">График сердцебиения</string>
   <string name="label_heartrate_unit">уд/м</string>
   <string name="label_mood_bad">Так себе</string>
@@ -138,12 +138,12 @@
   <string name="today_heart_rate_title_text">Детали</string>
   <string name="today_heart_rate_value_def">--</string>
   <string name="today_sleep_info">Сон</string>
-  <string name="total_deep_sleep">Неподвижно</string>
-  <string name="total_sleep">Полное время сна</string>
+  <string name="total_deep_sleep">Общее время глубокого сна</string>
+  <string name="total_sleep">Общее время сна</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="wake_up">Проснулся в %1$s</string>
-  <string name="whole_day_deep_sleep">Неподвижно</string>
-  <string name="whole_day_light_sleep">Чутко</string>
+  <string name="whole_day_deep_sleep">Глубокий сон</string>
+  <string name="whole_day_light_sleep">Лёгкий сон</string>
   <string name="widget_err_step_shown">Ошибка:(-1)</string>
   <string name="widget_heart_analysis">Анализ пульса</string>
   <string name="widget_heart_gauged_err">Ошибка измерений</string>

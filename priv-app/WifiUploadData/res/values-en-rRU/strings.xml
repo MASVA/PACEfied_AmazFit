@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="average_text">Ср.</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="picker_default_positive_text">Подтвердить</string>
+  <string name="picker_default_nagetive_text">Выкл</string>
+  <string name="no_heartrate_data_hint">Данные о пульсе не найдены</string>
+  <string name="no_altitude_hint">Данные о высоте не найдены</string>
+  <string name="ui_lib_name">Hm_UILib</string>
+  <string name="title_settings">Настройки</string>
+  <string name="sport_music_settings">Спортивная музыка</string>
+  <string name="app_name">Загрузка по Wi-Fi</string>
+  <string name="notice_text_success_top">загрузка завершена</string>
+  <string name="notice_text_success_bottom">Посмотреть данные можно в приложении Amazfit Watch</string>
+  <string name="notice_text_failed_top">Загрузка данных прервана</string>
+  <string name="net_failed">Пожалуйста убедить в том, что часы подключены к Wifi</string>
+  <string name="date">Дата:</string>
+  <string name="am">AM</string>
+  <string name="pm">PM</string>
+  <string name="date_">/</string>
+  <string name="date_m">:</string>
+  <string name="see_after_connect_app_token_faield">Не возможно подключиться к приложению Amazfit Watch для обновления доступа к точке</string>
+  <string name="cannot_acess_server">Невозможно подключиться к серверу</string>
+  <string name="cannot_upload_user">Невозможно проверить точку доступа</string>
+  <string name="please_upload_assist_version">Пожалуйста загрузите последнюю версию приложения Amazfit Watch и повторите попытку</string>
+  <string name="did_not_connect_assist">Пожалуйста подключитесь к приложению Amazfit Watch для обновления точки доступа и возможности загрузки данных на сервер</string>
+  <string name="upload_failed_full">Загрузка данных не завершена, выйти сейчас?</string>
+  <string name="percent_sign">%</string>
+  <string name="please_keep_wifi_connected">Пожалуйста держите часы подключенными к Wi-Fi</string>
+  <string name="init_wifi">Подключение к Wi-Fi</string>
+  <string name="init_user">Проверка точки доступа</string>
+  <string name="init_app">Подключение к приложению Amazfit Watch</string>
+  <string name="init_update_user">Обновление точки доступа</string>
+  <string name="zero">0</string>
+  <string name="yes">да</string>
+  <string name="no">нет</string>
+  <string name="widget_currentstep_title">Центр данных</string>
+  <string name="widget_currentstep_activities">Шаги за сегодня</string>
+  <string name="widget_currentstep_sleep_hour">ч</string>
+  <string name="widget_currentstep_sleep_min">мин</string>
+  <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
+  <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
+  <string name="widget_currentstep_activity_no">Нет тренировок сегодня?</string>
+</resources>

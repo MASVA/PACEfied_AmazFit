@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Установка сертификатов</string>
+  <string name="pick_file_title">Выберите сертификат</string>
+  <string name="pkcs12_password_dialog_title">Извлеките сертификат</string>
+  <string name="extracting_pkcs12">Извлечение…</string>
+  <string name="pkcs12_file_password_dialog_title">Извлечение из %s</string>
+  <string name="name_credential_dialog_title">Имя сертификата</string>
+  <string name="credential_name">Имя сертификата:</string>
+  <string name="credential_password">Введите пароль для извелечения сертификатов.</string>
+  <string name="credential_info">Пакет содержит:</string>
+  <string name="p12_description">Сертификаты в PKCS12 кодировке.</string>
+  <string name="one_userkey">один ключ пользователя</string>
+  <string name="one_usercrt">один сертификат пользователя</string>
+  <string name="one_cacrt">один CA сертифика</string>
+  <string name="n_cacrts">%d CA сертификаты</string>
+  <string name="password_error">Введите корректный пароль.</string>
+  <string name="password_empty_error">Введите пароль.</string>
+  <string name="name_empty_error">Введите имя.</string>
+  <string name="name_char_error">Введите имя, которое содержит только буквы и цифры.</string>
+  <string name="storage_error">"Невозможно сохранить сертификат. Нажмите ОК, чтобы повторить."</string>
+  <string name="unable_to_save_cert">"Невозможно сохранить сертификат. Хранилище не включено или неправильно инициализировано."</string>
+  <string name="cert_not_saved">Сертификат не установлен.</string>
+  <string name="no_cert_to_saved">Нет сертификатов для установки.</string>
+  <string name="invalid_cert">Неверный сертификат.</string>
+  <string name="cert_is_added">%s установлен.</string>
+  <string name="cert_too_large_error">"Невозможно установить, потому что размер сертификата слишком большой."</string>
+  <string name="cert_missing_error">"Невозможно установить, потому что отсутствует расположение файла сертификата."</string>
+  <string name="cert_read_error">"Невозможно установить, потому что файл сертификата невозможно прочитать."</string>
+  <string name="no_cert_file_found">Файлы сертификатов не найдены на SD карте.</string>
+  <string name="sdcard_not_present">"Нет SD карты."</string>
+  <string name="only_primary_user_allowed">Только владелец устройства может устанавливать сертификаты.</string>
+  <string name="credential_usage_label">Использование учетных данных:</string>
+</resources>

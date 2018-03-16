@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">HuamiIME</string>
+  <string name="connect_phone">пожалуйста подключитесь к приложению Amazfit</string>
+  <string name="input_by_phone">пожалуйста войдите в приложение Amazfit</string>
+</resources>

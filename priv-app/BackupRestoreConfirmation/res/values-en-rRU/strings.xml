@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="backup_confirm_title">Полный бекап</string>
+  <string name="restore_confirm_title">Полное восстановление</string>
+  <string name="backup_confirm_text">"Для полного бекапа всех данных необходимо подключение к ПК. Вы хотите продолжить?
+
+Если запрос на бекап был выполнен не вами, не выполняйте данную операцию."</string>
+  <string name="allow_backup_button_label">Бекап моих данных</string>
+  <string name="deny_backup_button_label">Не делать бекап</string>
+  <string name="restore_confirm_text">"Для полного восстановления всех данных необходимо подключение к ПК. Вы хотите продолжить?
+
+Если запрос на восстановление был выполнен не вами, не выполняйте данную операцию. Все данные на устройстве будут заменены!"</string>
+  <string name="allow_restore_button_label">Восстановить мои данные</string>
+  <string name="deny_restore_button_label">Не восстанавливать</string>
+  <string name="current_password_text">Пожалуйста введите ваш текущий пароль бекапа:</string>
+  <string name="device_encryption_restore_text">Пожалуйста введите ваш пароль для шифрования.</string>
+  <string name="device_encryption_backup_text">Пожалуйста введите ваш пароль для шифрования ниже. Данная операция зашифрует данные в бекап архивеe.</string>
+  <string name="backup_enc_password_text">Пожалуйста введите пароль для шифрования полного бекапа. Если данное поле оставить пустым, то будет использован ваш текущий пароль:</string>
+  <string name="backup_enc_password_optional">Если вы желаете зашифровать полный бекап, введите пароль:</string>
+  <string name="backup_enc_password_required">Поскольку ваше устройство зашифровано, вам необходимо зашифровать ваш бекап. Пожалуйста введите пароль:</string>
+  <string name="restore_enc_password_text">Если данные для восстановления зашифрованы, пожалуйста введите пароль:</string>
+  <string name="toast_backup_started">Бекап начат...</string>
+  <string name="toast_backup_ended">Бекап завершен</string>
+  <string name="toast_restore_started">Восстановление начато...</string>
+  <string name="toast_restore_ended">Восстановление выполнено</string>
+  <string name="toast_timeout">Тайм-аут операции</string>
+</resources>
