@@ -190,6 +190,7 @@
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Tętno</string>
+    <string name="sport_main_beyond_heart_info_title">Przek.bezp.tętna</string>
     <string name="sport_main_pace_info_title">Tempo</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Okrąż. %1$d</string>
@@ -220,11 +221,11 @@
     <string name="sport_main_graph_title">Najnowszy (min)</string>
     <string name="exchange_time_cost">Czas przejścia</string>
     <string name="exchange_in_progress">W okr.przejściowym</string>
-    <string name="exchange_anim_title">Przełącz aktywność</string>
+    <string name="exchange_anim_title">Przełącz aktyw.</string>
     <string name="sport_pause_swim_type">Odległ.pływania </string>
-    <string name="sport_pause_swim_dis_unit">Całk. dystans</string>
+    <string name="sport_pause_swim_dis_unit">Odległość</string>
     <string name="sport_pause_normal_dis_type">Całk. dystans </string>
-    <string name="sport_pause_normal_dis_unit">Całk. dystans</string>
+    <string name="sport_pause_normal_dis_unit">Odległość</string>
     <string name="sport_pause_normal_stroke_unit">Uderzenia</string>
     <string name="sport_auto_lap_dis">%1$s km na</string>
     <string name="sport_auto_lap_dis_imperial">%1$s mi na</string>
@@ -236,11 +237,11 @@
     <string name="sport_graph_title_low">Najniższy</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">Zmieniono nazwę ustawienia automatycznej odległości</string>
-    <string name="adjust_swim_tips">Automatyczna odległość docierania to teraz rozmiar basenu. W razie potrzeby dostosuj go w ustawieniach pływania.</string>
+    <string name="adjust_swim_tips">Auto.odległ.docierania to teraz rozmiar basenu. W razie potrzeby dostosuj go w ustawieniach pływania.</string>
     <string name="hill_title">Zmiany nachylenia</string>
     <string name="hill_even">Płaski</string>
-    <string name="hill_up">Podjazd</string>
-    <string name="hill_down">Zjazd</string>
+    <string name="hill_up">W górę</string>
+    <string name="hill_down">W dół</string>
     <string name="hill_default_time">00:00:00</string>
     <string name="hill_default_percent">%1$d%%</string>
     <string name="sport_result_in_progress">Zapisywanie aktywności…</string>
@@ -252,6 +253,7 @@
     <string name="sport_lap_swim_length_time">czas/%1$s m</string>
     <string name="sport_lap_swim_length_time_imperial">czas/%1$s st</string>
     <string name="sport_swim_style">Rodzaj skoku</string>
+	<string name="sport_swim_style_main">Styl główny</string>
     <string name="swim_free_style">Styl dowolny</string>
     <string name="swim_medlyrelay">Zmienny</string>
     <string name="swim_breaststroke">Styl klasyczny</string>
@@ -266,8 +268,8 @@
     <string name="earphone_conn_title">Zestaw słuch.</string>
     <string name="device_in">Urządz. podłączone</string>
     <string name="device_out">Urządz. odłączone</string>
-    <string name="history_swim_exchange_title">Czas przejścia do pływania</string>
-    <string name="history_riding_exchange_title">Czas przejścia do jazdy na rowerze</string>
+    <string name="history_swim_exchange_title">Przejście do jazdy na rowerze</string>
+    <string name="history_riding_exchange_title">Przejście do biegania</string>
     <string name="sport_pause_time_tips">Czas przerwy</string>
     <string name="sport_stride_unit">cm</string>
     <string name="sport_stride_unit_imperial">w</string>
@@ -296,6 +298,8 @@
     <string name="sport_month_sport_title">Wybierz aktywność</string>
     <string name="sport_widget_title_tennis">Tenis</string>
     <string name="sport_widget_title_tennising">Gra w Tenisa</string>
+    <string name="sport_widget_title_soccer">Piłka nożna</string>
+    <string name="sport_widget_title_soccering">Piłka nożna</string>
     <string name="start_mix_sport">Rozpocznij aktywność multisport</string>
     <string name="start_single_sport">Rozpocznij aktywność</string>
     <string name="pause_sport">Wstrzymaj aktywność</string>
@@ -355,7 +359,7 @@
     <string name="data_item_surplus_distance">Dystans biegu</string>
     <string name="data_item_surplus_time">Czas biegu</string>
     <string name="start_change_item">Rozpoczęcie następnego interwału</string>
-    <string name="near_to_finish_item">Niebawem</string>
+    <string name="near_to_finish_item">Prawie skoń.</string>
     <string name="click_finsh_this_train_unit">Klawisz Okrąż. naciśnij środkowy</string>
     <string name="has_no_train_unit_remind">Do aplik. Amazfit Watch należy dodać trening okresowy i zsynch.zegarek.</string>
     <string name="interval_segment_details">Szczegóły interwału</string>
@@ -385,11 +389,23 @@
     <string name="skiing_interval_train_complete_pause_tip">Pauza w ruchu</string>
     <string name="skiing_above_skiing_spped">Powyżej %1$s przypomnienie</string>
     <string name="skiing_lap_downhill_dis_title">Przesuwanie przebiegu w dół</string>
+    <string name="sport_history_total_stokes">Cał.li.uderzeń</string>
     <string name="sport_tennis_strokes">Uderzenia</string>
     <string name="sport_tennis_forehand">Forehand</string>
     <string name="sport_tennis_backhand">Backhand</string>
     <string name="sport_tennis_serve">Serw</string>
+    <string name="sport_setting_clap_the_hands">Ręka - rakieta</string>
+    <string name="sport_setting_left_hand">Lewa</string>
+    <string name="sport_setting_right_hand">Prawa</string>
+    <string name="sport_please_select_clap_hand">Proszę wybrać rękę rakiety.</string>
     <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Przesuń zbyt małą liczbę, nie da się zapisać aby określić koniec?</string>
+    <string name="sport_soccer_sec_half">Rozpocznij drugą połowę</string>
+    <string name="tennic_strokes_times_too_short">Gra ze zbyt małą il.uderzeń nie może być zapisana, kontynuować?</string>
+    <string name="dialog_tennic_select_hand_title">Proszę wybrać rękę rakiety.</string>
+    <string name="sport_widget_title_compound">Ruch złożony</string>
+    <string name="sport_widget_title_compounding">Ruch złożony</string>
+    <string name="sport_select_compound">Wybór sportu</string>
+    <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Nie można zapisać mniej niż jednej tury, kontynuować?</string>
     <string name="experience_title">Proszę ustawić dane osobowe lub dane będą miały duże odchylenie</string>
     <string name="recovery_time_hour">Godz.</string>
     <string name="sport_vo2_max">VO2max</string>
@@ -431,7 +447,9 @@
     <string name="sport_te_desc_level_06">Przeciążenie ciała.</string>
     <string name="first_beat_remind_txt_01">To jest dobre tempo.</string>
     <string name="first_beat_remind_txt_02">To jest dobre tempo. Więcej minut, abyś był w dobrej kondycji.。</string>
-    <string name="sport_history_recovery_remind">Zaleca się, aby treningi były odpowiednio utrzymywane w celu osiągnięcia pełnej regeneracji.</string>
+    <string name="sport_history_recovery_remind">Zaleca się, by treningi były
+	odp.utrzym.by osiąg.
+	pełną regenerację.</string>
     <string name="daily_propermance_has_no_data">Niedostępne</string>
     <string name="first_beat_help_title_vo2_max">VO2Max</string>
     <string name="first_beat_help_title_train_efffect">Efekt Treningu (TE)</string>
@@ -571,7 +589,9 @@
     <string name="route_scale_enlarge">Powiększ</string>
     <string name="route_scale_narrow">Wąska</string>
     <string name="route_cur_altitude_value">%1dm</string>
+    <string name="route_cur_altitude_value_imperial">%1dft</string>
     <string name="route_climb_up_value">%1dm</string>
+    <string name="route_climb_up_value_imperial">%1dft</string>
     <string name="sport_widget_title">Sporty</string>
     <string name="sport_widget_title_run">Bieg</string>
     <string name="sport_widget_title_walk">Chód</string>
@@ -834,7 +854,7 @@
     <string name="km_imperial_outdoor_speed_graph_title">Pręd.(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%.2smi</string>
     <string name="meter_imperial_settings_item_value_target_distance">%1$sst</string>
-    <string name="vo2_max_title">Maks.pobór tlenu</string>
+    <string name="vo2_max_title">Pułap tlenowy</string>
     <string name="vo2_max_level_very_good">Bardzo dobry</string>
     <string name="vo2_max_level_middle">Średni</string>
     <string name="vo2_max_text_nunber">50</string>
@@ -849,7 +869,7 @@
     <string name="hint_cancelling">Anulowanie ...</string>
     <string name="hint_success_exported_title">Eksp.do pliku GPX zakoń.</string>
     <string name="hint_failed_exported_title">Eksport przerwany</string>
-    <string name="hint_where">"Ślad zapis.w fold.'/gpxdata/'. 
+    <string name="hint_where">"Ślad zapis.w fold.'/gpxdata/'.
 Skopiuj do komputera za pomocą USB"</string>
     <string name="hint_failed">Esport śladu nie powiódł się, spóbuj ponownie.。</string>
     <string name="app_name">Sporty-Rej.</string>
@@ -859,7 +879,6 @@ Skopiuj do komputera za pomocą USB"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="sport_history_total_stokes">Cał.liczba trafień</string>
     <string name="widget_currentstep_title">Centrum danych</string>
     <string name="widget_currentstep_activities">Kroki dzisiaj</string>
     <string name="widget_currentstep_sleep_hour">h</string>
