@@ -55,9 +55,9 @@
   <string name="replace_watchface">Ciferníky</string>
   <string name="wifi_auto_upload_switch">Auto nahr.WiFi</string>
   <string name="auto_bg">Auto.podsviet.</string>
-  <string name="paobu">Run</string>
+  <string name="paobu">Beh</string>
   <string name="jianzou">Walk away</string>
-  <string name="yueye">Trail running</string>
+  <string name="yueye">Beh v teréne</string>
   <string name="shineipao">Run indoor</string>
   <string name="huwaiqi">Outdoor riding</string>
   <string name="yongchiyou">Swimming pool</string>

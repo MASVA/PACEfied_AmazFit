@@ -127,9 +127,9 @@
   <string name="high_strength_heart_rate">Anaerobik</string>
   <string name="non_movement_heart_rate">Bez cvičenia</string>
   <string name="sleep_heart_rate">Spánok</string>
-  <string name="anaerobic_limit_heart_rate">Maximum</string>
-  <string name="power_strength_heart_rate">Anaerobic</string>
-  <string name="cardiopulmonary_enhancement">Cardio Traning</string>
+  <string name="anaerobic_limit_heart_rate">Maximálny</string>
+  <string name="power_strength_heart_rate">Anaeróbný</string>
+  <string name="cardiopulmonary_enhancement">Kardio Tréning</string>
   <string name="burning_fat__heart_rate">Fat Burning</string>
   <string name="warm_up_relax_heart_rate">Warm Up</string>
   <string name="stretch_dialog_title">Strečing</string>
