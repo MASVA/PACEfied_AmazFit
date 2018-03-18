@@ -70,7 +70,7 @@ Due to your older version, upgrade may take longer, please be patient."</string>
  k tejto WiFi sieti. Prosím, 
  vyskúšajte inú</string>
   <string name="searching">Vyhľadávam...</string>
-  <string name="hasNewUpdateTitle">Aktualizácia systému</string>
+  <string name="hasNewUpdateTitle">Aktual. systému</string>
   <string name="hasNewUpdateInstallContent">Verzia %1$s môže byť nainštalovaná, nainštalovať?</string>
   <string name="hasNewUpdateCheckContent">Verzia %1$s môže byť aktualizovaná, aktualizovať?</string>
   <string name="update_title">Please choose one of the following</string>
@@ -85,10 +85,10 @@ to the Amazfit Watch app and back up all data before update."</string>
 data are backed up. Installing 
 the update will erase all user 
 data on the watch, Continue?"</string>
-  <string name="yes">Yes</string>
-  <string name="no">No</string>
+  <string name="yes">Áno</string>
+  <string name="no">Nie</string>
   <string name="enter">Enter</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Zrušiť</string>
   <string name="average_text">Avg</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Confirm</string>

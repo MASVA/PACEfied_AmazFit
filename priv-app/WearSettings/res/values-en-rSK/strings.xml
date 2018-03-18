@@ -101,8 +101,8 @@
   <string name="air_plane">Airplane Mode</string>
   <string name="air_plane_mode_note">"Režim Lietadlo 
 Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ potrebujete používať funkcie, ktoré vyžadujú BT/WiFi, vypnite režim Lietadlo v Nastaveniach systému."</string>
-  <string name="yes">Yes</string>
-  <string name="no">No</string>
+  <string name="yes">Áno</string>
+  <string name="no">Nie</string>
   <string name="settings_long_sit_reminder">Výstraha nečinnosti</string>
   <string name="settings_off">Vypnuté</string>
   <string name="settings_on">Zapnuté</string>

@@ -103,7 +103,7 @@
   <string name="wifi_connect_fail">"Wi-Fi连接失败，请
 重新连接"</string>
   <string name="searching">正在搜索...</string>
-  <string name="hasNewUpdateTitle">系统有更新</string>
+  <string name="hasNewUpdateTitle">Aktual. systému</string>
   <string name="hasNewUpdateContent">%1$s版本已可以安装,是否现在安装？</string>
   <string name="average_text">Avg</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>

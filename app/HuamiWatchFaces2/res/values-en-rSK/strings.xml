@@ -51,15 +51,15 @@
   <string name="outdoor_riding">Cycling</string>
   <string name="indoor_riding">Cycling Indoor</string>
   <string name="cross_contry">Trail Run</string>
-  <string name="eppitical">Elliptical Trainer</string>
+  <string name="eppitical">Elipt.trenažér</string>
   <string name="indoor_swimming">Pool Swim</string>
   <string name="outdoor_swimming">Open Water</string>
   <string name="triathlon">Triathlon</string>
   <string name="mountain">Climb</string>
   <string name="riding">Cycling</string>
   <string name="swimming">Swim</string>
-  <string name="skiing">Skiing</string>
-  <string name="tennis">Tennis</string>
+  <string name="skiing">Lyžovanie</string>
+  <string name="tennis">Tenis</string>
   <string name="soccer">Soccer</string>
   <string name="golf">Golf</string>
   <string name="sport_total_time">Total Time</string>
@@ -70,7 +70,7 @@
   <string name="mileage">Distance</string>
   <string name="sport_has_paused">Paused</string>
   <string name="sport_paused_time">Pause Time</string>
-  <string name="sport_distance">Total Distance</string>
+  <string name="sport_distance">Celková vzdialenosť</string>
   <string name="sport_downhill_total_distance">Downhill Total Distance</string>
   <string name="sport_change">Switch activity</string>
   <string name="sport_change_time">Transition time</string>
