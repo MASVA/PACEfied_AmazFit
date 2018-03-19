@@ -86,8 +86,8 @@ Nové notifikácie sa viac nebudú zobrazovať."</string>
   <string name="header_incomming_call_service_hotline">Server Hotline</string>
   <string name="header_incomming_call_localcall">Miestny hovor</string>
   <string name="header_incomming_call_unknowncall">Neznámy hovor</string>
-  <string name="call_phone_off">Ring off</string>
-  <string name="call_sound_off">Silence</string>
+  <string name="call_phone_off">Odmietnuť</string>
+  <string name="call_sound_off">Stlmiť</string>
   <string name="wathc_disconnection_title">Odpojené</string>
   <string name="wathc_disconnection_content">Odpojené od telefónu</string>
   <string name="notification_block">Blokovať</string>

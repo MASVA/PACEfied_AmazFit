@@ -24,9 +24,9 @@
   <string name="wifi_dev">WiFi</string>
   <string name="check_for_update">Aktualizácia</string>
   <string name="change_language">Jazyk</string>
-  <string name="reset_factory">Predvolené nastavenia</string>
+  <string name="reset_factory">Predvol. nastavenie</string>
   <string name="shut_down">Vypnúť</string>
-  <string name="reboot">Reboot</string>
+  <string name="reboot">Reštartovať</string>
   <string name="about">O hodinkách</string>
   <string name="wear_habit">Hodinky na</string>
   <string name="bugreport">Nahlásiť chybu</string>
@@ -52,7 +52,7 @@
   <string name="units_set">Units</string>
   <string name="auto_airplane">Auto lietadlo</string>
   <string name="wifi_upload">Nahrať->WiFi</string>
-  <string name="replace_watchface">Ciferníky</string>
+  <string name="watchface">Ciferník</string>
   <string name="wifi_auto_upload_switch">Auto nahr.WiFi</string>
   <string name="auto_bg">Auto.podsviet.</string>
   <string name="paobu">Beh</string>
@@ -216,11 +216,12 @@ kg"</string>
   <string name="strong">Silné</string>
   <string name="mid">Stredné</string>
   <string name="weak">Slabé</string>
-  <string name="screen_refresh">Secondhand</string>
-  <string name="screen_refresh_on_string">On</string>
-  <string name="screen_refresh_off_string">Off</string>
+  <string name="replace_watchface">Ciferník</string>
+  <string name="screen_refresh">Sekun. ručička</string>
+  <string name="screen_refresh_on_string">Zapnutá</string>
+  <string name="screen_refresh_off_string">Vypnutá</string>
   <string name="confirm_shutdown">Vypnúť?</string>
-  <string name="confirm_reboot">Reboot?</string>
+  <string name="confirm_reboot">Reštartovať?</string>
   <string name="app_name">Nastavenie hodiniek</string>
   <string name="title_activity_long_sitting_time">ČasovéAktivityDlhéhoSedenia</string>
   <string name="lab_desc">Zbierať časti pre ladiace nástroje</string>

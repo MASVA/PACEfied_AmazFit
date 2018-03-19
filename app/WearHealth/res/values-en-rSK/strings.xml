@@ -128,10 +128,10 @@
   <string name="non_movement_heart_rate">Bez cvičenia</string>
   <string name="sleep_heart_rate">Spánok</string>
   <string name="anaerobic_limit_heart_rate">Maximálny</string>
-  <string name="power_strength_heart_rate">Anaeróbný</string>
-  <string name="cardiopulmonary_enhancement">Kardio Tréning</string>
-  <string name="burning_fat__heart_rate">Fat Burning</string>
-  <string name="warm_up_relax_heart_rate">Warm Up</string>
+  <string name="power_strength_heart_rate">Anaeróbny</string>
+  <string name="cardiopulmonary_enhancement">Kardio tréning</string>
+  <string name="burning_fat__heart_rate">Spaľovanie tuku</string>
+  <string name="warm_up_relax_heart_rate">Zahrievanie</string>
   <string name="stretch_dialog_title">Strečing</string>
   <string name="stretch_dialog_subtitle">Príliš dlhý pre dnešok</string>
   <string name="stretch_dialog_content">Rozumné aktivity môžu pomôcť na stuhnutý chrbát, urobte niekoľko sérií strečingových cvikov!</string>
@@ -265,7 +265,7 @@
   <string name="detail_date">Dnes %1$s</string>
   <string name="widget_weeklyreports_heart_rate_min_text">Min tep(bpm)</string>
   <string name="widget_weeklyreports_heart_rate_max_text">Max tep(bpm)</string>
-  <string name="widget_weeklyreports_heart_rate_title">Tepová frek.</string>
+  <string name="widget_weeklyreports_heart_rate_title">Tepová frekv.</string>
   <string name="widget_weeklyreports_average_title">Priemer</string>
   <string name="widget_weeklyreports_totalcalory_front">Celkom kalorií</string>
   <string name="widget_weeklyreports_totalcalory_title">"Kalórií
