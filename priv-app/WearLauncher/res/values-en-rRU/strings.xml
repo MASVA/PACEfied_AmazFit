@@ -68,7 +68,7 @@
   <string name="quick_settings_battery_sporttime_hour_unit">ч</string>
   <string name="quick_settings_battery_sporttime_KM_unit">км</string>
   <string name="quick_settings_battery_level_unit">%</string>
-  <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
+  <string name="quick_settings_battery_sporttime_MI_unit">ми</string>
   <string name="health_def_value"/>
   <string name="health_def_hint"/>
   <string name="health_title_def_value">Сегодня ушел))</string>
@@ -231,10 +231,10 @@
   <string name="cal_status_declined">Отклонено</string>
   <string name="cal_status_invited">Нет ответа</string>
   <string name="cal_status_tentative">Может быть</string>
-  <string name="cal_min">min</string>
+  <string name="cal_min">мин</string>
   <string name="cal_plus_x_more">+ %s подробнее</string>
   <string name="cal_email_subject">[Обновление] %s</string>
-  <string name="cal_no_event">Нет собитий</string>
+  <string name="cal_no_event">Нет событий</string>
   <string name="cal_no_title">(Без заголовка)</string>
   <string name="cal_event_duration" formatted="false">%s %s</string>
   <string name="cal_dummy_count_down">60</string>
