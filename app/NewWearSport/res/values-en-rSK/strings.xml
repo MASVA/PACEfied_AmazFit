@@ -92,9 +92,9 @@
   <string name="battery_continue_imperial_distance_unit"> mi</string>
   <string name="battery_continue_time_unit"> hodín</string>
   <string name="battery_split"> / </string>
-  <string name="suggest_reset_time">Time to full recovery %1$s hrs</string>
+  <string name="suggest_reset_time">Čas do úplného zotavenia %1$s hodín</string>
   <string name="remain_time_recovery">
-    <Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data>
+    <Data>Čas do úplného zotavenia&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data>
   </string>
   <string name="more_sport_tint">Viac</string>
   <string name="zh_space">　</string>
@@ -165,7 +165,7 @@
   <string name="sport_cur_tar_time">Uplynulý čas: %1$dh%2$dm</string>
   <string name="sport_cur_tar_cal">Kalórie: %1$skCal</string>
   <string name="sport_cur_tar_trips">Lengths: %1$slength</string>
-  <string name="sport_setting_select_te_stage_title">Select TE</string>
+  <string name="sport_setting_select_te_stage_title">Zvoľte TE</string>
   <string name="sport_setting_te_stage_content">TE%1$s %2$sm</string>
   <string name="history_heart_rate_graph_desc">Tepová frekvencia (bpm)</string>
   <string name="history_pace_graph_desc">Tempo(min/km)</string>
@@ -175,14 +175,14 @@
   <string name="history_swim_pace_graph_desc_yd">Tempo(min/100yards)</string>
   <string name="history_speed_graph_desc">Rýchlosť (km/h)</string>
   <string name="history_speed_graph_desc_imperial">Rýchlosť (mph)</string>
-  <string name="history_altitude_graph_desc">Altitude(m)</string>
-  <string name="history_altitude_graph_desc_imperial">Altitude(ft)</string>
-  <string name="history_step_freq_graph_desc">Kadenica (krokov/min)</string>
+  <string name="history_altitude_graph_desc">Výška(m)</string>
+  <string name="history_altitude_graph_desc_imperial">Výška(ft)</string>
+  <string name="history_step_freq_graph_desc">Kadencia (krokov/min)</string>
   <string name="history_title">Aktivity</string>
-  <string name="history_detail_info">Details</string>
-  <string name="hitory_rest_command">Time to full recovery </string>
+  <string name="history_detail_info">Detaily</string>
+  <string name="hitory_rest_command">Čas do úplného zotavenia </string>
   <string name="hitory_rest_command_time"> hodín</string>
-  <string name="history_month_target_title">Monthly Goal</string>
+  <string name="history_month_target_title">Mesačný cieľ</string>
   <string name="history_month_dis">%1$s/%2$dkm</string>
   <string name="history_month_dis_imperial">%1$s/%2$dmi</string>
   <string name="history_month_cost">%1$s/%2$s</string>
@@ -197,10 +197,10 @@
   <string name="lap_title">Lap %1$d</string>
   <string name="manual_lap_title">Key Lap %1$d</string>
   <string name="auto_lap_title">Auto Lap %1$d</string>
-  <string name="lap_total_time">Total Time</string>
+  <string name="lap_total_time">Celkový čas</string>
   <string name="lap_add_failed">Lap is too short, cannot record this lap</string>
-  <string name="sport_main_stop_this_sport">Stop current activity?</string>
-  <string name="sport_history_delete_dialog_title">Delete this activity? You cannot recover this activity once deleted.</string>
+  <string name="sport_main_stop_this_sport">Zastaviť aktuálnu aktivitu?</string>
+  <string name="sport_history_delete_dialog_title">Vymazať túto aktivitu? Po zmazaní nebude možné aktivitu obnoviť</string>
   <string name="sport_main_give_up_this_sport">"Zrušiť túto aktivitu?
 "</string>
   <string name="sport_confirm_stop_sport">Áno</string>
@@ -210,12 +210,12 @@
   <string name="sport_main_climb_al">Elev. Gain</string>
   <string name="sport_main_descend_al">Elev. Loss</string>
   <string name="sport_main_climb_dis">Dist. Gain</string>
-  <string name="sport_main_recovery_title">Recovery Time</string>
-  <string name="sport_history_full_recovery">Recovery Time</string>
-  <string name="sport_main_avg_stride">Average Stride Length</string>
-  <string name="sport_main_stride">Stride length</string>
+  <string name="sport_main_recovery_title">Čas zotavenia</string>
+  <string name="sport_history_full_recovery">Čas zotavenia</string>
+  <string name="sport_main_avg_stride">Priemerná dĺžka kroku</string>
+  <string name="sport_main_stride">Dĺžka kroku</string>
   <string name="sport_main_total_kcal">Kalórie</string>
-  <string name="sport_main_avg_stride_unit">cm/stride</string>
+  <string name="sport_main_avg_stride_unit">cm/krok</string>
   <string name="sport_main_avg_heart_rate">Priem. tep</string>
   <string name="sport_main_max_heart_rate">Max tep</string>
   <string name="sport_main_min_heart_rate">Min tep</string>
@@ -248,9 +248,9 @@
   <string name="sport_result_in_progress">Ukladám aktivitu…</string>
   <string name="sport_result_invalid">Zastavujem aktivitu…</string>
   <string name="sport_gps_found_success_tips">GPS pripravené</string>
-  <string name="sport_history_recovery">Recovery</string>
+  <string name="sport_history_recovery">Zotavenie</string>
   <string name="sport_remind_pace_unit">/km</string>
-  <string name="sport_lap_manual_current">Current</string>
+  <string name="sport_lap_manual_current">Aktuálne</string>
   <string name="sport_lap_swim_length_time">time/%1$s meters</string>
   <string name="sport_lap_swim_length_time_imperial">time/%1$s feet</string>
   <string name="sport_swim_style">Stroke Type</string>
@@ -280,7 +280,7 @@
   <string name="exchange_prepare_riding">Ďalšie: Cyklistika</string>
   <string name="exchange_prepare_running">Ďalšie: Beh</string>
   <string name="count_down_swim_tint">Touch screen will be locked</string>
-  <string name="sport_widget_title_history_record">Activity</string>
+  <string name="sport_widget_title_history_record">Aktivity</string>
   <string name="sport_widget_title_elliptical">Elipt. trenažér</string>
   <string name="sport_widget_title_indoor_swim">Plávanie v bazéne</string>
   <string name="sport_widget_title_open_water_swim">Plávanie v otvorenej vode</string>
@@ -337,21 +337,21 @@
   <string name="pace_swim_unit_yd">/100yards</string>
   <string name="settings_item_value_swim_length_yd">%1$s yards</string>
   <string name="title_custom_swim_length">Customize Pool Size</string>
-  <string name="swim_unit_title">Distance Unit</string>
+  <string name="swim_unit_title">Jednotka vzdialenosti</string>
   <string name="gps_close_notification_content">Due to inactivity, GPS will be shutdown in one minute.</string>
   <string name="sport_te_desc">This workout maintains cardiorespiratory fitness.</string>
-  <string name="last_kilo_meters_times">last km.</string>
-  <string name="last_mi_times">last mi.</string>
+  <string name="last_kilo_meters_times">posledný km.</string>
+  <string name="last_mi_times">posledná mi.</string>
   <string name="setting_sport_title_exteed_region_tips">Out of %1$s zone alert</string>
   <string name="sport_history_bottom_remind">More records, please go to the Amazfit watch app</string>
-  <string name="gps_close_notification_title">Shutting down GPS</string>
+  <string name="gps_close_notification_title">Vypínam GPS</string>
   <string name="per_correspond_km">Každých %1$d km</string>
   <string name="per_correspond_mi">Každých %1$d mi</string>
   <string name="more_operation">Viac</string>
   <string name="detail_route_detail_train_lap_title">Intermittent segments details</string>
   <string name="this_time_need_run_mileage">Interval distance: %1$s km</string>
-  <string name="this_time_need_run_mileage_mile">Interval distance: %1$s mi</string>
-  <string name="this_time_need_run_total_time">Interval distance: %1$s</string>
+  <string name="this_time_need_run_mileage_mile">Intervalová vzdialenosť: %1$s mi</string>
+  <string name="this_time_need_run_total_time">Intervalová vzdialenosť: %1$s</string>
   <string name="data_item_train_total_mileage">Celková vzdialenosť</string>
   <string name="data_item_train_total_times">Uplynulý čas</string>
   <string name="data_item_surplus_distance">Distance to run</string>
@@ -371,7 +371,7 @@
   <string name="skiing_history_downhill_title">Downhill</string>
   <string name="skiing_downhill_num">Slide times</string>
   <string name="skiing_downhill_single_descend">Primary downhill</string>
-  <string name="skiing_downhill_max_speed">Maximum speed</string>
+  <string name="skiing_downhill_max_speed">Maximálna rýchlosť</string>
   <string name="skiing_downhill_elev_loss">Elevation loss</string>
   <string name="skiing_downhill_max_elev_loss">Max elev loss</string>
   <string name="skiing_downhill_total_elev_loss">Total elev loss</string>
@@ -388,7 +388,7 @@
   <string name="skiing_above_skiing_spped">Above %1$s reminder</string>
   <string name="skiing_lap_downhill_dis_title">Sliding down mileage</string>
   <string name="sport_tennis_strokes">Strokes</string>
-  <string name="sport_tennis_forehand">Forehand</string>
+  <string name="sport_tennis_forehand">Forhand</string>
   <string name="sport_tennis_backhand">Backhand</string>
   <string name="sport_tennis_serve">Serve</string>
   <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Minimum distance not reached. Really stop?</string>
@@ -398,7 +398,7 @@
   <string name="sport_ability">VO2Max Fitness Level</string>
   <string name="sport_train_load">Tréningová zátaž</string>
   <string name="first_beat_sport_status">Performance Condition</string>
-  <string name="currnet_daily_performance_staus">Current Condition</string>
+  <string name="currnet_daily_performance_staus">Súčasný stav</string>
   <string name="sport_ability_up">Improving</string>
   <string name="sport_ability_down">Declining</string>
   <string name="time_unit_hour">Hodina</string>
@@ -409,9 +409,9 @@
   <string name="train_load_suggess_status_good">Optimálna</string>
   <string name="train_load_suggess_status_recovery">Vysoká</string>
   <string name="train_load_suggess_status_over">Presahujúca</string>
-  <string name="real_time_perpormance_level_very_good">Good</string>
-  <string name="real_time_perpormance_level_good">Good</string>
-  <string name="real_time_perpormance_level_average">Priemer</string>
+  <string name="real_time_perpormance_level_very_good">Dobrá</string>
+  <string name="real_time_perpormance_level_good">Dobrá</string>
+  <string name="real_time_perpormance_level_average">Priemerna</string>
   <string name="real_time_perpormance_level_fatigued">Fatigued</string>
   <string name="real_time_perpormance_level_very_fatigued">Fatigued</string>
   <string name="sport_target_remind_head_title">Doporučený</string>
@@ -434,13 +434,13 @@
   <string name="first_beat_remind_txt_01">This is a good pace。</string>
   <string name="first_beat_remind_txt_02">This is a good pace.more minutes to keep you fit。</string>
   <string name="sport_history_recovery_remind">"It's recommended to have proper maintaining workouts to reach full recovery."</string>
-  <string name="daily_propermance_has_no_data">Not available</string>
+  <string name="daily_propermance_has_no_data">Nedostupné</string>
   <string name="first_beat_help_title_vo2_max">VO2Max</string>
   <string name="first_beat_help_title_train_efffect">Tréningový efekt (TE)</string>
   <string name="first_beat_help_title_train_load">Tréningová zátaž</string>
   <string name="first_beat_help_title_sport_target_or_real_time_guide">Next Workout Recommendation&amp;Realtime Coaching</string>
   <string name="first_beat_help_title_daily_perpormence">Performance Condition</string>
-  <string name="first_beat_help_title_recovery_time">Recovery Time</string>
+  <string name="first_beat_help_title_recovery_time">Čas zotavenia</string>
   <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users'cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
   <string name="first_beat_help_train_load">The watch wil calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
@@ -449,7 +449,7 @@
   <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
   <string name="vo2max_unit">ml / kg / min</string>
   <string name="run_vo2max_unit">ml / kg / min</string>
-  <string name="vo2_max_has_no_data">Žiadné dáta</string>
+  <string name="vo2_max_has_no_data">Žiadne dáta</string>
   <string name="sport_setting_gpx_route_selected">Trasa vybraná</string>
   <string name="sport_setting_gpx_route_selectd_remind">Vonkajšie športy budú používať túto trasu k navigácii. Ak nechcete navigovať, vyberte Vypnúť pre zrušenie navigácie.</string>
   <string name="confirm">Ok</string>
@@ -480,7 +480,7 @@
   <string name="run_train_title">Bežecký tréning</string>
   <string name="run_train_recommend">Doporučený tréning</string>
   <string name="run_train_intermittent">Intervalový tréning</string>
-  <string name="run_train_intermittent_select_train">Choose training</string>
+  <string name="run_train_intermittent_select_train">Zvoľte tréning</string>
   <string name="music_title">Hudba</string>
   <string name="music_local_title">Športová hudba</string>
   <string name="music_no_resource">Žiadne skladby na prehratie</string>
