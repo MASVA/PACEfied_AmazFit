@@ -53,9 +53,9 @@
   <string name="cross_contry">Beh v teréne</string>
   <string name="eppitical">Elipt. trenažér</string>
   <string name="indoor_swimming">Plávanie v bazéne</string>
-  <string name="outdoor_swimming">Plávanie v otvorenej vode</string>
+  <string name="outdoor_swimming">Plávanie vonku</string>
   <string name="triathlon">Triatlon</string>
-  <string name="mountain">Horolezectvo</string>
+  <string name="mountain">Turistika</string>
   <string name="riding">Cyklistika</string>
   <string name="swimming">Plávanie</string>
   <string name="skiing">Lyžovanie</string>
@@ -101,7 +101,7 @@
   <string name="mile">mi</string>
   <string name="mile_per_hour">mi/h</string>
   <string name="per_mile">/mi</string>
-  <string name="feet">feet</string>
+  <string name="feet">stopy</string>
   <string name="per_100feet">/100feets</string>
   <string name="yard">yard</string>
   <string name="minute">minute</string>
