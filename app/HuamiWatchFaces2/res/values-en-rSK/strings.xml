@@ -89,7 +89,7 @@
   <string name="strength">Anaeróbny</string>
   <string name="anaerobic">Maximálny</string>
   <string name="enter_sport_lock_status">Entering data screens</string>
-  <string name="press_any_key_wakeup">Press any key</string>
+  <string name="press_any_key_wakeup">Stlacte tlacidlo</string>
   <string name="meter">m</string>
   <string name="kilometre">Km</string>
   <string name="km_per_hour">km/h</string>
@@ -108,8 +108,9 @@
   <string name="minute_clock">minute</string>
   <string name="second">second</string>
   <string name="altitude">altitude</string>
-  <string name="longitude_and_latitude">Latitude and longitude</string>
+  <string name="longitude_and_latitude">Zemepisná šírka a dĺžka</string>
   <string name="press_key_finish_train">Press button to finish</string>
+  <string name="press_up_key_wake_up">Odomknite tlačidlom</string>
   <string name="need_run_kilometer">Need to run</string>
   <string name="low_battery_protect">Batéria vybitá</string>
   <string name="low_battery_please_charging">Battery is low. Please charge.</string>
