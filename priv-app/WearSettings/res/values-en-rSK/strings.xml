@@ -234,8 +234,8 @@ kg"</string>
 <!--START of missed texts by Huami-->
   <string name="setting_item_application">Aplikácia</string>
   <string name="app_item_phone_anti_lost">Ochrana proti strate mobilného telefónu</string>
-  <string name="app_item_anti_lost_remind">Upozornenie ochrany proti strate</string>
-  <string name="app_item_far_away_remind">Pozor, telefón je príliš ďaleko</string>
+  <string name="app_item_anti_lost_remind">Upoz. pri strate</string>
+  <string name="app_item_far_away_remind">Upoz. pri vzdialení</string>
   <string name="remind_aleary_open">Upozornenie je už zapnuté</string>
   <string name="phone_far_away_remind_to_you">Hodinky Vás upozornia, keď je telefón príliš ďaleko.</string>
   <string name="dialog_confire">Potvrdiť</string>

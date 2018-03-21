@@ -393,7 +393,7 @@
   <string name="sport_tennis_serve">Serve</string>
   <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Minimum distance not reached. Really stop?</string>
   <string name="experience_title">Prosím nastav osobné údaje, lebo budú mať dáta veľkú odchylku</string>
-  <string name="recovery_time_hour">Hodín</string>
+  <string name="recovery_time_hour">hodín</string>
   <string name="sport_vo2_max">VO2max</string>
   <string name="sport_ability">VO2Max Fitness Level</string>
   <string name="sport_train_load">Tréningová zátaž</string>
@@ -433,7 +433,7 @@
   <string name="sport_te_desc_level_06">Preťaženie tela.</string>
   <string name="first_beat_remind_txt_01">This is a good pace。</string>
   <string name="first_beat_remind_txt_02">This is a good pace.more minutes to keep you fit。</string>
-  <string name="sport_history_recovery_remind">"It's recommended to have proper maintaining workouts to reach full recovery."</string>
+  <string name="sport_history_recovery_remind">"Odporúča sa udržiavať správny tréning na dosiahnutie úplnej regenerácie."</string>
   <string name="daily_propermance_has_no_data">Nedostupné</string>
   <string name="first_beat_help_title_vo2_max">VO2Max</string>
   <string name="first_beat_help_title_train_efffect">Tréningový efekt (TE)</string>
