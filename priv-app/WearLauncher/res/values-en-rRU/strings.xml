@@ -25,9 +25,9 @@
   <string name="notification_alipay_red_pattern">Отправить важное сообщение$</string>
   <string name="delete_all_notifications">Удалить все уведомления</string>
   <string name="delete_all_notifications_confrim_content">После удаления уведомления не восстановить, продолжить?</string>
-  <string name="notification_time_day">ЧЧ:мм</string>
-  <string name="notification_time_month">ММ/дд ЧЧ:мм</string>
-  <string name="notification_time_year">гггг/ММ/дд ЧЧ:мм</string>
+  <string name="notification_time_day">HH:mm</string>
+  <string name="notification_time_month">MM/dd HH:mm</string>
+  <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
   <string name="action_delete">Удалить</string>
   <string name="action_shield">Блокировать</string>
   <string name="notification_none">Всё прочитано</string>
@@ -53,7 +53,7 @@
   <string name="quick_settings_connected">На связи</string>
   <string name="quick_settings_disconnect">Откл.</string>
   <string name="quick_settings_unbound">Сначала подклютесь</string>
-  <string name="quick_settings_date_chinese">дд.ММ.гггг</string>
+  <string name="quick_settings_date_chinese">dd.MM.yyyy</string>
   <string name="quick_settings_date_format">31.01.1900</string>
   <string name="quick_settings_date_yeareve">Канун Нового Года</string>
   <string name="seconed_confirm_nodisturb">Режим \'Не беспокоить\'\nУведомления больше НЕ будут появляться!</string>
@@ -85,8 +85,8 @@
   <string name="header_incomming_call_service_hotline">Горячая линия сервера</string>
   <string name="header_incomming_call_localcall">Местный звонок</string>
   <string name="header_incomming_call_unknowncall">Неизвестный Вызов</string>
-  <string name="call_phone_off">Отключить звонок</string>
-  <string name="call_sound_off">Отключить звуки</string>
+  <string name="call_phone_off">Отклонить</string>
+  <string name="call_sound_off">Выкл. звук</string>
   <string name="wathc_disconnection_title">Отключено</string>
   <string name="wathc_disconnection_content">Нет связи с телефоном</string>
   <string name="notification_block">Отключить</string>
