@@ -298,7 +298,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="27">
-            <desc>finish Half marathon 21.2km</desc>
+            <desc>Dokončený polmaratón 21.2km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>21.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -606,7 +606,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="55">
-            <desc>finsh Marathon 42.5km</desc>
+            <desc>Dokončený maratón 42.5km</desc>
             <stageDesc>Tapering period</stageDesc>
             <distance>42.5</distance>
             <offsetWeeks>0</offsetWeeks>
