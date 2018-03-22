@@ -10,8 +10,8 @@
   <string name="notification_wechat_red_envelop_title">Важные уведомления WeChat</string>
   <string name="notification_alipay_red_envelop_title">Уведомления Alipay</string>
   <string name="notification_qq_red_envelop_title">Важные уведомления QQ</string>
-  <string name="notification_red_envelop_content">%sВажное сообщение, быстро включить телефон для прочтения!</string>
-  <string name="notification_ios_envelop_content">QQ важное сообщение получено, быстро включить телефон для получения!</string>
+  <string name="notification_red_envelop_content">%sВажное сообщение, быстро включите телефон для прочтения!</string>
+  <string name="notification_ios_envelop_content">QQ важное сообщение получено, быстро включите телефон для получения!</string>
   <string name="notification_red_envelop_default_content">Быстро включите телефон для получения!</string>
   <string name="notification_alipay_default_group">групповой чат</string>
   <string name="notification_red_bracket">[%s]</string>
