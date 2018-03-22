@@ -404,7 +404,7 @@
   <string name="time_unit_hour">Час</string>
   <string name="train_load_medium">Средняя</string>
   <string name="train_load_near_seven_days">Последние 7 дней</string>
-  <string name="train_load_suggess_status_no_record">"Мы будет оценивать вашу тренировочную нагрузку по записям анаэробных упражнений в течении 7 дней."</string>
+  <string name="train_load_suggess_status_no_record">"Мы будем оценивать вашу тренировочную нагрузку по записям анаэробных упражнений в течении 7 дней."</string>
   <string name="train_load_suggess_status_less">Низкая</string>
   <string name="train_load_suggess_status_good">Оптимальная</string>
   <string name="train_load_suggess_status_recovery">Высокая</string>
