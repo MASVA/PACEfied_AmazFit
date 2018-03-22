@@ -482,7 +482,7 @@
   <string name="offline_state">Автономный режим</string>
   <string name="no_items">Нет товаров.</string>
   <string name="disambiguate_action">Неоднозначное действие</string>
-  <string name="status_bar_date_format">МММ д</string>
+  <string name="status_bar_date_format">MMM d</string>
   <string name="battery_is_at">Аккумулятор на</string>
   <string name="battery_saver_enabled">Энергосбережение вкл.</string>
   <string name="battery_saver_disabled">Энергосбережение выкл.</string>
@@ -629,7 +629,7 @@
   <string name="weather">Погода</string>
   <string name="weather_warning">Уровень опасности</string>
   <string name="wind_strength">Ветер</string>
-  <string name="date_time_format">дд.ММ</string>
+  <string name="date_time_format">dd.MM</string>
   <string name="weather_warning_level_blue">Синий</string>
   <string name="weather_warning_level_orange">Оранжевый</string>
   <string name="weather_warning_level_red">Красный</string>
