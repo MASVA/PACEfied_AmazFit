@@ -108,7 +108,7 @@ Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ 
   <string name="settings_on">Zapnuté</string>
   <string name="settings_step_target">Cieľ krokov</string>
   <string name="settings_step_unit">Krokov</string>
-  <string name="settings_target_reach_reminder">Upoz. na Cieľ</string>
+  <string name="settings_target_reach_reminder">Upoz. na cieľ</string>
   <string name="nodisturb_open_string">Zapnuté</string>
   <string name="nodisturb_close_string">Vypnuté</string>
   <string name="nodisturb_timepicker_connect_symbol">:</string>
