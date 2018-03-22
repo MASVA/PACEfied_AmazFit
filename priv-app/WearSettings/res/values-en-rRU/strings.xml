@@ -29,13 +29,13 @@
   <string name="reboot">Перезагрузить</string>
   <string name="about">О часах...</string>
   <string name="wear_habit">Рука</string>
-  <string name="bugreport">Сообщить об ошибке</string>
+  <string name="bugreport">Отчет о баге</string>
   <string name="applications">Приложения</string>
-  <string name="long_sit">Уведомление о бездействии</string>
-  <string name="datacenter">Ежедневный обзор</string>
+  <string name="long_sit">Бездействие</string>
+  <string name="datacenter">Центр данных</string>
   <string name="light_change">Подсветка</string>
-  <string name="wrist_up">Подсветка при поднятии запястья</string>
-  <string name="auto_nodisturb">Авто \"не беспокоить\"</string>
+  <string name="wrist_up">При поднятии</string>
+  <string name="auto_nodisturb">Авто \"не бесп.\"</string>
   <string name="double_click_wakeup">Вкл по экрану</string>
   <string name="vibration_intensity">Вибрация</string>
   <string name="flight_mode">Режим полета</string>
@@ -50,7 +50,7 @@
   <string name="device">Устройство</string>
   <string name="nodisturb">Не беспокоить</string>
   <string name="units_set">Единицы</string>
-  <string name="auto_airplane">Режим полета авто</string>
+  <string name="auto_airplane">Авто р. полета</string>
   <string name="wifi_upload">Загрузка</string>
   <string name="watchface">Циферблаты</string>
   <string name="wifi_auto_upload_switch">Автозагрузка</string>
@@ -201,8 +201,8 @@
   <string name="time">Время</string>
   <string name="date_ymd">Дата(Г/М/Д)</string>
   <string name="time_hms">Время(Ч/М/С)</string>
-  <string name="time_format">Формат времени</string>
-  <string name="hour_system">%s-часовая система</string>
+  <string name="time_format">Формат часов</string>
+  <string name="hour_system">%s-ч. система</string>
   <string name="am">AM</string>
   <string name="pm">PM</string>
   <string name="unit_metric">Метрические</string>
@@ -239,5 +239,5 @@
   <string name="phone_far_away_remind_to_you">Часы уведомят вас, когда телефон будет слишком далеко。</string>
   <string name="dialog_confire">Подтвердить</string>
   <string name="auto_hint_title">Время подсветки экрана</string>
-  <string name="long_key_action">Нажмите и удерживайте для разблокировки</string>
+  <string name="long_key_action">Долгое нажатие</string>
 </resources>
