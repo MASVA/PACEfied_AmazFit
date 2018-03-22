@@ -71,8 +71,8 @@
   <string name="quick_settings_battery_sporttime_MI_unit">ми</string>
   <string name="health_def_value"/>
   <string name="health_def_hint"/>
-  <string name="health_title_def_value">Сегодня ушел))</string>
-  <string name="splash_hint">Минуточку...</string>
+  <string name="health_title_def_value">Вы ходили сегодня</string>
+  <string name="splash_hint">Инициализация...</string>
   <string name="header_incomming_call_name"/>
   <string name="header_incomming_call_hint">Входящий звонок</string>
   <string name="header_incomming_call_mobilephone">Мобильный</string>
