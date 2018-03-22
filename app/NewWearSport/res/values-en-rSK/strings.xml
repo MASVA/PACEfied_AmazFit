@@ -254,11 +254,11 @@
   <string name="sport_lap_swim_length_time">čas/%1$s metrov</string>
   <string name="sport_lap_swim_length_time_imperial">čas/%1$s stôp</string>
   <string name="sport_swim_style">Stroke Type</string>
-  <string name="swim_free_style">Freestyle</string>
-  <string name="swim_medlyrelay">Mixed</string>
-  <string name="swim_breaststroke">Breaststroke</string>
-  <string name="swim_backstroke">Backstroke</string>
-  <string name="swim_butterfly">Butterfly</string>
+  <string name="swim_free_style">Voľný štýl</string>
+  <string name="swim_medlyrelay">Zmiešaný</string>
+  <string name="swim_breaststroke">Prsia</string>
+  <string name="swim_backstroke">Znak</string>
+  <string name="swim_butterfly">Motýlik</string>
   <string name="sport_data_info_te_unit">TE</string>
   <string name="swim_stroke_unit">SPM</string>
   <string name="settings_item_title_km_remind_triathlon">Auto pauza</string>
@@ -318,8 +318,8 @@
   <string name="swim_swolf">Swolf</string>
   <string name="swim_swolf_unit">(%1$s m)</string>
   <string name="swim_swolf_unit_default">(%1$s 100m)</string>
-  <string name="swim_swolf_unit_yd">(%1$syards)</string>
-  <string name="swim_swolf_unit_default_yd">(100yards)</string>
+  <string name="swim_swolf_unit_yd">(%1$syardov)</string>
+  <string name="swim_swolf_unit_default_yd">(100yardov)</string>
   <string name="swim_pace">Tempo</string>
   <string name="swim_pace_unit">/100m</string>
   <string name="swim_pace_unit_imperial">/100ft</string>
@@ -334,8 +334,8 @@
   <string name="sport_te_title">Tréningový efekt (TE)</string>
   <string name="running_total_distance_desc">Celková vzdialenosť</string>
   <string name="swim_unit">yard</string>
-  <string name="pace_swim_unit_yd">/100yards</string>
-  <string name="settings_item_value_swim_length_yd">%1$s yards</string>
+  <string name="pace_swim_unit_yd">/100yardov</string>
+  <string name="settings_item_value_swim_length_yd">%1$s yardov</string>
   <string name="title_custom_swim_length">Customize Pool Size</string>
   <string name="swim_unit_title">Jednotka vzdialenosti</string>
   <string name="gps_close_notification_content">Due to inactivity, GPS will be shutdown in one minute.</string>
@@ -343,7 +343,7 @@
   <string name="last_kilo_meters_times">posledný km.</string>
   <string name="last_mi_times">posledná mi.</string>
   <string name="setting_sport_title_exteed_region_tips">Out of %1$s zone alert</string>
-  <string name="sport_history_bottom_remind">More records, please go to the Amazfit watch app</string>
+  <string name="sport_history_bottom_remind">Viac záznamov nájdete v aplikácií Amazfit Watch</string>
   <string name="gps_close_notification_title">Vypínam GPS</string>
   <string name="per_correspond_km">Každých %1$d km</string>
   <string name="per_correspond_mi">Každých %1$d mi</string>
@@ -360,7 +360,7 @@
   <string name="near_to_finish_item">Close to finish</string>
   <string name="click_finsh_this_train_unit">Lap key press internal</string>
   <string name="has_no_train_unit_remind">Please add interval workouts in Amazfit Watch app and sync to this watch</string>
-  <string name="interval_segment_details">Interval details</string>
+  <string name="interval_segment_details">Podrobnosti intervalu</string>
   <string name="interval_train_tips_title">Alerts will be off by default during internvals</string>
   <string name="interval_train_tips_content">(Except for HR alterts)</string>
   <string name="interval_confirm">OK</string>
@@ -385,7 +385,7 @@
   <string name="skiing_remind_click_finsh_this_train_unit">Press Lap Key</string>
   <string name="skiing_interval_train_complete">Interval dokončený</string>
   <string name="skiing_interval_train_complete_pause_tip">Zastavujem aktivitu</string>
-  <string name="skiing_above_skiing_spped">Alert when speed > %1$s</string>
+  <string name="skiing_above_skiing_spped">Upoz. keď rýchlosť > %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Vzdialenosť</string>
   <string name="sport_tennis_strokes">Odpaly</string>
   <string name="sport_tennis_forehand">Forhend</string>
