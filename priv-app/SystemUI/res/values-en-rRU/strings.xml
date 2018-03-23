@@ -418,146 +418,146 @@
   <string name="clock_24hr_format">Hm</string>
   <string name="app_name">Блокировка кнопок</string>
   <string name="keyguard_password_enter_pin_code">Введите PIN код</string>
-  <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
-  <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
-  <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
+  <string name="keyguard_password_enter_puk_code">Введите SIM PUK и новый PIN код</string>
+  <string name="keyguard_password_enter_puk_prompt">SIM PUK код</string>
+  <string name="keyguard_password_enter_pin_prompt">Новый SIM PIN код</string>
   <string name="keyguard_password_entry_touch_hint">
-    <font size="17">Touch to type password</font>
+    <font size="17">Нажмите для ввода пароля</font>
   </string>
-  <string name="keyguard_password_enter_password_code">Type password to unlock</string>
-  <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
-  <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
-  <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
-  <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
-  <string name="keyguard_charged">Charged</string>
-  <string name="keyguard_plugged_in">Charging</string>
-  <string name="keyguard_low_battery">Connect your charger.</string>
-  <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-  <string name="keyguard_network_locked_message">Network locked</string>
-  <string name="keyguard_missing_sim_message_short">No SIM card</string>
-  <string name="keyguard_missing_sim_message">No SIM card in tablet.</string>
-  <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
-  <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
-  <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-  <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
-  <string name="keyguard_sim_locked_message">SIM card is locked.</string>
-  <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
-  <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+  <string name="keyguard_password_enter_password_code">Введите пароль для разблокировки</string>
+  <string name="keyguard_password_enter_pin_password_code">Введите PIN для разблокировки</string>
+  <string name="keyguard_password_wrong_pin_code">Неверный PIN код.</string>
+  <string name="keyguard_label_text">Для разблокировки, нажмите Меню, затем 0.</string>
+  <string name="faceunlock_multiple_failures">Максимальное количество попыток разблокировки по лицу</string>
+  <string name="keyguard_charged">Заряжено</string>
+  <string name="keyguard_plugged_in">Зарядка</string>
+  <string name="keyguard_low_battery">Подключите своё зарядное устройство.</string>
+  <string name="keyguard_instructions_when_pattern_disabled">Нажмите Меню для разблокировки.</string>
+  <string name="keyguard_network_locked_message">Сеть заблокирована</string>
+  <string name="keyguard_missing_sim_message_short">Нет SIM карты</string>
+  <string name="keyguard_missing_sim_message">Нет SIM карты в планшете.</string>
+  <string name="keyguard_missing_sim_instructions">Вставьте SIM карту.</string>
+  <string name="keyguard_missing_sim_instructions_long">SIM отсутствует или её невозможно прочитать. Вставьте SIM карту.</string>
+  <string name="keyguard_permanent_disabled_sim_message_short">Неиспользуемая SIM карта.</string>
+  <string name="keyguard_permanent_disabled_sim_instructions">"Ваша SIM карта была отключена.
+ Свяжитесь с вашим провайдером для получения другой SIM карты."</string>
+  <string name="keyguard_sim_locked_message">SIM карта заблокирована.</string>
+  <string name="keyguard_sim_puk_locked_message">На SIM карте заблокирован PUK.</string>
+  <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
   <string name="keyguard_widget_12_hours_format">hmm</string>
   <string name="keyguard_widget_24_hours_format">kkmm</string>
-  <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
-  <string name="keyguard_accessibility_add_widget">Add widget.</string>
-  <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
-  <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
-  <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
-  <string name="keyguard_accessibility_widget">%1$s widget.</string>
-  <string name="keyguard_accessibility_user_selector">User selector</string>
-  <string name="keyguard_accessibility_camera">Camera</string>
-  <string name="keygaurd_accessibility_media_controls">Media controls</string>
-  <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
-  <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
-  <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
-  <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
-  <string name="keyguard_accessibility_slide_unlock">Slide unlock.</string>
-  <string name="keyguard_accessibility_pattern_unlock">Pattern unlock.</string>
-  <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
-  <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
-  <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
-  <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
-  <string name="keyguard_accessibility_slide_area">Slide area.</string>
-  <string name="keyguard_accessibility_pin_area">PIN area</string>
-  <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
-  <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-  <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
-  <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-  <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
-  <string name="keyguard_accessibility_transport_play_description">Play button</string>
-  <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
-  <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
-  <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
-  <string name="keyguard_accessibility_transport_heart_description">Heart</string>
-  <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
-  <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
-  <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-  <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
-  <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+  <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d из %3$d.</string>
+  <string name="keyguard_accessibility_add_widget">Добавить виджет.</string>
+  <string name="keyguard_accessibility_widget_empty_slot">Пустой</string>
+  <string name="keyguard_accessibility_unlock_area_expanded">Разблокирована область расширения.</string>
+  <string name="keyguard_accessibility_unlock_area_collapsed">Разблокированная область отключена.</string>
+  <string name="keyguard_accessibility_widget">%1$s виджет.</string>
+  <string name="keyguard_accessibility_user_selector">Выбор пользователя</string>
+  <string name="keyguard_accessibility_camera">Камера</string>
+  <string name="keygaurd_accessibility_media_controls">Управление медиа</string>
+  <string name="keyguard_accessibility_widget_reorder_start">Начата сортировка виджетов.</string>
+  <string name="keyguard_accessibility_widget_reorder_end">Сортировка виджетов завершена.</string>
+  <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удален.</string>
+  <string name="keyguard_accessibility_expand_lock_area">Разверните разблокированную область.</string>
+  <string name="keyguard_accessibility_slide_unlock">Разблокировка слайдом.</string>
+  <string name="keyguard_accessibility_pattern_unlock">Разблокировка шаблоном.</string>
+  <string name="keyguard_accessibility_face_unlock">Разблокировка лицом.</string>
+  <string name="keyguard_accessibility_pin_unlock">Pin разблокировка.</string>
+  <string name="keyguard_accessibility_password_unlock">Разблокировка паролем.</string>
+  <string name="keyguard_accessibility_pattern_area">Область шаблонов.</string>
+  <string name="keyguard_accessibility_slide_area">Область слайдов.</string>
+  <string name="keyguard_accessibility_pin_area">PIN область</string>
+  <string name="keyguard_accessibility_sim_pin_area">SIM PIN область</string>
+  <string name="keyguard_accessibility_sim_puk_area">SIM PUK область</string>
+  <string name="keyguard_accessibility_transport_prev_description">Предыдущий трек</string>
+  <string name="keyguard_accessibility_transport_next_description">Следующий трек</string>
+  <string name="keyguard_accessibility_transport_pause_description">Пауза</string>
+  <string name="keyguard_accessibility_transport_play_description">Воспроизвести</string>
+  <string name="keyguard_accessibility_transport_stop_description">Остановить</string>
+  <string name="keyguard_accessibility_transport_thumbs_up_description">Пальцы вверх</string>
+  <string name="keyguard_accessibility_transport_thumbs_down_description">Пальцы вниз</string>
+  <string name="keyguard_accessibility_transport_heart_description">Центр</string>
+  <string name="keyguard_accessibility_show_bouncer">Разблокируйте для продолжения</string>
+  <string name="keyguard_accessibility_hide_bouncer">Запуск отменен</string>
+  <string name="keyguard_accessibility_delete_widget_start">Выбрано %1$s к удалению.</string>
+  <string name="keyguard_accessibility_delete_widget_end">%1$s не было удалено.</string>
+  <string name="keyguard_accessibility_next_alarm">Следующий будильник установлен на %1$s</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="keyboardview_keycode_alt">Alt</string>
-  <string name="keyboardview_keycode_cancel">Cancel</string>
-  <string name="keyboardview_keycode_delete">Delete</string>
-  <string name="keyboardview_keycode_done">Done</string>
-  <string name="keyboardview_keycode_mode_change">Mode change</string>
+  <string name="keyboardview_keycode_cancel">Отмена</string>
+  <string name="keyboardview_keycode_delete">Удалить</string>
+  <string name="keyboardview_keycode_done">Готово</string>
+  <string name="keyboardview_keycode_mode_change">Изменить режим</string>
   <string name="keyboardview_keycode_shift">Shift</string>
   <string name="keyboardview_keycode_enter">Enter</string>
-  <string name="description_target_unlock">Unlock</string>
-  <string name="description_target_camera">Camera</string>
-  <string name="description_target_silent">Silent</string>
-  <string name="description_target_soundon">Sound on</string>
-  <string name="description_direction_down">Slide down for %s.</string>
-  <string name="description_direction_right">Slide right for %s.</string>
-  <string name="user_switched">Current user %1$s.</string>
-  <string name="kg_emergency_call_label">Emergency call</string>
-  <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-  <string name="kg_wrong_pattern">Wrong Pattern</string>
-  <string name="kg_wrong_password">Wrong Password</string>
-  <string name="kg_wrong_pin">Wrong PIN</string>
-  <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-  <string name="kg_pattern_instructions">Draw your pattern</string>
-  <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-  <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
-  <string name="kg_pin_instructions">Enter PIN</string>
-  <string name="kg_password_instructions">Enter Password</string>
-  <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-  <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-  <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-  <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-  <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-  <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-  <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-  <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-  <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-  <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-  <string name="kg_login_username_hint">Username (email)</string>
-  <string name="kg_login_password_hint">Password</string>
-  <string name="kg_login_submit_button">Sign in</string>
-  <string name="kg_login_invalid_input">Invalid username or password.</string>
-  <string name="kg_login_account_recovery_hint">"Forgot your username or password?
-Visit "<b>google.com/accounts/recovery</b>.</string>
-  <string name="kg_login_checking_password">Checking account…</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+  <string name="description_target_unlock">Разблокировка</string>
+  <string name="description_target_camera">Камера</string>
+  <string name="description_target_silent">Без звука</string>
+  <string name="description_target_soundon">Вкл. звука</string>
+  <string name="description_direction_down">Слайд вниз для %s.</string>
+  <string name="description_direction_right">Слайд вправо для %s.</string>
+  <string name="user_switched">Текущий пользователь %1$s.</string>
+  <string name="kg_emergency_call_label">Экстренный вызов</string>
+  <string name="kg_forgot_pattern_button_text">Забыл шаблон</string>
+  <string name="kg_wrong_pattern">Неверный шаблон</string>
+  <string name="kg_wrong_password">Неверный пароль</string>
+  <string name="kg_wrong_pin">Неверный PIN</string>
+  <string name="kg_too_many_failed_attempts_countdown">Попробуйте снова через %d секунд.</string>
+  <string name="kg_pattern_instructions">Нарисуйте ваш шаблон</string>
+  <string name="kg_sim_pin_instructions">Введите SIM PIN</string>
+  <string name="kg_sim_pin_instructions_multi">Введите SIM PIN для \"%1$s\"</string>
+  <string name="kg_pin_instructions">Введите PIN</string>
+  <string name="kg_password_instructions">Введите пароль</string>
+  <string name="kg_puk_enter_puk_hint">SIM отключена. Введите PUK код для продолжения. Свяжитесь с поставщиком для подробностей.</string>
+  <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" отключена. Введите PUK код для продолжения. Свяжитесь с поставщиком для подробностей.</string>
+  <string name="kg_puk_enter_pin_hint">Введите PIN код</string>
+  <string name="kg_enter_confirm_pin_hint">Подтвердите PIN код</string>
+  <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM карты…</string>
+  <string name="kg_invalid_sim_pin_hint">Введите PIN, который должен состоять из 4-8 цифр.</string>
+  <string name="kg_invalid_sim_puk_hint">PUK должен состоять из 8 и более цифр.</string>
+  <string name="kg_invalid_puk">Повторно введите корректный PUK код. Повторные попытки будут постоянно отключать SIM.</string>
+  <string name="kg_invalid_confirm_pin_hint">PIN коды не совпадают</string>
+  <string name="kg_login_too_many_attempts">Слишкмом много попыток</string>
+  <string name="kg_login_instructions">Для разблокировки войдите с помощью вашего аккаунта Google.</string>
+  <string name="kg_login_username_hint">Имя пользователя (email)</string>
+  <string name="kg_login_password_hint">Пароль</string>
+  <string name="kg_login_submit_button">Войти</string>
+  <string name="kg_login_invalid_input">Неверные имя пользователя или пароль.</string>
+  <string name="kg_login_account_recovery_hint">"Забыли ваше имя пользователя или пароль?
+Посетите "<b>google.com/accounts/recovery</b>.</string>
+  <string name="kg_login_checking_password">Проверка аккаунта…</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы вводили некоректный PIN код %d раз. 
 
-Try again in %d seconds."</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+Попробуйте снова через %d секунд."</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы вводили некоректный пароль %d раз. 
 
-Try again in %d seconds."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+Попробуйте снова через %d секунд."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы вводили некоректный шаблон %d раз. 
 
-Try again in %d seconds."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-  <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+Попробуйте снова через %d секунд."</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Некорректные попытки разблокировки планшета в количестве %d. После более %d неудачных попыток, данный планшет будет сброшен с удаление всех данных.</string>
+  <string name="kg_failed_attempts_now_wiping">Некорректные попытки разблокировки планшета в количестве %d. Данный планшет будет сброшен с удаление всех данных.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Некорректные попытки разблокировки планшета в количестве %d. После более %d неудачных попыток, данный планшет будет сброшен с удаление всех данных.</string>
+  <string name="kg_failed_attempts_now_erasing_user">Некорректные попытки разблокировки планшета в количестве %d. Данный пользователь будет удален вместе с его данными.</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Некорректные попытки разблокировки планшета в количестве %d. После более %d неудачных попыток, рабочпий профиль будет удален вместе со всеми данными.</string>
+  <string name="kg_failed_attempts_now_erasing_profile">Некорректные попытки разблокировки планшета в количестве %d. Рабочий профиль будет удален вместе со всеми данными.</string>
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Некорректные попытки разблокировки планшета в количестве %d. После более %d неудачных попыток, вам будет отправлен запрос на разблокировку планшета с помощью аккаунта email.
 
- Try again in %d seconds."</string>
-  <string name="kg_reordering_delete_drop_target_text">Remove</string>
-  <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-  <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
-  <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
-  <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
-  <string name="kg_pin_accepted">Code Accepted!</string>
-  <string name="keyguard_transport_prev_description">Previous track button</string>
-  <string name="keyguard_transport_next_description">Next track button</string>
-  <string name="keyguard_transport_pause_description">Pause button</string>
-  <string name="keyguard_transport_play_description">Play button</string>
-  <string name="keyguard_transport_stop_description">Stop button</string>
-  <string name="keyguard_carrier_default">No service.</string>
+ Попробуйте снова через %d секунд."</string>
+  <string name="kg_reordering_delete_drop_target_text">Удалить</string>
+  <string name="kg_password_wrong_pin_code_pukked">Неверный SIM PIN код, вы должны связаться с вашим поставшиком для разблокировки устройства.</string>
+  <string name="kg_password_wrong_puk_code_dead">SIM не используется. Свяжитесь с вашим поставщиком.</string>
+  <string name="kg_password_pin_failed">SIM PIN ошибка!</string>
+  <string name="kg_password_puk_failed">SIM PUK ошибка!</string>
+  <string name="kg_pin_accepted">Код принят!</string>
+  <string name="keyguard_transport_prev_description">Предыдущий трек</string>
+  <string name="keyguard_transport_next_description">Следующий трек</string>
+  <string name="keyguard_transport_pause_description">Пауза</string>
+  <string name="keyguard_transport_play_description">Воспроизвести</string>
+  <string name="keyguard_transport_stop_description">Остановить</string>
+  <string name="keyguard_carrier_default">Не обслуживается.</string>
   <item type="string" name="APKTOOL_DUMMY_15d">false</item>
   <item type="string" name="APKTOOL_DUMMY_15e">false</item>
   <item type="string" name="APKTOOL_DUMMY_15f">false</item>
