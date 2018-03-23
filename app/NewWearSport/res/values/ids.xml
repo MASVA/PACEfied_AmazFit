@@ -17,7 +17,6 @@
     <item type="id" name="start_soccer">18</item>
     <item type="id" name="start_compound">19</item>
     <item type="id" name="item_touch_helper_previous_elevation" />
-    <item type="id" name="view_pager">false</item>
     <item type="id" name="node_rolling">false</item>
     <item type="id" name="iv_loading">false</item>
     <item type="id" name="tv_hint">false</item>
@@ -346,6 +345,7 @@
     <item type="id" name="history_total_count">false</item>
     <item type="id" name="history_total_calorie_desc">false</item>
     <item type="id" name="history_total_calorie">false</item>
+    <item type="id" name="vo2_max_container">false</item>
     <item type="id" name="train_load_title">false</item>
     <item type="id" name="rl_exercise_load_layout">false</item>
     <item type="id" name="exercise_load_progress">false</item>
@@ -412,6 +412,7 @@
     <item type="id" name="picker_ampm">false</item>
     <item type="id" name="text">false</item>
     <item type="id" name="item">false</item>
+    <item type="id" name="item_tips">false</item>
     <item type="id" name="title_container">false</item>
     <item type="id" name="more_btn">false</item>
     <item type="id" name="loading_view">false</item>

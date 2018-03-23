@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="average_text">平均</string>
+    <string name="picker_default_positive_text">确定</string>
+    <string name="picker_default_nagetive_text">关闭</string>
+    <string name="no_heartrate_data_hint">未检测到心率数据</string>
+    <string name="no_altitude_hint">未检测到海拔数据</string>
+    <string name="title_settings">设 置</string>
+    <string name="sport_music_settings">运动音乐</string>
     <string name="double_click_wakeup_open">已开启</string>
     <string name="double_click_wakeup_close">已关闭</string>
     <string name="dlg_confirm">确定</string>
     <string name="dlg_cancel">取消</string>
     <string name="sport">运动</string>
     <string name="small_plugins">小部件</string>
+    <string name="long_key_sport_title">选择运动</string>
+    <string name="long_key_plugins_title">小部件</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="more">更多设置</string>
     <string name="find_phone">查找手机</string>
@@ -51,6 +60,30 @@
     <string name="remind_aleary_open">提醒已经开启</string>
     <string name="phone_far_away_remind_to_you">手表将在距离手机较远时提醒你。</string>
     <string name="dialog_confire">确定</string>
+    <string name="long_key_action">长按下键打开</string>
+    <string name="paobu">跑 步</string>
+    <string name="jianzou">健 走</string>
+    <string name="yueye">越野跑</string>
+    <string name="shineipao">室内跑</string>
+    <string name="huwaiqi">户外骑行</string>
+    <string name="yongchiyou">泳池游泳</string>
+    <string name="gongkaiyou">公开水域游泳</string>
+    <string name="tuoyuanji">椭圆机</string>
+    <string name="dengshan">登 山</string>
+    <string name="tierensan">铁人三项</string>
+    <string name="shineiqi">室内骑行</string>
+    <string name="skiing">滑雪</string>
+    <string name="tennis">网球</string>
+    <string name="soccer">足球</string>
+    <string name="yundongjilu">运动记录</string>
+    <string name="celiangxinlv">测量心率</string>
+    <string name="shujuzhongxin">数据中心</string>
+    <string name="xiaoxizhongxin">通知</string>
+    <string name="zhifubao">支付宝</string>
+    <string name="jishiqi">计时器</string>
+    <string name="mijia">米家</string>
+    <string name="zhinanzhen">指南针</string>
+    <string name="yinyue">音乐</string>
     <string name="nothing">无</string>
     <string name="about_title">关 于</string>
     <string name="model">型号</string>
@@ -205,5 +238,11 @@
     <string name="upgrade_checking">正在检查升级...</string>
     <string name="left_hand">左手</string>
     <string name="right_hand">右手</string>
-    <string name="long_key_action">长按下键打开</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
 </resources>

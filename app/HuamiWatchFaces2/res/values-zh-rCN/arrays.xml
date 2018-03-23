@@ -91,7 +91,7 @@
         <item>平均速度</item>
         <item>最大速度</item>
         <item>滑降次数</item>
-        <item>本次滑降</item>
+        <item>滑降距离</item>
         <item>累计滑降</item>
         <item>滑降落差</item>
         <item>挥拍次数</item>

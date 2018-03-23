@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="average_text">平均</string>
+    <string name="picker_default_positive_text">确定</string>
+    <string name="picker_default_nagetive_text">关闭</string>
+    <string name="no_heartrate_data_hint">未检测到心率数据</string>
+    <string name="no_altitude_hint">未检测到海拔数据</string>
+    <string name="title_settings">设 置</string>
+    <string name="sport_music_settings">运动音乐</string>
     <string name="opened">已开启</string>
     <string name="closed">已关闭</string>
     <string name="connect_failed">连接失败</string>
@@ -8,5 +15,12 @@
     <string name="yes">知道了</string>
     <string name="app_name">飞行模式提示</string>
     <string name="action_settings">设置</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
     <string name="air_plane_mode_note_everest">请关闭飞行模式后重新尝试连接.</string>
 </resources>

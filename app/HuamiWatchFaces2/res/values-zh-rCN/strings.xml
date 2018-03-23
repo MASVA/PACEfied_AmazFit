@@ -74,6 +74,7 @@
     <string name="sport_change_time">换项用时</string>
     <string name="please_get_ready_for_runnning">请准备跑步运动</string>
     <string name="please_get_ready_for_riding">请准备骑行运动</string>
+    <string name="please_get_ready_for_swimming">请准备游泳运动</string>
     <string name="gps_ready">GPS已找到</string>
     <string name="gps_wait">等待GPS</string>
     <string name="gps_fail">GPS定位失败</string>
@@ -103,13 +104,14 @@
     <string name="per_100feet">/100英尺</string>
     <string name="yard">码</string>
     <string name="minute">分</string>
-    <string name="minute_clock">分钟</string>
+    <string name="minute_clock">分</string>
     <string name="second">秒</string>
     <string name="altitude">海拔</string>
     <string name="longitude_and_latitude">经纬度</string>
     <string name="press_key_finish_train">单击下键完成本段</string>
     <string name="press_up_key_wake_up">按上键解锁</string>
     <string name="need_run_kilometer">本次需跑</string>
+    <string name="need_run_time">本次需跑</string>
     <string name="low_battery_protect">低电保护</string>
     <string name="low_battery_please_charging">手表电量低，请充电。</string>
     <string name="app_name">HuamiWatchFaces</string>

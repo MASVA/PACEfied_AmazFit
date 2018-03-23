@@ -88,10 +88,10 @@
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
+    <item type="id" name="title">false</item>
     <item type="id" name="layout">false</item>
     <item type="id" name="progress_text">false</item>
     <item type="id" name="info_view">false</item>
-    <item type="id" name="title">false</item>
     <item type="id" name="title_empty">false</item>
     <item type="id" name="button_empty">false</item>
     <item type="id" name="picker1">false</item>
