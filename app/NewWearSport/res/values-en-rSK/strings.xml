@@ -279,7 +279,7 @@
 "</string>
   <string name="exchange_prepare_riding">Ďalšie: Cyklistika</string>
   <string name="exchange_prepare_running">Ďalšie: Beh</string>
-  <string name="count_down_swim_tint">Touch screen will be locked</string>
+  <string name="count_down_swim_tint">Obrazovka bude uzamknutá</string>
   <string name="sport_widget_title_history_record">Aktivity</string>
   <string name="sport_widget_title_elliptical">Elipt. trenažér</string>
   <string name="sport_widget_title_indoor_swim">Plávanie v bazéne</string>
@@ -299,10 +299,10 @@
   <string name="sport_widget_title_tennis">Tenis</string>
   <string name="sport_widget_title_tennising">Tennising</string>
   <string name="start_mix_sport">Start multisport activity</string>
-  <string name="start_single_sport">Start Activity</string>
-  <string name="pause_sport">Pause Activity</string>
-  <string name="continue_sport">Continue Activity</string>
-  <string name="stop_sport">Stop Activity</string>
+  <string name="start_single_sport">Spustiť aktivitu</string>
+  <string name="pause_sport">Pozastaviť aktivitu</string>
+  <string name="continue_sport">Pokračovať v aktivite</string>
+  <string name="stop_sport">Skončiť aktivitu</string>
   <string name="settting_sport_gpx_route">Trasa</string>
   <string name="swim_stroke_speed">Stroke Rate</string>
   <string name="swim_avg_stroke_speed">Priem.SPM</string>
