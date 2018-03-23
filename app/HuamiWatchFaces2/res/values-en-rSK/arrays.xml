@@ -81,7 +81,7 @@
         <item>Kadencia</item>
         <item>Dlzky</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Frek. zaberov</item>
         <item>Priem. SPM</item>
         <item>Tempo</item>
         <item>Priem. tempo</item>
@@ -94,7 +94,7 @@
         <item>Primary downhill</item>
         <item>Cumulative slide</item>
         <item>Slide down difference</item>
-        <item>Swing times</item>
+        <item>Udery</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Zostavajuca vzdialenost</item>

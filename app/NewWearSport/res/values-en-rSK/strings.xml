@@ -59,8 +59,8 @@
   <string name="not_step_freq_data">Cadence is n/a</string>
   <string name="not_stroke_speed_data">Stroke data is n/a</string>
   <string name="not_cadence_data">Cadence is n/a</string>
-  <string name="stroke_speed_curve_title">Stroke Rate (SPM)</string>
-  <string name="stroke_unit">odpaly</string>
+  <string name="stroke_speed_curve_title">Frekv. záberov (SPM)</string>
+  <string name="stroke_unit">záberov</string>
   <string name="cadence_curve_title">Kadencia(krat/min)</string>
   <string name="swim_trips_complete">Zaplávaných %1$d dĺžok</string>
   <string name="gps_search_tips">A 15-min warm-up exercise before the run helps prevent injuries.</string>
@@ -227,7 +227,7 @@
   <string name="sport_pause_swim_dis_unit">Celková vzdialenosť</string>
   <string name="sport_pause_normal_dis_type">Celková vzdialenosť </string>
   <string name="sport_pause_normal_dis_unit">Celková vzdialenosť</string>
-  <string name="sport_pause_normal_stroke_unit">Odpaly</string>
+  <string name="sport_pause_normal_stroke_unit">Údery</string>
   <string name="sport_auto_lap_dis">%1$s km za</string>
   <string name="sport_auto_lap_dis_imperial">%1$s mi za</string>
   <string name="sport_graph_title_ave">Priemer</string>
@@ -266,10 +266,10 @@
   <string name="device_conn_title">MW</string>
   <string name="heart_conn_title">HR</string>
   <string name="earphone_conn_title">Headset</string>
-  <string name="device_in">Device Connected</string>
-  <string name="device_out">Device Disconnected</string>
-  <string name="history_swim_exchange_title">Transition to Cycling</string>
-  <string name="history_riding_exchange_title">Transition to Running</string>
+  <string name="device_in">Zariadenie pripojené</string>
+  <string name="device_out">Zariadenie odpojené</string>
+  <string name="history_swim_exchange_title">Prechod na cyklistiku</string>
+  <string name="history_riding_exchange_title">Prechod na beh</string>
   <string name="sport_pause_time_tips">Čas pauzy</string>
   <string name="sport_stride_unit">cm</string>
   <string name="sport_stride_unit_imperial">in</string>
@@ -298,7 +298,7 @@
   <string name="sport_month_sport_title">Zvoľte aktivitu</string>
   <string name="sport_widget_title_tennis">Tenis</string>
   <string name="sport_widget_title_tennising">Tennising</string>
-  <string name="start_mix_sport">Start multisport activity</string>
+  <string name="start_mix_sport">Spustiť multišportovú aktivitu</string>
   <string name="start_single_sport">Spustiť aktivitu</string>
   <string name="pause_sport">Pozastaviť aktivitu</string>
   <string name="continue_sport">Pokračovať v aktivite</string>
@@ -312,8 +312,8 @@
   <string name="target_swim_trips">Počet dĺžok</string>
   <string name="swim_dps">DPS</string>
   <string name="swim_total_trips">Počet dĺžok</string>
-  <string name="swim_stroke">stroke</string>
-  <string name="swim_stroke_times">Strokes</string>
+  <string name="swim_stroke">záber</string>
+  <string name="swim_stroke_times">Zábery</string>
   <string name="swim_avg_dps">Priem. DPS</string>
   <string name="swim_swolf">Swolf</string>
   <string name="swim_swolf_unit">(%1$s m)</string>
@@ -387,7 +387,7 @@
   <string name="skiing_interval_train_complete_pause_tip">Zastavujem aktivitu</string>
   <string name="skiing_above_skiing_spped">Upoz. keď rýchlosť > %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Vzdialenosť</string>
-  <string name="sport_tennis_strokes">Odpaly</string>
+  <string name="sport_tennis_strokes">Údery</string>
   <string name="sport_tennis_forehand">Forhend</string>
   <string name="sport_tennis_backhand">Bekhend</string>
   <string name="sport_tennis_serve">Podania</string>
@@ -886,5 +886,5 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
   <string name="sport_setting_left_hand">Ľavá ruka</string>
   <string name="sport_setting_right_hand">Pravá ruka</string>
   <string name="sport_please_select_clap_hand">Please choose clap hand</string>
-  <string name="tennic_strokes_times_too_short">Swing too few times, can not save. OK to close?</string>
+  <string name="tennic_strokes_times_too_short">Príliš málo odpalov na uloženie. Naozaj zastaviť?</string>
 </resources>
