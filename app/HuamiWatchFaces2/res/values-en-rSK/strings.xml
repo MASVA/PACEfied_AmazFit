@@ -89,7 +89,7 @@
   <string name="strength">Anaeróbny</string>
   <string name="anaerobic">Maximálny</string>
   <string name="enter_sport_lock_status">Entering data screens</string>
-  <string name="press_any_key_wakeup">Stlacte tlacidlo</string>
+  <string name="press_any_key_wakeup">Stlac.tlacidlo</string>
   <string name="meter">m</string>
   <string name="kilometre">Km</string>
   <string name="km_per_hour">km/h</string>

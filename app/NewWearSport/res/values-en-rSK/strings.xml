@@ -61,15 +61,15 @@
   <string name="not_cadence_data">Cadence is n/a</string>
   <string name="stroke_speed_curve_title">Stroke Rate (SPM)</string>
   <string name="stroke_unit">odpaly</string>
-  <string name="cadence_curve_title">Cadence(times/min)</string>
-  <string name="swim_trips_complete">Swim %1$d lengths</string>
+  <string name="cadence_curve_title">Kadencia(krat/min)</string>
+  <string name="swim_trips_complete">Zaplávaných %1$d dĺžok</string>
   <string name="gps_search_tips">A 15-min warm-up exercise before the run helps prevent injuries.</string>
-  <string name="gps_search_swim_tips">Touch screen will be locked</string>
+  <string name="gps_search_swim_tips">Obrazovka bude uzamknutá</string>
   <string name="gps_searching">Vyhľadávam</string>
   <string name="gps_search_success">GPS pripravené</string>
   <string name="gps_search_failed_title">GPS nedostupné</string>
   <string name="gps_search_failed_content">Cannot acquire GPS satellites, please try again in an open space</string>
-  <string name="gps_search_success_title">GPS available now</string>
+  <string name="gps_search_success_title">GPS teraz pripravené</string>
   <string name="gps_search_success_content">"Let's go ahead and start the activity!"</string>
   <string name="gps_search_timeout_title">GPS has expired</string>
   <string name="gps_search_timeout_content">AGPS has expired. GPS searching will be slow. Please connect the Amazfit Watch App to update it.</string>
@@ -107,7 +107,7 @@
   <string name="picker_title_target_te">Cieľové TE</string>
   <string name="picker_title_target_heart_rate">Tep srdca(bpm)</string>
   <string name="picker_title_auto_lap">Auto okruh(%1$s)</string>
-  <string name="picker_title_swim_length">Bazén(%1$s)</string>
+  <string name="picker_title_swim_length">Dĺžka bazénu(%1$s)</string>
   <string name="picker_title_target_trips">Target Lengths</string>
   <string name="picker_title_fix_dis">Calibrate(%1$s)</string>
   <string name="picker_sub_title_te_one">(Improving)</string>
@@ -130,8 +130,8 @@
   <string name="settings_sport_lap_auto">Auto okruh</string>
   <string name="settings_sport_lap_auto_remind">Upoz. auto okruh</string>
   <string name="settings_sport_target_TE">Cieľové TE</string>
-  <string name="settings_sport_swim_length">Bazén</string>
-  <string name="settings_sport_swim_title">Bazén(m)</string>
+  <string name="settings_sport_swim_length">Dĺžka bazénu</string>
+  <string name="settings_sport_swim_title">Dĺžka bazénu(m)</string>
   <string name="settings_sport_swim_tips">The watch will count laps based on pool size</string>
   <string name="settings_sport_measure_heart">PPG on/off</string>
   <string name="settings_sport_rt_guide">Guidance</string>
@@ -172,7 +172,7 @@
   <string name="history_pace_graph_desc_imperial">Tempo(min/mi)</string>
   <string name="history_swim_pace_graph_desc">Tempo(min/100m)</string>
   <string name="history_swim_pace_graph_desc_imperial">Tempo(min/100ft)</string>
-  <string name="history_swim_pace_graph_desc_yd">Tempo(min/100yards)</string>
+  <string name="history_swim_pace_graph_desc_yd">Tempo(min/100yardov)</string>
   <string name="history_speed_graph_desc">Rýchlosť (km/h)</string>
   <string name="history_speed_graph_desc_imperial">Rýchlosť (mph)</string>
   <string name="history_altitude_graph_desc">Výška(m)</string>
@@ -239,10 +239,10 @@
   <string name="adjust_content">%1$dm</string>
   <string name="adjust_tips_title">Auto distance setting renamed</string>
   <string name="adjust_swim_tips">Auto lapping distance is now pool size. Please adjust it in Swim settings if needed.</string>
-  <string name="hill_title">Gradient Changes</string>
-  <string name="hill_even">Flat</string>
-  <string name="hill_up">Uphill</string>
-  <string name="hill_down">Downhill</string>
+  <string name="hill_title">Zmeny stúpania</string>
+  <string name="hill_even">Rovina</string>
+  <string name="hill_up">Stúpanie</string>
+  <string name="hill_down">Klesanie</string>
   <string name="hill_default_time">00:00:00</string>
   <string name="hill_default_percent">%1$d%%</string>
   <string name="sport_result_in_progress">Ukladám aktivitu…</string>
@@ -307,11 +307,11 @@
   <string name="swim_stroke_speed">Stroke Rate</string>
   <string name="swim_avg_stroke_speed">Priem.SPM</string>
   <string name="swim_max_stroke_speed">Max SPM</string>
-  <string name="swim_trips">Lengths</string>
-  <string name="rt_swim_trips">Lengths</string>
-  <string name="target_swim_trips">Target Lengths</string>
+  <string name="swim_trips">Dĺžky</string>
+  <string name="rt_swim_trips">Dĺžky</string>
+  <string name="target_swim_trips">Počet dĺžok</string>
   <string name="swim_dps">DPS</string>
-  <string name="swim_total_trips">Total Lengths</string>
+  <string name="swim_total_trips">Počet dĺžok</string>
   <string name="swim_stroke">stroke</string>
   <string name="swim_stroke_times">Strokes</string>
   <string name="swim_avg_dps">Priem. DPS</string>
@@ -336,7 +336,7 @@
   <string name="swim_unit">yard</string>
   <string name="pace_swim_unit_yd">/100yardov</string>
   <string name="settings_item_value_swim_length_yd">%1$s yardov</string>
-  <string name="title_custom_swim_length">Customize Pool Size</string>
+  <string name="title_custom_swim_length">Dĺžka bazénu</string>
   <string name="swim_unit_title">Jednotka vzdialenosti</string>
   <string name="gps_close_notification_content">Due to inactivity, GPS will be shutdown in one minute.</string>
   <string name="sport_te_desc">This workout maintains cardiorespiratory fitness.</string>
@@ -402,7 +402,7 @@
   <string name="sport_vo2_max">VO2max</string>
   <string name="sport_ability">VO2Max Fitness Level</string>
   <string name="sport_train_load">Tréningová zátaž</string>
-  <string name="first_beat_sport_status">Performance Condition</string>
+  <string name="first_beat_sport_status">Výkonnostný stav</string>
   <string name="currnet_daily_performance_staus">Súčasný stav</string>
   <string name="sport_ability_up">Improving</string>
   <string name="sport_ability_down">Declining</string>
@@ -414,9 +414,9 @@
   <string name="train_load_suggess_status_good">Optimálna</string>
   <string name="train_load_suggess_status_recovery">Vysoká</string>
   <string name="train_load_suggess_status_over">Presahujúca</string>
-  <string name="real_time_perpormance_level_very_good">Dobrá</string>
-  <string name="real_time_perpormance_level_good">Dobrá</string>
-  <string name="real_time_perpormance_level_average">Priemerna</string>
+  <string name="real_time_perpormance_level_very_good">Dobrý</string>
+  <string name="real_time_perpormance_level_good">Dobrý</string>
+  <string name="real_time_perpormance_level_average">Priemerný</string>
   <string name="real_time_perpormance_level_fatigued">Fatigued</string>
   <string name="real_time_perpormance_level_very_fatigued">Fatigued</string>
   <string name="sport_target_remind_head_title">Doporučený</string>
@@ -444,7 +444,7 @@
   <string name="first_beat_help_title_train_efffect">Tréningový efekt (TE)</string>
   <string name="first_beat_help_title_train_load">Tréningová zátaž</string>
   <string name="first_beat_help_title_sport_target_or_real_time_guide">Next Workout Recommendation&amp;Realtime Coaching</string>
-  <string name="first_beat_help_title_daily_perpormence">Performance Condition</string>
+  <string name="first_beat_help_title_daily_perpormence">Výkonnostný stav</string>
   <string name="first_beat_help_title_recovery_time">Čas zotavenia</string>
   <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users'cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
