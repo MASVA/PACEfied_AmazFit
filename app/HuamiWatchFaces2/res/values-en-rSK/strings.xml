@@ -109,11 +109,11 @@
   <string name="second">sekúnd</string>
   <string name="altitude">výška</string>
   <string name="longitude_and_latitude">Zem. šírka a dĺžka</string>
-  <string name="press_key_finish_train">Press button to finish</string>
+  <string name="press_key_finish_train">Stlačte tlačidlo pre ukončenie</string>
   <string name="press_up_key_wake_up">Odomknite tlačidlom</string>
   <string name="need_run_kilometer">Need to run</string>
-  <string name="low_battery_protect">Batéria vybitá</string>
-  <string name="low_battery_please_charging">Battery is low. Please charge.</string>
+  <string name="low_battery_protect">Vyb.batéria</string>
+  <string name="low_battery_please_charging">Batéria je takmer vybitá. Prosím dobite ju.</string>
   <string name="app_name">HuamiWatchFaces</string>
   <string name="watch_label_sport_one">Marathon life</string>
   <string name="watch_label_sport_two">I’m Runner</string>

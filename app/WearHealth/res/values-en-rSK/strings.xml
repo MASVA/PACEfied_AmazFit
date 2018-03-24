@@ -75,7 +75,7 @@
   <string name="settings_off">Vypnuté</string>
   <string name="settings_on">Zapnuté</string>
   <string name="settings_step_target">Cieľ počtu krokov</string>
-  <string name="settings_step_unit">Krokov</string>
+  <string name="settings_step_unit">krokov</string>
   <string name="settings_target_reach_reminder">Upoz. na cieľ</string>
   <string name="no_sleep_info">Nebol zistený záznam</string>
   <string name="today_sleep_info">Spánok</string>
