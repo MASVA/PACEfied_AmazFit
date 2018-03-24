@@ -8,32 +8,32 @@
         </runremind>
         <runremind id="1">
             <runType>Beh</runType>
-            <trainContent>Zotavovací beh</trainContent>
+            <trainContent>Regeneračný beh</trainContent>
             <copyWrite>Ľahký poklus. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="2">
             <runType>Beh</runType>
-            <trainContent>Normály beh</trainContent>
+            <trainContent>Základný beh</trainContent>
             <copyWrite>Bežte v konverzačnom tempe. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="3">
             <runType>Beh</runType>
-            <trainContent>Zrýchľujúci sa beh</trainContent>
+            <trainContent>Stupňovaný beh</trainContent>
             <copyWrite>Začnite pomaly a postupne zvyšujte tempo. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="4">
             <runType>Beh</runType>
-            <trainContent>Fartlek</trainContent>
+            <trainContent>Hra s rýchlosťou</trainContent>
             <copyWrite>Voľne meňte úroveň tréningu. Doporučený tep srdca: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="5">
             <runType>Beh</runType>
-            <trainContent>Opakované kopce</trainContent>
+            <trainContent>Beh do kopca</trainContent>
             <copyWrite>Bežte do kopca pri stálom tempe.Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="6">
             <runType>Beh</runType>
-            <trainContent>Beh v tempe</trainContent>
+            <trainContent>Tempový beh</trainContent>
             <copyWrite>Bežte v normálnom a stálom tempe. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="7">

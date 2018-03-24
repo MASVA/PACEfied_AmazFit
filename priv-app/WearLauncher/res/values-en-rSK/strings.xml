@@ -4,8 +4,8 @@
   <string name="locale_title">Výber jazyka</string>
   <string name="generic_notification_more">Viac(%s)</string>
   <string name="notification_unread_num">Nepreč. %s</string>
-  <string name="notification_click_upgrade">Aktualizácia</string>
-  <string name="notification_click_download">Sťahuj</string>
+  <string name="notification_click_upgrade">Aktualizovať</string>
+  <string name="notification_click_download">Sťiahnuť</string>
   <string name="notification_click_open">Viacej</string>
   <string name="notification_wechat_red_envelop_title">WeChat červená výstraha</string>
   <string name="notification_alipay_red_envelop_title">Alipay červená výstraha</string>
