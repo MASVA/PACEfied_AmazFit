@@ -12,7 +12,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="1">
-            <desc>Base Run 3.2km</desc>
+            <desc>Normálny beh 3.2km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -58,7 +58,7 @@
             <trainTimeMax>30</trainTimeMax>
         </daytrainplan>
         <daytrainplan id="5">
-            <desc>Progression Run 4.8km</desc>
+            <desc>Zrýchľujúci sa beh 4.8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -91,7 +91,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="8">
-            <desc>Base Run 4.8km</desc>
+            <desc>Normálny beh 4.8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -102,7 +102,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="9">
-            <desc>Progression Run 3.2km</desc>
+            <desc>Zrýchľujúci sa beh 3.2km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -137,7 +137,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="12">
-            <desc>Base Run 3.2km</desc>
+            <desc>Normálny beh 3.2km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -148,7 +148,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="13">
-            <desc>Recovery Run 3.2km</desc>
+            <desc>Zotavovací beh 3.2km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -170,7 +170,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="15">
-            <desc>Base Run 4.8km</desc>
+            <desc>Normálny beh 4.8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -181,7 +181,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="16">
-            <desc>Tempo Run 4.8km</desc>
+            <desc>Beh v tempe 4.8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -216,7 +216,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="19">
-            <desc>Base Run 4.8km</desc>
+            <desc>Normálny beh 4.8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -227,7 +227,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="20">
-            <desc>Recovery Run 3.2km</desc>
+            <desc>Zotavovací beh 3.2km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -249,7 +249,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="22">
-            <desc>Base Run 6.5km</desc>
+            <desc>Normálny beh 6.5km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -295,7 +295,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="26">
-            <desc>Base Run 6.5km</desc>
+            <desc>Normálny beh 6.5km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -306,7 +306,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="27">
-            <desc>Recovery Run 3.2km</desc>
+            <desc>Zotavovací beh 3.2km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -328,7 +328,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="29">
-            <desc>Base Run 6.5km</desc>
+            <desc>Normálny beh 6.5km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -374,7 +374,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="33">
-            <desc>Base Run 6.5km</desc>
+            <desc>Normálny beh 6.5km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -385,7 +385,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="34">
-            <desc>Recovery Run 4.8km</desc>
+            <desc>Zotavovací beh 4.8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -407,7 +407,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="36">
-            <desc>Base Run 8km</desc>
+            <desc>Normálny beh 8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -453,7 +453,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="40">
-            <desc>Base Run 8km</desc>
+            <desc>Normálny beh 8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>8.0</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -464,7 +464,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="41">
-            <desc>Recovery Run 4.8km</desc>
+            <desc>Zotavovací beh 4.8km</desc>
             <stageDesc>Base building</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -486,7 +486,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="43">
-            <desc>Base Run 6.5km</desc>
+            <desc>Normálny beh 6.5km</desc>
             <stageDesc>Tapering period</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -532,7 +532,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="47">
-            <desc>Base Run 6.5km</desc>
+            <desc>Normálny beh 6.5km</desc>
             <stageDesc>Tapering period</stageDesc>
             <distance>6.5</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -543,7 +543,7 @@
             <rateEnd>70</rateEnd>
         </daytrainplan>
         <daytrainplan id="48">
-            <desc>Recovery Run 3.2km</desc>
+            <desc>Zotavovací beh 3.2km</desc>
             <stageDesc>Tapering period</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -565,7 +565,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="50">
-            <desc>Base Run 4.8km</desc>
+            <desc>Normálny beh 4.8km</desc>
             <stageDesc>Tapering period</stageDesc>
             <distance>4.8</distance>
             <offsetWeeks>0</offsetWeeks>
@@ -587,7 +587,7 @@
             <rateEnd>0</rateEnd>
         </daytrainplan>
         <daytrainplan id="52">
-            <desc>Recovery Run 3.2km</desc>
+            <desc>Zotavovací beh 3.2km</desc>
             <stageDesc>Tapering period</stageDesc>
             <distance>3.2</distance>
             <offsetWeeks>0</offsetWeeks>

@@ -2,63 +2,64 @@
 <runreminds>
         <runremind id="0">
             <runType>Beh</runType>
-            <trainContent>Jog</trainContent>
-            <copyWrite>800m easy jogging + 200m walking. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <trainContent>Klusanie</trainContent>
+            <copyWrite>800m ľahký poklus + 200m chôdza. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>800m ľahký poklus + 200m chôdza. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="1">
             <runType>Beh</runType>
-            <trainContent>Recovery Run</trainContent>
-            <copyWrite>Easy jogging. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <trainContent>Zotavovací beh</trainContent>
+            <copyWrite>Ľahký poklus. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="2">
             <runType>Beh</runType>
-            <trainContent>Base Run</trainContent>
-            <copyWrite>Run at conversational pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <trainContent>Normály beh</trainContent>
+            <copyWrite>Bežte v konverzačnom tempe. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="3">
             <runType>Beh</runType>
-            <trainContent>Progression Run</trainContent>
-            <copyWrite>Start slowly and gradually increase pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <trainContent>Zrýchľujúci sa beh</trainContent>
+            <copyWrite>Začnite pomaly a postupne zvyšujte tempo. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="4">
             <runType>Beh</runType>
             <trainContent>Fartlek</trainContent>
-            <copyWrite>Freely switching training strength. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <copyWrite>Voľne meňte úroveň tréningu. Doporučený tep srdca: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="5">
             <runType>Beh</runType>
-            <trainContent>Hill Repeats</trainContent>
-            <copyWrite>Run on a uphill at a steady.Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <trainContent>Opakované kopce</trainContent>
+            <copyWrite>Bežte do kopca pri stálom tempe.Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="6">
             <runType>Beh</runType>
-            <trainContent>Tempo Run</trainContent>
-            <copyWrite>Run at a normal and steady pace. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <trainContent>Beh v tempe</trainContent>
+            <copyWrite>Bežte v normálnom a stálom tempe. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="7">
             <runType>Beh</runType>
-            <trainContent>Short intervals</trainContent>
-            <copyWrite>800m fast run + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <trainContent>Krátke intervaly</trainContent>
+            <copyWrite>800m šprint + 800m chôdza opakovane. Doporučený tep srdca: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="8">
             <runType>Beh</runType>
-            <trainContent>Long intervals</trainContent>
-            <copyWrite>2.4km jogging + 800m walking then repeat. Recommended Heatrate: %1$d-%2$dbpm</copyWrite>
+            <trainContent>Dlhé intervaly</trainContent>
+            <copyWrite>2.4km poklus + 800m chôdza opakovane. Doporučený tep srdca: %1$d-%2$dbpm</copyWrite>
         </runremind>
         <runremind id="9">
             <runType>Odpočinok</runType>
             <trainContent></trainContent>
-            <copyWrite>Rest today.%1$d day(s) to next workout</copyWrite>
+            <copyWrite>Dnes odpočívajte.%1$d deň(í) do ďalšieho tréningu</copyWrite>
         </runremind>
         <runremind id="10">
             <runType>Plávanie</runType>
             <trainContent></trainContent>
-            <copyWrite>Swimming to recovery speedwork. Remember to mark today as complete after swim.</copyWrite>
+            <copyWrite>Plávanie na obnovenie rýchlosti. Nezabudnite označiť deň ako dokončený po doplávaní.</copyWrite>
         </runremind>
         <runremind id="11">
             <runType>Cyklistika</runType>
             <trainContent></trainContent>
-            <copyWrite>Recovery speedwrok. Recommended Heatrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>Obnovenie rýchlosti. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
         </runremind>
 </runreminds>
 
