@@ -8,4 +8,8 @@
         <item quantity="other">Passi</item>
         <item quantity="one">Passo</item>
     </plurals>
+    <plurals name="floor_unit">
+        <item quantity="other">" Piani"</item>
+        <item quantity="one">" Piano"</item>
+    </plurals>
 </resources>
