@@ -33,4 +33,13 @@
     <string name="error_connect_content">Non è possibile connettere il WiFi. Riprova più tardi.</string>
     <string name="error_device_title">Impossibile trovare il dispositivo</string>
     <string name="error_device_content">Verificare che il dispositivo sia acceso e collegato alla stessa rete WiFi.</string>
+<!--START of missed texts by Huami-->
+    <string name="widget_currentstep_title">Centro dati</string>
+    <string name="widget_currentstep_activities">Passi odierni</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Dormito notte scorsa</string>
+    <string name="widget_currentstep_sleep_no">Dati sonno ND</string>
+    <string name="widget_currentstep_activity_no">Oggi nesun esercizio?</string>
+<!--END of missed texts by Huami-->
 </resources>
