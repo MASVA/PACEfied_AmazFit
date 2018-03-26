@@ -64,44 +64,44 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Cas</item>
-        <item>Vzdialenost</item>
+        <item>Čas</item>
+        <item>Vzdialenosť</item>
         <item>Tempo</item>
         <item>Priem. tempo</item>
         <item>Tep</item>
-        <item>kCal</item>
-        <item>Aktual. vyska</item>
-        <item>Prevysenie</item>
+        <item>Kalórie</item>
+        <item>Výška</item>
+        <item>Prevýšenie</item>
         <item>Klesanie</item>
-        <item>Rychlost</item>
-        <item>Priem. rych.</item>
+        <item>Rýchlosť</item>
+        <item>Priem. rých.</item>
         <item>Kadencia</item>
         <item>Dist. Gain</item>
         <item>Kroky</item>
         <item>Kadencia</item>
-        <item>Dlzky</item>
+        <item>Dĺžky</item>
         <item>DPS</item>
-        <item>Frek. zaberov</item>
+        <item>Frek. záberov</item>
         <item>Priem. SPM</item>
         <item>Tempo</item>
         <item>Priem. tempo</item>
-        <item>Vzdialenost</item>
+        <item>Vzdialenosť</item>
         <item>TE</item>
-        <item>Vyskova rychlost</item>
-        <item>Priemerna rychlost</item>
-        <item>Maximalna rychlost</item>
-        <item>Slide times</item>
-        <item>Primary downhill</item>
-        <item>Cumulative slide</item>
-        <item>Slide down difference</item>
-        <item>Udery</item>
+        <item>Výšková rýchlosť</item>
+        <item>Priemerná rýchlosť</item>
+        <item>Maximálna rýchlosť</item>
+        <item>Run(s)</item>
+        <item>Vzdialenosť</item>
+        <item>Celková vzdialenosť</item>
+        <item>Klesanie</item>
+        <item>Údery</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Zostavajuca vzdialenost</item>
-        <item>Train the total mileage</item>
-        <item>Cas treningu</item>
-        <item>Zostavajuci cas</item>
-        <item>Vzdialenost</item>
+        <item>Zostávajúca vzdialenosť</item>
+        <item>Celková vzdialenosť</item>
+        <item>Uplynulý čas</item>
+        <item>Zostávajúci čas</item>
+        <item>Vzdialenosť</item>
     </string-array>
     <string-array name="weekdays">
         <item>Ned</item>

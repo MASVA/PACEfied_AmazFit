@@ -70,12 +70,14 @@
   <string name="mileage">Vzdialenosť</string>
   <string name="sport_has_paused">Pozastavené</string>
   <string name="sport_paused_time">Čas pauzy</string>
-  <string name="sport_distance">Celková vzdialenosť</string>
+  <string name="sport_distance">Vzdialenosť</string>
   <string name="sport_downhill_total_distance">Downhill Total Distance</string>
+  <string name="sport_tennis_strokes">Údery</string>
   <string name="sport_change">Prepnúť aktivitu</string>
   <string name="sport_change_time">Transition time</string>
   <string name="please_get_ready_for_runnning">Ďalšie: Beh</string>
   <string name="please_get_ready_for_riding">Ďalšie: Cyklistika</string>
+  <string name="please_get_ready_for_swimming">Ďalšie: Plávanie</string>
   <string name="gps_ready">GPS pripravené</string>
   <string name="gps_wait">Vyhľadávam...</string>
   <string name="gps_fail">GPS search timed out</string>
@@ -89,7 +91,7 @@
   <string name="strength">Anaeróbny</string>
   <string name="anaerobic">Maximálny</string>
   <string name="enter_sport_lock_status">Entering data screens</string>
-  <string name="press_any_key_wakeup">Stlac.tlacidlo</string>
+  <string name="press_any_key_wakeup">Stlač.tlačidlo</string>
   <string name="meter">m</string>
   <string name="kilometre">Km</string>
   <string name="km_per_hour">km/h</string>
@@ -111,7 +113,8 @@
   <string name="longitude_and_latitude">Zem. šírka a dĺžka</string>
   <string name="press_key_finish_train">Stlačte tlačidlo pre ukončenie</string>
   <string name="press_up_key_wake_up">Odomknite tlačidlom</string>
-  <string name="need_run_kilometer">Need to run</string>
+  <string name="need_run_kilometer">Dĺžka intervalu :</string>
+  <string name="need_run_time">Dĺžka intervalu :</string>
   <string name="low_battery_protect">Vyb.batéria</string>
   <string name="low_battery_please_charging">Batéria je takmer vybitá. Prosím dobite ju.</string>
   <string name="app_name">HuamiWatchFaces</string>
@@ -140,7 +143,7 @@
   <string name="watch_label_twenty">Power Armor</string>
   <string name="watch_today_step">Dnešné kroky</string>
   <string name="sport_step">krok</string>
-  <string name="everyminute_times">Úderov/min</string>
+  <string name="everyminute_times">úderov/min</string>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
   <string name="locale_title">Výber jazyka</string>
   <string name="average_text">Priemer</string>
