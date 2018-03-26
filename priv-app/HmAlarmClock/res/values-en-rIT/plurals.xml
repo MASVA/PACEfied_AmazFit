@@ -16,4 +16,10 @@
         <item quantity="other">%d secondi</item>
         <item quantity="one">1 secondo</item>
     </plurals>
+    <plurals name="plurals_hours">
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="plurals_minutes">
+        <item quantity="other">%d m</item>
+    </plurals>
 </resources>
