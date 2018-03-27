@@ -5,11 +5,13 @@
         <item quantity="one">x</item>
     </plurals>
     <plurals name="weeklysports_step">
-        <item quantity="other">Krokov</item>
-        <item quantity="one">Krok</item>
+        <item quantity="other">krokov</item>
+        <item quantity="one">krok</item>
+        <item quantity="few">kroky</item>
     </plurals>
     <plurals name="floor_unit">
         <item quantity="other">. poschodí</item>
         <item quantity="one">. poschodie</item>
+        <item quantity="few">. poschodia</item>
     </plurals>
 </resources>
