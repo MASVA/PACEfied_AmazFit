@@ -237,7 +237,7 @@
     <string name="remind_target_time_distance_unit">km</string>
     <string name="remind_target_time_pace">Ritmo</string>
     <string name="remind_target_time_pace_unit">/km</string>
-    <string name="remind_heart_rate_too_high">FC elevata</string>
+    <string name="remind_heart_rate_too_high">Battito elevato</string>
     <string name="remind_heart_rate_value_before">Attuale</string>
     <string name="remind_heart_rate_value_after">Bpm</string>
     <string name="remind_heart_rate_suggestion">Rallenta per rientrare nel limite</string>
