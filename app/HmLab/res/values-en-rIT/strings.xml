@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Huami Lab</string>
     <string name="main_title">Huami Lab</string>
-    <string name="agreement_title">Freq.card. sempre attiva</string>
+    <string name="agreement_title">Rilevazione battito continua</string>
     <string name="message">Per migliorare i servizi offerti le misurazioni della freq. card. saranno archiviate e inviate ai nostri lab. I dati saranno utilizzati solo a scopo di ricerca. Il consumo batteria aumentarà</string>
     <string name="allow">Autorizza</string>
     <string name="exit">Annulla</string>
@@ -18,7 +18,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Freq. card. non rilevata</string>
+    <string name="no_heartrate_data_hint">Battito non rilevato</string>
     <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
