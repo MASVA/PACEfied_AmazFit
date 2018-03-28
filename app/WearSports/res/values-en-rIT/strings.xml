@@ -209,8 +209,8 @@
     <string name="settings_item_title_mi_remind">Avviso giro</string>
     <string name="settings_item_title_use_sogou">Usa Sogou Map</string>
     <string name="settings_item_title_km_voice_remind">Avviso vocale</string>
-    <string name="settings_item_title_cal_burn_heartrate_remind">Avviso FC aerobica</string>
-    <string name="settings_item_title_safe_heartrate_remind">Avviso FC</string>
+    <string name="settings_item_title_cal_burn_heartrate_remind">Avviso battito aerobico</string>
+    <string name="settings_item_title_safe_heartrate_remind">Avviso battito</string>
     <string name="settings_item_title_auto_pause">Pausa automatica</string>
     <string name="settings_item_title_running_auto_pause">Corsa pausa auto</string>
     <string name="settings_item_title_riding_auto_pause">Bici pausa auto</string>
