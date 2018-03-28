@@ -24,7 +24,7 @@
     <string name="custom_data_widget_title_today_dis">Distanza</string>
     <string name="custom_data_widget_title_total_dis">Totale</string>
     <string name="custom_data_widget_title_calorie">Calorie</string>
-    <string name="custom_data_widget_title_heart_rate">Battiti</string>
+    <string name="custom_data_widget_title_heart_rate">Battito</string>
     <string name="custom_data_widget_title_weather">Meteo</string>
     <string name="custom_data_widget_title_aq">Qualità aria</string>
     <string name="custom_data_widget_title_battery">Batteria</string>
