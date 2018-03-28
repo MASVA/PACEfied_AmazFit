@@ -308,7 +308,7 @@
     <string name="remind_current_heart">bpm</string>
     <string name="remind_last_dis_pace">Ritmo ultimo km</string>
     <string name="remind_last_dis_speed">Velocità ultimo km</string>
-    <string name="count_down_tint">"Indossa l'orologio saldamente per una rilevazione accurata della frequenza cardiaca."</string>
+    <string name="count_down_tint">"Indossa l'orologio saldamente per una rilevazione accurata dei battiti."</string>
     <string name="history_detail_running_cost_time">Tempo in movimento</string>
     <string name="history_detail_walking_cost_time">Tempo in movimento</string>
     <string name="settings_sport_slpt_second_brush">Aggiorna stats /s</string>
