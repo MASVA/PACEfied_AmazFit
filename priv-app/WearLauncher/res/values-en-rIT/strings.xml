@@ -14,7 +14,7 @@
     <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
     <string name="action_delete">Elimina</string>
     <string name="action_shield">Blocca</string>
-    <string name="notification_none">Nessuna notifica</string>
+    <string name="notification_none">Nessuna notifica!</string>
     <string name="notification_allclear">Pulisci notifiche</string>
     <string name="notification_allclear_confirm">Le notifiche non saranno più disponibili, continuare?</string>
     <string name="notification_checking_bluetooth">Provo la connessione bluetooth</string>
