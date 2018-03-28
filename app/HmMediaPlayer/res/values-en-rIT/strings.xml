@@ -79,7 +79,7 @@
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">Battito non rilevato</string>
-    <string name="no_altitude_hint">Dati altitudine non rilevati</string>
+    <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports Music</string>
