@@ -207,9 +207,9 @@
   <string name="pm">PM</string>
   <string name="unit_metric">Метрические</string>
   <string name="unit_english">Имперические</string>
-  <string name="strong">сильный</string>
-  <string name="mid">средний</string>
-  <string name="weak">слабый</string>
+  <string name="strong">Сильная</string>
+  <string name="mid">Средняя</string>
+  <string name="weak">Слабая</string>
   <string name="replace_watchface">Циферблат</string>
   <string name="screen_refresh">Обновление экрана</string>
   <string name="screen_refresh_on_string">Вкл</string>
