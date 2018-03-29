@@ -212,7 +212,7 @@
   <string name="weekly_sports_notification_content">Суммарная активность за прошедшую неделю готова.</string>
   <string name="weekly_sports_notification_action">Подробнее</string>
   <string name="weeklysports_date_format">yyyy MM/dd</string>
-  <string name="widget_currentstep_title">Недельный обзор</string>
+  <string name="widget_currentstep_title">Обзор за день</string>
   <string name="widget_currentstep_activities">Активности</string>
   <string name="widget_currentstep_sleep_hour">ч</string>
   <string name="widget_currentstep_sleep_min">мин</string>
