@@ -252,8 +252,9 @@
   <string name="sport_remind_pace_unit">/km</string>
   <string name="sport_lap_manual_current">Trvanie</string>
   <string name="sport_lap_swim_length_time">čas/%1$s metrov</string>
-  <string name="sport_lap_swim_length_time_imperial">čas/%1$s stôp</string>
-  <string name="sport_swim_style">Stroke Type</string>
+  <string name="sport_lap_swim_length_time_imperial">čas/%1$s yardov</string>
+  <string name="sport_swim_style">Štýl plávania</string>
+  <string name="sport_swim_style_main">Kraul</string>
   <string name="swim_free_style">Voľný štýl</string>
   <string name="swim_medlyrelay">Zmiešaný</string>
   <string name="swim_breaststroke">Prsia</string>
@@ -298,6 +299,8 @@
   <string name="sport_month_sport_title">Zvoľte aktivitu</string>
   <string name="sport_widget_title_tennis">Tenis</string>
   <string name="sport_widget_title_tennising">Tennising</string>
+  <string name="sport_widget_title_soccer">Futbal</string>
+  <string name="sport_widget_title_soccering">Soccering</string>
   <string name="start_mix_sport">Spustiť multišportovú aktivitu</string>
   <string name="start_single_sport">Spustiť aktivitu</string>
   <string name="pause_sport">Pozastaviť aktivitu</string>
@@ -387,16 +390,25 @@
   <string name="skiing_interval_train_complete_pause_tip">Zastavujem aktivitu</string>
   <string name="skiing_above_skiing_spped">Upoz. keď rýchlosť > %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Vzdialenosť</string>
+  <string name="sport_history_total_stokes">Celkový počet úderov</string>
   <string name="sport_tennis_strokes">Údery</string>
   <string name="sport_tennis_forehand">Forhend</string>
   <string name="sport_tennis_backhand">Bekhend</string>
   <string name="sport_tennis_serve">Podania</string>
+  <string name="sport_setting_clap_the_hands">Držanie rakety</string>
+  <string name="sport_setting_left_hand">Ľavá ruka</string>
+  <string name="sport_setting_right_hand">Pravá ruka</string>
+  <string name="sport_please_select_clap_hand">Zvoľte ruku v ktorej držíte raketu</string>
   <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Aktivita s málo zjazdami nemôže byť uložená. Pokračovať?</string>
-  <string name="dialog_tennic_select_hand_title">Prosím zvolte ruku</string>
-  <string name="sport_widget_title_compound">Zmiešaný pohyb</string>
-  <string name="sport_widget_title_compounding">Zmiešaný pohyb</string>
-  <string name="sport_select_compound">Športová voľba</string>
+  <string name="sport_soccer_sec_half">Začať druhý polčas</string>
+  <string name="tennic_strokes_times_too_short">Hra s príliš málo údermi nemôže byť uložená, pokračovať?</string>
+  <string name="dialog_tennic_select_hand_title">Prosím zvoľte ruku</string>
+  <string name="sport_widget_title_compound">Multišport</string>
+  <string name="sport_widget_title_compounding">In multisport</string>
+  <string name="sport_select_compound">Zvoľte</string>
   <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Menej ako jeden okruh nemôže byť uložený, pokračovať?</string>
+  <string name="tennic_wear_hand_guide">Prosím noste hodinky na zápästí ruky s ktorou hráte</string>
+  <string name="select_compound_sport">选择第%1$s项运动</string>
   <string name="experience_title">Prosím nastav osobné údaje, lebo budú mať dáta veľkú odchýlku</string>
   <string name="recovery_time_hour">hodín</string>
   <string name="sport_vo2_max">VO2max</string>
@@ -483,9 +495,9 @@
   <string name="bpm_to">tep k</string>
   <string name="indoor_run_progressing">Beh</string>
   <string name="run_train_title">Bežecký tréning</string>
-  <string name="run_train_recommend">Doporučený tréning</string>
-  <string name="run_train_intermittent">Intervalový tréning</string>
-  <string name="run_train_intermittent_select_train">Zvoľte tréning</string>
+  <string name="run_train_recommend">Doporučený</string>
+  <string name="run_train_intermittent">Intervalový</string>
+  <string name="run_train_intermittent_select_train">Zvoľte</string>
   <string name="music_title">Hudba</string>
   <string name="music_local_title">Športová hudba</string>
   <string name="music_no_resource">Žiadne skladby na prehranie</string>
@@ -591,7 +603,7 @@
   <string name="sport_widget_title_setting">Nastavenia</string>
   <string name="sport_widget_title_music">Hudba</string>
   <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
-  <string name="sport_widget_title_interval_run">IntermittentRun</string>
+  <string name="sport_widget_title_interval_run">Interval</string>
   <string name="sport_app_name">Športy</string>
   <string name="sport_item_running_title">Behanie</string>
   <string name="sport_item_walking_title">Chôdza</string>
@@ -810,8 +822,10 @@
   <string name="reminder_speed_unit">/h</string>
   <string name="remind_target_distance_training_title_format">Beh %1s Km</string>
   <string name="remind_target_time_training_title_format">Jazda %1$d Min</string>
+  <string name="remind_target_time_training_title_swim_format">Plávanie %1$d Min</string>
   <string name="complete_training_target_tips">Uložiť tento beh do dnešného tréningového plánu?</string>
   <string name="complete_training_outdoor_riding_target_tips">Uložiť túto jazdu do dnešného tréningového plánu?</string>
+  <string name="complete_training_swim_target_tips">"Uložiť toto plávanie do dnešného tréningového plánu?"</string>
   <string name="not_complete_train_task">Tréning nie je dokončený. Chcete prerušiť?</string>
   <string name="km_metric">km</string>
   <string name="metre_metric">metrov</string>
@@ -856,7 +870,7 @@
   <string name="dlg_btn_l_msg">nie</string>
   <string name="dlg_btn_r_msg">áno</string>
   <string name="hint_cancelling">Ruší sa...</string>
-  <string name="hint_success_exported_title">Úspěšne vyexportované</string>
+  <string name="hint_success_exported_title">Úspešne vyexportované</string>
   <string name="hint_failed_exported_title">Export trasy zlyhal</string>
   <string name="hint_where">"Trasa bola exportovaná do adresára GPXDATA
 Pre stiahnutie pripojte hodinky k počítaču"</string>
@@ -869,7 +883,6 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenia</string>
   <string name="sport_music_settings">Športová hudba</string>
-  <string name="sport_history_total_stokes">Celkový počet úderov</string>
   <string name="widget_currentstep_title">Centrum dát</string>
   <string name="widget_currentstep_activities">krokov dnes</string>
   <string name="widget_currentstep_sleep_hour">h</string>
@@ -878,13 +891,4 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
   <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
   <string name="sport_main_beyond_heart_info_title">Nebezpečný tep srdca</string>
-  <string name="sport_swim_style_main">Main swimming</string>
-  <string name="sport_widget_title_soccer">Futbal</string>
-  <string name="sport_widget_title_soccering">In football</string>
-  <string name="sport_soccer_sec_half">Začať druhý polčas</string>
-  <string name="sport_setting_clap_the_hands">Držanie rakety</string>
-  <string name="sport_setting_left_hand">Ľavá ruka</string>
-  <string name="sport_setting_right_hand">Pravá ruka</string>
-  <string name="sport_please_select_clap_hand">Zvolte ruku v ktorej držíte raketu</string>
-  <string name="tennic_strokes_times_too_short">Príliš málo odpalov na uloženie. Naozaj zastaviť?</string>
 </resources>

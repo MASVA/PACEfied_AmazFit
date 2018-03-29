@@ -16,9 +16,9 @@
   <string name="status_bar_no_notifications_title">Žiadne upozornenia</string>
   <string name="status_bar_ongoing_events_title">Prebiehajúce</string>
   <string name="status_bar_latest_events_title">Upozornenia</string>
-  <string name="battery_low_title">Baterie je temer vybitá</string>
-  <string name="battery_low_percent_format">%s zostáva</string>
-  <string name="battery_low_percent_format_saver_started">%s zostáva. Šetrič batérie je zapnutý.</string>
+  <string name="battery_low_title">Bateria je temer vybitá</string>
+  <string name="battery_low_percent_format">Zostáva %s</string>
+  <string name="battery_low_percent_format_saver_started">Zostáva %s. Šetrič batérie je zapnutý.</string>
   <string name="invalid_charger">"Nabíjanie cez USB nie je podporované.
 Používajte iba dodávanú nabíjačku."</string>
   <string name="invalid_charger_title">Nabíjanie cez USB nie je podporované.</string>

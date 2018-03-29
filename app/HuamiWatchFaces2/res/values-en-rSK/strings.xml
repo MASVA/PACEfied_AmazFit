@@ -47,9 +47,9 @@
   <string name="quick_settings_date_format">31-1-1900</string>
   <string name="running">Beh</string>
   <string name="waking">Chôdza</string>
-  <string name="indoor_running">Run Indoor</string>
-  <string name="outdoor_riding">Cycling</string>
-  <string name="indoor_riding">Cycling Indoor</string>
+  <string name="indoor_running">Bežecký pás</string>
+  <string name="outdoor_riding">Cyklistika</string>
+  <string name="indoor_riding">Stac. bicykel</string>
   <string name="cross_contry">Beh v teréne</string>
   <string name="eppitical">Elipt. trenažér</string>
   <string name="indoor_swimming">Plávanie v bazéne</string>
@@ -74,7 +74,7 @@
   <string name="sport_downhill_total_distance">Downhill Total Distance</string>
   <string name="sport_tennis_strokes">Údery</string>
   <string name="sport_change">Prepnúť aktivitu</string>
-  <string name="sport_change_time">Transition time</string>
+  <string name="sport_change_time">Čas zmeny</string>
   <string name="please_get_ready_for_runnning">Ďalšie: Beh</string>
   <string name="please_get_ready_for_riding">Ďalšie: Cyklistika</string>
   <string name="please_get_ready_for_swimming">Ďalšie: Plávanie</string>
