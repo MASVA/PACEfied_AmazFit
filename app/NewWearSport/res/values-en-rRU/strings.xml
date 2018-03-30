@@ -270,7 +270,7 @@
   <string name="device_out">Устройство отключено</string>
   <string name="history_swim_exchange_title">Обмен историей плавания</string>
   <string name="history_riding_exchange_title">Обмен историей велопробега</string>
-  <string name="sport_pause_time_tips">Время на перерывы</string>
+  <string name="sport_pause_time_tips">Время перерыва</string>
   <string name="sport_stride_unit">см</string>
   <string name="sport_stride_unit_imperial">фт</string>
   <string name="end_last_sport_tips">Пожалуйста, сначала остановите активность %1$s </string>
@@ -623,11 +623,11 @@
   <string name="running_cost_time_desc">Затраченное время</string>
   <string name="running_pace_desc">Темп</string>
   <string name="running_calorie_desc">Калории</string>
-  <string name="running_step_freq_desc">Частота шагов</string>
+  <string name="running_step_freq_desc">Част. шагов</string>
   <string name="running_speed_desc">Скорость</string>
   <string name="running_distance_desc">Путь</string>
   <string name="running_heartrate_desc">Пульс</string>
-  <string name="running_avg_pace_desc">Средний темп</string>
+  <string name="running_avg_pace_desc">Средн. темп</string>
   <string name="running_avg_pace_desc_simple">Ср. темп</string>
   <string name="running_avg_speed_desc">Средняя скорость</string>
   <string name="running_avg_speed_desc_simple">ср. скорость</string>
