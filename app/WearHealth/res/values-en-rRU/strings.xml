@@ -75,7 +75,7 @@
   <string name="settings_off">Выкл</string>
   <string name="settings_on">Вкл</string>
   <string name="settings_step_target">Цель по шагам</string>
-  <string name="settings_step_unit">шаг</string>
+  <string name="settings_step_unit">Шаги</string>
   <string name="settings_target_reach_reminder">Достижение цели</string>
   <string name="no_sleep_info">Нет данных о сне</string>
   <string name="today_sleep_info">Сон</string>
@@ -161,7 +161,7 @@
   <string name="widget_step_target_day_tips"><liff>%d</liff> дней назад</string>
   <string name="widget_step_target_month_tips"><liff>%d</liff> месяцев назад</string>
   <string name="widget_step_target_year_tips"><liff>%d</liff> лет назад</string>
-  <string name="widget_label_step_unit">Шаги</string>
+  <string name="widget_label_step_unit">Шагов</string>
   <string name="widget_label_heartrate">Пульс</string>
   <string name="widget_label_heartrate_unit">уд/м</string>
   <string name="widget_heartrate_gauging">Измеряем...</string>
