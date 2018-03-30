@@ -49,14 +49,14 @@
   <string name="common">Iné nastavenia</string>
   <string name="device">Zariadenie</string>
   <string name="nodisturb">Nerušiť</string>
-  <string name="units_set">Units</string>
+  <string name="units_set">Jednotky</string>
   <string name="auto_airplane">Auto lietadlo</string>
   <string name="wifi_upload">Nahrať->WiFi</string>
   <string name="watchface">Ciferník</string>
   <string name="wifi_auto_upload_switch">Auto nahr.WiFi</string>
   <string name="auto_bg">Auto. podsviet.</string>
   <string name="auto_hint_title">Auto. podsviet.</string>
-  <string name="app_item_phone_anti_lost">Upoz. straty</string>
+  <string name="app_item_phone_anti_lost">Ochrana straty</string>
   <string name="app_item_anti_lost_remind">Upoz. pri strate</string>
   <string name="app_item_far_away_remind">Upoz. pri vzdialení</string>
   <string name="remind_aleary_open">Upoz. je už zapnuté</string>
