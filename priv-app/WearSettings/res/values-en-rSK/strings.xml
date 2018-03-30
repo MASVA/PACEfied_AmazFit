@@ -14,9 +14,9 @@
   <string name="dlg_confirm">Potvrdiť</string>
   <string name="dlg_cancel">Zrušiť</string>
   <string name="sport">Šport</string>
-  <string name="small_plugins">Doplnky</string>
+  <string name="small_plugins">Aplikácie</string>
   <string name="long_key_sport_title">Zvoľte cvičenie</string>
-  <string name="long_key_plugins_title">small parts</string>
+  <string name="long_key_plugins_title">Aplikácie</string>
   <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Nastavenia</string>
   <string name="find_phone">Nájsť telefón</string>
@@ -62,7 +62,7 @@
   <string name="remind_aleary_open">Upoz. je už zapnuté</string>
   <string name="phone_far_away_remind_to_you">"Hodinky Vás upozornia, keď je telefón príliš ďaleko."</string>
   <string name="dialog_confire">Potvrdiť</string>
-  <string name="long_key_action">Dlhé stlač. tlač. medzičasu</string>
+  <string name="long_key_action">Tlač. medzičasu</string>
   <string name="paobu">Beh</string>
   <string name="jianzou">Chôdza</string>
   <string name="yueye">Beh v teréne</string>
