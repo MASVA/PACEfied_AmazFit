@@ -6,9 +6,9 @@
   <string name="custom_confirm">Uložiť</string>
   <string name="custom_header_title">Nahrať pozadie</string>
   <string name="custom_select">Vybrať</string>
-  <string name="custom_exit">Exit</string>
-  <string name="custom_none_selected">Prosím vyber</string>
-  <string name="custom_selected_confirm">Potvrď</string>
+  <string name="custom_exit">Zrušiť</string>
+  <string name="custom_none_selected">Prosím vyberte</string>
+  <string name="custom_selected_confirm">Potvrdiť</string>
   <string name="custom_exit_delete">Odísť z mazania</string>
   <string name="custom_none_custom_background_title">Bez obrázku</string>
   <string name="custom_none_custom_background_content">Prosím pridaj pozadie z aplikácie Amazfit Watch.</string>
@@ -71,7 +71,7 @@
   <string name="sport_has_paused">Pozastavené</string>
   <string name="sport_paused_time">Čas pauzy</string>
   <string name="sport_distance">Vzdialenosť</string>
-  <string name="sport_downhill_total_distance">Downhill Total Distance</string>
+  <string name="sport_downhill_total_distance">Celková vzdialenosť</string>
   <string name="sport_tennis_strokes">Údery</string>
   <string name="sport_change">Prepnúť aktivitu</string>
   <string name="sport_change_time">Čas zmeny</string>
@@ -80,10 +80,10 @@
   <string name="please_get_ready_for_swimming">Ďalšie: Plávanie</string>
   <string name="gps_ready">GPS pripravené</string>
   <string name="gps_wait">Vyhľadávam...</string>
-  <string name="gps_fail">GPS search timed out</string>
-  <string name="gps_singal_lost">Gps unavailable</string>
-  <string name="gps_close_1">GPS was turned off</string>
-  <string name="gps_close_2">due to inactivity</string>
+  <string name="gps_fail">Vyhľadávanie GPS vypršalo</string>
+  <string name="gps_singal_lost">GPS nedostupné</string>
+  <string name="gps_close_1">GPS bolo vypnuté</string>
+  <string name="gps_close_2">z dôvodu nečinnosti</string>
   <string name="heartrate">Tep</string>
   <string name="warmup">Zahrievanie</string>
   <string name="fatburn">Spaľovanie tuku</string>
