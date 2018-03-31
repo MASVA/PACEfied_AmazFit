@@ -5,13 +5,13 @@
   <string name="agreement_title">Zber informácii o tepovej frekvencií</string>
   <string name="orig_data_collect">Sensor Capturing</string>
   <string name="message">"V záujme zlepšenia služby budeme nepretržite zaznamenávať vašu tepovú frekvenciu.Dáta budú použité len pre výskumné účely. Akvizícia sa otvorí pri určitej spotrebe energie."</string>
-  <string name="message_everest">We’ll collect raw PPG data when you wear the watch. The data will only be used for research purpose to improve our algorithms. This feature will adversely impact the battery life.</string>
+  <string name="message_everest">Budeme zbierať surové PPG dáta keď nosíte hodinky. Dáta budu použité len na účely výskumu a zlepšenia našich algoritmov. Táto funkcia bude mať nepriaznivý vplyv na výdrž batérie.</string>
   <string name="allow">Povoliť</string>
-  <string name="exit">Odísť</string>
+  <string name="exit">Zrušiť</string>
   <string name="heart_rate_collection_on">Zap</string>
   <string name="heart_rate_collection_off">Vyp</string>
   <string name="saving_data">Ukladanie dát</string>
-  <string name="upload_data">Odoslanie dokončené</string>
+  <string name="upload_data">Odoslať</string>
   <string name="upload_success">Dokončené</string>
   <string name="upload_failed">Odoslanie zlyhalo. Skúste znovu.</string>
   <string name="air_mode_alert_title">Pripojenie zlyhalo</string>
