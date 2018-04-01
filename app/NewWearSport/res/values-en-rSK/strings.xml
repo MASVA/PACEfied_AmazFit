@@ -597,7 +597,7 @@
   <string name="sport_widget_title_run">Beh</string>
   <string name="sport_widget_title_walk">Chôdza</string>
   <string name="sport_widget_title_cross">Beh v teréne</string>
-  <string name="sport_widget_title_indoor_run">Bežecký pás</string>
+  <string name="sport_widget_title_indoor_run">Beh na páse</string>
   <string name="sport_widget_title_record">Aktivity</string>
   <string name="sport_widget_title_achieve">Medaily</string>
   <string name="sport_widget_title_setting">Nastavenia</string>
@@ -663,7 +663,7 @@
   <string name="history_info_cost_time_desc">Uplynulý čas</string>
   <string name="history_detail_running_title">Behanie</string>
   <string name="history_detail_walking_title">Chôdza</string>
-  <string name="history_detail_indoor_running_title">Bežecký pás</string>
+  <string name="history_detail_indoor_running_title">Beh na páse</string>
   <string name="history_detail_cost_time">Celkový čas</string>
   <string name="history_detail_paused_time">Čas pauzy</string>
   <string name="default_pace_value">"00'00\""</string>
