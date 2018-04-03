@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Corsa</runType>
+            <trainContent>Jogging</trainContent>
+            <copyWrite>Jogging tranquillo per 800m + camminata per 200m. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Corsa</runType>
+            <trainContent>Corsa di recupero</trainContent>
+            <copyWrite>Jogging tranquillo. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Corsa</runType>
+            <trainContent>Esercizio di base</trainContent>
+            <copyWrite>Corsa con passo da conversazione. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Corsa</runType>
+            <trainContent>Corsa in progressione</trainContent>
+            <copyWrite>Parti lentamente ed aumenta il passo gradualmente. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Corsa</runType>
+            <trainContent>Fartlek</trainContent>
+            <copyWrite>Smista liberamente lo sforzo durante l\'allenamento. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Corsa</runType>
+            <trainContent>Ripetute in pendenza</trainContent>
+            <copyWrite>Corri in salita a passo costante. Battito racommandato:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Corsa</runType>
+            <trainContent>Tempo Run</trainContent>
+            <copyWrite>Corri con passo normale e costante. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Corsa</runType>
+            <trainContent>Intervalli brevi</trainContent>
+            <copyWrite>Corsa veloce per 800m + camminata per 800m poi ripeti. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Corsa</runType>
+            <trainContent>Intervalli lunghi</trainContent>
+            <copyWrite>Jogging per 2.4km + camminata per 800m poi ripeti. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Riposo</runType>
+            <trainContent></trainContent>
+            <copyWrite>Oggi riposo. %1$d giorno/i al prossimo allenamento</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Nuoto</runType>
+            <trainContent></trainContent>
+            <copyWrite>Nuoto per recuperare il lavoro di velocità. Ricorda di annotare di aver completato l\'allenamento odierno dopo la nuotata.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Bicicletta</runType>
+            <trainContent></trainContent>
+            <copyWrite>Recupero sul lavoro di velocità. Battito racommandato: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+
