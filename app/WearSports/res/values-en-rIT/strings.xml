@@ -165,8 +165,8 @@
     <string name="running_speed_unit">km/h</string>
     <string name="running_distance_unit">km</string>
     <string name="running_heartrate_unit">bpm</string>
-    <string name="running_stop_dialog_msg_reach_minimum_distance">Interrompere?</string>
-    <string name="running_stop_dialog_msg_not_reach_minimum_distance">Distanza troppo breve da salvare. Interrompo lo stesso?</string>
+    <string name="running_stop_dialog_msg_reach_minimum_distance">Terminare?</string>
+    <string name="running_stop_dialog_msg_not_reach_minimum_distance">Distanza troppo breve da salvare. Termino lo stesso?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
     <string name="running_stop_dialog_negative_text">Annulla</string>
     <string name="default_double_value">0.00</string>
@@ -282,8 +282,8 @@
     <string name="running_record">Record</string>
     <string name="running_setting">Impostazioni</string>
     <string name="title_activity_sport_medal_list">Dettagli medagliere Sport</string>
-    <string name="running_end_sport">"Prima interrompi l'allenamento"</string>
-    <string name="walking_end_sport">"Prima interrompi l'allenamento"</string>
+    <string name="running_end_sport">"Prima termina l'allenamento"</string>
+    <string name="walking_end_sport">"Prima termina l'allenamento"</string>
     <string name="running_in_progress">Correndo...</string>
     <string name="walking_in_progress">Camminando...</string>
     <string name="sport_in_progress_confirm">Conferma</string>
@@ -324,7 +324,7 @@
     <string name="delete_sport_summary_tips">Eliminare questa attività?</string>
     <string name="reminder_wear_not_tight_0">"Indossa l'orologio"</string>
     <string name="reminder_wear_not_tight_1">e stringi il cinturino.</string>
-    <string name="gps_time_out_re_rearch">Segnale GPS perso, cerca di nuovo.</string>
+    <string name="gps_time_out_re_rearch">Segnale GPS perso, cerco di nuovo.</string>
     <string name="walking_step_count">Passo</string>
     <string name="walking_step">passo</string>
     <string name="waling_steps">passi</string>
@@ -394,7 +394,7 @@
     <string name="hint_success_exported_title">Esportazione completata.</string>
     <string name="hint_failed_exported_title">Esportazione fallita</string>
     <string name="hint_where">"Il file gpx è stato salvato nella
- cartella '/sdcard/gpxdata'.
+ cartella '/sdcard/gpxdata/'.
  Ora lo puoi copiare tramite USB."</string>
     <string name="hint_failed">Esportazione fallita, riprova.</string>
     <string name="average_text">Media</string>
