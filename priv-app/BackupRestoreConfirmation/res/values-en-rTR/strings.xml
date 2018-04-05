@@ -1,23 +1,22 @@
-<?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="backup_confirm_title">Tam yedek al</string>
-  <string name="restore_confirm_title">Tam geri yükleme</string>
-  <string name="backup_confirm_text">" Bilgisayar bağlantısıyla full yedek alınmak isteniyor buna izin veriyor musunuz?" </string>
-  <string name="allow_backup_button_label">Bilgilerimi yedekle</string>
-  <string name="deny_backup_button_label">Yedekleme yapma</string>
-  <string name="restore_confirm_text">"Bağlanılan bilgisayardan cihazınızın full yedeği alınmak isteniyor buna izin veriyor musunuz?" </string>
-  <string name="allow_restore_button_label">Verilerimi geri yükle</string>
-  <string name="deny_restore_button_label">Geri yükleme yapma</string>
-  <string name="current_password_text">Lütfen şu anki yediğinizin şifresini girin:</string>
-  <string name="device_encryption_restore_text">Lütfen cihaz şifreleme şifresini girin:</string>
-  <string name="device_encryption_backup_text">Lütfen cihaz şifreleme şifresini girin. Bu aldığınız yedeği şifreleyecektir. </string>
-  <string name="backup_enc_password_text">Lütfen yediğinizi şifrelemek için şifre girin Eğer boş bırakırsanız şu anki şifreniz kullanılacaktır:</string>
-  <string name="backup_enc_password_optional">Eğer alınan yedeği şifrelemek istiyorsanız bir şifre girin:</string>
-  <string name="backup_enc_password_required">Cihazınız sifrelendiğinden den dolayı yediğinizde şifre girmeniz gerekmektedir. Lütfen aşağıya şifre girin. </string>
-  <string name="restore_enc_password_text">Eğer alınan yedek şifrelenmişse Lütfen aşağıya şifreyi giriniz:</string>
-  <string name="toast_backup_started">Yedek alma işlemi başlıyor... </string>
-  <string name="toast_backup_ended">Yedek alma işlemi bitti.</string>
-  <string name="toast_restore_started">Geri yükleme başlıyor... </string>
-  <string name="toast_restore_ended">Geri yükleme bitti</string>
-  <string name="toast_timeout">İşlem zaman aşımına uğradı</string>
+    <string name="backup_confirm_title">"Tam yedekleme"</string>
+    <string name="restore_confirm_title">"Tam geri yükleme"</string>
+    <string name="backup_confirm_text">"Tüm verilerin bağlı bir masaüstü bilgisayara tam bir yedeklenmesi istenmiştir. Bunun olmasına izin vermek ister misiniz? Yedeği kendiniz istemediyseniz, işlemin devam etmesine izin vermeyin."</string>
+    <string name="allow_backup_button_label">"Verimi yedekle"</string>
+    <string name="deny_backup_button_label">"Yedekleme"</string>
+    <string name="restore_confirm_text">"Bağlanan bir masaüstü bilgisayardan gelen tüm verilerin tam bir geri yüklemesi talep edildi. Bunun olmasına izin vermek ister misiniz? Kendiniz geri yükleme isteğinde bulunmadıysanız, işlemin devam etmesine izin vermeyin. Bu, şu anda cihazdaki herhangi bir verinin yerini alacaktır!"</string>
+    <string name="allow_restore_button_label">"Verilerimi geri yükle"</string>
+    <string name="deny_restore_button_label">"Geri yüklemeyin"</string>
+    <string name="current_password_text">"Lütfen şu anki yedek parolanızı aşağıya girin:"</string>
+    <string name="device_encryption_restore_text">"Lütfen aşağıda cihaz şifreleme şifrenizi giriniz."</string>
+    <string name="device_encryption_backup_text">"Lütfen aşağıda cihaz şifreleme şifrenizi giriniz. Bu ayrıca yedek arşivi şifrelemek için de kullanılacaktır."</string>
+    <string name="backup_enc_password_text">"Lütfen tam yedekleme verilerini şifrelemek için kullanılacak bir şifre girin. Bu boş bırakılırsa, geçerli yedek parolanız kullanılacaktır:"</string>
+    <string name="backup_enc_password_optional">"Tam yedek verileri şifrelemek isterseniz, aşağıda bir şifre girin:"</string>
+    <string name="backup_enc_password_required">"Cihazınız şifrelendiği için yedeklemenizi şifrelemek zorundasınız. Lütfen bir şifre giriniz:"</string>
+    <string name="restore_enc_password_text">"Geri yükleme verileri şifreliyse, lütfen aşağıdaki şifreyi girin:"</string>
+    <string name="toast_backup_started">"Yedekleme başlıyor ..."</string>
+    <string name="toast_backup_ended">"Yedekleme bitti"</string>
+    <string name="toast_restore_started">"Baştan geri yükle ..."</string>
+    <string name="toast_restore_ended">"Geri yüklendi bitti"</string>
+    <string name="toast_timeout">"Operasyon zaman aşımına uğradı"</string>
 </resources>

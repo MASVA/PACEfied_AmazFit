@@ -1,16 +1,15 @@
-<?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="app_name">SensorData</string>
-  <string name="hello_world">Seçildi:ACC PPG</string>
-  <string name="action_settings">Ayarlar</string>
-  <string name="title_activity_sensor_list">SensorListeAktivitesi</string>
-  <string name="title_activity_view_list">ListeAktivitesiniGörüntüle</string>
-  <string name="title_activity_graph_list">GrafikListeAktivitesi</string>
-  <string name="completed">Tamamlandı %1$s</string>
-  <string name="upload_failed">yükleme başarısız! </string>
-  <string name="upload_success">yükleme başarılı! </string>
-  <string name="uploading">yükleniyor! </string>
-  <string name="no_uploaded_files">Yüklenen dosya yok! </string>
-  <string name="open_wifi_failed">wifi açılması başarısız! </string>
-  <string name="connect_APP">Lütfen uygulamaya bağlanın! </string>
+    <string name="app_name">"SensorData"</string>
+    <string name="hello_world">"Seçilen: ACC PPG"</string>
+    <string name="action_settings">"Ayarlar"</string>
+    <string name="title_activity_sensor_list">"SensorListActivity"</string>
+    <string name="title_activity_view_list">"ViewListActivity"</string>
+    <string name="title_activity_graph_list">"GraphListActivity"</string>
+    <string name="completed">"Tamamlandı %1$s"</string>
+    <string name="upload_failed">"yükleme başarısız oldu"</string>
+    <string name="upload_success">"Başarıyla yüklendi!"</string>
+    <string name="uploading">"yükleniyor"</string>
+    <string name="no_uploaded_files">"Yüklenen dosya yok!"</string>
+    <string name="open_wifi_failed">"WiFi Önyükleme başarısız!"</string>
+    <string name="connect_APP">"Lütfen APP'yi bağlayın!"</string>
 </resources>
