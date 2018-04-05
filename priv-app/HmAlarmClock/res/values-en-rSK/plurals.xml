@@ -3,17 +3,21 @@
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Odložené o %d minút.</item>
         <item quantity="one">Odložené o 1 minútu.</item>
+        <item quantity="few">Odložené o %d minúty.</item>
     </plurals>
     <plurals name="Nhours_description">
         <item quantity="other">%d hodín</item>
         <item quantity="one">1 hodina</item>
+        <item quantity="few">%d hodiny</item>
     </plurals>
     <plurals name="Nminutes_description">
         <item quantity="other">%d minúty</item>
         <item quantity="one">1 minúta</item>
+        <item quantity="few">%d minúty</item>
     </plurals>
     <plurals name="Nseconds_description">
         <item quantity="other">%d sekundy</item>
         <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundy</item>
     </plurals>
 </resources>

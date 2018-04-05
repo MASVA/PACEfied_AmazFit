@@ -103,16 +103,16 @@
   <string name="wifi_connect_fail">"Wi-Fi连接失败，请
 重新连接"</string>
   <string name="searching">正在搜索...</string>
-  <string name="hasNewUpdateTitle">系统有更新</string>
+  <string name="hasNewUpdateTitle">Aktual. systému</string>
   <string name="hasNewUpdateContent">%1$s版本已可以安装,是否现在安装？</string>
-  <string name="average_text">Avg</string>
+  <string name="average_text">Priemer</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Confirm</string>
+  <string name="picker_default_positive_text">Potvrdiť</string>
   <string name="picker_default_nagetive_text">Off</string>
   <string name="no_heartrate_data_hint">Heart rate data not detected</string>
   <string name="no_altitude_hint">Altitude data not detected</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="title_settings">Settings</string>
+  <string name="title_settings">Nastavenie</string>
   <string name="sport_music_settings">Sports music</string>
   <string name="widget_currentstep_title">数据中心</string>
   <string name="widget_currentstep_activities">今日运动</string>

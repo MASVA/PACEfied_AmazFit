@@ -15,13 +15,16 @@
     <plurals name="time_difference_words_days">
         <item quantity="other">%d dní</item>
         <item quantity="one">%d deň</item>
+        <item quantity="few">%d dni</item>
     </plurals>
     <plurals name="time_difference_words_hours">
         <item quantity="other">%d hodín</item>
         <item quantity="one">%d hodina</item>
+        <item quantity="few">%d hodiny</item>
     </plurals>
     <plurals name="time_difference_words_minutes">
         <item quantity="other">%d minút</item>
         <item quantity="one">%d minúta</item>
+        <item quantity="few">%d minúty</item>
     </plurals>
 </resources>

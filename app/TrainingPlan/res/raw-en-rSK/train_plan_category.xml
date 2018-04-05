@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Začiatočník</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Vhodný pre váš prvý beh od chôdze až k poklusu. Tento tréning vám pomôže pripraviť vás na behanie krok za krokom.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Vhodný pre bežcov začiatočníkov. Tento tréning vám napomôže k lepšiemu pohybu.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Vhodný pre pokročilých bežcov. Tento tréning vám pomôže zlepšiť vašu aeróbnu a svalovú silu.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Polmaratón</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Vhodný pre polovičné závody. Napomáha zlepšiť vašu schopnosť bežať dlhšie.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Maratón</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Vhodný pre všetky druhy závodov. Pomôže vám zlepšiť schopnosť predpovedať výkon a lepšie si naplánovať vaše sily.</copyWrite>
+        </trainplan>
+</trainplans>

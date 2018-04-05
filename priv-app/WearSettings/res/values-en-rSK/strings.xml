@@ -13,10 +13,10 @@
   <string name="double_click_wakeup_close">Vypnuté</string>
   <string name="dlg_confirm">Potvrdiť</string>
   <string name="dlg_cancel">Zrušiť</string>
-  <string name="sport">Sport</string>
-  <string name="small_plugins">Plugins</string>
-  <string name="long_key_sport_title">Choose exercise</string>
-  <string name="long_key_plugins_title">small parts</string>
+  <string name="sport">Šport</string>
+  <string name="small_plugins">Aplikácie</string>
+  <string name="long_key_sport_title">Zvoľte cvičenie</string>
+  <string name="long_key_plugins_title">Aplikácie</string>
   <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Nastavenia</string>
   <string name="find_phone">Nájsť telefón</string>
@@ -24,9 +24,9 @@
   <string name="wifi_dev">WiFi</string>
   <string name="check_for_update">Aktualizácia</string>
   <string name="change_language">Jazyk</string>
-  <string name="reset_factory">Predvolené nastavenia</string>
+  <string name="reset_factory">Továrne nastavenie</string>
   <string name="shut_down">Vypnúť</string>
-  <string name="reboot">Reboot</string>
+  <string name="reboot">Reštartovať</string>
   <string name="about">O hodinkách</string>
   <string name="wear_habit">Hodinky na</string>
   <string name="bugreport">Nahlásiť chybu</string>
@@ -46,34 +46,45 @@
   <string name="time_zone_clock">Nastavenie času</string>
   <string name="setting_time_format">Formát času</string>
   <string name="connect">Pripojenie</string>
-  <string name="common">Iné nastavenia</string>
+  <string name="common">Všeobecné</string>
   <string name="device">Zariadenie</string>
   <string name="nodisturb">Nerušiť</string>
-  <string name="units_set">Units</string>
+  <string name="units_set">Jednotky</string>
   <string name="auto_airplane">Auto lietadlo</string>
   <string name="wifi_upload">Nahrať->WiFi</string>
-  <string name="replace_watchface">Ciferníky</string>
+  <string name="watchface">Ciferník</string>
   <string name="wifi_auto_upload_switch">Auto nahr.WiFi</string>
-  <string name="auto_bg">Auto.podsviet.</string>
-  <string name="paobu">Run</string>
-  <string name="jianzou">Walk away</string>
-  <string name="yueye">Trail running</string>
-  <string name="shineipao">Run indoor</string>
-  <string name="huwaiqi">Outdoor riding</string>
-  <string name="yongchiyou">Swimming pool</string>
-  <string name="gongkaiyou">Open water swimming</string>
-  <string name="tuoyuanji">Elliptical machine</string>
-  <string name="dengshan">Mountaineering</string>
-  <string name="tierensan">Triathlon</string>
-  <string name="shineiqi">Indoor riding</string>
-  <string name="yundongjilu">Athletic record</string>
-  <string name="celiangxinlv">Measure heart rate</string>
-  <string name="shujuzhongxin">Data Center</string>
-  <string name="xiaoxizhongxin">Message Center</string>
+  <string name="auto_bg">Auto. podsviet.</string>
+  <string name="auto_hint_title">Auto. podsviet.</string>
+  <string name="app_item_phone_anti_lost">Ochrana straty</string>
+  <string name="app_item_anti_lost_remind">Upoz. pri strate</string>
+  <string name="app_item_far_away_remind">Upoz. pri vzdialení</string>
+  <string name="remind_aleary_open">Upoz. je už zapnuté</string>
+  <string name="phone_far_away_remind_to_you">"Hodinky Vás upozornia, keď je telefón príliš ďaleko."</string>
+  <string name="dialog_confire">Potvrdiť</string>
+  <string name="long_key_action">Tlač. medzičasu</string>
+  <string name="paobu">Beh</string>
+  <string name="jianzou">Chôdza</string>
+  <string name="yueye">Beh v teréne</string>
+  <string name="shineipao">Beh na páse</string>
+  <string name="huwaiqi">Cyklistika</string>
+  <string name="yongchiyou">Plávanie v bazéne</string>
+  <string name="gongkaiyou">Plávanie vonku</string>
+  <string name="tuoyuanji">Elipt. trenažér</string>
+  <string name="dengshan">Turistika</string>
+  <string name="tierensan">Triatlon</string>
+  <string name="shineiqi">Stac. bicykel</string>
+  <string name="skiing">Lyžovanie</string>
+  <string name="tennis">Tenis</string>
+  <string name="soccer">Futbal</string>
+  <string name="yundongjilu">Aktivity</string>
+  <string name="celiangxinlv">Tep</string>
+  <string name="shujuzhongxin">Denný prehľad</string>
+  <string name="xiaoxizhongxin">Notifikácie</string>
   <string name="zhifubao">Alipay</string>
   <string name="jishiqi">Timer</string>
   <string name="mijia">MiHome</string>
-  <string name="zhinanzhen">Compass</string>
+  <string name="zhinanzhen">Kompas</string>
   <string name="yinyue">Music</string>
   <string name="nothing">Prázdne</string>
   <string name="about_title">Info</string>
@@ -84,13 +95,13 @@
   <string name="rom_version">Verzia ROM</string>
   <string name="rom_hint_dev">ROM (Dev Edition)</string>
   <string name="flash_capacity">Celková pamäť</string>
-  <string name="flash_free_capacity">Voľná pamät</string>
+  <string name="flash_free_capacity">Voľná pamäť</string>
   <string name="blt_mac_addr">Bluetooth MAC</string>
-  <string name="wlan_addr">WLAN Address</string>
+  <string name="wlan_addr">Adresa WLAN</string>
   <string name="serial_no">Sériové číslo</string>
   <string name="cmiit_id">CMIIT ID</string>
   <string name="license">Právne informácie</string>
-  <string name="unlock">Unlocked</string>
+  <string name="unlock">Odomknuté</string>
   <string name="build_time">[DEBUG]Čas vytvorenia</string>
   <string name="build_desc">[DEBUG]Popis vytvorenia</string>
   <string name="legal">Prečítajte si v aplikácii</string>
@@ -101,14 +112,14 @@
   <string name="air_plane">Airplane Mode</string>
   <string name="air_plane_mode_note">"Režim Lietadlo 
 Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ potrebujete používať funkcie, ktoré vyžadujú BT/WiFi, vypnite režim Lietadlo v Nastaveniach systému."</string>
-  <string name="yes">Yes</string>
-  <string name="no">No</string>
+  <string name="yes">Áno</string>
+  <string name="no">Nie</string>
   <string name="settings_long_sit_reminder">Výstraha nečinnosti</string>
   <string name="settings_off">Vypnuté</string>
   <string name="settings_on">Zapnuté</string>
   <string name="settings_step_target">Cieľ krokov</string>
   <string name="settings_step_unit">Krokov</string>
-  <string name="settings_target_reach_reminder">Upoz. na Cieľ</string>
+  <string name="settings_target_reach_reminder">Upoz. na cieľ</string>
   <string name="nodisturb_open_string">Zapnuté</string>
   <string name="nodisturb_close_string">Vypnuté</string>
   <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -119,7 +130,7 @@ Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ 
   <string name="auto_wifi_trans_on_string">Zapnuté</string>
   <string name="auto_wifi_trans_off_string">Vypnuté</string>
   <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
-  <string name="scanning_blt_devices">Vyhľadávám...</string>
+  <string name="scanning_blt_devices">Vyhľadávam...</string>
   <string name="blt_bound_stat_bonded">Spárované</string>
   <string name="blt_bound_stat_connected">Pripojené</string>
   <string name="blt_bound_stat_disconnect">Odpojené</string>
@@ -129,8 +140,8 @@ Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ 
   <string name="blt_hint_disconnect">"%1s 
 Odpojiť?"</string>
   <string name="blt_hint_connect">"%1s 
-Připojiť?"</string>
-  <string name="blt_hint_connect_fail">Spojenie nenadviazané, skusiť znovu</string>
+Pripojiť?"</string>
+  <string name="blt_hint_connect_fail">Spojenie nenadviazané, skúsiť znovu</string>
   <string name="blt_type_ear">Slúchadlá</string>
   <string name="blt_speaker">Reproduktor</string>
   <string name="blt_car_system">Automobil</string>
@@ -141,7 +152,7 @@ Připojiť?"</string>
   <string name="button_cancel">Zrušiť</string>
   <string name="blt_cancel_paring">Párovanie zrušené</string>
   <string name="bluetooth_pairing_error_message">Chyba párovania s %1$s.</string>
-  <string name="bluetooth_connecting">Pripojujem...</string>
+  <string name="bluetooth_connecting">Pripájam...</string>
   <string name="bluetooth_disconnecting">Odpojujem...</string>
   <string name="blt_hint_paring">"%1s 
 spárovať?"</string>
@@ -161,13 +172,13 @@ v dosahu"</string>
   <string name="bluetooth_enabled">Bluetooth je zapnutý</string>
   <string name="bluetooth_disabled">Bluetooth je vypnutý</string>
   <string name="bluetooth_unknown">Neznámý stav</string>
-  <string name="bluetooth_disconnect_title">Disconnect?</string>
-  <string name="bluetooth_connect_title">Connect?</string>
+  <string name="bluetooth_disconnect_title">Odpojiť?</string>
+  <string name="bluetooth_connect_title">Pripojiť?</string>
   <string name="blt_confirm_ignore">Naozaj ignorovať toto zariadenie ?</string>
   <string name="phone_finding">Hľadám telefón...</string>
   <string name="phone_found">Telefon nájdený</string>
-  <string name="phone_not_connected">Telefon nepripojený</string>
-  <string name="phone_not_found">Telefon nenájdený</string>
+  <string name="phone_not_connected">Telefón nepripojený</string>
+  <string name="phone_not_found">Telefón nenájdený</string>
   <string name="start_testing">Štart</string>
   <string name="lab_wifi_test_tip_retry">Prosím opakuj!!</string>
   <string name="lab_wifi_test_tip_testing">Testovanie...</string>
@@ -196,7 +207,7 @@ v dosahu"</string>
   <string name="female">Žena</string>
   <string name="centimeter">cm</string>
   <string name="birth_year_unit">"Rok 
-narození"</string>
+narodenia"</string>
   <string name="height_unit">"Výška 
 cm"</string>
   <string name="weight_unit">"Váha 
@@ -211,33 +222,28 @@ kg"</string>
   <string name="hour_system">%s-hodinový</string>
   <string name="am">AM</string>
   <string name="pm">PM</string>
-  <string name="unit_metric">Metric</string>
-  <string name="unit_english">Imperial</string>
+  <string name="unit_metric">Metrické</string>
+  <string name="unit_english">Imperiálne</string>
   <string name="strong">Silné</string>
   <string name="mid">Stredné</string>
   <string name="weak">Slabé</string>
-  <string name="screen_refresh">Secondhand</string>
-  <string name="screen_refresh_on_string">On</string>
-  <string name="screen_refresh_off_string">Off</string>
+  <string name="replace_watchface">Ciferník</string>
+  <string name="screen_refresh">Sekun. ručička</string>
+  <string name="screen_refresh_on_string">Zapnutá</string>
+  <string name="screen_refresh_off_string">Vypnutá</string>
   <string name="confirm_shutdown">Vypnúť?</string>
-  <string name="confirm_reboot">Reboot?</string>
+  <string name="confirm_reboot">Reštartovať?</string>
   <string name="app_name">Nastavenie hodiniek</string>
   <string name="title_activity_long_sitting_time">ČasovéAktivityDlhéhoSedenia</string>
   <string name="lab_desc">Zbierať časti pre ladiace nástroje</string>
   <string name="unknown">Neznáme zariadenie</string>
   <string name="bind_tips_title">Prosím, zviažte
   pre ochranu vašich dát</string>
-  <string name="upgrade_checking">Vyhľadávám Aktualizácie..</string>
+  <string name="upgrade_checking">Vyhľadávam aktualizácie..</string>
   <string name="left_hand">Ľavej ruke</string>
   <string name="right_hand">Pravej ruke</string>
 <!--START of missed texts by Huami-->
   <string name="setting_item_application">Aplikácia</string>
-  <string name="app_item_phone_anti_lost">Ochrana proti strate mobilného telefónu</string>
-  <string name="app_item_anti_lost_remind">Upozornenie ochrany proti strate</string>
-  <string name="app_item_far_away_remind">Pozor, telefón je príliš ďaleko</string>
-  <string name="remind_aleary_open">Upozornenie je už zapnuté</string>
-  <string name="phone_far_away_remind_to_you">Hodinky Vás upozornia, keď je telefón príliš ďaleko.</string>
-  <string name="dialog_confire">Potvrdiť</string>
   <string name="widget_currentstep_title">Centrum dát</string>
   <string name="widget_currentstep_activities">Kroky dnes</string>
   <string name="widget_currentstep_sleep_hour">h</string>
@@ -245,6 +251,4 @@ kg"</string>
   <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
   <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
-  <string name="auto_hint_title">Časovač auto.podsv.obrazovky</string>
-  <string name="long_key_action">Stlačte a podržte pre otvorenie</string>
 </resources>

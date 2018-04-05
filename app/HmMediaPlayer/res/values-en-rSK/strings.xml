@@ -76,7 +76,7 @@
   <string name="label_play">Play</string>
   <string name="label_previous">Predošlé</string>
   <string name="label_next">Ďalšie</string>
-  <string name="average_text">Avg</string>
+  <string name="average_text">Priemer</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Potvrdiť</string>
   <string name="picker_default_nagetive_text">Vypnuté</string>
