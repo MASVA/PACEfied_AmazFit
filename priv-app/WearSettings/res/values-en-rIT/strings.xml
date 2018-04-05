@@ -28,7 +28,7 @@
 	<string name="applications">Apps</string>
     <string name="long_sit">"Sedentarietà"</string>
     <string name="datacenter">Giornaliero</string>
-    <string name="light_change">Luminosità</string>
+    <string name="light_change">"Luminosità"</string>
     <string name="wrist_up">Ruota il polso</string>
     <string name="auto_nodisturb">Silenz. auto</string>
     <string name="double_click_wakeup">Sblocco 2 tap</string>
@@ -124,7 +124,7 @@ sia acceso e nelle vicinanze"</string>
     <string name="bluetooth_connecting_error_message">Non posso collegarmi a %1$s.</string>
     <string name="bluetooth_pairing_pin_error_message">Non posso accoppiare con %1$s: PIN errato</string>
     <string name="bluetooth_pairing_device_down_error_message">Non posso comunicare con %1$s.</string>
-    <string name="bluetooth_pairing_rejected_error_message">Accopiamento rifiutato da %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Accoppiamento rifiutato da %1$s.</string>
     <string name="bluetooth_turning_on">Attivo Bluetooth…</string>
     <string name="bluetooth_turning_off">Disattivo Bluetooth…</string>
     <string name="bluetooth_enabled">Bluetooth attivato</string>
