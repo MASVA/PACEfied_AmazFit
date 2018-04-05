@@ -113,9 +113,6 @@
     <string name="notification_qq_red_content_pattern">^\\[QQ??\\]</string>
     <string name="notification_qq_group_content_red_pattern">: \\[QQ??\\]</string>
     <string name="notification_alipay_default_title">Alipay</string>
-    <string name="notification_alipay_default_pattern">???</string>
-    <string name="notification_alipay_group_red_pattern">??????????$</string>
-    <string name="notification_alipay_red_pattern">??????$</string>
     <string name="notification_red_envelop">[Red envelope]</string>
     <string name="notitification_wechat_red_content_pattern_two">: \\[WeChat red envelope\\]</string>
     <string name="notitification_ios_wechat_red_content_pattern">: \\[Red envelope\\]</string>    <string name="notification_ios_qq_red_content_pattern">:\\[QQ??\\]</string>
