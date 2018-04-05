@@ -69,7 +69,7 @@
         <item>Pace</item>
         <item>AVG. Pace</item>
         <item>HR</item>
-        <item>Calorie</item>
+        <item>Calories</item>
         <item>Altitude</item>
         <item>Elev. Gain</item>
         <item>Elev. Loss</item>
@@ -79,7 +79,7 @@
         <item>Dist. Gain</item>
         <item>Steps</item>
         <item>踏频</item>
-        <item>Lengths</item>
+        <item>Trip</item>
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>AVG. SPM</item>
@@ -89,15 +89,15 @@
         <item>TE</item>
         <item>Vertical Speed</item>
         <item>AVG. Speed</item>
-        <item>MAX. Speed</item>
+        <item>MAX Speed</item>
         <item>Run(s)</item>
-        <item>Run</item>
-        <item>Total Distance</item>
+        <item>Distance</item>
+        <item>Total Mileage</item>
         <item>Descent</item>
         <item>Strokes</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining Distance</item>
+        <item>Remaining mileage</item>
         <item>Total Distance</item>
         <item>Elapsed Time</item>
         <item>Remaining Time</item>

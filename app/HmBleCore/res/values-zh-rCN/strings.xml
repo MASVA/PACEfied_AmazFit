@@ -7,4 +7,18 @@
     <string name="ble_lost_notification_phone_is_not_near">手机已不在身边，请注意携带。</string>
     <string name="ble_lost_notification_prevent_lost_remind">手机防丢提醒</string>
     <string name="ble_lost_notification_disconnect">手表已与手机断开连接。</string>
+    <string name="average_text">平均</string>
+    <string name="picker_default_positive_text">确定</string>
+    <string name="picker_default_nagetive_text">关闭</string>
+    <string name="no_heartrate_data_hint">未检测到心率数据</string>
+    <string name="no_altitude_hint">未检测到海拔数据</string>
+    <string name="title_settings">设 置</string>
+    <string name="sport_music_settings">运动音乐</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
 </resources>
