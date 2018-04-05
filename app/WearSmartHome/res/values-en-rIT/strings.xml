@@ -14,14 +14,14 @@
     <string name="mihome_widget_info_unbind">"L'orologio con Mi Home controlla dispositivi compatibili, attendere l'accoppiamento"</string>
     <string name="mihome_widget_info_no_devices">Mi Home vuole aggiungere questo orologio per controllare altri dispositivi</string>
     <string name="mihome_activity_title_disconnected">Scollegato</string>
-    <string name="mihome_activity_info_disconnected">"Collegare all'app Mi Home sul telefono tramite la porta bluetooth"</string>
-    <string name="mihome_activity_btn_disconnected">"Collegare all'app Mi Home sul telefono tramite la porta bluetooth"</string>
+    <string name="mihome_activity_info_disconnected">"Collegare all'app Mi Home sul telefono tramite bluetooth"</string>
+    <string name="mihome_activity_btn_disconnected">"Collegare all'app Mi Home sul telefono tramite bluetooth"</string>
     <string name="mihome_device_card_2_offline">[Offline]</string>
     <string name="widget_currentstep_title">Centro Dati</string>
     <string name="widget_currentstep_activities">Passi odierni</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sonno notte scorsa</string>
-    <string name="widget_currentstep_sleep_no">Dati sonno ND</string>
+    <string name="widget_currentstep_sleep_no">Sonno non rilevato</string>
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
 </resources>
