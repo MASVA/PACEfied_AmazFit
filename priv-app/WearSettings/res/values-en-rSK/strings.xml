@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="average_text">Priemer</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -24,14 +24,14 @@
   <string name="wifi_dev">WiFi</string>
   <string name="check_for_update">Aktualizácia</string>
   <string name="change_language">Jazyk</string>
-  <string name="reset_factory">Továrne nastavenia</string>
+  <string name="reset_factory">Predvolené nastavenia</string>
   <string name="shut_down">Vypnúť</string>
   <string name="reboot">Reboot</string>
   <string name="about">O hodinkách</string>
   <string name="wear_habit">Hodinky na</string>
   <string name="bugreport">Nahlásiť chybu</string>
   <string name="applications">Aplikácie</string>
-  <string name="long_sit">Pripomenúť prechádzku</string>
+  <string name="long_sit">Prejdite sa</string>
   <string name="datacenter">Denný prehľad</string>
   <string name="light_change">Podsvietenie</string>
   <string name="wrist_up">Prebuď otočením</string>
@@ -51,10 +51,10 @@
   <string name="nodisturb">Nerušiť</string>
   <string name="units_set">Units</string>
   <string name="auto_airplane">Auto lietadlo</string>
-  <string name="wifi_upload">Nahrať-&gt;WiFi</string>
-  <string name="watchface">WatchFace</string>
+  <string name="wifi_upload">Nahrať->WiFi</string>
+  <string name="replace_watchface">Ciferníky</string>
   <string name="wifi_auto_upload_switch">Auto nahr.WiFi</string>
-  <string name="auto_bg">Auto Backlight</string>
+  <string name="auto_bg">Auto.podsviet.</string>
   <string name="paobu">Run</string>
   <string name="jianzou">Walk away</string>
   <string name="yueye">Trail running</string>
@@ -79,7 +79,7 @@
   <string name="about_title">Info</string>
   <string name="model">Model</string>
   <string name="dev_name">Názov</string>
-  <string name="dev_desc">Amazfit Sports Watch</string>
+  <string name="dev_desc">Športovné hodinky Amazfit</string>
   <string name="ard_version">Verzia Androidu</string>
   <string name="rom_version">Verzia ROM</string>
   <string name="rom_hint_dev">ROM (Dev Edition)</string>
@@ -108,7 +108,7 @@ Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ 
   <string name="settings_on">Zapnuté</string>
   <string name="settings_step_target">Cieľ krokov</string>
   <string name="settings_step_unit">Krokov</string>
-  <string name="settings_target_reach_reminder">Notifikácia splnenia</string>
+  <string name="settings_target_reach_reminder">Upoz. na Cieľ</string>
   <string name="nodisturb_open_string">Zapnuté</string>
   <string name="nodisturb_close_string">Vypnuté</string>
   <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -216,7 +216,6 @@ kg"</string>
   <string name="strong">Silné</string>
   <string name="mid">Stredné</string>
   <string name="weak">Slabé</string>
-  <string name="replace_watchface">Ciferníky</string>
   <string name="screen_refresh">Secondhand</string>
   <string name="screen_refresh_on_string">On</string>
   <string name="screen_refresh_off_string">Off</string>
@@ -226,10 +225,19 @@ kg"</string>
   <string name="title_activity_long_sitting_time">ČasovéAktivityDlhéhoSedenia</string>
   <string name="lab_desc">Zbierať časti pre ladiace nástroje</string>
   <string name="unknown">Neznáme zariadenie</string>
-  <string name="bind_tips_title">Please bind n to protect your data more securely</string>
+  <string name="bind_tips_title">Prosím, zviažte
+  pre ochranu vašich dát</string>
   <string name="upgrade_checking">Vyhľadávám Aktualizácie..</string>
   <string name="left_hand">Ľavej ruke</string>
   <string name="right_hand">Pravej ruke</string>
+<!--START of missed texts by Huami-->
+  <string name="setting_item_application">Aplikácia</string>
+  <string name="app_item_phone_anti_lost">Ochrana proti strate mobilného telefónu</string>
+  <string name="app_item_anti_lost_remind">Upozornenie ochrany proti strate</string>
+  <string name="app_item_far_away_remind">Pozor, telefón je príliš ďaleko</string>
+  <string name="remind_aleary_open">Upozornenie je už zapnuté</string>
+  <string name="phone_far_away_remind_to_you">Hodinky Vás upozornia, keď je telefón príliš ďaleko.</string>
+  <string name="dialog_confire">Potvrdiť</string>
   <string name="widget_currentstep_title">Centrum dát</string>
   <string name="widget_currentstep_activities">Kroky dnes</string>
   <string name="widget_currentstep_sleep_hour">h</string>
@@ -237,12 +245,6 @@ kg"</string>
   <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
   <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
-  <string name="app_item_phone_anti_lost">Anti-lost mobile phone</string>
-  <string name="app_item_anti_lost_remind">Anti-lost reminder</string>
-  <string name="app_item_far_away_remind">Too far remind</string>
-  <string name="remind_aleary_open">Reminder already on</string>
-  <string name="phone_far_away_remind_to_you">The watch will remind you when it is far away from the phone。</string>
-  <string name="dialog_confire">Confirm</string>
-  <string name="auto_hint_title">Timing wrist bright screen</string>
-  <string name="long_key_action">Press and hold to open</string>
+  <string name="auto_hint_title">Časovač auto.podsv.obrazovky</string>
+  <string name="long_key_action">Stlačte a podržte pre otvorenie</string>
 </resources>

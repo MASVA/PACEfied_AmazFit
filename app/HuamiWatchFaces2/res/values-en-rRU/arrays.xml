@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>Большой холод</item>
+        <item>Дождевая вода</item>
+        <item>Весеннее равноденствие</item>
+        <item>Гу Юи</item>
+        <item>Наполненный маленький</item>
+        <item>Летнее солнцестояние</item>
+        <item>Великая жара</item>
+        <item>Чушу</item>
+        <item>Осеннее равноденствие</item>
+        <item>Иней</item>
+        <item>Снег</item>
+        <item>Зимнее солнцестояние</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>Легкий холод</item>
+        <item>Весна начинается</item>
+        <item>Насекомые пробуждаются</item>
+        <item>Четкий и яркий</item>
+        <item>Лето начинается</item>
+        <item>Зерно в ухо</item>
+        <item>Легкое тепло</item>
+        <item>Осень начинается</item>
+        <item>Белые росы</item>
+        <item>Холодная роса</item>
+        <item>Зима начинается</item>
+        <item>Сильный снег</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>1</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseMonthNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="sport_data_item_array">
+        <item></item>
+        <item>Время</item>
+        <item>Расст. в ми</item>
+        <item>Темп</item>
+        <item>Средн. темп</item>
+        <item>HR</item>
+        <item>Калории</item>
+        <item>Высота</item>
+        <item>Повыш. высоты</item>
+        <item>Пониж. высоты</item>
+        <item>Скорость</item>
+        <item>Средн. скорость</item>
+        <item>Каденс</item>
+        <item>Усил. дист.</item>
+        <item>Шаги</item>
+        <item>Каденция</item>
+        <item>Длины</item>
+        <item>DPS</item>
+        <item>Частота взмахов</item>
+        <item>Средн. SPM</item>
+        <item>Темп</item>
+        <item>Средн. Темп</item>
+        <item>Дистанция</item>
+        <item>TE</item>
+        <item>Вертикал. скорость</item>
+        <item>Средн. скорость</item>
+        <item>Макс. скорость</item>
+        <item>Пробежка(-и)</item>
+        <item>Бег</item>
+        <item>Общая дистанция</item>
+        <item>Спуск</item>
+        <item>Размах</item>
+    </string-array>
+    <string-array name="sport_train_item">
+        <item>Оставшееся расстояние</item>
+        <item>Общая дистанция</item>
+        <item>Пройденное время</item>
+        <item>Оставшееся время</item>
+        <item>Пробег в милях</item>
+    </string-array>
+    <string-array name="weekdays">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+</resources>

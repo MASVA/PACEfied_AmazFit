@@ -69,17 +69,17 @@
         <item>Pace</item>
         <item>AVG. Pace</item>
         <item>HR</item>
-        <item>kCal</item>
+        <item>Calories</item>
         <item>Altitude</item>
         <item>Elev. Gain</item>
         <item>Elev. Loss</item>
         <item>Speed</item>
-        <item>AVG.Speed</item>
+        <item>AVG. Speed</item>
         <item>Cadence</item>
         <item>Dist. Gain</item>
         <item>Steps</item>
-        <item>Cadence</item>
-        <item>Lengths</item>
+        <item>踏频</item>
+        <item>Trip</item>
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>AVG. SPM</item>
@@ -88,19 +88,19 @@
         <item>Distance</item>
         <item>TE</item>
         <item>Vertical Speed</item>
-        <item>Average speed</item>
-        <item>Maximum speed</item>
-        <item>Slide times</item>
-        <item>Primary downhill</item>
-        <item>Cumulative slide</item>
-        <item>Slide down difference</item>
-        <item>Swing times</item>
+        <item>AVG. Speed</item>
+        <item>MAX Speed</item>
+        <item>Run(s)</item>
+        <item>Distance</item>
+        <item>Total Mileage</item>
+        <item>Descent</item>
+        <item>Strokes</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining mileage</item>
-        <item>Train the total mileage</item>
-        <item>Training time</item>
-        <item>Remaining time</item>
+        <item>Total Distance</item>
+        <item>Elapsed Time</item>
+        <item>Remaining Time</item>
         <item>Mileage</item>
     </string-array>
     <string-array name="weekdays">

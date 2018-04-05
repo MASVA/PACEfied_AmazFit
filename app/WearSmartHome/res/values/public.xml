@@ -223,11 +223,12 @@
     <public type="layout" name="mihome_widget_footer" id="0x7f03000d" />
     <public type="layout" name="mihome_widget_header" id="0x7f03000e" />
     <public type="layout" name="picker_column" id="0x7f03000f" />
-    <public type="layout" name="picker_positive_button" id="0x7f030010" />
-    <public type="layout" name="system_dialog" id="0x7f030011" />
-    <public type="layout" name="time_select1" id="0x7f030012" />
-    <public type="layout" name="time_select2" id="0x7f030013" />
-    <public type="layout" name="time_select3" id="0x7f030014" />
+    <public type="layout" name="picker_column_with_title" id="0x7f030010" />
+    <public type="layout" name="picker_positive_button" id="0x7f030011" />
+    <public type="layout" name="system_dialog" id="0x7f030012" />
+    <public type="layout" name="time_select1" id="0x7f030013" />
+    <public type="layout" name="time_select2" id="0x7f030014" />
+    <public type="layout" name="time_select3" id="0x7f030015" />
     <public type="anim" name="layout_animation" id="0x7f040000" />
     <public type="anim" name="slide_bottom_to_top" id="0x7f040001" />
     <public type="anim" name="slide_in_from_right" id="0x7f040002" />

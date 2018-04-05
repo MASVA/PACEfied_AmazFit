@@ -337,20 +337,21 @@
     <public type="layout" name="lap_view_header" id="0x7f030017" />
     <public type="layout" name="next_alarm" id="0x7f030018" />
     <public type="layout" name="picker_column" id="0x7f030019" />
-    <public type="layout" name="picker_positive_button" id="0x7f03001a" />
-    <public type="layout" name="stop_watch_view" id="0x7f03001b" />
-    <public type="layout" name="stopwatch_fragment" id="0x7f03001c" />
-    <public type="layout" name="stopwatch_laplist_fragment" id="0x7f03001d" />
-    <public type="layout" name="stopwatch_spacer" id="0x7f03001e" />
-    <public type="layout" name="system_dialog" id="0x7f03001f" />
-    <public type="layout" name="time_12_select2" id="0x7f030020" />
-    <public type="layout" name="time_24_select" id="0x7f030021" />
-    <public type="layout" name="time_select1" id="0x7f030022" />
-    <public type="layout" name="time_select2" id="0x7f030023" />
-    <public type="layout" name="time_select3" id="0x7f030024" />
+    <public type="layout" name="picker_column_with_title" id="0x7f03001a" />
+    <public type="layout" name="picker_positive_button" id="0x7f03001b" />
+    <public type="layout" name="stop_watch_view" id="0x7f03001c" />
+    <public type="layout" name="stopwatch_fragment" id="0x7f03001d" />
+    <public type="layout" name="stopwatch_laplist_fragment" id="0x7f03001e" />
+    <public type="layout" name="stopwatch_spacer" id="0x7f03001f" />
+    <public type="layout" name="system_dialog" id="0x7f030020" />
+    <public type="layout" name="time_12_select2" id="0x7f030021" />
+    <public type="layout" name="time_24_select" id="0x7f030022" />
+    <public type="layout" name="time_select1" id="0x7f030023" />
+    <public type="layout" name="time_select2" id="0x7f030024" />
+    <public type="layout" name="time_select3" id="0x7f030025" />
     <public type="layout" name="confirmation_activity_layout" id="0x7f03000b" />
     <public type="layout" name="dismiss_overlay" id="0x7f030014" />
-    <public type="layout" name="watch_card_content" id="0x7f030025" />
+    <public type="layout" name="watch_card_content" id="0x7f030026" />
     <public type="anim" name="alpha_in" id="0x7f040000" />
     <public type="anim" name="count_down_rotate" id="0x7f040001" />
     <public type="animator" name="progress_indeterminate_scale_material" id="0x7f050000" />
@@ -780,16 +781,16 @@
     <public type="id" name="anchor_view" id="0x7f0d005a" />
     <public type="id" name="picker_listview" id="0x7f0d005b" />
     <public type="id" name="picker_unit" id="0x7f0d005c" />
-    <public type="id" name="stopwatch_title" id="0x7f0d005d" />
-    <public type="id" name="stop_watch_lap_list_onclick" id="0x7f0d005e" />
-    <public type="id" name="stopwatch_lapnumber" id="0x7f0d005f" />
-    <public type="id" name="stopwatch_laptime" id="0x7f0d0060" />
-    <public type="id" name="stopwatch_clock" id="0x7f0d0061" />
-    <public type="id" name="start_button" id="0x7f0d0062" />
-    <public type="id" name="stop_watch_bottom_left_button_layout" id="0x7f0d0063" />
-    <public type="id" name="stop_watch_bottom_right_button_layout" id="0x7f0d0064" />
-    <public type="id" name="stopwatch_lap_list_view" id="0x7f0d0065" />
-    <public type="id" name="title" id="0x7f0d0066" />
+    <public type="id" name="title" id="0x7f0d005d" />
+    <public type="id" name="stopwatch_title" id="0x7f0d005e" />
+    <public type="id" name="stop_watch_lap_list_onclick" id="0x7f0d005f" />
+    <public type="id" name="stopwatch_lapnumber" id="0x7f0d0060" />
+    <public type="id" name="stopwatch_laptime" id="0x7f0d0061" />
+    <public type="id" name="stopwatch_clock" id="0x7f0d0062" />
+    <public type="id" name="start_button" id="0x7f0d0063" />
+    <public type="id" name="stop_watch_bottom_left_button_layout" id="0x7f0d0064" />
+    <public type="id" name="stop_watch_bottom_right_button_layout" id="0x7f0d0065" />
+    <public type="id" name="stopwatch_lap_list_view" id="0x7f0d0066" />
     <public type="id" name="title_empty" id="0x7f0d0067" />
     <public type="id" name="button_empty" id="0x7f0d0068" />
     <public type="id" name="positiveButton" id="0x7f0d0069" />

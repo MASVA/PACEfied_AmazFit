@@ -125,15 +125,16 @@
     <public type="layout" name="hm_text_dialog" id="0x7f040005" />
     <public type="layout" name="icon_item_dialog" id="0x7f040006" />
     <public type="layout" name="picker_column" id="0x7f040007" />
-    <public type="layout" name="picker_positive_button" id="0x7f040008" />
-    <public type="layout" name="system_dialog" id="0x7f040009" />
-    <public type="layout" name="time_select1" id="0x7f04000a" />
-    <public type="layout" name="time_select2" id="0x7f04000b" />
-    <public type="layout" name="time_select3" id="0x7f04000c" />
-    <public type="layout" name="update_layout" id="0x7f04000d" />
-    <public type="layout" name="wifi_item" id="0x7f04000e" />
-    <public type="layout" name="wifi_list" id="0x7f04000f" />
-    <public type="layout" name="wifi_scan" id="0x7f040010" />
+    <public type="layout" name="picker_column_with_title" id="0x7f040008" />
+    <public type="layout" name="picker_positive_button" id="0x7f040009" />
+    <public type="layout" name="system_dialog" id="0x7f04000a" />
+    <public type="layout" name="time_select1" id="0x7f04000b" />
+    <public type="layout" name="time_select2" id="0x7f04000c" />
+    <public type="layout" name="time_select3" id="0x7f04000d" />
+    <public type="layout" name="update_layout" id="0x7f04000e" />
+    <public type="layout" name="wifi_item" id="0x7f04000f" />
+    <public type="layout" name="wifi_list" id="0x7f040010" />
+    <public type="layout" name="wifi_scan" id="0x7f040011" />
     <public type="anim" name="tips" id="0x7f050000" />
     <public type="animator" name="progress_indeterminate_scale_material" id="0x7f060000" />
     <public type="animator" name="time_picker_ok_vector_alpha" id="0x7f060001" />
@@ -434,26 +435,27 @@
     <public type="string" name="local_update_confirm_1_title" id="0x7f0a0038" />
     <public type="string" name="local_update_confirm_1_msg" id="0x7f0a0039" />
     <public type="string" name="local_update_confirm_2_msg" id="0x7f0a003a" />
-    <public type="string" name="yes" id="0x7f0a003b" />
-    <public type="string" name="no" id="0x7f0a003c" />
-    <public type="string" name="enter" id="0x7f0a003d" />
-    <public type="string" name="cancel" id="0x7f0a003e" />
-    <public type="string" name="average_text" id="0x7f0a003f" />
-    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f0a0040" />
-    <public type="string" name="picker_default_positive_text" id="0x7f0a0041" />
-    <public type="string" name="picker_default_nagetive_text" id="0x7f0a0042" />
-    <public type="string" name="no_heartrate_data_hint" id="0x7f0a0043" />
-    <public type="string" name="no_altitude_hint" id="0x7f0a0044" />
-    <public type="string" name="ui_lib_name" id="0x7f0a0045" />
-    <public type="string" name="title_settings" id="0x7f0a0046" />
-    <public type="string" name="sport_music_settings" id="0x7f0a0047" />
-    <public type="string" name="widget_currentstep_title" id="0x7f0a0048" />
-    <public type="string" name="widget_currentstep_activities" id="0x7f0a0049" />
-    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0a004a" />
-    <public type="string" name="widget_currentstep_sleep_min" id="0x7f0a004b" />
-    <public type="string" name="widget_currentstep_sleep_title" id="0x7f0a004c" />
-    <public type="string" name="widget_currentstep_sleep_no" id="0x7f0a004d" />
-    <public type="string" name="widget_currentstep_activity_no" id="0x7f0a004e" />
+    <public type="string" name="OK" id="0x7f0a003b" />
+    <public type="string" name="yes" id="0x7f0a003c" />
+    <public type="string" name="no" id="0x7f0a003d" />
+    <public type="string" name="enter" id="0x7f0a003e" />
+    <public type="string" name="cancel" id="0x7f0a003f" />
+    <public type="string" name="average_text" id="0x7f0a0040" />
+    <public type="string" name="menu_item_high_light_scale_factor" id="0x7f0a0041" />
+    <public type="string" name="picker_default_positive_text" id="0x7f0a0042" />
+    <public type="string" name="picker_default_nagetive_text" id="0x7f0a0043" />
+    <public type="string" name="no_heartrate_data_hint" id="0x7f0a0044" />
+    <public type="string" name="no_altitude_hint" id="0x7f0a0045" />
+    <public type="string" name="ui_lib_name" id="0x7f0a0046" />
+    <public type="string" name="title_settings" id="0x7f0a0047" />
+    <public type="string" name="sport_music_settings" id="0x7f0a0048" />
+    <public type="string" name="widget_currentstep_title" id="0x7f0a0049" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f0a004a" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0a004b" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f0a004c" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f0a004d" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f0a004e" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f0a004f" />
     <public type="style" name="DialogText" id="0x7f0b0000" />
     <public type="style" name="HmDialog" id="0x7f0b0001" />
     <public type="style" name="AppBaseTheme" id="0x7f0b0002" />

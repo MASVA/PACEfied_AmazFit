@@ -1,19 +1,18 @@
-<?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="app_name">BLE connect</string>
-  <string name="action_settings">Ayarlar</string>
-  <string name="heart_rate">HR_COUNTER</string>
-  <string name="hello_world">Nabız simulatorü</string>
-  <string name="install_companion_tip">Lütfen önce huami yardım uygulamasını kurun.</string>
-  <string name="simplified_chinese">中文(简体)</string>
-  <string name="english_usa">English(US)</string>
-  <string name="low_battery">Batarya düşük %5</string>
-  <string name="battery_low_title">Batarya düşük! </string>
-  <string name="battery_low_plz_charge">Düşük batarya lütfen sarj edin</string>
-  <string name="scan_to_bind">Eşleştirme için tarayın</string>
-  <string name="function_unavailable_tip">Fonksiyon kullanılamıyor</string>
-  <string name="cancel_bind">Eşleştirmeyi iptal et</string>
-  <string name="skip_bind">Eşleştirmeyi geç</string>
-  <string name="permission_read_user_info">permission_read_user_info</string>
-  <string name="permission_write_user_info">permission_read_user_info</string>
+    <string name="app_name">"BLE bağlan"</string>
+    <string name="action_settings">"Ayarlar"</string>
+    <string name="heart_rate">"HR_Sayacı"</string>
+    <string name="hello_world">"Kalp hızı simülatörü."</string>
+    <string name="install_companion_tip">"请先在手机上安装华米手表助手"</string>
+    <string name="simplified_chinese">"Çince (basitleştirilmiş)"</string>
+    <string name="english_usa">"İngilizce (ABD)"</string>
+    <string name="low_battery">"Pil zayıf  %5 "</string>
+    <string name="battery_low_title">"Düşük pil!"</string>
+    <string name="battery_low_plz_charge">"Düşük pil, şarja bağlayın."</string>
+    <string name="scan_to_bind">"QR tarama"</string>
+    <string name="function_unavailable_tip">"Bazı özellikler kullanılamayabilir"</string>
+    <string name="cancel_bind">"İptal edildi"</string>
+    <string name="skip_bind">"Atla"</string>
+    <string name="permission_read_user_info">"permission_read_user_info"</string>
+    <string name="permission_write_user_info">"permission_read_user_info"</string>
 </resources>

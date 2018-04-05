@@ -8,16 +8,16 @@ import butterknife.ButterKnife.ViewBinder;
 public class TrainSelectDetailListViewAdapter$ItemHolder$$ViewBinder<T extends com.huami.watch.train.ui.adapter.TrainSelectDetailListViewAdapter.ItemHolder> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131492884, "field 'trainRecordTitle'");
-    target.trainRecordTitle = finder.castView(view, 2131492884, "field 'trainRecordTitle'");
-    view = finder.findRequiredView(source, 2131492888, "field 'txtStartDate'");
-    target.txtStartDate = finder.castView(view, 2131492888, "field 'txtStartDate'");
-    view = finder.findRequiredView(source, 2131492889, "field 'txtEndDate'");
-    target.txtEndDate = finder.castView(view, 2131492889, "field 'txtEndDate'");
-    view = finder.findRequiredView(source, 2131492890, "field 'circleProgressView'");
-    target.circleProgressView = finder.castView(view, 2131492890, "field 'circleProgressView'");
-    view = finder.findRequiredView(source, 2131492891, "field 'txtProgressLevel'");
-    target.txtProgressLevel = finder.castView(view, 2131492891, "field 'txtProgressLevel'");
+    view = finder.findRequiredView(source, 2131558420, "field 'trainRecordTitle'");
+    target.trainRecordTitle = finder.castView(view, 2131558420, "field 'trainRecordTitle'");
+    view = finder.findRequiredView(source, 2131558424, "field 'txtStartDate'");
+    target.txtStartDate = finder.castView(view, 2131558424, "field 'txtStartDate'");
+    view = finder.findRequiredView(source, 2131558425, "field 'txtEndDate'");
+    target.txtEndDate = finder.castView(view, 2131558425, "field 'txtEndDate'");
+    view = finder.findRequiredView(source, 2131558426, "field 'circleProgressView'");
+    target.circleProgressView = finder.castView(view, 2131558426, "field 'circleProgressView'");
+    view = finder.findRequiredView(source, 2131558427, "field 'txtProgressLevel'");
+    target.txtProgressLevel = finder.castView(view, 2131558427, "field 'txtProgressLevel'");
   }
 
   @Override public void unbind(T target) {

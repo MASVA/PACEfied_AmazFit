@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/default_background_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="18.699982sp" android:textColor="@color/default_font_color_white" android:gravity="center_horizontal" android:id="@id/dialog_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="32.159973dip" android:layout_marginTop="29.299988dip" android:layout_marginRight="32.159973dip" android:text="@string/dialog_tennic_select_hand_title" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip">
+        <View android:id="@id/center_separtor" android:background="@color/default_font_color_white" android:visibility="invisible" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+        <LinearLayout android:orientation="vertical" android:id="@id/ll_left_hand" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:layout_toLeftOf="@id/center_separtor">
+            <com.huami.watch.common.widget.HmImageView android:layout_gravity="center|right" android:background="@drawable/sport_tennis_icon_left" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.huami.watch.common.widget.HmTextView android:textColor="@color/default_font_color_white" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.699982dip" android:text="@string/sport_setting_left_hand" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/ll_right_hand" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_toRightOf="@id/center_separtor">
+            <com.huami.watch.common.widget.HmImageView android:layout_gravity="center|left" android:background="@drawable/sport_tennis_icon_right" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <com.huami.watch.common.widget.HmTextView android:textColor="@color/default_font_color_white" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.699982dip" android:text="@string/sport_setting_right_hand" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

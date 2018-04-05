@@ -17,8 +17,7 @@ w aplikacji Amazfit"</string>
     <string name="add_wifi">Dodaj Wi-Fi</string>
     <string name="please_update_rom">Znaleziono nową wersję systemu, proszę zaktual.</string>
     <string name="checking_rom">Sprawdzanie nowych wersji</string>
-    <string name="checking_rom_failed">"Przekroczono limit czasu poł.sieciowego,
-\u0009spróbuj ponownie"</string>
+    <string name="checking_rom_failed">Przekroczono limit czasu poł.sieciowego, spróbuj ponownie</string>
     <string name="current_is_new">Najnowsza wersja jest uruchomiona</string>
     <string name="has_new_rom_all">"Znaleziono nowa wersję.
 Ponieważ masz starszą wersję, uaktualnienie
@@ -64,8 +63,7 @@ prosimy o zaktual."</string>
     <string name="password_error">"Nieprawidłowe hasło Wi-Fi,
 wprowadź ponownie "</string>
     <string name="wifi_connect_fail">"Nie można połączyć się z tą 
-siecią. Spróbuj z 
-inną siecią Wi-Fi"</string>
+siecią. Spróbuj z inną siecią Wi-Fi"</string>
     <string name="searching">Wyszukiwanie...</string>
     <string name="hasNewUpdateTitle">Aktual.systemu</string>
     <string name="hasNewUpdateInstallContent">%1$s wersja może być zainstal, zainstal.teraz?</string>
@@ -94,4 +92,11 @@ plików danych z zegarka, kontynuować?"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
+    <string name="widget_currentstep_title">Centrum danych</string>
+    <string name="widget_currentstep_activities">Kroki dzisiaj</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Il.snu ostat.nocy</string>
+    <string name="widget_currentstep_sleep_no">Brak danych snu</string>
+    <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
 </resources>

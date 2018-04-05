@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="app_name">HuamiIME</string>
-  <string name="connect_phone">Lütfen Amazfit uygulamasına bağlanın</string>
-  <string name="input_by_phone">Lütfen Amazfit uygulamasından giriş yapın</string>
+    <string name="app_name">"HuamiIME"</string>
+    <string name="connect_phone">"Lütfen Amazfit pace uygulamasını bağlayın"</string>
+    <string name="input_by_phone">"Lütfen Amazfit pace uygulamasında giriniz"</string>
 </resources>

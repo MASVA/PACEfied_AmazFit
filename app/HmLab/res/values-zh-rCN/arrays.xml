@@ -2,6 +2,6 @@
 <resources>
     <string-array name="lib_item">
         <item>全时心率采集</item>
-        <item>BLE防丢</item>
+        <item>运动数据采集</item>
     </string-array>
 </resources>

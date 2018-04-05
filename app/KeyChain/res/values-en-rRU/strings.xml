@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Брелок</string>
+    <string name="title_no_certs">Сертификаты отсутствуют</string>
+    <string name="title_select_cert">Выберите сертификат</string>
+    <string name="requesting_application">Приложение %s требует наличие сертификата. Выберите сертификат, который будет использовать приложение для идентификации с сервером в будущем.</string>
+    <string name="requesting_server">Приложение идентифицируется сервером как %s, но вы должны выдать приложению доступ к сертификату, если вы ему доверяете.</string>
+    <string name="install_new_cert_message">Вы можете установить сертификаты с PKCS#12 файла с %1$s или %2$s расширениями, расоложенным на внешнем накопителе.</string>
+    <string name="install_new_cert_button_label">Установить</string>
+    <string name="allow_button">Разрешить</string>
+    <string name="deny_button">Запретить</string>
+</resources>

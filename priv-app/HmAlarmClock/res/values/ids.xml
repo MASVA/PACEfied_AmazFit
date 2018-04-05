@@ -82,6 +82,7 @@
     <item type="id" name="anchor_view">false</item>
     <item type="id" name="picker_listview">false</item>
     <item type="id" name="picker_unit">false</item>
+    <item type="id" name="title">false</item>
     <item type="id" name="stopwatch_title">false</item>
     <item type="id" name="stop_watch_lap_list_onclick">false</item>
     <item type="id" name="stopwatch_lapnumber">false</item>
@@ -91,7 +92,6 @@
     <item type="id" name="stop_watch_bottom_left_button_layout">false</item>
     <item type="id" name="stop_watch_bottom_right_button_layout">false</item>
     <item type="id" name="stopwatch_lap_list_view">false</item>
-    <item type="id" name="title">false</item>
     <item type="id" name="title_empty">false</item>
     <item type="id" name="button_empty">false</item>
     <item type="id" name="positiveButton">false</item>

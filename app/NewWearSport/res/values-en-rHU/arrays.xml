@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dally_performence_level_status">
+        <item>Fáradt</item>
+        <item>Átlagos</item>
+        <item>Jó</item>
+    </string-array>
+    <string-array name="vo2_max_level_status">
+        <item>Nagyon alacsony</item>
+        <item>Biztató</item>
+        <item>Gyenge</item>
+        <item>Átlagos</item>
+        <item>Jó</item>
+        <item>Nagyon jó</item>
+        <item>Kiváló</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Любитель</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Любитель - от ходьбы до бега. Данный план поможет вам стать бегуном.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5К</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Новичок. Данный план поможет вам улучшить технику бега.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10К</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Продвинутый курс. Данный план поможет вам улучшить аэробную и силовую выносливость.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Полумарафон</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Тренировка полумарафона. Помогает повысить выносливость для долгих тренировок.  </copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Марафон</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Тренировка марафона. Помогает вам прогнозировать эффективность, планировать свой темп и корректировать свою стратегию.</copyWrite>
+        </trainplan>
+</trainplans>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="app_name">Alipay</string>
+  <string name="confirm_unbind">ОК отвязать</string>
+  <string name="unbind_warning">Как только вы отвяжите часы, то функция Alipay будет не доступно!</string>
+  <string name="bind_my_watch">Привязать часы</string>
+  <string name="user_hint">Открыть на телефоне Alipay (9.3 или выше), в "Мой профиль&gt; Настройки&gt; Настройки безопасности&gt; Умные часы"</string>
+  <string name="bind_im">Привязать немедленно</string>
+  <string name="bind_from_qr">Использовать сканирование Alipay для привязки</string>
+  <string name="bind_qr_code">Привязка QR кодом</string>
+  <string name="user_hint_title">Запрос пользователя</string>
+  <string name="loading">Alipay загружается</string>
+  <string name="title">Watch Alipay</string>
+  <string name="widget_title">Alipay</string>
+  <string name="tip">В телефоне Alipay (9.3 и выше) "Я - Настройки - Центр безопасности - настройки безопасности - умные часы"</string>
+  <string name="ios_unsupport_tips">(iOS не поддерживает привязку Alipay)</string>
+  <string name="button_start_bind">Начало привязки</string>
+  <string name="bind_usage">Используйте скинрование Alipay для привязки</string>
+  <string name="bar_code_tip">Кассир провёл платеж</string>
+  <string name="qr_code_tip">Сканировать переводы или добавить друзей</string>
+  <string name="bind_success_title">Привязка завершена</string>
+  <string name="unbind_tip">Для разблокировки в мобильно телефоне Alipay.</string>
+  <string name="button_ok">Ок</string>
+  <string name="confirm_unbind_title">Отвязка</string>
+  <string name="unbind_alert_message">Функция оплаты с помощью часов и Alipay будет не доступна, отвязать ?</string>
+  <string name="not_available">Данная функция пока не доступна</string>
+  <string name="airplane_mode_tips">Для использования Alipay, пожалуйста отключите режим полета.</string>
+  <string name="debug_nickname"/>
+  <string name="debug_username"/>
+  <string name="debug_paycode_string"/>
+</resources>

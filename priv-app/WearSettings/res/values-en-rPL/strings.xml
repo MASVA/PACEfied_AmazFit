@@ -241,5 +241,12 @@ chronić swoje dane bardziej bezp."</string>
     <string name="upgrade_checking">Sprawdz.aktual...</string>
     <string name="left_hand">Lewa</string>
     <string name="right_hand">Prawa</string>
+    <string name="app_item_phone_anti_lost">Antyzg.tel.kom.</string>
+    <string name="app_item_anti_lost_remind">Przyp.przed zgub.</string>
+    <string name="app_item_far_away_remind">Zbyt daleko, by przyp.</string>
+    <string name="remind_aleary_open">Przyp. otwarte.</string>
+    <string name="phone_far_away_remind_to_you">Zegarek przyp.Ci, że jest daleko od tel.</string>
+    <string name="dialog_confire">Ok</string>
+    <string name="auto_hint_title">Konf.wyb.nadg.</string>
     <string name="long_key_action">Naciśnij i przyt.by otworzyć</string>
 </resources>

@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="app_label">Shell</string>
-  <string name="bugreport_finished_title">Hata raporu hazırlandı</string>
-  <string name="bugreport_finished_text">Hata raporu hazırlandı</string>
-  <string name="bugreport_confirm">"Hata iletileri, kişisel ve özel bilgileri de içeren sistemin çeşitli günlük dosyalarından gelen verileri içerir; bunların bazılarına sadece yetkili uygulamalar ve kişiler ulasabilir."</string>
-  <string name="bugreport_confirm_repeat">Bu mesajı bir dahaki sefere göster</string>
+    <string name="app_label">"Kabuk"</string>
+    <string name="bugreport_finished_title">"Hata raporu yakalandı"</string>
+    <string name="bugreport_finished_text">"Hata raporunuzu paylaşmak için dokunun"</string>
+    <string name="bugreport_confirm">"Hata raporları, kişisel ve özel bilgiler de dahil olmak üzere sistemin çeşitli günlük dosyalarından gelen verileri içerir. Yalnızca hata raporlarını, güvendiğiniz uygulamalar ve kişilerle paylaşın."</string>
+    <string name="bugreport_confirm_repeat">"Bu mesajı bir daha ki sefere göster"</string>
 </resources>

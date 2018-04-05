@@ -1,6 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
 <resources>
-  <string name="app_label">External Storage</string>
-  <string name="root_internal_storage">Internal storage</string>
-  <string name="root_documents">Belgeler</string>
+    <string name="app_label">"Harici Depolama"</string>
+    <string name="root_internal_storage">"Dahili Depolama"</string>
+    <string name="root_documents">"Belgeler"</string>
 </resources>

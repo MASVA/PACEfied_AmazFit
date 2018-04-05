@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.huami.watch.common.widget.HmLinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.huami.watch.common.widget.HmTextView android:textSize="15.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/title" android:background="@color/transparent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" />
+    <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/picker_column" />
+</com.huami.watch.common.widget.HmLinearLayout>
