@@ -62,7 +62,7 @@
     <string name="remind_aleary_open">Alert is on already</string>
     <string name="phone_far_away_remind_to_you">"The watch will alert you when it's far away from your phone."</string>
     <string name="dialog_confire">Confirm</string>
-    <string name="long_key_action">Long press lap key to open</string>
+    <string name="long_key_action">Long press lap key</string>
     <string name="paobu">Running</string>
     <string name="jianzou">Walking</string>
     <string name="yueye">Trail Run</string>
@@ -193,9 +193,10 @@ and is nearby"</string>
     <string name="rise_without_bl_under_slpt">Off</string>
     <string name="locale_title">Language</string>
     <string name="locale_applying">Language applying</string>
-    <string name="zh_cn">Chinese (Simplified)</string>
-    <string name="en">English(US)</string>
-    <string name="zh_tw">Chinese (Traditional)</string>
+    <string name="zh_cn">简体中文</string>
+    <string name="en">English(U.S.)</string>
+    <string name="zh_hk">繁體中文(香港)</string>
+    <string name="zh_tw">繁體中文(台灣)</string>
     <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
     <string name="gender">Gender</string>

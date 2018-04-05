@@ -68,6 +68,7 @@
     <string name="sport_has_paused">运动已暂停</string>
     <string name="sport_paused_time">暂停时间</string>
     <string name="sport_distance">运动里程</string>
+    <string name="sport_mileage">距离</string>
     <string name="sport_downhill_total_distance">累计滑降里程</string>
     <string name="sport_tennis_strokes">挥拍次数</string>
     <string name="sport_change">换项</string>

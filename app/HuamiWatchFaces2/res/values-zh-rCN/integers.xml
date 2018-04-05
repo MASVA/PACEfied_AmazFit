@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer name="train_total_distance_null_pading_right">48</integer>
+    <integer name="train_total_unit_pading_top">36</integer>
+    <integer name="train_total_distance_null_pading_right">8</integer>
     <integer name="train_total_time_null_pading_right">24</integer>
     <integer name="unlock_watchface_title_hight">48</integer>
     <integer name="skill_diagram_altitude_left">115</integer>

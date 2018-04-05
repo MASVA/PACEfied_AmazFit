@@ -10,6 +10,7 @@
     <string name="opened">已开启</string>
     <string name="closed">已关闭</string>
     <string name="connect_failed">连接失败</string>
+    <string name="air_plane_mode_note_everest">请关闭飞行模式后重新尝试连接.</string>
     <string name="air_plane_mode_note">"连接失败
 请关闭飞行模式后重新尝试连接."</string>
     <string name="yes">知道了</string>
@@ -22,5 +23,4 @@
     <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
     <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
     <string name="widget_currentstep_activity_no">今日不运动吗?</string>
-    <string name="air_plane_mode_note_everest">请关闭飞行模式后重新尝试连接.</string>
 </resources>

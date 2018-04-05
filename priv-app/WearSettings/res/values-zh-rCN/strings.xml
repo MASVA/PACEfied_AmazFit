@@ -191,9 +191,6 @@
     <string name="rise_without_bl_under_slpt">关闭</string>
     <string name="locale_title">系统语言</string>
     <string name="locale_applying">正在设置语言</string>
-    <string name="zh_cn">中文(简体)</string>
-    <string name="en">English(US)</string>
-    <string name="zh_tw">中文(繁體)</string>
     <string name="confirm_change_locale">"确定将系统语言改为
 %1$s吗?"</string>
     <string name="gender">性别</string>
