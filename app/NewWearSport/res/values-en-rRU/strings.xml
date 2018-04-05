@@ -51,7 +51,7 @@
   <string name="remind_target_time_h_unit">ч</string>
   <string name="remind_target_time_m_unit">м</string>
   <string name="remind_target_time_default_value">00</string>
-  <string name="no_altitude_hint">Данные о высоте не нйдены</string>
+  <string name="no_altitude_hint">Данные о высоте не найдены</string>
   <string name="no_heartrate_data_hint">Данные о пульсе не найдены</string>
   <string name="no_chart_data_hint">Нет данных</string>
   <string name="not_speed_data">Скорость n/a</string>
@@ -93,9 +93,7 @@
   <string name="battery_continue_time_unit"> ч</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Время до полного восстановления %1$s ч</string>
-  <string name="remain_time_recovery">
-    <Data>Время до полного восстановления&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data>
-  </string>
+  <string name="remain_time_recovery"><Data>Время до полного восстановления&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Подробнее</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -192,8 +190,9 @@
   <string name="sport_main_percent">%</string>
   <string name="unit_cadence">р/мин</string>
   <string name="sport_main_heart_info_title">Пульс</string>
+  <string name="sport_main_beyond_heart_info_title">Превышен безопасный порог сердцебиения</string>
   <string name="sport_main_pace_info_title">Ритм</string>
-  <string name="heartrate_x_axis_time_format">ЧЧ:мм:сс</string>
+  <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
   <string name="lap_title">Круг %1$d</string>
   <string name="manual_lap_title">Ключевой круг %1$d</string>
   <string name="auto_lap_title">Авто круг %1$d</string>
@@ -254,6 +253,7 @@
   <string name="sport_lap_swim_length_time">время/%1$s метров</string>
   <string name="sport_lap_swim_length_time_imperial">время/%1$s футов</string>
   <string name="sport_swim_style">Тип плавания</string>
+  <string name="sport_swim_style_main">Основной тип</string>
   <string name="swim_free_style">Свободный</string>
   <string name="swim_medlyrelay">Смешанный</string>
   <string name="swim_breaststroke">Брасс</string>
@@ -270,7 +270,7 @@
   <string name="device_out">Устройство отключено</string>
   <string name="history_swim_exchange_title">Обмен историей плавания</string>
   <string name="history_riding_exchange_title">Обмен историей велопробега</string>
-  <string name="sport_pause_time_tips">Время на перерывы</string>
+  <string name="sport_pause_time_tips">Время перерыва</string>
   <string name="sport_stride_unit">см</string>
   <string name="sport_stride_unit_imperial">фт</string>
   <string name="end_last_sport_tips">Пожалуйста, сначала остановите активность %1$s </string>
@@ -298,12 +298,14 @@
   <string name="sport_month_sport_title">Выберите активность</string>
   <string name="sport_widget_title_tennis">Теннис</string>
   <string name="sport_widget_title_tennising">Игра в теннис</string>
+  <string name="sport_widget_title_soccer">Футбол</string>
+  <string name="sport_widget_title_soccering">Игра в футбол</string>
   <string name="start_mix_sport">Начать смешанную активность</string>
   <string name="start_single_sport">Начать</string>
   <string name="pause_sport">Пауза</string>
   <string name="continue_sport">Продолжить</string>
   <string name="stop_sport">Остановить</string>
-  <string name="settting_sport_gpx_route">Спортивный маршрут</string>
+  <string name="settting_sport_gpx_route">GPX маршрут</string>
   <string name="swim_stroke_speed">Частота взмахов (SPM)</string>
   <string name="swim_avg_stroke_speed">Ср. SPM</string>
   <string name="swim_max_stroke_speed">Макс. SPM</string>
@@ -387,11 +389,23 @@
   <string name="skiing_interval_train_complete_pause_tip">Движение вот-вот остановится</string>
   <string name="skiing_above_skiing_spped">Напоминание о %1$sr</string>
   <string name="skiing_lap_downhill_dis_title">Скользящий пробег</string>
+  <string name="sport_history_total_stokes">Всего взмахов</string>
   <string name="sport_tennis_strokes">Взмахи</string>
   <string name="sport_tennis_forehand">Удар справа</string>
   <string name="sport_tennis_backhand">Удар слева</string>
   <string name="sport_tennis_serve">Подача</string>
+  <string name="sport_setting_clap_the_hands">Рука с ракеткой</string>
+  <string name="sport_setting_left_hand">Левая</string>
+  <string name="sport_setting_right_hand">Правая</string>
+  <string name="sport_please_select_clap_hand">Пожалуйста выберите руку с ракеткой</string>
   <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Минимальная дистанция не достигнута. Вы хотите остановиться?</string>
+  <string name="sport_soccer_sec_half">Начать вторую половину</string>
+  <string name="tennic_strokes_times_too_short">В игре слишком много взмахов не может быть сохранено, продолжить?</string>
+  <string name="dialog_tennic_select_hand_title">Пожалуйста выберите руку с ракеткой</string>
+  <string name="sport_widget_title_compound">Комбинированный спорт</string>
+  <string name="sport_widget_title_compounding">Комбинированный спорт</string>
+  <string name="sport_select_compound">Выберите спорт</string>
+  <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Fewer than one trip can not be saved, continue?</string>
   <string name="experience_title">Укажите персональные данные, или измерения будут иметь большие отклонения</string>
   <string name="recovery_time_hour">Часы</string>
   <string name="sport_vo2_max">VO2max</string>
@@ -404,7 +418,7 @@
   <string name="time_unit_hour">Час</string>
   <string name="train_load_medium">Средняя</string>
   <string name="train_load_near_seven_days">Последние 7 дней</string>
-  <string name="train_load_suggess_status_no_record">"Мы будет оценивать вашу тренировочную нагрузку по записям анаэробных упражнений в течении 7 дней."</string>
+  <string name="train_load_suggess_status_no_record">"Мы будем оценивать вашу тренировочную нагрузку по записям анаэробных упражнений в течении 7 дней."</string>
   <string name="train_load_suggess_status_less">Низкая</string>
   <string name="train_load_suggess_status_good">Оптимальная</string>
   <string name="train_load_suggess_status_recovery">Высокая</string>
@@ -609,11 +623,11 @@
   <string name="running_cost_time_desc">Затраченное время</string>
   <string name="running_pace_desc">Темп</string>
   <string name="running_calorie_desc">Калории</string>
-  <string name="running_step_freq_desc">Частота шагов</string>
+  <string name="running_step_freq_desc">Част. шагов</string>
   <string name="running_speed_desc">Скорость</string>
   <string name="running_distance_desc">Путь</string>
   <string name="running_heartrate_desc">Пульс</string>
-  <string name="running_avg_pace_desc">Средний темп</string>
+  <string name="running_avg_pace_desc">Средн. темп</string>
   <string name="running_avg_pace_desc_simple">Ср. темп</string>
   <string name="running_avg_speed_desc">Средняя скорость</string>
   <string name="running_avg_speed_desc_simple">ср. скорость</string>
@@ -866,12 +880,4 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Настройки</string>
   <string name="sport_music_settings">Спортивная музыка</string>
-  <string name="sport_history_total_stokes">Общее количество взмахов</string>
-  <string name="widget_currentstep_title">Центр данных</string>
-  <string name="widget_currentstep_activities">Шаги за сегодня</string>
-  <string name="widget_currentstep_sleep_hour">ч</string>
-  <string name="widget_currentstep_sleep_min">мин</string>
-  <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
-  <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
-  <string name="widget_currentstep_activity_no">Нет тренировок сегодня?</string>
 </resources>
