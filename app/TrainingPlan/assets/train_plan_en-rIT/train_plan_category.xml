@@ -4,7 +4,7 @@
             <title>Principiante</title>
             <type>1</type>
             <orderId>1</orderId>
-            <copyWrite>Adatto per la prima corsa, dalla passeggiata al jogging. Questo allenamento può aiutarti passo dopo passo per adattarti alla corsa.</copyWrite>
+            <copyWrite>Adatto per le prime corse, dalla passeggiata al jogging. Questo allenamento ti aiuta passo passo per adattarti alla corsa.</copyWrite>
             <totalLength>85.6</totalLength>
             <totalDays>56</totalDays>
         </trainplan>
@@ -14,7 +14,7 @@
             <orderId>2</orderId>
             <totalLength>148</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Adatto per le prime corse. Questo allenamento può aiutarti a migliorare i movimenti.</copyWrite>
+            <copyWrite>Adatto per le prime corse. Questo allenamento aiuta a migliorare i movimenti.</copyWrite>
         </trainplan>
         <trainplan id="3">
             <title>10 km</title>
@@ -22,7 +22,7 @@
             <orderId>3</orderId>
             <totalLength>212</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Adatto per corridori avanzati. Questo allenamento aiuta a migliorare la tua forma fisica aerobica e la forza muscolare.</copyWrite>
+            <copyWrite>Adatto per corridori avanzati. Questo allenamento aiuta a migliorare la forma fisica aerobica e la forza muscolare.</copyWrite>
         </trainplan>
         <trainplan id="4">
             <title>Mezza Maratona</title>
@@ -30,7 +30,7 @@
             <orderId>4</orderId>
             <totalLength>307.4</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Adatto alle mezze maratone. Aiuta a migliorare la tua capacità di correre per lungo tempo e distanza.</copyWrite>
+            <copyWrite>Adatto alle mezze maratone. Aiuta a migliorare la capacità di correre a lungo su tempo e distanza.</copyWrite>
         </trainplan>
         <trainplan id="5">
             <title>Maratona</title>
@@ -38,6 +38,6 @@
             <orderId>5</orderId>
             <totalLength>436.0</totalLength>
             <totalDays>56</totalDays>
-            <copyWrite>Adatto a tutte le gare. Aiuta a prevedere le prestazioni e pianificare la tua strategia e il tuo ritmo.</copyWrite>
+            <copyWrite>Adatto a tutte le gare. Aiuta a prevedere le prestazioni e a pianificare strategia e ritmo.</copyWrite>
         </trainplan>
 </trainplans>
