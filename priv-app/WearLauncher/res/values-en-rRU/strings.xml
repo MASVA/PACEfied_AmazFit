@@ -10,8 +10,8 @@
   <string name="notification_wechat_red_envelop_title">Важные уведомления WeChat</string>
   <string name="notification_alipay_red_envelop_title">Уведомления Alipay</string>
   <string name="notification_qq_red_envelop_title">Важные уведомления QQ</string>
-  <string name="notification_red_envelop_content">%sВажное сообщение, быстро включить телефон для прочтения!</string>
-  <string name="notification_ios_envelop_content">QQ важное сообщение получено, быстро включить телефон для получения!</string>
+  <string name="notification_red_envelop_content">%sВажное сообщение, быстро включите телефон для прочтения!</string>
+  <string name="notification_ios_envelop_content">QQ важное сообщение получено, быстро включите телефон для получения!</string>
   <string name="notification_red_envelop_default_content">Быстро включите телефон для получения!</string>
   <string name="notification_alipay_default_group">групповой чат</string>
   <string name="notification_red_bracket">[%s]</string>
@@ -25,9 +25,9 @@
   <string name="notification_alipay_red_pattern">Отправить важное сообщение$</string>
   <string name="delete_all_notifications">Удалить все уведомления</string>
   <string name="delete_all_notifications_confrim_content">После удаления уведомления не восстановить, продолжить?</string>
-  <string name="notification_time_day">ЧЧ:мм</string>
-  <string name="notification_time_month">ММ/дд ЧЧ:мм</string>
-  <string name="notification_time_year">гггг/ММ/дд ЧЧ:мм</string>
+  <string name="notification_time_day">HH:mm</string>
+  <string name="notification_time_month">MM/dd HH:mm</string>
+  <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
   <string name="action_delete">Удалить</string>
   <string name="action_shield">Блокировать</string>
   <string name="notification_none">Всё прочитано</string>
@@ -53,7 +53,7 @@
   <string name="quick_settings_connected">На связи</string>
   <string name="quick_settings_disconnect">Откл.</string>
   <string name="quick_settings_unbound">Сначала подклютесь</string>
-  <string name="quick_settings_date_chinese">дд.ММ.гггг</string>
+  <string name="quick_settings_date_chinese">dd.MM.yyyy</string>
   <string name="quick_settings_date_format">31.01.1900</string>
   <string name="quick_settings_date_yeareve">Канун Нового Года</string>
   <string name="seconed_confirm_nodisturb">Режим \'Не беспокоить\'\nУведомления больше НЕ будут появляться!</string>
@@ -68,11 +68,11 @@
   <string name="quick_settings_battery_sporttime_hour_unit">ч</string>
   <string name="quick_settings_battery_sporttime_KM_unit">км</string>
   <string name="quick_settings_battery_level_unit">%</string>
-  <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
+  <string name="quick_settings_battery_sporttime_MI_unit">ми</string>
   <string name="health_def_value"/>
   <string name="health_def_hint"/>
-  <string name="health_title_def_value">Сегодня ушел))</string>
-  <string name="splash_hint">Минуточку...</string>
+  <string name="health_title_def_value">Вы ходили сегодня</string>
+  <string name="splash_hint">Инициализация...</string>
   <string name="header_incomming_call_name"/>
   <string name="header_incomming_call_hint">Входящий звонок</string>
   <string name="header_incomming_call_mobilephone">Мобильный</string>
@@ -85,8 +85,8 @@
   <string name="header_incomming_call_service_hotline">Горячая линия сервера</string>
   <string name="header_incomming_call_localcall">Местный звонок</string>
   <string name="header_incomming_call_unknowncall">Неизвестный Вызов</string>
-  <string name="call_phone_off">Отключить звонок</string>
-  <string name="call_sound_off">Отключить звуки</string>
+  <string name="call_phone_off">Отклонить</string>
+  <string name="call_sound_off">Выкл. звук</string>
   <string name="wathc_disconnection_title">Отключено</string>
   <string name="wathc_disconnection_content">Нет связи с телефоном</string>
   <string name="notification_block">Отключить</string>
@@ -231,10 +231,10 @@
   <string name="cal_status_declined">Отклонено</string>
   <string name="cal_status_invited">Нет ответа</string>
   <string name="cal_status_tentative">Может быть</string>
-  <string name="cal_min">min</string>
+  <string name="cal_min">мин</string>
   <string name="cal_plus_x_more">+ %s подробнее</string>
   <string name="cal_email_subject">[Обновление] %s</string>
-  <string name="cal_no_event">Нет собитий</string>
+  <string name="cal_no_event">Нет событий</string>
   <string name="cal_no_title">(Без заголовка)</string>
   <string name="cal_event_duration" formatted="false">%s %s</string>
   <string name="cal_dummy_count_down">60</string>
@@ -482,7 +482,7 @@
   <string name="offline_state">Автономный режим</string>
   <string name="no_items">Нет товаров.</string>
   <string name="disambiguate_action">Неоднозначное действие</string>
-  <string name="status_bar_date_format">МММ д</string>
+  <string name="status_bar_date_format">MMM d</string>
   <string name="battery_is_at">Аккумулятор на</string>
   <string name="battery_saver_enabled">Энергосбережение вкл.</string>
   <string name="battery_saver_disabled">Энергосбережение выкл.</string>
@@ -629,7 +629,7 @@
   <string name="weather">Погода</string>
   <string name="weather_warning">Уровень опасности</string>
   <string name="wind_strength">Ветер</string>
-  <string name="date_time_format">дд.ММ</string>
+  <string name="date_time_format">dd.MM</string>
   <string name="weather_warning_level_blue">Синий</string>
   <string name="weather_warning_level_orange">Оранжевый</string>
   <string name="weather_warning_level_red">Красный</string>
