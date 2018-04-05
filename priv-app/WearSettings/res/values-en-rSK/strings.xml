@@ -110,8 +110,7 @@
   <string name="opened">Zapnuté</string>
   <string name="closed">Vypnuté</string>
   <string name="air_plane">Airplane Mode</string>
-  <string name="air_plane_mode_note">"Režim Lietadlo 
-Vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ potrebujete používať funkcie, ktoré vyžadujú BT/WiFi, vypnite režim Lietadlo v Nastaveniach systému."</string>
+  <string name="air_plane_mode_note">"Režim Lietadlo vypne Bluetooth a WiFi pripojenie k internetu, aby se šetrila energia. Pokiaľ potrebujete používať funkcie, ktoré vyžadujú BT/WiFi, vypnite režim Lietadlo v Nastaveniach systému."</string>
   <string name="yes">Áno</string>
   <string name="no">Nie</string>
   <string name="settings_long_sit_reminder">Výstraha nečinnosti</string>
@@ -195,8 +194,9 @@ v dosahu"</string>
   <string name="locale_title">Jazyk</string>
   <string name="locale_applying">Nastavujem jazyk...</string>
   <string name="zh_cn">Čínština (Zjednodušená)</string>
-  <string name="en">Angličtina(US)</string>
-  <string name="zh_tw">Čínština (Tradičná)</string>
+  <string name="en">Angličtina(U.S.)</string>
+  <string name="zh_hk">Čínština (Hong Kong)</string>
+  <string name="zh_tw">Čínština (Taiwan)</string>
   <string name="confirm_change_locale">"Zmeniť jazyk na 
 %1$s?"</string>
   <string name="gender">Pohlavie</string>

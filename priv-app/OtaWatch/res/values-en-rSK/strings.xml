@@ -4,28 +4,18 @@
   <string name="app_name">otawatch</string>
   <string name="action_settings">Nastavenia</string>
   <string name="watch_ota">Aktualizovať</string>
-  <string name="wifi_disconnect">Pripojte sa k aplikácii
- Amazfit watch pre kontrolu
- aktualizácie</string>
-  <string name="connect_phone_wifi">Skontrolujte sieť telefónu
- pre kontrolu
- aktualizácie</string>
-  <string name="connect_phone_input_wifi">Pripojte sa k aplikácii
- Amazfit watch pre zadanie
- hesla do Wi-Fi</string>
-  <string name="wifi_add_item">Pripojte sa k aplikácii
- Amazfit watch pre pridanie
- nového Wi-Fi hotspotu</string>
-  <string name="input_passwor_on_mobile">Zadajte heslo do WiFi
- v aplikácii Amazfit watch</string>
+  <string name="wifi_disconnect">Pripojte sa k aplikácii Amazfit watch pre kontrolu aktualizácie</string>
+  <string name="connect_phone_wifi">Skontrolujte sieť telefónu pre kontrolu aktualizácie</string>
+  <string name="connect_phone_input_wifi">Pripojte sa k aplikácii Amazfit watch pre zadanie hesla do Wi-Fi</string>
+  <string name="wifi_add_item">Pripojte sa k aplikácii Amazfit watch pre pridanie nového Wi-Fi hotspotu</string>
+  <string name="input_passwor_on_mobile">Zadajte heslo do WiFi v aplikácii Amazfit watch</string>
   <string name="add_wifi">Pridať Wi-Fi</string>
   <string name="please_update_rom">Je dostupná nová verzia systému, prosím aktualizujte</string>
   <string name="checking_rom">Kontrolujem nové verzie</string>
   <string name="checking_rom_failed">Pripojenie k sieti vypršalo,
  pripojte sa znovu</string>
   <string name="current_is_new">Používate najnovšiu verziu</string>
-  <string name="has_new_rom_all">"Found a new version
-Due to your older version, upgrade may take longer, please be patient."</string>
+  <string name="has_new_rom_all">Dostupná aktualizácia. Firmware v hodinkách je zastaralý a aktual. na najnovšiu verziu môže chvíľu trvať, pokračovať?</string>
   <string name="has_new_rom">Nájdená nová verzia,
  aktualizovať na verziu %1$s?</string>
   <string name="processbar_downloading_rom">Sťahujem...</string>
@@ -85,9 +75,10 @@ to the Amazfit Watch app and back up all data before update."</string>
 data are backed up. Installing 
 the update will erase all user 
 data on the watch, Continue?"</string>
+  <string name="OK">OK</string>
   <string name="yes">Áno</string>
   <string name="no">Nie</string>
-  <string name="enter">Enter</string>
+  <string name="enter">OK</string>
   <string name="cancel">Zrušiť</string>
   <string name="average_text">Priemer</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
