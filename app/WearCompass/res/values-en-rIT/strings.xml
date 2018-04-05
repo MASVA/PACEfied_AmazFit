@@ -6,8 +6,8 @@
     <string name="south_latitude">Lat Sud</string>
     <string name="east_longitude">Long Est</string>
     <string name="west_longitude">Long Ovest</string>
-    <string name="altitude">Altit.(m)</string>
-    <string name="altitude_ft">Altit.(ft)</string>
+    <string name="altitude">Altit. (m)</string>
+    <string name="altitude_ft">Altit. (ft)</string>
     <string name="atmospheric_pressure">Barometro</string>
     <string name="ori_north">N</string>
     <string name="ori_northeast">NE</string>
