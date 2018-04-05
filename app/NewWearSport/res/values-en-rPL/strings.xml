@@ -876,7 +876,6 @@ Skopiuj do komputera za pomocą USB"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="sport_history_total_stokes">Cał.liczba trafień</string>
     <string name="widget_currentstep_title">Centrum danych</string>
     <string name="widget_currentstep_activities">Kroki dzisiaj</string>
     <string name="widget_currentstep_sleep_hour">h</string>
