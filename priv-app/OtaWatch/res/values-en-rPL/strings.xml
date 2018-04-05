@@ -78,9 +78,10 @@ Amazfit utworzyć kopię zapasową wszyst.danych przed aktual."</string>
     <string name="local_update_confirm_2_msg">"Sprawdź, czy wszystkie Dane użtkown.
 są skopiowane. Aktual.spowoduje usunięcie wszystkich 
 plików danych z zegarka, kontynuować?"</string>
+    <string name="OK">OK</string>
     <string name="yes">Tak</string>
     <string name="no">Nie</string>
-    <string name="enter">Wejdź</string>
+    <string name="enter">Ok</string>
     <string name="cancel">Anuluj</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
