@@ -55,6 +55,13 @@
     <string name="watchface">WatchFace</string>
     <string name="wifi_auto_upload_switch">Autom.przesył.</string>
     <string name="auto_bg">Auto.podświet.</string>
+	<string name="auto_hint_title">Konf.wyb.nadg.</string>
+    <string name="app_item_phone_anti_lost">Antyzg.tel.kom.</string>
+    <string name="app_item_anti_lost_remind">Przyp.przed zgub.</string>
+    <string name="app_item_far_away_remind">Zbyt daleko, by przyp.</string>
+    <string name="remind_aleary_open">Przyp. otwarte.</string>
+    <string name="phone_far_away_remind_to_you">Zegarek przyp.Ci, że jest daleko od tel.</string>
+    <string name="dialog_confire">Ok</string>
     <string name="paobu">Bieganie</string>
     <string name="jianzou">Spacer</string>
     <string name="yueye">Bieg w teren.</string>
@@ -66,6 +73,9 @@
     <string name="dengshan">Wspinaczka</string>
     <string name="tierensan">Triathlon</string>
     <string name="shineiqi">Rower tren.</string>
+    <string name="skiing">Narciarstwo</string>
+	<string name="tennis">Tenis</string>
+    <string name="soccer">Piłka nożna</string>
     <string name="yundongjilu">Rekord sportowy</string>
     <string name="celiangxinlv">Zmierzone tętno</string>
     <string name="shujuzhongxin">Centrum danych</string>
