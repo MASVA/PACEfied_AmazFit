@@ -442,11 +442,11 @@
   <string name="sport_run_train_title">Bežecký tréning</string>
   <string name="sport_tartget_tips">Cieľové TE: %1$s</string>
   <string name="sport_target_remind_desc_01">Doporučené cvičenie na základe vášho aktuálneho tréningu na zlepšenie vašej kondície.</string>
-  <string name="sport_te_desc_level_01">Toto cvičenie nemá žiadny kondičný prínos</string>
+  <string name="sport_te_desc_level_01">Toto cvičenie nemá žiadny vplyv na kondíciu</string>
   <string name="sport_te_desc_level_02">Nízky vplyv na kondíciu.</string>
-  <string name="sport_te_desc_level_03">Jednoduchý účinok cvičenia</string>
+  <string name="sport_te_desc_level_03">Ľahký účinok cvičenia</string>
   <string name="sport_te_desc_level_04">Mierny účinok cvičenia</string>
-  <string name="sport_te_desc_level_05">Vysoko zlepšujúca sa kondícia</string>
+  <string name="sport_te_desc_level_05">Zvyšujúci kondíciu</string>
   <string name="sport_te_desc_level_06">Preťaženie tela.</string>
   <string name="first_beat_remind_txt_01">Toto je dobré tempo。</string>
   <string name="first_beat_remind_txt_02">This is a good pace.more minutes to keep you fit。</string>
