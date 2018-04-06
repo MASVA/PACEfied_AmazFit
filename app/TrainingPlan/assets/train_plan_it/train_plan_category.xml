@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Principiante</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Adatto per le prime corse, dalla passeggiata al jogging. Questo allenamento ti aiuta passo passo per adattarti alla corsa.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adatto per le prime corse. Questo allenamento aiuta a migliorare i movimenti.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adatto per corridori avanzati. Questo allenamento aiuta a migliorare la forma fisica aerobica e la forza muscolare.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>Mezza Maratona</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adatto alle mezze maratone. Aiuta a migliorare la capacità di correre a lungo su tempo e distanza.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Maratona</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Adatto a tutte le gare. Aiuta a prevedere le prestazioni e a pianificare strategia e ritmo.</copyWrite>
+        </trainplan>
+</trainplans>
