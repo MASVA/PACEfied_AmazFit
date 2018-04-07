@@ -7,8 +7,8 @@
     <string name="crossing_end_sport">Prima interrompi la sessione</string>
     <string name="crossing_in_progress">Corsa trail...</string>
     <string name="crossing_max_step_freq_desc">Cadenza max</string>
-    <string name="crossing_climb_up">Dislivello +</string>
-    <string name="crossing_climb_down">Dislivello -</string>
+    <string name="crossing_climb_up">Ascesa</string>
+    <string name="crossing_climb_down">Discesa</string>
     <string name="crossing_vertical_speed">Velocità ascensione</string>
     <string name="crossing_individual_pen_dis">Distanza sul giro</string>
     <string name="crossing_individual_pen_cost_time">Tempo sul giro</string>
@@ -22,8 +22,8 @@
     <string name="crossing_history_detail_best_pace">Miglior ritmo</string>
     <string name="crossing_history_detail_ave_move_speed">Velocità media</string>
     <string name="crossing_history_detail_max_speed">Velocità max</string>
-    <string name="crossing_history_detail_climb_up">Dislivello +</string>
-    <string name="crossing_history_detail_climb_down">Dislivello -</string>
+    <string name="crossing_history_detail_climb_up">Ascesa</string>
+    <string name="crossing_history_detail_climb_down">Discesa</string>
     <string name="crossing_history_detail_absolute_altitude">Altitudine</string>
     <string name="crossing_history_detail_high_altitude">Altitudine max</string>
     <string name="crossing_history_detail_low_altitude">Altitudine min</string>
@@ -97,7 +97,7 @@
     <string name="outdoor_riding_progressing">In bicicletta</string>
     <string name="indoor_riding_progressing">Sulla cyclette</string>
     <string name="outdoor_climb_distance">Velocità/Distanza</string>
-    <string name="outdoor_climb_altitude">Dislivello +</string>
+    <string name="outdoor_climb_altitude">Ascesa</string>
     <string name="outdoor_max_cadence">Cadenza max</string>
     <string name="outdoor_ave_cadence">Cadenza media</string>
     <string name="outdoor_cadence">Cadenza</string>
@@ -128,7 +128,7 @@
     <string name="sport_widget_title_indoor_run">Tapis Roul.</string>
     <string name="sport_widget_title_record">Attività</string>
     <string name="sport_widget_title_achieve">Medaglie</string>
-    <string name="sport_widget_title_setting">Impostazioni</string>
+    <string name="sport_widget_title_setting">Impostaz.</string>
     <string name="sport_widget_title_music">Musica</string>
     <item type="string" name="widget_settings_item_high_light_scale_factor">0.5</item>
     <string name="sport_item_running_title">Corsa</string>
@@ -144,7 +144,7 @@
     <string name="sport_continue">Riprendi</string>
     <string name="sport_stop">Stop</string>
     <string name="sport_notification_view_detail">Apri sport</string>
-    <string name="sport_notification_stop">Termina allenamento</string>
+    <string name="sport_notification_stop">Arresta allenamento</string>
     <string name="sport_notification_title">Sport</string>
     <string name="sport_notification_content">%s km</string>
     <string name="title_activity_running">AttivitàCorsa</string>
@@ -165,8 +165,8 @@
     <string name="running_speed_unit">km/h</string>
     <string name="running_distance_unit">km</string>
     <string name="running_heartrate_unit">bpm</string>
-    <string name="running_stop_dialog_msg_reach_minimum_distance">Terminare?</string>
-    <string name="running_stop_dialog_msg_not_reach_minimum_distance">Distanza troppo breve da salvare. Termino lo stesso?</string>
+    <string name="running_stop_dialog_msg_reach_minimum_distance">Arrestare?</string>
+    <string name="running_stop_dialog_msg_not_reach_minimum_distance">Distanza troppo breve da salvare. Arrestare lo stesso?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
     <string name="running_stop_dialog_negative_text">Annulla</string>
     <string name="default_double_value">0.00</string>
@@ -282,8 +282,8 @@
     <string name="running_record">Record</string>
     <string name="running_setting">Impostazioni</string>
     <string name="title_activity_sport_medal_list">Dettagli medagliere Sport</string>
-    <string name="running_end_sport">"Prima termina l'allenamento"</string>
-    <string name="walking_end_sport">"Prima termina l'allenamento"</string>
+    <string name="running_end_sport">"Prima arresta l'allenamento"</string>
+    <string name="walking_end_sport">"Prima arresta l'allenamento"</string>
     <string name="running_in_progress">Correndo...</string>
     <string name="walking_in_progress">Camminando...</string>
     <string name="sport_in_progress_confirm">Conferma</string>
@@ -302,7 +302,7 @@
     <string name="lock_status_unlock_ing">Sblocco in corso...</string>
     <string name="lock_status_unlock_fail">Sblocco non riuscito</string>
     <string name="lock_status_unlock_success">Sblocco completato</string>
-    <string name="remind_info_stop_sport">"Prima interrompi l'allenamento"</string>
+    <string name="remind_info_stop_sport">"Prima arresta l'allenamento"</string>
     <string name="searching_gps_in_progress">Ricerca segnale GPS</string>
     <string name="remind_current_pace">Ritmo attuale</string>
     <string name="remind_current_heart">bpm</string>
@@ -330,10 +330,10 @@
     <string name="waling_steps">passi</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
-    <string name="setting_sport_remind_region">Intervallo Battito</string>
-    <string name="setting_sport_heart_region_remind">Avviso Battito</string>
+    <string name="setting_sport_remind_region">Intervallo battito</string>
+    <string name="setting_sport_heart_region_remind">Avviso battito</string>
     <string name="settings_item_title_safe_heartrate_safe_remind">Battito sicuro</string>
-    <string name="settings_item_title_safe_heartrate_region_remind">Avviso Battito</string>
+    <string name="settings_item_title_safe_heartrate_region_remind">Avviso battito</string>
     <string name="setting_sport_heart_region_fat_burning">Zona bruciagrassi</string>
     <string name="setting_sport_heart_region_aerobic">Zona aerobica</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Alta intensità</string>
@@ -350,11 +350,11 @@
     <string name="sogou_map_trail_alert">"L'orologio leggerà la mappa attraverso la rete telefonica, al fine di risparmiare traffico, puoi scaricare la mappa offline"</string>
     <string name="complete_training_project">Programma di allenamento completato</string>
     <string name="reminder_speed_unit">/h</string>
-    <string name="remind_target_distance_training_title_format">Corso%1sKm</string>
-    <string name="remind_target_time_training_title_format">Pedalato%1$dMin</string>
+    <string name="remind_target_distance_training_title_format">Corsi %1skm</string>
+    <string name="remind_target_time_training_title_format">Pedalati %1$dmin</string>
     <string name="complete_training_target_tips">Salvare la corsa nel programma di allenamento odierno?</string>
     <string name="complete_training_outdoor_riding_target_tips">Salvare la pedalata nel programma di allenamento odierno?</string>
-    <string name="not_complete_train_task">Allenamento incompleto. Sicuro di interrompere?</string>
+    <string name="not_complete_train_task">Allenamento incompleto. Sicuro di arrestare?</string>
     <string name="km_metric">km</string>
     <string name="metre_metric">metri</string>
     <string name="km_metric_pace_unit">/km</string>
@@ -393,8 +393,7 @@
     <string name="hint_cancelling">Annullo...</string>
     <string name="hint_success_exported_title">Esportazione completata.</string>
     <string name="hint_failed_exported_title">Esportazione fallita</string>
-    <string name="hint_where">"Il file gpx è stato salvato nella
- cartella '/sdcard/gpxdata/'.
+    <string name="hint_where">"Il file gpx è stato salvato nella cartella '/sdcard/gpxdata/'.
  Ora lo puoi copiare tramite USB."</string>
     <string name="hint_failed">Esportazione fallita, riprova.</string>
     <string name="average_text">Media</string>
