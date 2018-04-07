@@ -43,7 +43,7 @@
     <string name="elliptical_in_progress">Ellittica in avanzamento</string>
     <string name="experience_title">Inserire le info personali oppure i dati saranno imprecisi</string>
     <string name="sport_setting_gpx_route_selected">Traccia scelta</string>
-    <string name="sport_setting_gpx_route_selectd_remind">"La funzione sport all'aperto userà questa traccia per la navigazione. Se inutile, chiudi per uscire"</string>
+    <string name="sport_setting_gpx_route_selectd_remind">"Questa traccia sarà usata per la navigazione all'aperto. Vai indietro per annullare"</string>
     <string name="confirm">Ok</string>
     <string name="decision_yes">Sì</string>
     <string name="decision_no">No</string>
@@ -55,11 +55,11 @@
     <string name="cumulative_climb">Ascesa totale</string>
     <string name="sport_route_out_of">Fuori traccia</string>
     <string name="sport_back_to_route">Rientrato in traccia</string>
-    <string name="gpx_currnet_is_selected">Selezionato</string>
+    <string name="gpx_currnet_is_selected">Seleziona</string>
     <string name="gpx_select_closed">Chiudi</string>
     <string name="gpx_select_empty" />
-    <string name="gpx_details_view">Selezionato</string>
-    <string name="gpx_details_use">Utilizzato</string>
+    <string name="gpx_details_view">Seleziona</string>
+    <string name="gpx_details_use">Utilizza</string>
     <string name="gpx_route_loading">Attendi caricamento traccia</string>
     <string name="dialog_remind_to_look_route">Guarda traccia</string>
     <string name="gpx_offset_route">Fuori traiettoria</string>
