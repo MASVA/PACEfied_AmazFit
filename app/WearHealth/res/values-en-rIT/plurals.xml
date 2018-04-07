@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="weeklysports_frequency">
-        <item quantity="other">Volte</item>
-        <item quantity="one">Volta</item>
+        <item quantity="other">" volte"</item>
+        <item quantity="one">" volta"</item>
     </plurals>
     <plurals name="weeklysports_step">
-        <item quantity="other">Passi</item>
-        <item quantity="one">Passo</item>
+        <item quantity="other">" passi"</item>
+        <item quantity="one">" passo"</item>
     </plurals>
     <plurals name="floor_unit">
-        <item quantity="other">" Piani"</item>
-        <item quantity="one">" Piano"</item>
+        <item quantity="other">" piani"</item>
+        <item quantity="one">" piano"</item>
     </plurals>
 </resources>
