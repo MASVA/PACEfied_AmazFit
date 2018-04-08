@@ -8,12 +8,12 @@
     <string name="exit">Annulla</string>
     <string name="heart_rate_collection_on">On</string>
     <string name="heart_rate_collection_off">Off</string>
-    <string name="saving_data">Salvo i dati</string>
-    <string name="upload_data">Invio i dati</string>
+    <string name="saving_data">Salvo dati</string>
+    <string name="upload_data">Invia dati</string>
     <string name="upload_success">Invio completato</string>
     <string name="upload_failed">Invio fallito, riprova</string>
     <string name="air_mode_alert_title">Connessione fallita</string>
-    <string name="air_mode_alert_message">"Disattiva la modalità aereo e riprova"</string>
+    <string name="air_mode_alert_message">"Disattiva modo aereo e riprova"</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
