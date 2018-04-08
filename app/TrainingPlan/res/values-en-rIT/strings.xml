@@ -11,7 +11,7 @@
     <string name="train_detail">Dettagli</string>
     <string name="day_train_record_stag">%1$s Settimana %2$d Giorno %3$d</string>
     <string name="day_train_record_stag_simple">Settimana %1$d Giorno %2$d</string>
-    <string name="day_train_record_train_stage">%1$s Giorno</string>
+    <string name="day_train_record_train_stage">Giorno %1$s</string>
     <string name="remind_train_first_text">Allenarsi in modo scientifico migliora le tue prestazioni, iniziamo!</string>
     <string name="train_start">Inizia</string>
     <string name="hidtory_train_start_date">Inizio %1$s</string>
