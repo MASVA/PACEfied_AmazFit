@@ -47,7 +47,7 @@
     <string name="quick_settings_battery_charging_intervalDay_lessHour">Caricato %d giorni fa</string>
     <string name="quick_settings_battery_charging_intervalDayLess">Caricato %d ore fa</string>
     <string name="quick_settings_battery_charging_intervalLessHour">Caricato meno di 1 ora fa</string>
-    <string name="quick_settings_battery_sportString">Batteria residua in modo corsa</string>
+    <string name="quick_settings_battery_sportString">Batteria residua stimata in modalità corsa</string>
     <string name="quick_settings_battery_sporttime_hour_unit">ora</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
