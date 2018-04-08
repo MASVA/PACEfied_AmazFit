@@ -43,7 +43,7 @@
     <string name="this_train_record_finish">Programma già completato!</string>
     <string name="train_finish_reason">Causa non completamento</string>
     <string name="length_unit_km">km</string>
-    <string name="length_unit_miles">miglia</string>
+    <string name="length_unit_miles">mi</string>
     <string name="unit_yinli">miglio</string>
     <string name="unit_gongli">km</string>
     <string name="app_list_title">Allenamento</string>
