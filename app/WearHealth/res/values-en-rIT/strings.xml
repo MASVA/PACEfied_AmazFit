@@ -219,7 +219,7 @@
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
     <string name="currentstep_detail_activity">Attività</string>
     <string name="currentstep_detail_running">Corsa</string>
-    <string name="currentstep_detail_walking">Camminata</string>
+    <string name="currentstep_detail_walking">Cammin.</string>
     <string name="currentstep_detail_riding">Bici</string>
     <string name="currentstep_detail_swimming">Nuoto</string>
     <string name="currentstep_detail_triathlon">Triathlon</string>
