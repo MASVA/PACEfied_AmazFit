@@ -4,8 +4,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Freq. card. ND</string>
-    <string name="no_altitude_hint">Dati altitudine ND</string>
+    <string name="no_heartrate_data_hint">Battito non rilevato</string>
+    <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sport Music</string>
@@ -25,7 +25,10 @@
     <string name="about">Info</string>
     <string name="wear_habit">Polso</string>
     <string name="bugreport">Segnala Errore</string>
-    <string name="light_change">Luminosità</string>
+	<string name="applications">Apps</string>
+    <string name="long_sit">"Sedentarietà"</string>
+    <string name="datacenter">Giornaliero</string>
+    <string name="light_change">"Luminosità"</string>
     <string name="wrist_up">Ruota il polso</string>
     <string name="auto_nodisturb">Silenz. auto</string>
     <string name="double_click_wakeup">Sblocco 2 tap</string>
@@ -62,13 +65,19 @@
     <string name="license">Info legale</string>
     <string name="build_time">[DEBUG]Data build</string>
     <string name="build_desc">[DEBUG]Descrizione build</string>
-    <string name="legal">Verificare nell\'Amazfit</string>
+    <string name="legal">"Verificare nell'Amazfit"</string>
     <string name="legal2">Watch App</string>
     <string name="lab">Lab</string>
     <string name="opened">On</string>
     <string name="closed">Off</string>
     <string name="air_plane_mode_note">"Modo aereo
-Questa modalità disattiverà bluetooth, WiFi, Alipay e altre funzioni sull\'orologio. Per tornare ad utilizzare queste funzioni, disattivare il modo aereo da Impostazioni."</string>
+Questa modalità disattiverà bluetooth, WiFi, Alipay e altre funzioni sull'orologio. Per tornare ad utilizzare queste funzioni, disattivare il modo aereo da Impostazioni."</string>
+    <string name="settings_long_sit_reminder">Muoviti!</string>
+    <string name="settings_off">Off</string>
+    <string name="settings_on">On</string>
+    <string name="settings_step_target">Passi obtv</string>
+    <string name="settings_step_unit">passi</string>
+    <string name="settings_target_reach_reminder">Notifica obtv</string>
     <string name="nodisturb_open_string">On</string>
     <string name="nodisturb_close_string">Off</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -81,15 +90,15 @@ Questa modalità disattiverà bluetooth, WiFi, Alipay e altre funzioni sull\'oro
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Ricerca...</string>
     <string name="blt_bound_stat_bonded">Accoppiato</string>
-    <string name="blt_bound_stat_connected">Collegato</string>
-    <string name="blt_bound_stat_disconnect">Scolleg.</string>
+    <string name="blt_bound_stat_connected">Connesso</string>
+    <string name="blt_bound_stat_disconnect">Non connesso</string>
     <string name="blt_bound_stat_bonding">Accoppiamento...</string>
     <string name="blt_bound_stat_none">Disponibile</string>
     <string name="blt_default_name">Senza nome</string>
     <string name="blt_hint_disconnect">"%1s
-Scollegare?"</string>
+Disconnettere?"</string>
     <string name="blt_hint_connect">"%1s
-Collegare?"</string>
+Connettere?"</string>
     <string name="blt_hint_connect_fail">Connessione non riuscita, riprovare</string>
     <string name="blt_type_ear">Cuffie</string>
     <string name="blt_speaker">Audio</string>
@@ -100,22 +109,22 @@ Collegare?"</string>
     <string name="button_enter">OK</string>
     <string name="button_cancel">Annulla</string>
     <string name="blt_cancel_paring">Accoppiamento annullato</string>
-    <string name="bluetooth_pairing_error_message">"Non posso accoppiare con %1$s."</string>
+    <string name="bluetooth_pairing_error_message">Non posso accoppiare con %1$s.</string>
     <string name="bluetooth_connecting">Connessione...</string>
     <string name="bluetooth_disconnecting">Disconnessione...</string>
     <string name="blt_hint_paring">"%1s
  accoppiare?"</string>
     <string name="blt_paring_fail_hint">"Assicurarsi che il dispositivo
 sia acceso e nelle vicinanze"</string>
-    <string name="blt_hint_disconnect_device">Scollega</string>
+    <string name="blt_hint_disconnect_device">Disconnetti</string>
     <string name="blt_hint_ignore_device">Ignora</string>
-    <string name="blt_hint_connect_device">Collega</string>
-    <string name="bluetooth_connected">Collegato</string>
-    <string name="bluetooth_disconnected">Scollegato</string>
-    <string name="bluetooth_connecting_error_message">"Non posso collegarmi a %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Non posso accoppiare con %1$s: PIN errato"</string>
-    <string name="bluetooth_pairing_device_down_error_message">"Non posso comunicare con %1$s."</string>
-    <string name="bluetooth_pairing_rejected_error_message">Accopiamento rifiutato da %1$s.</string>
+    <string name="blt_hint_connect_device">Connetti</string>
+    <string name="bluetooth_connected">Connesso</string>
+    <string name="bluetooth_disconnected">Disconnesso</string>
+    <string name="bluetooth_connecting_error_message">Non posso connettermi a %1$s.</string>
+    <string name="bluetooth_pairing_pin_error_message">Non posso accoppiare con %1$s: PIN errato</string>
+    <string name="bluetooth_pairing_device_down_error_message">Non posso comunicare con %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Accoppiamento rifiutato da %1$s.</string>
     <string name="bluetooth_turning_on">Attivo Bluetooth…</string>
     <string name="bluetooth_turning_off">Disattivo Bluetooth…</string>
     <string name="bluetooth_enabled">Bluetooth attivato</string>
@@ -124,7 +133,7 @@ sia acceso e nelle vicinanze"</string>
     <string name="blt_confirm_ignore">Sicuro di voler ignorare questo dispositivo?</string>
     <string name="phone_finding">Cerco il telefono...</string>
     <string name="phone_found">Telefono trovato</string>
-    <string name="phone_not_connected">Telefono non collegato</string>
+    <string name="phone_not_connected">Telefono non connesso</string>
     <string name="phone_not_found">Telefono non trovato</string>
     <string name="start_testing">Avvio</string>
     <string name="lab_wifi_test_tip_retry">Riprova!!</string>
@@ -177,18 +186,24 @@ kg"</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Contiene strumenti utili per il debug</string>
     <string name="unknown">Dispositivo sconosciuto</string>
-    <string name="bind_tips_title">Prego accoppiare
-per proteggere i tuoi dati</string>
+    <string name="bind_tips_title">Prego accoppiare per proteggere i tuoi dati</string>
     <string name="upgrade_checking">Cerco aggiornamento...</string>
     <string name="left_hand">Sinistro</string>
     <string name="right_hand">Destro</string>
-<!--START of missed texts by Huami-->
+    <string name="dialog_confire">Conferma</string>
+    <string name="auto_hint_title">Schermo luminoso a tempo</string>
+    <string name="long_key_action">Tenere premuto per aprire</string>
     <string name="widget_currentstep_title">Centro dati</string>
     <string name="widget_currentstep_activities">Passi oggi</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Dormito la scorsa notte</string>
-    <string name="widget_currentstep_sleep_no">Nesuun dato sonno</string>
+    <string name="widget_currentstep_sleep_no">Nessun dato sonno</string>
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
-<!--END of missed texts by Huami-->
+    <string name="setting_item_application">Attiva</string>
+    <string name="app_item_phone_anti_lost">Disconnessione</string>
+    <string name="app_item_anti_lost_remind">Avvisi</string>
+    <string name="app_item_far_away_remind">Troppo lontano</string>
+    <string name="remind_aleary_open">Attiva avviso</string>
+    <string name="phone_far_away_remind_to_you">Verrai avvisato se disconnesso</string>
 </resources>

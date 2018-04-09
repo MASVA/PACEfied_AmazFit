@@ -4,7 +4,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Freq. card. non rilevata</string>
+    <string name="no_heartrate_data_hint">Battito non rilevato</string>
     <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
@@ -23,16 +23,15 @@
     <string name="cannot_acess_server">Server non disponibile</string>
     <string name="cannot_upload_user">Impossibile aggiornare i dati</string>
     <string name="please_upload_assist_version">Aggiorna la versione di assistenza</string>
-    <string name="did_not_connect_assist">Collega all\'app Amazfit per aggiornare le info di autenticazione ed accedere al server.</string>
+    <string name="did_not_connect_assist">"Collega all'app Amazfit per aggiornare le info di autenticazione ed accedere al server."</string>
     <string name="upload_failed_full">Il caricamento non può essere completato, arrestare?</string>
     <string name="percent_sign">%</string>
-    <string name="please_keep_wifi_connected">"Mantieni la connessione WiFi"</string>
+    <string name="please_keep_wifi_connected">Mantieni la connessione WiFi</string>
     <string name="init_wifi">Connesso al WiFi</string>
     <string name="init_user">Controllo utente</string>
     <string name="init_app">App connessa</string>
     <string name="init_update_user">Aggiorna utente</string>
     <string name="zero">0</string>
-<!--START of missed texts by Huami-->
     <string name="widget_currentstep_title">Centro dati</string>
     <string name="widget_currentstep_activities">Passi odierni</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -40,5 +39,4 @@
     <string name="widget_currentstep_sleep_title">Sonno la scorsa notte</string>
     <string name="widget_currentstep_sleep_no">Dati sonno non disponibili</string>
     <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
-<!--END of missed texts by Huami-->
 </resources>

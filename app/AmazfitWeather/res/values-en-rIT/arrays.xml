@@ -14,8 +14,8 @@
         <item>Oggi</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Aria Eccellente</item>
-        <item>Aria Buona</item>
+        <item>Aria eccellente</item>
+        <item>Aria buona</item>
         <item>Inquinamento lieve</item>
         <item>Inquinamento moderato</item>
         <item>Inquinamento elevato</item>
@@ -23,8 +23,8 @@
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Adatto per lo sport</item>
-        <item>Non adatto per lo sport</item>
+        <item>OK per lo sport</item>
+        <item>KO per lo sport</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
@@ -34,7 +34,7 @@
         <item>Nebbia</item>
         <item>Smog</item>
         <item>Scrosci</item>
-        <item>Scrosci temporaleschi</item>
+        <item>Scrosci temporal.</item>
         <item>Pioggia leggera</item>
         <item>Pioggia</item>
         <item>Acquazzone</item>
@@ -50,8 +50,8 @@
         <item>Nevicata</item>
         <item>Polvere</item>
         <item>Leggera sabbia</item>
-        <item>Tempesta di sabbia</item>
-        <item>Forte tempesta di sabbia</item>
+        <item>Tempesta sabbia</item>
+        <item>Forte temp. sabbia</item>
         <item>Nessun dato</item>
     </string-array>
 </resources>
