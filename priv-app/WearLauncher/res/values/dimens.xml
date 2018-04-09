@@ -72,7 +72,7 @@
     <dimen name="notification_music_play_size">42.599976dip</dimen>
     <dimen name="notification_music_change_music_size">22.599976dip</dimen>
     <dimen name="notification_music_change_sound_size">25.299988dip</dimen>
-    <dimen name="notification_music_displayer_height">36.0dip</dimen>
+    <dimen name="notification_music_displayer_height">38.0dip</dimen>
     <dimen name="notification_music_controller_height">82.0dip</dimen>
     <dimen name="notification_music_controller_weight">160.0dip</dimen>
     <dimen name="dismiss_padding">16.0dip</dimen>
