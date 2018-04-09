@@ -75,7 +75,7 @@
     <string name="settings_off">Vypnout</string>
     <string name="settings_on">Zapnout</string>
     <string name="settings_step_target">Cíl kroků</string>
-    <string name="settings_step_unit">Krok</string>
+    <string name="settings_step_unit">Kroků</string>
     <string name="settings_target_reach_reminder">Upoz. na Cíl</string>
     <string name="no_sleep_info">Spánek nezjišten</string>
     <string name="today_sleep_info">Spánek</string>
@@ -131,20 +131,24 @@
     <string name="stretch_dialog_subtitle">Příliš dlouhý pro dnešek</string>
     <string name="stretch_dialog_content">Přiměřené činnosti můžou pomoci zmírnit sedavou ztuhlost zad, sleduj video, dělej několik sad protažení v kanceláři!</string>
     <string name="stretch_dialog_cancel">Zrušit</string>
-    <string name="stretch_dialog_start">Spustit video</string>
-    <string name="stretch_dialog_button">Zahájit stretching</string>
-    <string name="stretch_connection_failed_title">Nemůžu se připojit k telefonu.</string>
-    <string name="stretch_connection_failed_content">Prosím, otevři telefonní spojení Bluetooth, nechej aplikaci otevřenou a zkus to znovu.</string>
+    <string name="stretch_dialog_start">Start</string>
+    <string name="stretch_dialog_button">"Začněte strečové cvičení se mnou
+"</string>
+    <string name="stretch_connection_failed_title">"Nemůžu se připojit k telefonu
+"</string>
+    <string name="stretch_connection_failed_content">"Prosím, otevři telefonní spojení Bluetooth, nechej aplikaci otevřenou a zkus to znovu
+"</string>
     <string name="stretch_connection_failed_button">Opakuj</string>
-    <string name="open_xiaomi_app_failed_title">Otevření MiFit se nezdařilo</string>
+    <string name="open_xiaomi_app_failed_title">"Otevření MiFit se nezdařilo
+"</string>
     <string name="open_xiaom_app_failed_content">Prosím, opakuj instalaci MiFit.</string>
     <string name="stretch_notification_subtitle">Sedíte příliš dlouho</string>
     <string name="stretch_notification_content">Rozumné aktivity mohou odstranit sedavé zatuhnutí zad</string>
-    <string name="heart_name">Srdce</string>
+    <string name="heart_name">Tep</string>
     <string name="step_name">Krok</string>
     <string name="sleep_name">Spánek</string>
     <string name="floor_description">"Poznámka: \"Jedno poschodí\" jsou asi 3 metry "</string>
-    <string name="climbed_floors">Nastoupáno .</string>
+    <string name="climbed_floors">Nastoupáno</string>
     <string name="widget_label_step">Dnes</string>
     <string name="widget_heart_analysis">Prozkoumat</string>
     <string name="widget_step_target_txt">Cíl:  <liff>%d</liff></string>
@@ -258,7 +262,8 @@
     <string name="widget_weeklyreports_heart_rate_title">Tepová frek.</string>
     <string name="widget_weeklyreports_average_title">Průměr</string>
     <string name="widget_weeklyreports_totalcalory_front">Celkem kalorií</string>
-    <string name="widget_weeklyreports_totalcalory_title">Spáleno</string>
+    <string name="widget_weeklyreports_totalcalory_title">"Kalorií
+"</string>
     <string name="widget_weeklyreports_sports_title">Pohyb</string>
     <string name="widget_weeklyreports_reports_title">Týdenní</string>
     <string name="widget_weeklyreports_reports_review">Vyb.týden</string>
@@ -272,17 +277,18 @@
     <string name="widget_sleep_attained_unit">Skóre</string>
     <string name="currentstep_detail_heart">Srdeční tep</string>
     <string name="currentstep_detail_activity_chart">Profil pohybu</string>
-    <string name="currentstep_detail_activity_chart_unit">(Jednotka: hodiny)</string>
+    <string name="currentstep_detail_activity_chart_unit">(Jednotka: hodina)</string>
     <string name="date_format">dd.MM.</string>
     <string name="widget_weeklyreports_nodata">Nejsou data za poslední týden</string>
+    <string name="app_list_title">Pohyb</string>
     <string name="currentstep_detail_activities">Aktivní rozložení času (minuty)</string>
     <string name="currentstep_detail_activities_title">Legenda distribuce aktivity</string>
+    <string name="currentstep_detail_activities_others">Ostatní</string>
     <string name="average_text">Průměr</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrď</string>
     <string name="picker_default_nagetive_text">Vypnout</string>
-    <string name="no_heartrate_data_hint">Údaje o tepové frekvence nebyly detekovány</string>
-    <string name="app_list_title">Pohyb</string>
+    <string name="no_heartrate_data_hint">Tepová frekvence nedostupná</string>
     <string name="no_altitude_hint">Údaje a výšce nebyly zjištěny</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavení</string>

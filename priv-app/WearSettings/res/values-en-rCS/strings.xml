@@ -9,13 +9,6 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Nastavení</string>
     <string name="sport_music_settings">Sportovní hudba</string>
-    <string name="widget_currentstep_title">Centrum dat</string>
-    <string name="widget_currentstep_activities">Kroky dnes</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
-    <string name="widget_currentstep_sleep_no">Nejsou data o spánku</string>
-    <string name="widget_currentstep_activity_no">Dnes bez cvičení?</string>
     <string name="double_click_wakeup_open">Zapnuto</string>
     <string name="double_click_wakeup_close">Vypnuto</string>
     <string name="dlg_confirm">Potvrdit</string>
@@ -30,10 +23,13 @@
     <string name="reset_factory">Tovární nastavení</string>
     <string name="shut_down">Vypnout</string>
     <string name="about">O hodinkách</string>
-    <string name="wear_habit">Zvyk nošení</string>
+    <string name="wear_habit">Hodinky na</string>
     <string name="bugreport">Nahlásit chybu</string>
+    <string name="applications">Aplikace</string>
+    <string name="long_sit">Projděte se</string>
+    <string name="datacenter">Denní přehled</string>
     <string name="light_change">Podsvětlení</string>
-    <string name="wrist_up">Zap.otoč.ruky</string>
+    <string name="wrist_up">Probuď otočením</string>
     <string name="auto_nodisturb">Nerušit-nastav.</string>
     <string name="double_click_wakeup">Probuz.dotykem</string>
     <string name="vibration_intensity">Vibrace</string>
@@ -52,11 +48,12 @@
     <string name="wifi_upload">Uložit->Wifi</string>
     <string name="replace_watchface">Jiný ciferník</string>
     <string name="wifi_auto_upload_switch">Auto.nahr.WiFi</string>
+    <string name="auto_bg">Auto.podsvíc.</string>
     <string name="nothing">Prázdné</string>
     <string name="about_title">Info</string>
     <string name="model">Model</string>
     <string name="dev_name">Název</string>
-    <string name="dev_desc">Amazfit Sports Watch</string>
+    <string name="dev_desc">Sportovní hodinky Amazfit</string>
     <string name="ard_version">Verze Androidu</string>
     <string name="rom_version">Verze ROM</string>
     <string name="rom_hint_dev">ROM (Dev Edition)</string>
@@ -76,6 +73,12 @@
     <string name="closed">Vypnuto</string>
     <string name="air_plane_mode_note">"Režim Letadlo 
 Režim Letadlo vypne Bluetooth a Wi-Fi připojení k internetu, aby se šetřila energie. Pokud potřebujete používat funkce, které vyžadují BT / WiFi, vypněte režim Letadlo v Nastavení systému."</string>
+    <string name="settings_long_sit_reminder">Výstraha nečinnosti</string>
+    <string name="settings_off">Vypnuto</string>
+    <string name="settings_on">Zapnuto</string>
+    <string name="settings_step_target">Cíl kroků</string>
+    <string name="settings_step_unit">Kroků</string>
+    <string name="settings_target_reach_reminder">Upoz. na Cíl</string>
     <string name="nodisturb_open_string">Zapnuto</string>
     <string name="nodisturb_close_string">Vypnuto</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -186,6 +189,25 @@ kg"</string>
     <string name="unknown">Neznámé zařízení</string>
     <string name="bind_tips_title">Please bind n to protect your data more securely</string>
     <string name="upgrade_checking">Vyhledávám Aktualizace..</string>
-    <string name="left_hand">Na levé</string>
-    <string name="right_hand">Na pravé</string>
+    <string name="left_hand">Levé ruce</string>
+    <string name="right_hand">Pravé ruce</string>
+<!--START of missed texts by Huami-->
+    <string name="setting_item_application">Aplikace</string>
+    <string name="app_item_phone_anti_lost">Ochrana proti ztrátě mobilního telefonu</string>
+    <string name="app_item_anti_lost_remind">Upozornění ochrany proti ztrátě</string>
+    <string name="app_item_far_away_remind">Pozor, telefon je příliš daleko</string>
+    <string name="remind_aleary_open">Upozornění je již zapnuté</string>
+    <string name="phone_far_away_remind_to_you">Hodinky Vás upozorní, když je telefon příliš daleko.</string>
+    <string name="dialog_confire">Potvrdit</string>
+    <string name="sport_music_settings">Sportovní hudba</string>
+    <string name="widget_currentstep_title">Centrum dat</string>
+    <string name="widget_currentstep_activities">Kroky dnes</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
+    <string name="widget_currentstep_sleep_no">Nejsou data o spánku</string>
+    <string name="widget_currentstep_activity_no">Dnes bez cvičení?</string>
+    <string name="auto_hint_title">Časovač auto.podsv.obrazovky</string>
+    <string name="long_key_action">Podržte pro otevření</string>
+<!--END of missed texts by Huami-->
 </resources>
