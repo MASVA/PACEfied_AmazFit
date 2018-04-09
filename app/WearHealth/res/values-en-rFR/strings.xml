@@ -249,7 +249,7 @@
     <string name="currentstep_detail_swim_rate_unit_zh">/hm</string>
     <string name="currentstep_detail_swim_rate_unit_en">/m</string>
     <string name="currentstep_distance">Distance</string>
-    <string name="currentstep_time">用时</string>
+    <string name="currentstep_time">Temps</string>
     <string name="currentstep_history_title">Historique</string>
     <string name="step_value">%1$s / %2$s</string>
     <string name="detail_date">%1$s activité</string>
@@ -277,7 +277,8 @@
 	<string name="widget_weeklyreports_nodata">Pas de données</string>
     <string name="app_list_title">Activité</string>
 	<string name="currentstep_detail_activities">Détail de la journée</string>
-    <string name="currentstep_detail_activities_title">Description:</string>
+    <string name="currentstep_detail_activities_title">Description</string>
+	<string name="currentstep_detail_activities_others">Autre</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmer</string>
