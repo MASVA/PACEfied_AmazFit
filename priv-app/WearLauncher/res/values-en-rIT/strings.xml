@@ -29,13 +29,13 @@
     <string name="quick_settings_switch_off">Off</string>
     <string name="quick_settings_toast_on">Abilitato</string>
     <string name="quick_settings_toast_off">Disabilitato</string>
-    <string name="quick_settings_status">Scollegato</string>
+    <string name="quick_settings_status">Disconnesso</string>
     <string name="quick_settings_no_disturb_toast">Le notifiche non verranno mostrate</string>
     <string name="quick_settings_auto_light_toast">"Il consumo di energia aumenta alla massima luminosità"</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
-    <string name="quick_settings_connected">Collegato</string>
-    <string name="quick_settings_disconnect">Scollegato</string>
+    <string name="quick_settings_connected">Connesso</string>
+    <string name="quick_settings_disconnect">Disconnesso</string>
     <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">31/1/1900</string>
     <string name="quick_settings_date_yeareve">Vigilia di Capodanno</string>
@@ -68,8 +68,8 @@
     <string name="header_incomming_call_service_hotline">Servizio assistenza</string>
     <string name="header_incomming_call_localcall">Chiamata locale</string>
     <string name="header_incomming_call_unknowncall">Chiamata sconosciuta</string>
-    <string name="wathc_disconnection_title">Collegamento</string>
-    <string name="wathc_disconnection_content">Scollegato dal telefono</string>
+    <string name="wathc_disconnection_title">Disconnesso</string>
+    <string name="wathc_disconnection_content">Disconnesso dal telefono</string>
     <string name="notification_block">Blocco notifiche</string>
     <string name="notification_block_cancel">Annulla blocco notifiche</string>
     <string name="notification_block_ok">Ok</string>
