@@ -91,7 +91,7 @@
   <string name="heartlung">Kardio tréning</string>
   <string name="strength">Anaeróbny</string>
   <string name="anaerobic">Maximálny</string>
-  <string name="enter_sport_lock_status">Entering data screens</string>
+  <string name="enter_sport_lock_status">Dátové obrazovky</string>
   <string name="press_any_key_wakeup">Stlač.tlačidlo</string>
   <string name="meter">m</string>
   <string name="kilometre">Km</string>
@@ -150,7 +150,7 @@
   <string name="average_text">Priemer</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Potvrď</string>
-  <string name="picker_default_nagetive_text">Off</string>
+  <string name="picker_default_nagetive_text">Vypnúť</string>
   <string name="no_heartrate_data_hint">Dáta tepu nedetekované</string>
   <string name="no_altitude_hint">Výška nedetekovaná</string>
   <string name="ui_lib_name">Hm_UILib</string>
