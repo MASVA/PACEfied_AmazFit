@@ -286,6 +286,13 @@
     <public type="string" name="ui_lib_name" id="0x7f080006" />
     <public type="string" name="title_settings" id="0x7f080007" />
     <public type="string" name="sport_music_settings" id="0x7f080008" />
+    <public type="string" name="widget_currentstep_title" id="0x7f080009" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f08000a" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f08000b" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f08000c" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f08000d" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f08000e" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f08000f" />
     <public type="string" name="app_name" id="0x7f080010" />
     <public type="string" name="notice_text_success_top" id="0x7f080011" />
     <public type="string" name="notice_text_success_bottom" id="0x7f080012" />
@@ -311,13 +318,8 @@
     <public type="string" name="zero" id="0x7f080026" />
     <public type="string" name="yes" id="0x7f080027" />
     <public type="string" name="no" id="0x7f080028" />
-    <public type="string" name="widget_currentstep_title" id="0x7f080009" />
-    <public type="string" name="widget_currentstep_activities" id="0x7f08000a" />
-    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f08000b" />
-    <public type="string" name="widget_currentstep_sleep_min" id="0x7f08000c" />
-    <public type="string" name="widget_currentstep_sleep_title" id="0x7f08000d" />
-    <public type="string" name="widget_currentstep_sleep_no" id="0x7f08000e" />
-    <public type="string" name="widget_currentstep_activity_no" id="0x7f08000f" />
+    <public type="string" name="APKTOOL_DUMMY_29" id="0x7f080029" />
+    <public type="string" name="APKTOOL_DUMMY_2a" id="0x7f08002a" />
     <public type="style" name="PromptDialog" id="0x7f090000" />
     <public type="style" name="HMProgressBar" id="0x7f090001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f090002" />
