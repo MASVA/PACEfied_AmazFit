@@ -7,6 +7,13 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
     <string name="music_name">豆瓣FM</string>
     <string name="music_download_in_progress">歌曲下载中</string>
     <string name="music_no_wifi_title">无法下载</string>
@@ -58,11 +65,4 @@
     <string name="label_play">Play</string>
     <string name="label_previous">Previous</string>
     <string name="label_next">Next</string>
-    <string name="widget_currentstep_title">数据中心</string>
-    <string name="widget_currentstep_activities">今日运动</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
-    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
-    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
 </resources>

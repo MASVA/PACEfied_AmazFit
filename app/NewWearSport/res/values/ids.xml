@@ -391,6 +391,7 @@
     <item type="id" name="six_item">false</item>
     <item type="id" name="sport_info_container">false</item>
     <item type="id" name="pause_continue_img">false</item>
+    <item type="id" name="huanghe_pause_bg">false</item>
     <item type="id" name="waiting_stop_container">false</item>
     <item type="id" name="loading_red_dot">false</item>
     <item type="id" name="result_tips">false</item>
