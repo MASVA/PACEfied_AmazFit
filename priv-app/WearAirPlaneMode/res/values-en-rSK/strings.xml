@@ -12,12 +12,11 @@
   <string name="opened">Zapnuté</string>
   <string name="closed">Vypnuté</string>
   <string name="connect_failed">Neúspech</string>
-  <string name="air_plane_mode_note">Pripojenie zlyhalo,
- vypnite mód Lietadlo a skúste znovu</string>
+  <string name="air_plane_mode_note_everest">Prosím vypnite mód lietadlo a skúste to znovu.</string>
+  <string name="air_plane_mode_note">Pripojenie zlyhalo, vypnite mód Lietadlo a skúste znovu</string>
   <string name="yes">Áno</string>
   <string name="app_name">WearAirPlaneModeDialog</string>
   <string name="action_settings">Nastavenia</string>
-  <string name="air_plane_mode_note_everest">Prosím vypnite mód lietadlo a skúste to znovu.</string>
   <string name="widget_currentstep_title">Dátové centrum</string>
   <string name="widget_currentstep_activities">Krokov dnes</string>
   <string name="widget_currentstep_sleep_hour">h</string>

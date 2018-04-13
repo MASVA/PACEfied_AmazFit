@@ -3,7 +3,7 @@
     <effect id="0">
         <te>15</te>
         <time>1200</time> <!--s-->
-        <desc>Ľahké spal. tukov</desc>
+        <desc>Ľahké spaľ. tukov</desc>
     </effect>
 
     <effect id="1">
@@ -15,7 +15,7 @@
     <effect id="2">
         <te>25</te>
         <time>3600</time> <!--s-->
-        <desc>Mierne spal. tukov</desc>
+        <desc>Mierne spaľ. tukov</desc>
     </effect>
 
     <effect id="3">
