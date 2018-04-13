@@ -248,6 +248,13 @@
     <public type="string" name="ui_lib_name" id="0x7f060007" />
     <public type="string" name="title_settings" id="0x7f060008" />
     <public type="string" name="sport_music_settings" id="0x7f060009" />
+    <public type="string" name="widget_currentstep_title" id="0x7f06000a" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f06000b" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f06000c" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f06000d" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f06000e" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f06000f" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f060010" />
     <public type="string" name="mihome_widget_title" id="0x7f060011" />
     <public type="string" name="mihome_widget_info_unbind" id="0x7f060012" />
     <public type="string" name="mihome_widget_info_no_devices" id="0x7f060013" />
@@ -256,13 +263,6 @@
     <public type="string" name="mihome_activity_btn_disconnected" id="0x7f060016" />
     <public type="string" name="mihome_device_card_2_offline" id="0x7f060017" />
     <public type="string" name="dialog_yes" id="0x7f060018" />
-    <public type="string" name="widget_currentstep_title" id="0x7f06000a" />
-    <public type="string" name="widget_currentstep_activities" id="0x7f06000b" />
-    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f06000c" />
-    <public type="string" name="widget_currentstep_sleep_min" id="0x7f06000d" />
-    <public type="string" name="widget_currentstep_sleep_title" id="0x7f06000e" />
-    <public type="string" name="widget_currentstep_sleep_no" id="0x7f06000f" />
-    <public type="string" name="widget_currentstep_activity_no" id="0x7f060010" />
     <public type="dimen" name="item_touch_helper_max_drag_scroll_per_frame" id="0x7f070000" />
     <public type="dimen" name="bench_xaxis_text_size" id="0x7f070001" />
     <public type="dimen" name="xaxis_offset" id="0x7f070002" />

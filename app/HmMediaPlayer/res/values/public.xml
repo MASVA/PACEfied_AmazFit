@@ -714,7 +714,6 @@
     <public type="string" name="ui_lib_name" id="0x7f0b0052" />
     <public type="string" name="title_settings" id="0x7f0b0053" />
     <public type="string" name="sport_music_settings" id="0x7f0b0054" />
-    <public type="string" name="locale_title" id="0x7f0b005c" />
     <public type="string" name="widget_currentstep_title" id="0x7f0b0055" />
     <public type="string" name="widget_currentstep_activities" id="0x7f0b0056" />
     <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0b0057" />
@@ -722,5 +721,6 @@
     <public type="string" name="widget_currentstep_sleep_title" id="0x7f0b0059" />
     <public type="string" name="widget_currentstep_sleep_no" id="0x7f0b005a" />
     <public type="string" name="widget_currentstep_activity_no" id="0x7f0b005b" />
+    <public type="string" name="locale_title" id="0x7f0b005c" />
     <public type="array" name="spring_depend" id="0x7f0c0000" />
 </resources>

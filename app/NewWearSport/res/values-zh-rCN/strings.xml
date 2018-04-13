@@ -408,6 +408,7 @@
     <string name="tennic_wear_hand_guide">"请确保手表佩戴在 
 持拍手一侧的手腕上"</string>
     <string name="select_compound_sport">选择第%1$s项运动</string>
+    <string name="history_walk_exchange_title">游泳换项用时</string>
     <string name="experience_title">请先设置个人信息否则数据会有较大偏差</string>
     <string name="recovery_time_hour">小时</string>
     <string name="sport_vo2_max">VO2max</string>

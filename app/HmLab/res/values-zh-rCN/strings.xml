@@ -26,10 +26,6 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
-    <string name="hbeacon_on">已启用</string>
-    <string name="hbeacon_off">未启用</string>
-    <string name="hbeacon_on_confirm_message">点击确认启用HBeacon功能将略微降低手表续航时长，手表自动重启后您的手机可能需要重新配对手表。</string>
-    <string name="hbeacon_off_confirm_message">点击确认将关闭Hbeacon功能，手表自动重启后您的手机可能需要重新配对手表。</string>
     <string name="widget_currentstep_title">数据中心</string>
     <string name="widget_currentstep_activities">今日运动</string>
     <string name="widget_currentstep_sleep_hour">h</string>
@@ -37,4 +33,8 @@
     <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
     <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
     <string name="widget_currentstep_activity_no">今日不运动吗?</string>
+    <string name="hbeacon_on">已启用</string>
+    <string name="hbeacon_off">未启用</string>
+    <string name="hbeacon_on_confirm_message">点击确认启用HBeacon功能将略微降低手表续航时长，手表自动重启后您的手机可能需要重新配对手表。</string>
+    <string name="hbeacon_off_confirm_message">点击确认将关闭Hbeacon功能，手表自动重启后您的手机可能需要重新配对手表。</string>
 </resources>

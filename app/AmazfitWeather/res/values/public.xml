@@ -440,7 +440,6 @@
     <public type="string" name="ui_lib_name" id="0x7f0a004a" />
     <public type="string" name="title_settings" id="0x7f0a004b" />
     <public type="string" name="sport_music_settings" id="0x7f0a004c" />
-    <public type="string" name="detailed" id="0x7f0a0043" />
     <public type="string" name="widget_currentstep_title" id="0x7f0a004d" />
     <public type="string" name="widget_currentstep_activities" id="0x7f0a004e" />
     <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0a004f" />
@@ -448,6 +447,7 @@
     <public type="string" name="widget_currentstep_sleep_title" id="0x7f0a0051" />
     <public type="string" name="widget_currentstep_sleep_no" id="0x7f0a0052" />
     <public type="string" name="widget_currentstep_activity_no" id="0x7f0a0053" />
+    <public type="string" name="detailed" id="0x7f0a0043" />
     <public type="style" name="AppTheme" id="0x7f0b0000" />
     <public type="style" name="AppTheme.NoAnimation" id="0x7f0b0001" />
     <public type="style" name="Animation.NoAnimation" id="0x7f0b0002" />
