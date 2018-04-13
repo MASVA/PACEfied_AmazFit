@@ -720,6 +720,13 @@
     <public type="string" name="ui_lib_name" id="0x7f0b0006" />
     <public type="string" name="title_settings" id="0x7f0b0007" />
     <public type="string" name="sport_music_settings" id="0x7f0b0008" />
+    <public type="string" name="widget_currentstep_title" id="0x7f0b0009" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f0b000a" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0b000b" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f0b000c" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f0b000d" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f0b000e" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f0b000f" />
     <public type="string" name="settings_item_high_light_scale_factor" id="0x7f0b0010" />
     <public type="string" name="locale_title" id="0x7f0b0011" />
     <public type="string" name="music_name" id="0x7f0b0012" />
@@ -818,12 +825,5 @@
     <public type="string" name="label_play" id="0x7f0b006f" />
     <public type="string" name="label_previous" id="0x7f0b0070" />
     <public type="string" name="label_next" id="0x7f0b0071" />
-    <public type="string" name="widget_currentstep_title" id="0x7f0b0009" />
-    <public type="string" name="widget_currentstep_activities" id="0x7f0b000a" />
-    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f0b000b" />
-    <public type="string" name="widget_currentstep_sleep_min" id="0x7f0b000c" />
-    <public type="string" name="widget_currentstep_sleep_title" id="0x7f0b000d" />
-    <public type="string" name="widget_currentstep_sleep_no" id="0x7f0b000e" />
-    <public type="string" name="widget_currentstep_activity_no" id="0x7f0b000f" />
     <public type="array" name="spring_depend" id="0x7f0c0000" />
 </resources>

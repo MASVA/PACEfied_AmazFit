@@ -9,6 +9,13 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Settings</string>
     <string name="sport_music_settings">Sports music</string>
+    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_activities">Activities</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="double_click_wakeup_open">On</string>
     <string name="double_click_wakeup_close">Off</string>
     <string name="dlg_confirm">Confirm</string>
@@ -73,6 +80,7 @@
     <string name="tuoyuanji">Elliptical Trainer</string>
     <string name="dengshan">Climb</string>
     <string name="tierensan">Triathlon</string>
+    <string name="multisport">Multisport</string>
     <string name="shineiqi">Indoor Cycling</string>
     <string name="skiing">Skiing</string>
     <string name="tennis">Tennis</string>

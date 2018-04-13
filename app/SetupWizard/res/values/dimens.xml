@@ -3,6 +3,7 @@
     <dimen name="hmdialog_text_size">11.0sp</dimen>
     <dimen name="hmdialog_text_lineSpacingExtra">6.0dip</dimen>
     <dimen name="hmdiloag_text_padding">32.0dip</dimen>
+    <dimen name="settings_item_layout_drawing_top">-70.0dip</dimen>
     <dimen name="settings_icon_rx">12.699982dip</dimen>
     <dimen name="settings_label_rx">89.399994dip</dimen>
     <dimen name="header_txt_size">21.299988sp</dimen>

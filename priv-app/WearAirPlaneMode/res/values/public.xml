@@ -265,6 +265,13 @@
     <public type="string" name="ui_lib_name" id="0x7f070006" />
     <public type="string" name="title_settings" id="0x7f070007" />
     <public type="string" name="sport_music_settings" id="0x7f070008" />
+    <public type="string" name="widget_currentstep_title" id="0x7f070009" />
+    <public type="string" name="widget_currentstep_activities" id="0x7f07000a" />
+    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f07000b" />
+    <public type="string" name="widget_currentstep_sleep_min" id="0x7f07000c" />
+    <public type="string" name="widget_currentstep_sleep_title" id="0x7f07000d" />
+    <public type="string" name="widget_currentstep_sleep_no" id="0x7f07000e" />
+    <public type="string" name="widget_currentstep_activity_no" id="0x7f07000f" />
     <public type="string" name="opened" id="0x7f070010" />
     <public type="string" name="closed" id="0x7f070011" />
     <public type="string" name="connect_failed" id="0x7f070012" />
@@ -273,13 +280,6 @@
     <public type="string" name="yes" id="0x7f070015" />
     <public type="string" name="app_name" id="0x7f070016" />
     <public type="string" name="action_settings" id="0x7f070017" />
-    <public type="string" name="widget_currentstep_title" id="0x7f070009" />
-    <public type="string" name="widget_currentstep_activities" id="0x7f07000a" />
-    <public type="string" name="widget_currentstep_sleep_hour" id="0x7f07000b" />
-    <public type="string" name="widget_currentstep_sleep_min" id="0x7f07000c" />
-    <public type="string" name="widget_currentstep_sleep_title" id="0x7f07000d" />
-    <public type="string" name="widget_currentstep_sleep_no" id="0x7f07000e" />
-    <public type="string" name="widget_currentstep_activity_no" id="0x7f07000f" />
     <public type="style" name="PromptDialog" id="0x7f080000" />
     <public type="style" name="HMProgressBar" id="0x7f080001" />
     <public type="style" name="HMProgressBar.Large" id="0x7f080002" />

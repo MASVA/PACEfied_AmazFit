@@ -7,6 +7,13 @@
     <string name="no_altitude_hint">未检测到海拔数据</string>
     <string name="title_settings">设 置</string>
     <string name="sport_music_settings">运动音乐</string>
+    <string name="widget_currentstep_title">数据中心</string>
+    <string name="widget_currentstep_activities">今日运动</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
+    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
+    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
     <string name="double_click_wakeup_open">已开启</string>
     <string name="double_click_wakeup_close">已关闭</string>
     <string name="dlg_confirm">确定</string>
@@ -71,6 +78,7 @@
     <string name="tuoyuanji">椭圆机</string>
     <string name="dengshan">登 山</string>
     <string name="tierensan">铁人三项</string>
+    <string name="multisport">复合运动</string>
     <string name="shineiqi">室内骑行</string>
     <string name="skiing">滑雪</string>
     <string name="tennis">网球</string>
@@ -235,11 +243,4 @@
     <string name="upgrade_checking">正在检查升级...</string>
     <string name="left_hand">左手</string>
     <string name="right_hand">右手</string>
-    <string name="widget_currentstep_title">数据中心</string>
-    <string name="widget_currentstep_activities">今日运动</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">昨晚睡眠</string>
-    <string name="widget_currentstep_sleep_no">暂无睡眠数据</string>
-    <string name="widget_currentstep_activity_no">今日不运动吗?</string>
 </resources>
