@@ -62,6 +62,7 @@
   <string name="tennis">Tenis</string>
   <string name="soccer">Futbal</string>
   <string name="golf">Golf</string>
+  <string name="complex_sport">Komplexný šport</string>
   <string name="sport_total_time">Celkový čas</string>
   <string name="current_altitude">Výška</string>
   <string name="speed">Rýchlosť</string>
@@ -155,12 +156,12 @@
   <string name="no_altitude_hint">Výška nedetekovaná</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenie</string>
-  <string name="sport_music_settings">Športová muzika</string>
-  <string name="widget_currentstep_title">Centrum dát</string>
-  <string name="widget_currentstep_activities">Kroky dnes</string>
+  <string name="sport_music_settings">Športová hudba</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
-  <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
+  <string name="widget_currentstep_sleep_no">Žiadne dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Žiadny pohyb?</string>
 </resources>

@@ -217,11 +217,11 @@
   <string name="weekly_sports_notification_action">Viac</string>
   <string name="weeklysports_date_format">dd.MM.yyyy</string>
   <string name="widget_currentstep_title">Denný prehľad</string>
-  <string name="widget_currentstep_activities">Krokov dnes</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
   <string name="widget_currentstep_sleep_title">Posledný spánok</string>
-  <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
+  <string name="widget_currentstep_sleep_no">Žiadne dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes žiadne cvičenie?</string>
   <string name="currentstep_detail_activity">Pohyb</string>
   <string name="currentstep_detail_running">Beh</string>

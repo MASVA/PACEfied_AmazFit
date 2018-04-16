@@ -89,11 +89,11 @@ data on the watch, Continue?"</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenie</string>
   <string name="sport_music_settings">Sports music</string>
-  <string name="widget_currentstep_title">Data Center</string>
-  <string name="widget_currentstep_activities">Today\'s exercise</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sleep last night</string>
-  <string name="widget_currentstep_sleep_no">No sleep data</string>
-  <string name="widget_currentstep_activity_no">No exercise today?</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
+  <string name="widget_currentstep_sleep_no">Bez dát o spánku</string>
+  <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
 </resources>

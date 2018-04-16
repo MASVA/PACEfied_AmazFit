@@ -27,15 +27,15 @@
   <string name="sport_music_settings">Športová hudba</string>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
   <string name="locale_title">Výber jazyka</string>
-  <string name="widget_currentstep_title">Centrum dát</string>
-  <string name="widget_currentstep_activities">Kroky dnes</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
   <string name="widget_currentstep_sleep_no">Žiadne dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
-  <string name="hbeacon_on">已启用</string>
-  <string name="hbeacon_off">未启用</string>
-  <string name="hbeacon_on_confirm_message">点击确认启用HBeacon功能将略微降低手表续航时长，手表自动重启后您的手机可能需要重新配对手表。</string>
-  <string name="hbeacon_off_confirm_message">点击确认将关闭Hbeacon功能，手表自动重启后您的手机可能需要重新配对手表。</string>
+  <string name="hbeacon_on">Povolený</string>
+  <string name="hbeacon_off">Zakázaný</string>
+  <string name="hbeacon_on_confirm_message">Povolením funkcie HBeacon sa mierne zníži výdrž hodiniek. Vaše hodinky bude možno potreba znovu naparovať po ich automatickom reštartovaní.</string>
+  <string name="hbeacon_off_confirm_message">Kliknite na OK pre vypnutie funkcie HBeacon. Vaše hodinky bude možno potreba znovu naparovať po ich automatickom reštartovaní.</string>
 </resources>
