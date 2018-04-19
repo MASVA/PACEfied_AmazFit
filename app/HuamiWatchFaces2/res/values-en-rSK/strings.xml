@@ -118,7 +118,7 @@
   <string name="need_run_kilometer">Dĺžka intervalu:</string>
   <string name="need_run_time">Dĺžka intervalu:</string>
   <string name="low_battery_protect">Vyb.batéria</string>
-  <string name="low_battery_please_charging">Batéria je takmer vybitá. Prosím dobite ju.</string>
+  <string name="low_battery_please_charging">Slabá batéria. Prosím dobite ju.</string>
   <string name="app_name">HuamiWatchFaces</string>
   <string name="watch_label_sport_one">Marathon life</string>
   <string name="watch_label_sport_two">I’m Runner</string>
