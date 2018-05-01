@@ -136,7 +136,7 @@ Les notifications ne s\'afficheront pas."</string>
     <string name="common_google_play_services_notification_ticker">Erreur services Google Play</string>
     <string name="common_google_play_services_notification_needs_installation_title">Une application nécessite l\'installation des services Google Play.</string>
     <string name="common_google_play_services_notification_needs_update_title">Une application nécessite une mise à jour des services Google Play.</string>
-    <string name="common_android_wear_notification_needs_update_text">Une application nécessite une mise à jour de l^'application Android Wear.</string>
+    <string name="common_android_wear_notification_needs_update_text">Une application nécessite une mise à jour de l\'application Android Wear.</string>
     <string name="common_google_play_services_needs_enabling_title">Une application nécessite que les services Google Play soient activés.</string>
     <string name="common_google_play_services_error_notification_requested_by_msg">Demandé par %1$s</string>
     <string name="common_google_play_services_install_title">Obtenir les services Google Play</string>
@@ -672,5 +672,5 @@ Activé"</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Dernière nuit</string>
     <string name="widget_currentstep_sleep_no">Pas de données de la nuit</string>
-    <string name="widget_currentstep_activity_no">Pas d'exercices aujourd\'hui?</string>
+    <string name="widget_currentstep_activity_no">Pas d\'exercices aujourd\'hui?</string>
 </resources>
