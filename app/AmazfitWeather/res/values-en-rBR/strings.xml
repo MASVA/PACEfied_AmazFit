@@ -41,8 +41,8 @@
   <string name="weather_warning_ice">Gelo</string>
   <string name="weather_warning_snowstorm">Tempestade de neve</string>
   <string name="no_aqi">Incapaz de obter qualidade do ar</string>
-  <string name="air_perfect">Ar Perfeito</string>
-  <string name="air_good">Ar Bom</string>
+  <string name="air_perfect">Ar perfeito</string>
+  <string name="air_good">Ar bom</string>
   <string name="air_lightly_polluted">Pouco poluído</string>
   <string name="air_moderate_polluted">Poluído</string>
   <string name="air_heavily_polluted">Muito poluído</string>
@@ -83,5 +83,5 @@
   <string name="widget_currentstep_sleep_title">Sono na noite passada</string>
   <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
   <string name="widget_currentstep_activity_no">Não há exercício hoje?</string>
-  <string name="detailed">Weather details</string>
+  <string name="detailed">Detalhes de Clima</string>
 </resources>
