@@ -372,6 +372,13 @@
     <item type="id" name="battery_view">false</item>
     <item type="id" name="pager">false</item>
     <item type="id" name="am_pm_img">false</item>
+    <item type="id" name="item_value_total_time">false</item>
+    <item type="id" name="first_minute_value">false</item>
+    <item type="id" name="first_minute_font">false</item>
+    <item type="id" name="seconds_value">false</item>
+    <item type="id" name="second_value_font">false</item>
+    <item type="id" name="third_munute_value">false</item>
+    <item type="id" name="third_value_font">false</item>
     <item type="id" name="item_value_right_remind">false</item>
     <item type="id" name="exchange_container">false</item>
     <item type="id" name="exchange_view">false</item>

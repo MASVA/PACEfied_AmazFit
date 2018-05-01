@@ -292,18 +292,11 @@
     <public type="animator" name="time_picker_ok_vector_scaley" id="0x7f060004" />
     <public type="raw" name="train_plan_category" id="0x7f070000" />
     <public type="raw" name="train_plan_category_10km" id="0x7f070001" />
-    <public type="raw" name="train_plan_category_5km" id="0x7f070003" />
-    <public type="raw" name="train_plan_category_banma" id="0x7f070005" />
-    <public type="raw" name="train_plan_category_quanma" id="0x7f070008" />
-    <public type="raw" name="train_plan_category_xinshou" id="0x7f07000a" />
-    <public type="raw" name="train_plan_runtype_writecopy" id="0x7f07000c" />
-    <public type="raw" name="APKTOOL_DUMMY_2" id="0x7f070002" />
-    <public type="raw" name="APKTOOL_DUMMY_4" id="0x7f070004" />
-    <public type="raw" name="APKTOOL_DUMMY_6" id="0x7f070006" />
-    <public type="raw" name="APKTOOL_DUMMY_7" id="0x7f070007" />
-    <public type="raw" name="APKTOOL_DUMMY_9" id="0x7f070009" />
-    <public type="raw" name="APKTOOL_DUMMY_b" id="0x7f07000b" />
-    <public type="raw" name="APKTOOL_DUMMY_d" id="0x7f07000d" />
+    <public type="raw" name="train_plan_category_5km" id="0x7f070002" />
+    <public type="raw" name="train_plan_category_banma" id="0x7f070003" />
+    <public type="raw" name="train_plan_category_quanma" id="0x7f070004" />
+    <public type="raw" name="train_plan_category_xinshou" id="0x7f070005" />
+    <public type="raw" name="train_plan_runtype_writecopy" id="0x7f070006" />
     <public type="string" name="settings_item_high_light_scale_factor" id="0x7f080000" />
     <public type="string" name="locale_title" id="0x7f080001" />
     <public type="string" name="app_name" id="0x7f080002" />
