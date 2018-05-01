@@ -406,7 +406,7 @@
     <string name="sport_widget_title_compounding">In multisport</string>
     <string name="sport_select_compound">Select</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Fewer than one trip can not be saved, continue?</string>
-    <string name="tennic_wear_hand_guide">Please wear the watch on the waist of the racket hand</string>
+    <string name="tennic_wear_hand_guide">Please wear the watch on the wrist of the racket hand</string>
     <string name="select_compound_sport">选择第%1$s项运动</string>
     <string name="setting_max_heart_region">最大心率区间</string>
     <string name="setting_reserve_heart_region">储备心率区间</string>
@@ -659,7 +659,7 @@
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
     <string name="default_heartrate_value">0</string>
-    <string name="sport_history_item_distance_desc">Distance (mile)</string>
+    <string name="sport_history_item_distance_desc">Distance (km)</string>
     <string name="sport_history_item_cost_time_desc">Time</string>
     <string name="sport_history_total_distance_desc">Total Distance</string>
     <string name="sport_history_header_total_count_desc">Total Times</string>
@@ -827,6 +827,7 @@
     <string name="remind_heart_rate_region_less">Heart rate is too low</string>
     <string name="remind_heart_rate_current_heart_rate">Current　%1$d bpm</string>
     <string name="huanghe_pause_continue_title">运动操作</string>
+    <string name="sport_time_seconds">seconds</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">Run%1sKm</string>

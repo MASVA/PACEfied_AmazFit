@@ -17,7 +17,7 @@ unknownFiles: {}
 usesFramework:
   ids:
   - 1
-  tag: 2.0.15.0
+  tag: 2.0.17.1
 version: 2.3.0
 versionInfo:
   versionCode: '16777298'

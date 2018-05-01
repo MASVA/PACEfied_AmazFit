@@ -792,6 +792,7 @@
     <string name="remind_heart_rate_region_over">心率过高</string>
     <string name="remind_heart_rate_region_less">心率过低</string>
     <string name="remind_heart_rate_current_heart_rate">当前　%1$d bpm</string>
+    <string name="sport_time_seconds">秒</string>
     <string name="complete_training_project">训练计划已完成</string>
     <string name="reminder_speed_unit">/小时</string>
     <string name="remind_target_distance_training_title_format">跑步%1s公里</string>
