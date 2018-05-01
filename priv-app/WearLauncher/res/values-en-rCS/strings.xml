@@ -86,8 +86,8 @@
   <string name="header_incomming_call_service_hotline">Server Hotline</string>
   <string name="header_incomming_call_localcall">Místní hovor</string>
   <string name="header_incomming_call_unknowncall">Neznámý hovor</string>
-  <string name="call_phone_off">Ring off</string>
-  <string name="call_sound_off">Silence</string>
+  <string name="call_phone_off">Zavěsit</string>
+  <string name="call_sound_off">ztlumit</string>
   <string name="wathc_disconnection_title">Odpojen</string>
   <string name="wathc_disconnection_content">Odpojen od telefonu</string>
   <string name="notification_block">Blokovat</string>
@@ -104,8 +104,8 @@
   <string name="music_play_status">Přehrávání</string>
   <string name="music_bulethooth_disconnect">Připojování k Bluetooth…</string>
   <string name="music_peek_content">Váš telefon používá aplikaci %s na přehrávání hudby. Přehrávání hudby můžete ovládat pomocí upozornění na hodinkách.</string>
-  <string name="notification_fireworks_title">Happy New Year!</string>
-  <string name="notification_fireworks_content">Wish you all the best!</string>
+  <string name="notification_fireworks_title">Štastný nový rok!</string>
+  <string name="notification_fireworks_content">Přeji ti všechno nejlepší!</string>
   <string name="amazing_dialog_btn_confirm_text">Potvrdit</string>
   <string name="amazing_dialog_btn_cancel_text">Zrušit</string>
   <string name="accept">Potvrdit</string>
@@ -122,12 +122,12 @@
   <string name="hm_watch_sports_notification_sports">Sporty</string>
   <string name="hm_generic_notification_iconified_content_line">Dobrý den, já jsem fanoušek Huami:D</string>
   <string name="notification_action_more">Více</string>
-  <string name="notification_red_envelop">[Red envelope]</string>
+  <string name="notification_red_envelop">[červená obálka]</string>
   <string name="notitification_wechat_red_content_pattern_two">: \\[dopisní obálka\\]</string>
-  <string name="notitification_ios_wechat_red_content_pattern">: \\[Red envelope\\]</string>
-  <string name="notification_ios_qq_red_content_pattern">:\\[QQ red envelope\\]</string>
-  <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?Article\\]</string>
-  <string name="notification_ios_alipay_group_red_pattern">^\\[Group news\\]</string>
+  <string name="notitification_ios_wechat_red_content_pattern">: \\[červená obálka\\]</string>
+  <string name="notification_ios_qq_red_content_pattern">:\\[QQ červená obálka\\]</string>
+  <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?Článek\\]</string>
+  <string name="notification_ios_alipay_group_red_pattern">^\\[Skupinové zprávy\\]</string>
   <string name="store_picture_title">Uložit obrázek</string>
   <string name="store_picture_message">Povolit uložení obrázku v galerii?</string>
   <string name="decline">Zamítnout</string>
@@ -160,7 +160,7 @@
   <string name="common_google_play_services_update_button">Aktualizace</string>
   <string name="common_signin_button_text">Přihlásit se</string>
   <string name="common_signin_button_text_long">Přihlásit se na Google</string>
-  <string name="pre_release_do_not_ship">true</string>
+  <string name="pre_release_do_not_ship">pravda</string>
   <string name="common_open_on_phone">Otevřít v telefonu</string>
   <string name="wallet_buy_button_place_holder">Koupit pomocí Google</string>
   <string name="retail_hangout_text">Ahoj,co chceš dostat dneska večeři?</string>
@@ -262,7 +262,7 @@ dní"</string>
   <string name="flight_reservation_number">Rezervace #</string>
   <string name="flight_information">%1$s %2$s</string>
   <string name="operating_airline_info">Provozuji %1$s</string>
-  <string name="skip_activity">SKIP_ACTIVITY</string>
+  <string name="skip_activity">PŘESKOČIT_AKTIVITU</string>
   <string name="clockwork_home_enable_notifications">Zapnutí přístupu oznámení pro Android Wear</string>
   <string name="clockwork_home_no_notif_settings">Toto zařízení nemůže posílat oznámení do hodinek</string>
   <string name="perm_label_provide_background">Custom ciferník</string>
@@ -548,7 +548,7 @@ Zap"</string>
   <string name="example_query_navigate_3">Navigovat do muzea moderního umění</string>
   <string name="example_query_set_timer">Nastavit časovač na 10 minut</string>
   <string name="unread_count_watchface_name">Přírůstek</string>
-  <string name="showtimes_for_place">showtimes for %s</string>
+  <string name="showtimes_for_place">ukázky pro %s</string>
   <string name="movie_type_standard">Standard</string>
   <string name="movie_type_3D">3D</string>
   <string name="movie_type_IMAX">IMAX</string>
@@ -589,7 +589,7 @@ Zap"</string>
   <string name="battery_info_status_percentage">%</string>
   <string name="quick_settings_notification_title">Přerušení</string>
   <string name="quick_settings_notifications_none">Žádné</string>
-  <string name="quick_settings_notifications_not_even_alarms">I bez buyení</string>
+  <string name="quick_settings_notifications_not_even_alarms">I bez buzení</string>
   <string name="quick_settings_notifications_priority">Pouze priority</string>
   <string name="quick_settings_notifications_all">Ukaž vše</string>
   <string name="state_on">Zap</string>

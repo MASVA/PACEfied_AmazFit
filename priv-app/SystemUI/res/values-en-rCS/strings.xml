@@ -100,8 +100,8 @@ Používejte pouze dodávanou nabíječku."</string>
   <string name="accessibility_wifi_two_bars">Wifi dvě čárky.</string>
   <string name="accessibility_wifi_three_bars">Wifi tři čáarky.</string>
   <string name="accessibility_wifi_signal_full">Wifi plný signál.</string>
-  <string name="accessibility_wifi_name">Connected to %s.</string>
-  <string name="accessibility_bluetooth_name">Connected to %s.</string>
+  <string name="accessibility_wifi_name">Připojování %s.</string>
+  <string name="accessibility_bluetooth_name">Připojování %s.</string>
   <string name="accessibility_no_wimax">No WiMAX.</string>
   <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
   <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
@@ -198,7 +198,7 @@ Zapnutím může vést k obvinění z vašeho operátora."</string>
   <string name="gps_notification_searching_text">Hledání GPS</string>
   <string name="gps_notification_found_text">Lokalizace polohy přes GPS</string>
   <string name="accessibility_location_active">Žádost o sledování polohy</string>
-  <string name="accessibility_clear_all">Clear all notifications.</string>
+  <string name="accessibility_clear_all">Vymaže všechna oznámení.</string>
   <string name="status_bar_notification_inspect_item_title">Notifikace</string>
   <string name="status_bar_notification_app_settings_title">%s nastavení</string>
   <string name="accessibility_rotation_lock_off">Obrazovka se bude otáčet automaticky.</string>
@@ -225,7 +225,7 @@ Zapnutím může vést k obvinění z vašeho operátora."</string>
   <string name="quick_settings_location_off_label">Poloha zařízení</string>
   <string name="quick_settings_media_device_label">Media zařízení</string>
   <string name="quick_settings_rssi_label">RSSI</string>
-  <string name="quick_settings_rssi_emergency_only">Tisˇové volání</string>
+  <string name="quick_settings_rssi_emergency_only">Tisňové volání</string>
   <string name="quick_settings_settings_label">Nastavení</string>
   <string name="quick_settings_time_label">Čas</string>
   <string name="quick_settings_user_label">Moje</string>
@@ -274,8 +274,8 @@ Zapnutím může vést k obvinění z vašeho operátora."</string>
   <string name="ssl_ca_cert_warning">"Síť může
 monitorovat"</string>
   <string name="description_target_search">Hledat</string>
-  <string name="description_direction_up">Slide up for %s.</string>
-  <string name="description_direction_left">Slide left for %s.</string>
+  <string name="description_direction_up">Posuňte nahoru %s.</string>
+  <string name="description_direction_left">Posuňte do leva %s.</string>
   <string name="zen_no_interruptions_with_warning">Bez přerušení. Ani alarmy.</string>
   <string name="zen_no_interruptions">Bez přerušení</string>
   <string name="zen_important_interruptions">ouze prioritní vyrušení</string>
@@ -421,7 +421,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN lze sledo
   <string name="keyguard_password_enter_puk_prompt">SIM PUK kód=</string>
   <string name="keyguard_password_enter_pin_prompt">Nové SIM PIN code</string>
   <string name="keyguard_password_entry_touch_hint">
-    <font size="17">Touch to type password</font>
+    <font size="17">Dotkněte se pro zadání hesla</font>
   </string>
   <string name="keyguard_password_enter_password_code">Zadejte heslo pro odemknutí</string>
   <string name="keyguard_password_enter_pin_password_code">Zadáním kódu PIN k odemknutí</string>

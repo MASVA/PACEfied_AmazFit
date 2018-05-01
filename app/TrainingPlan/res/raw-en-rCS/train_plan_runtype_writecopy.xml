@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<runreminds>
+        <runremind id="0">
+            <runType>Beh</runType>
+            <trainContent>Klusanie</trainContent>
+            <copyWrite>800m ľahký poklus + 200m chôdza. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>800m ľahký poklus + 200m chôdza. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="1">
+            <runType>Beh</runType>
+            <trainContent>Regeneračný beh</trainContent>
+            <copyWrite>Ľahký poklus. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="2">
+            <runType>Beh</runType>
+            <trainContent>Základný beh</trainContent>
+            <copyWrite>Bežte v konverzačnom tempe. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="3">
+            <runType>Beh</runType>
+            <trainContent>Stupňovaný beh</trainContent>
+            <copyWrite>Začnite pomaly a postupne zvyšujte tempo. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="4">
+            <runType>Beh</runType>
+            <trainContent>Hra s rýchlosťou</trainContent>
+            <copyWrite>Voľne meňte úroveň tréningu. Doporučený tep srdca: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="5">
+            <runType>Beh</runType>
+            <trainContent>Beh do kopca</trainContent>
+            <copyWrite>Bežte do kopca pri stálom tempe.Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="6">
+            <runType>Beh</runType>
+            <trainContent>Tempový beh</trainContent>
+            <copyWrite>Bežte v normálnom a stálom tempe. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="7">
+            <runType>Beh</runType>
+            <trainContent>Krátke intervaly</trainContent>
+            <copyWrite>800m šprint + 800m chôdza opakovane. Doporučený tep srdca: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="8">
+            <runType>Beh</runType>
+            <trainContent>Dlhé intervaly</trainContent>
+            <copyWrite>2.4km poklus + 800m chôdza opakovane. Doporučený tep srdca: %1$d-%2$dbpm</copyWrite>
+        </runremind>
+        <runremind id="9">
+            <runType>Odpočinok</runType>
+            <trainContent></trainContent>
+            <copyWrite>Dnes odpočívajte.%1$d deň(í) do ďalšieho tréningu</copyWrite>
+        </runremind>
+        <runremind id="10">
+            <runType>Plávanie</runType>
+            <trainContent></trainContent>
+            <copyWrite>Plávanie na obnovenie rýchlosti. Nezabudnite označiť deň ako dokončený po doplávaní.</copyWrite>
+        </runremind>
+        <runremind id="11">
+            <runType>Cyklistika</runType>
+            <trainContent></trainContent>
+            <copyWrite>Obnovenie rýchlosti. Doporučený tep srdca:%1$d-%2$dbpm</copyWrite>
+        </runremind>
+</runreminds>
+
+

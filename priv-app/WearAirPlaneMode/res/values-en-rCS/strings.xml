@@ -13,15 +13,15 @@
   <string name="closed">Vypnuto</string>
   <string name="connect_failed">Failed</string>
   <string name="air_plane_mode_note">Připojení se nezdařilo, vypněte mód letadlo a zkuste znovu.</string>
-  <string name="yes">yes</string>
+  <string name="yes">ano</string>
   <string name="app_name">WearAirPlaneModeDialog</string>
   <string name="action_settings">Nastavení</string>
-  <string name="air_plane_mode_note_everest">Please turn off the flight mode and retry the connection.</string>
-  <string name="widget_currentstep_title">Data Center</string>
-  <string name="widget_currentstep_activities">Steps today</string>
+  <string name="air_plane_mode_note_everest">Vypněte režim letadlo a zopakujte připojení.</string>
+  <string name="widget_currentstep_title">Datové centrum</string>
+  <string name="widget_currentstep_activities">Kroky dnes</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sleep last night</string>
-  <string name="widget_currentstep_sleep_no">No sleep data</string>
-  <string name="widget_currentstep_activity_no">No exercise today?</string>
+  <string name="widget_currentstep_sleep_title">Spát v noci</string>
+  <string name="widget_currentstep_sleep_no">Žádné údaje o spánku</string>
+  <string name="widget_currentstep_activity_no">Dnes žádné cvičení?</string>
 </resources>

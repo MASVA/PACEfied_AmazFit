@@ -6,11 +6,11 @@
   <string name="title_activity_sensor_list">Seznam aktivit senzoru</string>
   <string name="title_activity_view_list">Náhled seznamu aktivit</string>
   <string name="title_activity_graph_list">Graf seznamu aktivity</string>
-  <string name="completed">Completed %1$s</string>
-  <string name="upload_failed">upload failed!</string>
-  <string name="upload_success">upload success!</string>
-  <string name="uploading">uploading!</string>
-  <string name="no_uploaded_files">No uploaded files!</string>
-  <string name="open_wifi_failed">open wifi failed!</string>
-  <string name="connect_APP">Please connect APP!</string>
+  <string name="completed">Dokončeno %1$s</string>
+  <string name="upload_failed">nahrávání selhalo!</string>
+  <string name="upload_success">Nahrát úspěch!</string>
+  <string name="uploading">nahrávání!</string>
+  <string name="no_uploaded_files">Žádné nahrané soubory!</string>
+  <string name="open_wifi_failed">otevřít wifi se nezdařilo!</string>
+  <string name="connect_APP">Připojte prosím APP!</string>
 </resources>

@@ -36,7 +36,7 @@
   <string name="music_no_local_resource">K přehrání nejsou k dispozici žádné místní písně. Pro import připojte Bluetooth.</string>
   <string name="music_start_tips">K poslechu hudby je potřeba připojit Bluetooth sluchátka. Připojit nyní?</string>
   <string name="music_down_not_complete_content">Po odhlášení můžou být písně aktualizovány v nastavení Hudba - Watercress FM offline.</string>
-  <string name="cancel">cancel</string>
+  <string name="cancel">storno</string>
   <string name="enter">Enter</string>
   <string name="app_name">HM Media Player</string>
   <string name="favorite">Oblíbené</string>
@@ -52,7 +52,7 @@
   <string name="currently_playing_artist">Interpret aktuálně přehrávané skladby</string>
   <string name="currently_playing_extra_info">Dodatečné informace k aktuálně přehrávané skladbě</string>
   <string name="play_item">Přehrávaná položka</string>
-  <string name="play_pause">play or pause</string>
+  <string name="play_pause">Přehrávání nebo pozastavení</string>
   <string name="skip_next">přeskočit na další</string>
   <string name="skip_prev">přeskočit na předchozí</string>
   <string name="home_title">Domů</string>
