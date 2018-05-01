@@ -31,7 +31,7 @@
   <string name="crossing_history_detail_individual_km">%1$s km na jeden okruh</string>
   <string name="crossing_setting_unit">km</string>
   <string name="crossing_settings_item_title_individual_remind">Dĺžka okruhu</string>
-  <string name="crossing_settings_item_value_individual">%1s kms</string>
+  <string name="crossing_settings_item_value_individual">%1s km</string>
   <string name="crossing_remind_target_individual_title">Okruh %1d</string>
   <string name="crossing_remind_target_individual_cost_time">Uplynulý čas</string>
   <string name="crossing_remind_target_individual_pace">Tempo</string>
@@ -93,9 +93,7 @@
   <string name="battery_continue_time_unit"> hodín</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Čas do úplného zotavenia %1$s hodín</string>
-  <string name="remain_time_recovery">
-    <Data>Čas do úplného zotavenia&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data>
-  </string>
+  <string name="remain_time_recovery"><Data>Čas do úplného zotavenia&amp;nbsp;&lt;font color=#00ff00>&lt;b>%1$s&lt;/b>&lt;/font>&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Viac</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -209,7 +207,7 @@
   <string name="sport_main_pm">PM</string>
   <string name="sport_main_climb_al">Prevýšenie</string>
   <string name="sport_main_descend_al">Klesanie</string>
-  <string name="sport_main_climb_dis">Dist. Gain</string>
+  <string name="sport_main_climb_dis">Vzdušná vzd.</string>
   <string name="sport_main_recovery_title">Čas zotavenia</string>
   <string name="sport_history_full_recovery">Čas zotavenia</string>
   <string name="sport_main_avg_stride">Priemerná dĺžka kroku</string>
@@ -343,8 +341,8 @@
   <string name="swim_unit_title">Jednotka vzdialenosti</string>
   <string name="gps_close_notification_content">GPS bude vypnuté do minúty z dôvodu nečinnosti.</string>
   <string name="sport_te_desc">Tento tréning udržuje kardio-respiračnú kondíciu.</string>
-  <string name="last_kilo_meters_times">Čas posledného km.</string>
-  <string name="last_mi_times">Čas poslednej mi.</string>
+  <string name="last_kilo_meters_times">Čas posledného km</string>
+  <string name="last_mi_times">Čas poslednej mi</string>
   <string name="setting_sport_title_exteed_region_tips">Mimo %1$s zóny upoz.</string>
   <string name="sport_history_bottom_remind">Viac záznamov nájdete v aplikácií Amazfit Watch</string>
   <string name="gps_close_notification_title">Vypínam GPS</string>
@@ -405,10 +403,19 @@
   <string name="dialog_tennic_select_hand_title">Prosím zvoľte ruku</string>
   <string name="sport_widget_title_compound">Multišport</string>
   <string name="sport_widget_title_compounding">In multisport</string>
-  <string name="sport_select_compound">Zvoľte</string>
+  <string name="sport_select_compound">Disciplíny</string>
   <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Menej ako jeden okruh nemôže byť uložený, pokračovať?</string>
   <string name="tennic_wear_hand_guide">Prosím noste hodinky na zápästí ruky s ktorou hráte</string>
-  <string name="select_compound_sport">选择第%1$s项运动</string>
+  <string name="select_compound_sport">%1$s disciplína</string>
+  <string name="setting_max_heart_region">Maximálny interval tepovej frekvencie</string>
+  <string name="setting_reserve_heart_region">Obmedzte tepovú frekvenciu</string>
+  <string name="setting_not_remind">Neupozorňovať</string>
+  <string name="setting_reserve_heart_region_1">Interval 1</string>
+  <string name="setting_reserve_heart_region_2">Interval 2</string>
+  <string name="setting_reserve_heart_region_3">Interval 3</string>
+  <string name="setting_reserve_heart_region_4">Interval 4</string>
+  <string name="setting_reserve_heart_region_5">Interval 5</string>
+  <string name="history_walk_exchange_title">Prechod na plávanie</string>
   <string name="experience_title">Prosím nastav osobné údaje, lebo budú mať dáta veľkú odchýlku</string>
   <string name="recovery_time_hour">hodín</string>
   <string name="sport_vo2_max">VO2max</string>
@@ -818,11 +825,12 @@
   <string name="remind_heart_rate_region_over">Tep je príliš vysoký</string>
   <string name="remind_heart_rate_region_less">Tep je príliš nízky</string>
   <string name="remind_heart_rate_current_heart_rate">Aktuálny　%1$d bpm</string>
+  <string name="huanghe_pause_continue_title">Športová prevádzka</string>
   <string name="complete_training_project">Tréningový program je dokončený.</string>
   <string name="reminder_speed_unit">/h</string>
-  <string name="remind_target_distance_training_title_format">Beh %1s Km</string>
-  <string name="remind_target_time_training_title_format">Jazda %1$d Min</string>
-  <string name="remind_target_time_training_title_swim_format">Plávanie %1$d Min</string>
+  <string name="remind_target_distance_training_title_format">Beh %1s km</string>
+  <string name="remind_target_time_training_title_format">Jazda %1$d min</string>
+  <string name="remind_target_time_training_title_swim_format">Plávanie %1$d min</string>
   <string name="complete_training_target_tips">Uložiť tento beh do dnešného tréningového plánu?</string>
   <string name="complete_training_outdoor_riding_target_tips">Uložiť túto jazdu do dnešného tréningového plánu?</string>
   <string name="complete_training_swim_target_tips">"Uložiť toto plávanie do dnešného tréningového plánu?"</string>
@@ -840,8 +848,8 @@
   <string name="meter_metric_crossing_vertical_velocity_unit">metrov/min</string>
   <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Výška (metrov)</string>
   <string name="km_metric_outdoor_speed_graph_title">Rýchlosť (km/h)</string>
-  <string name="km_metric_settings_item_value_target_distance">%.2fkm</string>
-  <string name="meter_metric_settings_item_value_target_distance">%1$smetrov</string>
+  <string name="km_metric_settings_item_value_target_distance">%1$s km</string>
+  <string name="meter_metric_settings_item_value_target_distance">%1$s metrov</string>
   <string name="km_imperial">mi</string>
   <string name="metre_imperial">krok</string>
   <string name="km_imperial_pace_unit">/mi</string>
@@ -855,7 +863,7 @@
   <string name="meter_imperial_crossing_vertical_velocity_unit">krokov/min</string>
   <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Výška(stop)</string>
   <string name="km_imperial_outdoor_speed_graph_title">Rýchlosť(mi/h)</string>
-  <string name="km_imperial_settings_item_value_target_distance">%.2fmi</string>
+  <string name="km_imperial_settings_item_value_target_distance">%1$smi</string>
   <string name="meter_imperial_settings_item_value_target_distance">%1$sstôp</string>
   <string name="vo2_max_title">VO2Max</string>
   <string name="vo2_max_level_very_good">Veľmi dobrá</string>
@@ -883,12 +891,12 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenia</string>
   <string name="sport_music_settings">Športová hudba</string>
-  <string name="widget_currentstep_title">Centrum dát</string>
-  <string name="widget_currentstep_activities">krokov dnes</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
-  <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
+  <string name="widget_currentstep_sleep_no">Žiadne dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
   <string name="sport_main_beyond_heart_info_title">Nebezpečný tep srdca</string>
 </resources>

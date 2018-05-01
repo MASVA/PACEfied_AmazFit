@@ -8,11 +8,17 @@
   <string name="no_altitude_hint">Dáta o výške nezistené</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenia</string>
-  <string name="sport_music_settings">Sportová hudba</string>
+  <string name="sport_music_settings">Športová hudba</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
+  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
+  <string name="widget_currentstep_sleep_no">Bez dát o spánku</string>
+  <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
   <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="locale_title">Vyber jazyk</string>
   <string name="music_name">Watercress FM</string>
-  <string name="music_download" formatted="false">%1d/%2d</string>
   <string name="music_download_in_progress">Sťahovanie hudby ...</string>
   <string name="music_no_wifi_title">Nejde sťahovať</string>
   <string name="music_download_fail_title">Sťahovanie sa nepodarilo.</string>
@@ -23,7 +29,6 @@
   <string name="music_download_success">Aktualizácia hudby bola úspešná</string>
   <string name="music_downloading">Sťahujem</string>
   <string name="music_fetch_list">Získavanie zoznamu hudby...</string>
-  <string name="music_downloading_noting">-/-</string>
   <string name="check_network">Skontroluj sieť.</string>
   <string name="music_continue_downloading">Hudba bude aj ďalej sťahovaná</string>
   <string name="music_service_unavalible">DouBan služba nie je dostupná</string>
@@ -58,11 +63,13 @@
   <string name="music_down_not_complete_content">Po odhlásení môžete hudbu aktualizovať v Nastaveniach hudby - Watercress FM offline.</string>
   <string name="sound_title">Názov skladby</string>
   <string name="announcer">Hlásateľ</string>
-  <string name="remain_duration">-28:00</string>
   <string name="play_mode_single_loop">Bez opakovania</string>
   <string name="play_mode_ordered">Sekvencia prehrávania</string>
   <string name="play_mode_random">Náhodné prehrávanie</string>
   <string name="play_mode_album_loop">Zopakovať album</string>
+  <string name="music_download" formatted="false">%1d/%2d</string>
+  <string name="music_downloading_noting">-/-</string>
+  <string name="remain_duration">-28:00</string>
   <string name="app_name">Ximalaya</string>
   <string name="hello">Zdravím</string>
   <string name="favorite">Obľúbené</string>
@@ -101,17 +108,10 @@
   <string name="storage_space_mb">Úložisko %sMB</string>
   <string name="cancel">Zrušiť</string>
   <string name="delete">Smazať</string>
-  <string name="enter">确定</string>
+  <string name="enter">OK</string>
   <string name="stop_casting">Zastaviť prenos</string>
   <string name="label_pause">Pozastaviť</string>
   <string name="label_play">Prehrať</string>
   <string name="label_previous">Predchádajúca</string>
   <string name="label_next">Ďalšia</string>
-  <string name="widget_currentstep_title">Centrum dát</string>
-  <string name="widget_currentstep_activities">Kroky dnes</string>
-  <string name="widget_currentstep_sleep_hour">h</string>
-  <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
-  <string name="widget_currentstep_sleep_no">Bez dát o spánku</string>
-  <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
 </resources>

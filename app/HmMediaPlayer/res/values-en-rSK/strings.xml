@@ -36,8 +36,8 @@
   <string name="music_no_local_resource">Žiadne skladby na prehratie, nahrajte skladby cez USB.</string>
   <string name="music_start_tips">Pre prehrávanie hudby je potrebné pripojiť Bluetooth headsed, pripojiť?</string>
   <string name="music_down_not_complete_content">Po odhlásení môžete skladby aktualizovať v Nastaveniach Hudby - Watercress FM offline.</string>
-  <string name="cancel">cancel</string>
-  <string name="enter">Enter</string>
+  <string name="cancel">Zrušiť</string>
+  <string name="enter">OK</string>
   <string name="app_name">HM Media Player</string>
   <string name="favorite">Obľúbené</string>
   <string name="error_no_metadata">Metadáta sa nedajú načítať.</string>
@@ -85,7 +85,6 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenia</string>
   <string name="sport_music_settings">Sports music</string>
-  <string name="locale_title">Výber jazyka</string>
   <string name="widget_currentstep_title">Data Center</string>
   <string name="widget_currentstep_activities">Steps today</string>
   <string name="widget_currentstep_sleep_hour">h</string>
@@ -93,4 +92,5 @@
   <string name="widget_currentstep_sleep_title">Sleep last night</string>
   <string name="widget_currentstep_sleep_no">No sleep data</string>
   <string name="widget_currentstep_activity_no">No exercise today?</string>
+  <string name="locale_title">Výber jazyka</string>
 </resources>

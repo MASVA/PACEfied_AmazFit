@@ -9,6 +9,13 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenia</string>
   <string name="sport_music_settings">Športová hudba</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
+  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Spánok poslednú noc</string>
+  <string name="widget_currentstep_sleep_no">Žiadne údaje o spánku</string>
+  <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
   <string name="opened">Zapnuté</string>
   <string name="closed">Vypnuté</string>
   <string name="connect_failed">Neúspech</string>
@@ -17,11 +24,4 @@
   <string name="yes">Áno</string>
   <string name="app_name">WearAirPlaneModeDialog</string>
   <string name="action_settings">Nastavenia</string>
-  <string name="widget_currentstep_title">Dátové centrum</string>
-  <string name="widget_currentstep_activities">Krokov dnes</string>
-  <string name="widget_currentstep_sleep_hour">h</string>
-  <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánok poslednú noc</string>
-  <string name="widget_currentstep_sleep_no">Žiadne údaje o spánku</string>
-  <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
 </resources>

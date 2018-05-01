@@ -2,7 +2,7 @@
 <resources>
   <string name="app_name">UnlockMIUI</string>
   <string name="unlock_tips">Povoliť týmto hodinkám odomknúť telefón</string>
-  <string name="enter">Enter</string>
+  <string name="enter">OK</string>
   <string name="ble_lost_notification_very_far">Telefón je príliš ďaleko</string>
   <string name="ble_lost_notification_phone_is_not_near">Prosím skontrolujte či sa váš telefón stále nachádza v okolí.</string>
   <string name="ble_lost_notification_prevent_lost_remind">Upozornenie straty telefónu</string>
@@ -16,11 +16,11 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenie</string>
   <string name="sport_music_settings">Športová hudba</string>
-  <string name="widget_currentstep_title">Centrum dát</string>
-  <string name="widget_currentstep_activities">Krokov dnes</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
-  <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
+  <string name="widget_currentstep_sleep_no">Žiadne dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes bez cvičenia?</string>
 </resources>

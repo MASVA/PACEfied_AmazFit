@@ -26,7 +26,7 @@
   <string name="dialog_train_plan_is_complete">Ukončenie programu zastaví záznam. Ukončiť program?</string>
   <string name="last_day_rest_remind">Tréning dokončený! Dajte si den voľna!</string>
   <string name="cancel">Zrušiť</string>
-  <string name="enter">Enter</string>
+  <string name="enter">OK</string>
   <string name="dialog_delete">Vymazať</string>
   <string name="day_train_plan_record_marked">Označiť</string>
   <string name="train_plan_recode_finished">Ukončiť</string>
@@ -57,11 +57,11 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavenia</string>
   <string name="sport_music_settings">Športová hudba</string>
-  <string name="widget_currentstep_title">Centrum dát</string>
-  <string name="widget_currentstep_activities">Kroky dnes</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánok minulú noc</string>
-  <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
+  <string name="widget_currentstep_sleep_no">Žiadne dáta o spánku</string>
   <string name="widget_currentstep_activity_no">Dnes žiadne cvičenie?</string>
 </resources>
