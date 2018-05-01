@@ -76,12 +76,12 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Paramètres</string>
   <string name="sport_music_settings">Musique Sports</string>
-  <string name="widget_currentstep_title">Data Center</string>
-  <string name="widget_currentstep_activities">Steps today</string>
+  <string name="widget_currentstep_title">Centre d\'activité</string>
+  <string name="widget_currentstep_activities">Pas Aujourd\'hui</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sleep last night</string>
-  <string name="widget_currentstep_sleep_no">No sleep data</string>
-  <string name="widget_currentstep_activity_no">No exercise today?</string>
+  <string name="widget_currentstep_sleep_title">Sommeil de la nuit dernière</string>
+  <string name="widget_currentstep_sleep_no">Pas de données de sommeil</string>
+  <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\hui?</string>
   <string name="detailed">Météo détaillée</string>
 </resources>

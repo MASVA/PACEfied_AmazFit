@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
+  <string name="day_concat">/</string>
   <string name="app_name">HmDeskClock</string>
   <string name="every_day">Tous les jours</string>
   <string name="never">Jamais</string>
-  <string name="day_concat">/</string>
   <string name="default_label">Alarme</string>
   <string name="day">1 jour</string>
   <string name="days">%s jours</string>
@@ -51,8 +51,8 @@
   <string name="count_down_picker_min">m</string>
   <string name="count_down_picker_hour">h</string>
   <string name="count_down_wrong_time_tips">Configurer un temps valide</string>
-  <string name="count_down_del_time">Supprimer？</string>
-  <string name="title_unit">Unit(hour/minute)</string>
+  <string name="count_down_del_time">Supprimer ?</string>
+  <string name="title_unit">Unité(heure/minute)</string>
   <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
   <string name="locale_title">Selection Langue</string>
   <string name="average_text">Avg</string>

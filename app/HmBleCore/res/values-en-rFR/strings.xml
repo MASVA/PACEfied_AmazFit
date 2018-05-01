@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnlockMIUI</string>
+    <string name="unlock_tips">Permettre à la montre de déverrouiller le téléphone</string>
+    <string name="enter">Entrer</string>
+    <string name="ble_lost_notification_very_far">Trop loin du téléphone</string>
+    <string name="ble_lost_notification_phone_is_not_near">Vérifier si votre téléphone est toujours à proximiter</string>
+    <string name="ble_lost_notification_prevent_lost_remind">Alerte téléphone perdu</string>
+    <string name="ble_lost_notification_disconnect">La montre est déconnectée du téléphone.</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirmer</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Cardio non détecté</string>
+    <string name="no_altitude_hint">Altitude non détecté</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+  <string name="title_settings">Paramètres</string>
+  <string name="sport_music_settings">Musique Sports</string>
+  <string name="widget_currentstep_title">Centre d\'activité</string>
+  <string name="widget_currentstep_activities">Pas Aujourd\'hui</string>
+  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Sommeil de la nuit dernière</string>
+  <string name="widget_currentstep_sleep_no">Pas de données de sommeil</string>
+  <string name="widget_currentstep_activity_no">Pas d\'exercice aujourd\hui?</string>	
+</resources>

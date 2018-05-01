@@ -8,7 +8,7 @@
   <string name="west_longitude">Ouest Long</string>
   <string name="altitude">Altitude(m)</string>
   <string name="altitude_ft">Altitude</string>
-  <string name="atmospheric_pressure">Pression de l\'air</string>
+  <string name="atmospheric_pressure">Pression Air</string>
   <string name="ori_north">N</string>
   <string name="ori_northeast">NE</string>
   <string name="ori_east">E</string>
@@ -18,7 +18,7 @@
   <string name="ori_west">O</string>
   <string name="ori_northwest">NO</string>
   <string name="correcting">Calibrage...</string>
-  <string name="correcting_line1">Tournez votre poignet</string>
+  <string name="correcting_line1">Tourner votre poignet</string>
   <string name="correcting_line2">Faire rouler la balle</string>
   <string name="value_default">-</string>
   <string name="loading">Chargement</string>

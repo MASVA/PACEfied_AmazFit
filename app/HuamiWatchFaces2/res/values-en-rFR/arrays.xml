@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>大寒</item>
+        <item>雨水</item>
+        <item>春分</item>
+        <item>谷雨</item>
+        <item>小满</item>
+        <item>夏至</item>
+        <item>大暑</item>
+        <item>处暑</item>
+        <item>秋分</item>
+        <item>霜降</item>
+        <item>小雪</item>
+        <item>冬至</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>小寒</item>
+        <item>立春</item>
+        <item>惊蛰</item>
+        <item>清明</item>
+        <item>立夏</item>
+        <item>芒种</item>
+        <item>小暑</item>
+        <item>立秋</item>
+        <item>白露</item>
+        <item>寒露</item>
+        <item>立冬</item>
+        <item>大雪</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>Tôt</item>
+        <item>十</item>
+        <item>廿</item>
+        <item>三</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseMonthNumber">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="sport_data_item_array">
+        <item></item>
+        <item>Temps</item>
+        <item>Kilométrage</item>
+        <item>Rythme</item>
+        <item>PAs AVG</item>
+        <item>HR</item>
+        <item>Calories</item>
+        <item>Altitude</item>
+        <item>Altitude Max</item>
+        <item>Altitude Min</item>
+        <item>Vitesse</item>
+        <item>Vitesse AVG</item>
+        <item>Cadence</item>
+        <item>Distance gagnée</item>
+        <item>Etapes</item>
+        <item>Fréquence</item>
+        <item>Voyage</item>
+        <item>DPS</item>
+        <item>Vitesse</item>
+        <item>AVG. SPM</item>
+        <item>Rythme</item>
+        <item>Rythme AVG</item>
+        <item>Distance</item>
+        <item>TE</item>
+        <item>Vitesse vertical</item>
+        <item>Vitesse AVG</item>
+        <item>Vitesse Max</item>
+        <item>Course(s)</item>
+        <item>Distance</item>
+        <item>Kilométrage total</item>
+        <item>Descente</item>
+        <item>Coups</item>
+    </string-array>
+    <string-array name="sport_train_item">
+        <item>Kilométrage restant</item>
+        <item>Distance total</item>
+        <item>Temps écoulé</item>
+        <item>Temps restant</item>
+        <item>Kilométrage</item>
+    </string-array>
+    <string-array name="weekdays">
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+    </string-array>
+</resources>

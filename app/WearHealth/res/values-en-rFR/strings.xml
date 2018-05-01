@@ -7,7 +7,7 @@
   <string name="app_name">Santé</string>
   <string name="label_heartrate">Capteur cardiaque</string>
   <string name="label_heartrate_unit">bpm</string>
-  <string name="ratio_notworn">Vous ne portez pas la montre</string>
+  <string name="ratio_notworn">Vous ne portez pas la montre correctement</string>
   <string name="heartrate_wear_before_gauging">Portez la montre avant de mesurer</string>
   <string name="label_active_fast">Anaérobie</string>
   <string name="label_active_fast_sick_any">L\'intensité des exercices devrait être réduite lorsqu\'on est malade pour éviter des symptômes graves comme la fièvre surviennent. L\'exercice devrait être arrêté.</string>
@@ -93,7 +93,7 @@
   <string name="sleep_unit_minute">min</string>
   <string name="sleep_uniti_hour">heure</string>
   <string name="sleep_duration">%1$s h %2$s min</string>
-  <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;Hour&lt;/font&gt; %2$s Min</string>
+  <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;Heur&lt;/font&gt; %2$s Min</string>
   <string name="date_m_d">%1$s/%2$s</string>
   <string name="date_today">Aujourd\'hui</string>
   <string name="sleep_detail_title">Historique</string>
@@ -255,10 +255,10 @@
   <string name="currentstep_detail_swim_rate_unit_zh">/hm</string>
   <string name="currentstep_detail_swim_rate_unit_en">/m</string>
   <string name="currentstep_distance">Distance</string>
-  <string name="currentstep_time">用时</string>
+  <string name="currentstep_time">Temps écoulé</string>
   <string name="currentstep_history_title">Historique</string>
   <string name="step_value">%1$s / %2$s</string>
-  <string name="detail_date">%1$s activité</string>
+  <string name="detail_date">Aujourd\'hui %1$s</string>
   <string name="widget_weeklyreports_heart_rate_min_text">Min(bpm)</string>
   <string name="widget_weeklyreports_heart_rate_max_text">Max(bpm)</string>
   <string name="widget_weeklyreports_heart_rate_title">Rythme cardiaque</string>
@@ -284,7 +284,7 @@
   <string name="app_list_title">Activité</string>
   <string name="currentstep_detail_activities">Détail de la journée</string>
   <string name="currentstep_detail_activities_title">Description:</string>
-  <string name="currentstep_detail_activities_others">Other</string>
+  <string name="currentstep_detail_activities_others">Autre</string>
   <string name="average_text">Avg</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Confirmer</string>
